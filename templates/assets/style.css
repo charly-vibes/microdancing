@@ -1,0 +1,109 @@
+:root {
+    --bg: #fafafa;
+    --fg: #222;
+    --accent: #0066cc;
+    --muted: #666;
+    --max-width: 42rem;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #1a1a1a;
+        --fg: #e0e0e0;
+        --accent: #66b3ff;
+        --muted: #999;
+    }
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+    line-height: 1.6;
+    padding: 2rem 1rem;
+    max-width: var(--max-width);
+    margin: 0 auto;
+}
+
+a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+header nav {
+    margin-bottom: 2rem;
+}
+
+article header {
+    margin-bottom: 2rem;
+}
+
+article header h1 {
+    margin-bottom: 0.5rem;
+}
+
+article header time {
+    color: var(--muted);
+    font-size: 0.9rem;
+}
+
+article h1, article h2, article h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+article p {
+    margin-bottom: 1rem;
+}
+
+article pre {
+    background: #2d2d2d;
+    color: #f8f8f2;
+    padding: 1rem;
+    border-radius: 4px;
+    overflow-x: auto;
+    margin-bottom: 1rem;
+}
+
+article code {
+    font-family: 'JetBrains Mono', 'Fira Code', monospace;
+    font-size: 0.9em;
+}
+
+article blockquote {
+    border-left: 3px solid var(--accent);
+    padding-left: 1rem;
+    margin: 1rem 0;
+    color: var(--muted);
+}
+
+.posts {
+    list-style: none;
+}
+
+.posts li {
+    margin-bottom: 0.75rem;
+}
+
+.posts .date {
+    color: var(--muted);
+    font-size: 0.85rem;
+}
+
+footer {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--muted);
+    color: var(--muted);
+    font-size: 0.85rem;
+}

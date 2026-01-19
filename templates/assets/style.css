@@ -1,8 +1,11 @@
 :root {
-    --bg: #F0F4F8;
-    --fg: #333333;
-    --accent: #D9006C;
-    --muted: #8D5A9E;
+    --bg: #82B1FF;
+    --fg: #2D1B14;
+    --accent: #E91E63;
+    --muted: #6b5d58;
+    --highlight: #FFC107;
+    --natural-green: #2E7D32;
+    --card-bg: #F5F5F5;
     --max-width: 42rem;
 }
 
@@ -53,7 +56,7 @@ article header h1 {
 }
 
 article header time {
-    color: var(--muted);
+    color: var(--natural-green);
     font-size: 0.9rem;
 }
 
@@ -67,8 +70,8 @@ article p {
 }
 
 article pre {
-    background: #2d2d2d;
-    color: #f8f8f2;
+    background: var(--card-bg);
+    color: var(--fg);
     padding: 1rem;
     border-radius: 4px;
     overflow-x: auto;
@@ -81,7 +84,7 @@ article code {
 }
 
 article blockquote {
-    border-left: 3px solid var(--accent);
+    border-left: 3px solid var(--highlight);
     padding-left: 1rem;
     margin: 1rem 0;
     color: var(--muted);
@@ -96,7 +99,7 @@ article blockquote {
 }
 
 .posts .date {
-    color: var(--muted);
+    color: var(--natural-green);
     font-size: 0.85rem;
 }
 

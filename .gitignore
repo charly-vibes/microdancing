@@ -1,0 +1,14 @@
+# Build output
+public/
+
+# Archivo privado de personalidad (no publicar)
+.agents/personalidad.md
+
+# Editor
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db

@@ -43,14 +43,39 @@ build_index() {
         local date
         date=$(grep -m1 '^date:' "$post" | sed 's/^date: *["'\'']\{0,1\}\([^"'\'']*\)["'\'']\{0,1\} *$/\1/' || true)
 
-        # Escape HTML special characters in title
+        # Extract summary (first paragraph after frontmatter, truncated to 30 words)
+        local summary
+        # This awk script finds the first non-empty line after the frontmatter that is not a heading.
+        summary=$(awk '
+            # State: 0=before frontmatter, 1=in frontmatter, 2=after frontmatter
+            BEGIN { state=0 }
+            /^---$/ { if(state==0){state=1} else if(state==1){state=2}; next }
+            state < 2 { next }
+            # Skip empty lines and headings
+            /^[[:space:]]*$/ { next }
+            /^[[:space:]]*#/ { next }
+            # Print the first paragraph and exit
+            {
+                print;
+                exit;
+            }
+        ' "$post" | sed 's/<[^>]*>//g' | awk '{for(i=1;i<=30;i++) printf "%s ", $i; print ""}')
+
+        # Escape HTML special characters
         title="${title//&/&amp;}"
         title="${title//</&lt;}"
         title="${title//>/&gt;}"
+        summary="${summary//&/&amp;}"
+        summary="${summary//</&lt;}"
+        summary="${summary//>/&gt;}"
 
-        posts_html+="<li><a href=\"posts/${filename}.html\">${title}</a>"
-        [ -n "$date" ] && posts_html+=" <span class=\"date\">${date}</span>"
-        posts_html+="</li>
+        posts_html+="<li class=\"post-card\"><a href=\"posts/${filename}.html\">"
+        posts_html+="<h2>${title}</h2>"
+        [ -n "$date" ] && posts_html+="<p class=\"date\">${date}</p>"
+        if [ -n "$summary" ]; then
+            posts_html+="<p>${summary}...</p>"
+        fi
+        posts_html+="</a></li>
 "
     done
 

@@ -4,32 +4,35 @@ set -euo pipefail
 CONTENT_DIR="${CONTENT_DIR:-content/posts}"
 OUTPUT_DIR="${OUTPUT_DIR:-public}"
 TEMPLATE_DIR="${TEMPLATE_DIR:-templates}"
+LANGUAGES=("es" "en")
 
 build_post() {
     local input_file="$1"
+    local lang="$2"
     local filename=$(basename "$input_file" .md)
-    local output_file="${OUTPUT_DIR}/posts/${filename}.html"
+    local output_file="${OUTPUT_DIR}/${lang}/posts/${filename}.html"
 
-    mkdir -p "${OUTPUT_DIR}/posts"
+    mkdir -p "${OUTPUT_DIR}/${lang}/posts"
 
     pandoc "$input_file" \
         --standalone \
         --template="${TEMPLATE_DIR}/post.html" \
-        --metadata-file="${TEMPLATE_DIR}/metadata.yaml" \
+        --metadata-file="${TEMPLATE_DIR}/metadata-${lang}.yaml" \
         -o "$output_file"
 
     echo "Built: $output_file"
 }
 
 build_index() {
+    local lang="$1"
     local posts_html=""
+    local content_lang_dir="${CONTENT_DIR}/${lang}"
 
-    for post in "${CONTENT_DIR}"/*.md; do
+    for post in "${content_lang_dir}"/*.md; do
         [ -f "$post" ] || continue
         local filename
         filename="$(basename "$post" .md)"
 
-        # Extract title from frontmatter (handles quotes), fallback to heading, then filename
         local title
         title=$(grep -m1 '^title:' "$post" | sed 's/^title: *["'\'']\{0,1\}\([^"'\'']*\)["'\'']\{0,1\} *$/\1/' || true)
         if [ -z "$title" ]; then
@@ -39,29 +42,22 @@ build_index() {
             title="$filename"
         fi
 
-        # Extract date from frontmatter (handles quotes)
         local date
         date=$(grep -m1 '^date:' "$post" | sed 's/^date: *["'\'']\{0,1\}\([^"'\'']*\)["'\'']\{0,1\} *$/\1/' || true)
 
-        # Extract summary (first paragraph after frontmatter, truncated to 30 words)
         local summary
-        # This awk script finds the first non-empty line after the frontmatter that is not a heading.
         summary=$(awk '
-            # State: 0=before frontmatter, 1=in frontmatter, 2=after frontmatter
             BEGIN { state=0 }
             /^---$/ { if(state==0){state=1} else if(state==1){state=2}; next }
             state < 2 { next }
-            # Skip empty lines and headings
             /^[[:space:]]*$/ { next }
             /^[[:space:]]*#/ { next }
-            # Print the first paragraph and exit
             {
                 print;
                 exit;
             }
         ' "$post" | sed 's/<[^>]*>//g' | awk '{for(i=1;i<=30;i++) printf "%s ", $i; print ""}')
 
-        # Escape HTML special characters
         title="${title//&/&amp;}"
         title="${title//</&lt;}"
         title="${title//>/&gt;}"
@@ -79,10 +75,19 @@ build_index() {
 "
     done
 
-    # Use awk instead of sed to avoid issues with special characters and newlines
-    awk -v posts="$posts_html" '{gsub(/\{\{posts\}\}/, posts); print}' \
-        "${TEMPLATE_DIR}/index.html" > "${OUTPUT_DIR}/index.html"
-    echo "Built: ${OUTPUT_DIR}/index.html"
+    # Load nav labels from metadata
+    local nav_home nav_about
+    nav_home=$(grep -m1 '^nav-home:' "${TEMPLATE_DIR}/metadata-${lang}.yaml" | sed 's/^nav-home: *["'\'']\{0,1\}\([^"'\'']*\)["'\'']\{0,1\} *$/\1/' || echo "Home")
+
+    mkdir -p "${OUTPUT_DIR}/${lang}"
+    awk -v posts="$posts_html" -v lang="$lang" -v nav_home="$nav_home" '{
+        gsub(/\{\{posts\}\}/, posts)
+        gsub(/\{\{lang\}\}/, lang)
+        gsub(/\{\{nav-home\}\}/, nav_home)
+        print
+    }' "${TEMPLATE_DIR}/index.html" > "${OUTPUT_DIR}/${lang}/index.html"
+
+    echo "Built: ${OUTPUT_DIR}/${lang}/index.html"
 }
 
 copy_assets() {
@@ -90,6 +95,11 @@ copy_assets() {
         cp -r "${TEMPLATE_DIR}/assets" "${OUTPUT_DIR}/"
         echo "Copied assets"
     fi
+}
+
+build_redirect() {
+    cp "${TEMPLATE_DIR}/redirect.html" "${OUTPUT_DIR}/index.html"
+    echo "Built: ${OUTPUT_DIR}/index.html (redirect)"
 }
 
 clean() {
@@ -100,13 +110,20 @@ clean() {
 build_all() {
     mkdir -p "${OUTPUT_DIR}"
 
-    for post in "${CONTENT_DIR}"/*.md; do
-        [ -f "$post" ] || continue
-        build_post "$post"
+    for lang in "${LANGUAGES[@]}"; do
+        local content_lang_dir="${CONTENT_DIR}/${lang}"
+        [ -d "$content_lang_dir" ] || continue
+
+        for post in "${content_lang_dir}"/*.md; do
+            [ -f "$post" ] || continue
+            build_post "$post" "$lang"
+        done
+
+        build_index "$lang"
     done
 
-    build_index
     copy_assets
+    build_redirect
     echo "Build complete!"
 }
 
@@ -118,13 +135,13 @@ case "${1:-build}" in
         clean
         ;;
     post)
-        build_post "$2"
+        build_post "$2" "$3"
         ;;
     index)
-        build_index
+        build_index "$2"
         ;;
     *)
-        echo "Usage: $0 {build|clean|post <file>|index}"
+        echo "Usage: $0 {build|clean|post <file> <lang>|index <lang>}"
         exit 1
         ;;
 esac

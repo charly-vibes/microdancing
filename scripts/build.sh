@@ -4,6 +4,7 @@ set -euo pipefail
 CONTENT_DIR="${CONTENT_DIR:-content/posts}"
 OUTPUT_DIR="${OUTPUT_DIR:-public}"
 TEMPLATE_DIR="${TEMPLATE_DIR:-templates}"
+BASE_PATH="${BASE_PATH:-/microdancing}"
 LANGUAGES=("es" "en")
 
 build_post() {
@@ -80,10 +81,11 @@ build_index() {
     nav_home=$(grep -m1 '^nav-home:' "${TEMPLATE_DIR}/metadata-${lang}.yaml" | sed 's/^nav-home: *["'\'']\{0,1\}\([^"'\'']*\)["'\'']\{0,1\} *$/\1/' || echo "Home")
 
     mkdir -p "${OUTPUT_DIR}/${lang}"
-    awk -v posts="$posts_html" -v lang="$lang" -v nav_home="$nav_home" '{
+    awk -v posts="$posts_html" -v lang="$lang" -v nav_home="$nav_home" -v base_path="$BASE_PATH" '{
         gsub(/\{\{posts\}\}/, posts)
         gsub(/\{\{lang\}\}/, lang)
         gsub(/\{\{nav-home\}\}/, nav_home)
+        gsub(/\{\{base-path\}\}/, base_path)
         print
     }' "${TEMPLATE_DIR}/index.html" > "${OUTPUT_DIR}/${lang}/index.html"
 
@@ -98,7 +100,7 @@ copy_assets() {
 }
 
 build_redirect() {
-    cp "${TEMPLATE_DIR}/redirect.html" "${OUTPUT_DIR}/index.html"
+    sed "s|{{base-path}}|${BASE_PATH}|g" "${TEMPLATE_DIR}/redirect.html" > "${OUTPUT_DIR}/index.html"
     echo "Built: ${OUTPUT_DIR}/index.html (redirect)"
 }
 

@@ -67,3 +67,24 @@ preview file: build
     @xdg-open {{output_dir}}/posts/$(basename {{file}} .md).html 2>/dev/null || \
      open {{output_dir}}/posts/$(basename {{file}} .md).html 2>/dev/null || \
      echo "Abre manualmente: {{output_dir}}/posts/$(basename {{file}} .md).html"
+
+# Publicar un borrador (mover de drafts/ a content/posts/{lang}/)
+publish file lang="es":
+    #!/usr/bin/env bash
+    set -euo pipefail
+    src="drafts/{{file}}"
+    dest="{{content_dir}}/{{lang}}/$(basename {{file}})"
+    if [ ! -f "$src" ]; then
+        echo "Error: $src no existe"
+        exit 1
+    fi
+    if [ -f "$dest" ]; then
+        echo "Error: $dest ya existe"
+        exit 1
+    fi
+    mv "$src" "$dest"
+    echo "Publicado: $src → $dest"
+
+# Listar borradores
+drafts:
+    @ls -1 drafts/*.md 2>/dev/null || echo "No hay borradores"

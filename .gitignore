@@ -4,6 +4,9 @@ public/
 # Archivo privado de personalidad (no publicar)
 .agents/personalidad.md
 
+# Carpetas de investigación en drafts (ej: drafts/.research-topic/)
+drafts/.*
+
 # Editor
 .vscode/
 *.swp

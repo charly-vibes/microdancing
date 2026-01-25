@@ -1,6 +1,9 @@
 ---
 title: "Resonant Coding: o cómo dejé de preocuparme y aprendí a amar el caos"
 date: 2026-01-25
+lang: es
+translations:
+  en: /en/resonant-coding
 ---
 
 # Resonant Coding: o cómo dejé de preocuparme y aprendí a amar el caos

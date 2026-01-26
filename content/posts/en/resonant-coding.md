@@ -96,6 +96,41 @@ And then, invariably, the next incomprehensible *pull request* arrives, and you 
 
 ---
 
+## Appendix: The Method in Practice
+
+Everything above sounds good in theory, but theory has that annoying particularity of dissolving when it touches reality. So here's how this materializes in day-to-day work, with the caveat that any system that claims to be definitive is doomed to fail, and this one is no exception[^system].
+
+What follows is an expansion of the three-step method—research, planning, implementation—with the additional structures we discovered we needed as we applied it to real projects.
+
+The first decision was structural: if context is a bucket that gets dirty, then you need separate buckets for each type of water. In practice this translates to folders with specific functions[^folders]:
+
+- `research/` for research documents, named with dates to track the evolution of understanding
+- `plans/` for implementation plans, also dated, also versioned
+- `specs/` for formal specifications in Gherkin format[^gherkin], which function as living documentation and executable tests at the same time
+- `handoffs/` for handoff documents between sessions, because the model doesn't remember anything and someone has to remember for it
+
+The second decision was procedural: before writing code, write a plan. Always. Without exception. The plan divides work into phases that can be completed in a reasonable amount of time, with explicit success criteria—automated when possible, manual when there's no other option. Each phase is a clean bucket: the model receives only the plan for that phase and relevant information, nothing more.
+
+For tasks with architectural risk—those where you don't know if the solution you imagine will work until you try it—we use what's called a *tracer bullet*[^tracer]: a minimal implementation that traverses the entire system end to end, without polish, without optimization, just to verify that the parts connect as we expected. It's cheaper to discover that your architecture doesn't work when you have a hundred lines of code than when you have ten thousand.
+
+The third decision was about memory. Models don't remember, but files do. At the end of each work session—or when you need to pass context to another person, or another model, or your future self—a *handoff* document is generated that captures the current state: what was done, what was learned, what's pending, what files are relevant. It's externalized prosthetic memory, and it works better than it has any right to[^handoff].
+
+For design decisions that aren't obvious—when there are multiple possible paths and choosing one means discarding others—we maintain a `debates/` folder where the options considered are documented, the pros and cons of each, and the reason why what was chosen was chosen. This seems like bureaucracy until, six months later, someone asks "why did you do it this way?" and the answer is written instead of lost in the head of someone who no longer works here[^debates].
+
+The typical flow ends up being something like this:
+
+1. A requirement arrives. Before touching code, a research document is created. The model reads the existing code, documentation, whatever exists, and generates a summary of the current state. That summary goes through the Rule of 5 until it's reliable.
+
+2. With the research document as input—and only that document, in a new conversation, with a clean bucket—a plan is generated. The plan divides work into phases, each phase has success criteria, each task is small enough to fit in a single bucket. The plan also goes through the Rule of 5.
+
+3. Implementation happens phase by phase, each in its own conversation, each validated before moving to the next. If something doesn't work, the plan is adjusted, not improvised.
+
+4. At the end of the session, the handoff is generated. Whoever picks up the work next—whether human or model—has all the context they need.
+
+There's a constant temptation to skip steps, to go straight to code because "this is simple" or "I already know how to do it." Sometimes it works. More often than I'd like to admit, it doesn't, and the time you saved skipping steps you lose multiplied fixing what went wrong. The method is slower at the beginning and faster at the end. The question is whether you have the patience to reach the end[^patience].
+
+---
+
 ## Notes
 
 [^foreign-code]: Other people's code, like a doctor's handwriting, operates under the implicit assumption that someone at some point knew what it meant. This assumption is frequently incorrect.
@@ -144,7 +179,7 @@ And then, invariably, the next incomprehensible *pull request* arrives, and you 
 
 [^thinking]: The paradox of using AI for programming is that the work it automates—writing code—is relatively easy, while the work it doesn't automate—deciding what code to write—is the genuinely difficult part. Models can generate implementations, but they can't generate requirements. They can write solutions, but they can't understand problems. At least not yet. Although "yet" is an increasingly loaded word in this context.
 
-[^cliff]: This is not a theoretical metaphor. I've seen projects where the speed of code generation exceeded the capacity for review, and the result was a system nobody understood, nobody could maintain, and that eventually had to be discarded and rewritten from scratch. Speed without direction is just a faster way to get lost. In an upcoming post about what I'm provisionally calling [Resonant Development](/resonant-development) I want to explore how to combine these ideas with *spec-driven development* to attack exactly this problem: how to scale review when code grows faster than any human can read.
+[^cliff]: This is not a theoretical metaphor. I've seen projects where the speed of code generation exceeded the capacity for review, and the result was a system nobody understood, nobody could maintain, and that eventually had to be discarded and rewritten from scratch. Speed without direction is just a faster way to get lost. In an upcoming post about what I'm provisionally calling [Resonant Development](/en/resonant-development) I want to explore how to combine these ideas with *spec-driven development* to attack exactly this problem: how to scale review when code grows faster than any human can read.
 
 [^correct]: "Correct" is a complicated word in software. Correct according to what specification? According to what use cases? Correct now or correct when conditions change? The method I describe doesn't resolve these ambiguities, but at least it makes them explicit. And making ambiguities explicit is the first step to resolving them.
 
@@ -155,3 +190,17 @@ And then, invariably, the next incomprehensible *pull request* arrives, and you 
 [^resonance]: There's something deeply satisfying about the idea that working well with a tool is finding its resonance frequency. It implies that the tool has a correct way of being used, that it's not arbitrary, that it can be discovered. It's an optimistic vision, perhaps naively optimistic, but it's the one that lets me keep doing this.
 
 [^artifacts]: The "artifacts" the process generates—research documents, action plans, refined prompts—have value beyond their immediate use. They can be reused, adapted, serve as a base for future projects. It's a form of intellectual capital that accumulates. This is important because it means the time invested isn't lost: it's invested.
+
+[^system]: Every work system is a hypothesis about how the world functions. Like any hypothesis, it should be subject to revision when evidence contradicts it. The problem is that humans become attached to our systems and defend them beyond reason. I try to remind myself of this regularly. I don't always succeed.
+
+[^folders]: Folder structure seems like a minor detail until you have to find something you wrote three months ago and can't find it. Naming things with dates in `YYYY-MM-DD` format at the beginning of the name has the advantage that they sort chronologically automatically, which sounds trivial until it saves you twenty minutes of searching.
+
+[^gherkin]: Gherkin is a format for writing specifications in near-natural language that can be executed as tests. The structure is "Given-When-Then" and forces you to think in terms of observable behavior instead of internal implementation. It's one of those cases where the format's constraint improves the quality of thinking.
+
+[^tracer]: The term "tracer bullet" comes from ballistics: tracer rounds leave a visible trail that allows adjusting aim in real time. In development, a tracer bullet is a minimal implementation that traverses all layers of the system to verify that the architecture works before investing in building it well. The idea comes from the book *The Pragmatic Programmer* by Hunt and Thomas, which by now is almost a classic.
+
+[^handoff]: The handoff document is, in a sense, a letter you write to your future self. Or to another person. Or to a model that will pick up your work. The key is to include not only what you did but what you learned: the dead ends you explored, the decisions you made, the things that surprised you. The context that seems obvious today will be completely opaque in two weeks.
+
+[^debates]: Documenting design decisions is one of those practices everyone knows they should do and almost nobody does. The usual reason is "there's no time." The irony is that the time you don't invest documenting you spend multiplied six months later trying to reconstruct the reasoning from scratch.
+
+[^patience]: Patience is probably the most underestimated skill in software development. Not passive patience of waiting for things to happen, but active patience of doing things well even if it takes longer. It's difficult because everything conspires against it: deadlines, pressure, the illusion that "this time it'll work out" even though the last ten times it didn't. The method doesn't give you patience, but at least it gives you a structure where patience makes sense.

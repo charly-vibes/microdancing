@@ -4,7 +4,7 @@ set -euo pipefail
 CONTENT_DIR="${CONTENT_DIR:-content/posts}"
 OUTPUT_DIR="${OUTPUT_DIR:-public}"
 TEMPLATE_DIR="${TEMPLATE_DIR:-templates}"
-BASE_PATH="${BASE_PATH:-/microdancing}"
+BASE_PATH="${BASE_PATH-/microdancing}"
 LANGUAGES=("es" "en")
 
 build_post() {
@@ -19,6 +19,7 @@ build_post() {
         --standalone \
         --template="${TEMPLATE_DIR}/post.html" \
         --metadata-file="${TEMPLATE_DIR}/metadata-${lang}.yaml" \
+        -V base-path="$BASE_PATH" \
         -o "$output_file"
 
     echo "Built: $output_file"

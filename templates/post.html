@@ -10,7 +10,7 @@
 <body>
     <div class="container">
         <header class="site-header">
-            <div class="logo"><a href="$base-path$/">microdancing</a></div>
+            <div class="logo"><a id="site-title" href="$base-path$/">microdancing</a></div>
             <nav>
                 <a href="$base-path$/$lang$/">$nav-home$</a>
                 <a href="$base-path$/es/" lang="es">ES</a>
@@ -30,5 +30,9 @@
             <p>$footer$</p>
         </footer>
     </div>
+    <script>
+        const titles = ["Haciendo lo que más me gusta", "No esperes nada de mí, no esperes nada de mí"];
+        document.getElementById("site-title").textContent = titles[Math.floor(Math.random() * titles.length)];
+    </script>
 </body>
 </html>

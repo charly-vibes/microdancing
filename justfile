@@ -27,7 +27,8 @@ build-index:
     ./scripts/build.sh index
 
 # Servidor local de desarrollo (requiere python)
-serve: build
+serve:
+    BASE_PATH="" ./scripts/build.sh build
     @echo "Sirviendo en http://localhost:8000"
     python3 -m http.server 8000 --directory {{output_dir}}
 

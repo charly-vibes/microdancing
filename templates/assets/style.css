@@ -217,3 +217,43 @@ footer {
         font-size: 0.7rem;
     }
 }
+
+/* Footnote popovers */
+.footnote-popover {
+    position: absolute;
+    background: var(--card-bg);
+    color: var(--fg);
+    border: 1px solid var(--muted);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow), 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+    padding: 1rem;
+    max-width: min(28rem, calc(100vw - 2rem));
+    z-index: 1000;
+    opacity: 0;
+    transform: translateY(-4px);
+    transition: opacity 0.15s ease-out, transform 0.15s ease-out;
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+.footnote-popover.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.footnote-popover-content p {
+    margin: 0;
+}
+
+.footnote-popover-content p + p {
+    margin-top: 0.75rem;
+}
+
+.footnote-popover-content a {
+    color: var(--accent);
+}
+
+/* Make footnote refs more clickable */
+.footnote-ref {
+    cursor: pointer;
+}

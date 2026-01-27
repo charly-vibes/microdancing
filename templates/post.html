@@ -69,6 +69,91 @@
                 }
             });
         })();
+
+        // Footnote popovers
+        (function() {
+            const footnoteRefs = document.querySelectorAll('.footnote-ref');
+            if (footnoteRefs.length === 0) return;
+
+            let activePopover = null;
+            let activeRef = null;
+
+            function closePopover() {
+                if (activePopover) {
+                    activePopover.remove();
+                    activePopover = null;
+                    activeRef = null;
+                }
+            }
+
+            function createPopover(content, anchorEl) {
+                closePopover();
+
+                const popover = document.createElement('div');
+                popover.className = 'footnote-popover';
+                popover.innerHTML = '<div class="footnote-popover-content">' + content + '</div>';
+                document.body.appendChild(popover);
+
+                activePopover = popover;
+                activeRef = anchorEl;
+
+                // Position after a frame so dimensions are calculated
+                requestAnimationFrame(function() {
+                    const rect = anchorEl.getBoundingClientRect();
+                    const popoverRect = popover.getBoundingClientRect();
+
+                    let top = rect.bottom + window.scrollY + 8;
+                    let left = rect.left + window.scrollX + (rect.width / 2) - (popoverRect.width / 2);
+
+                    // Keep within viewport
+                    const padding = 16;
+                    if (left < padding) left = padding;
+                    if (left + popoverRect.width > window.innerWidth - padding) {
+                        left = window.innerWidth - popoverRect.width - padding;
+                    }
+
+                    popover.style.top = top + 'px';
+                    popover.style.left = left + 'px';
+                    popover.classList.add('visible');
+                });
+            }
+
+            footnoteRefs.forEach(function(ref) {
+                ref.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+
+                    // Toggle if clicking the same footnote
+                    if (activeRef === this) {
+                        closePopover();
+                        return;
+                    }
+
+                    const targetId = this.getAttribute('href').substring(1);
+                    const footnote = document.getElementById(targetId);
+
+                    if (!footnote) return;
+
+                    // Clone and clean the footnote content
+                    const clone = footnote.cloneNode(true);
+                    clone.querySelectorAll('.footnote-back').forEach(function(el) { el.remove(); });
+
+                    createPopover(clone.innerHTML, this);
+                });
+            });
+
+            // Close on click outside
+            document.addEventListener('click', function(e) {
+                if (activePopover && !activePopover.contains(e.target) && !e.target.closest('.footnote-ref')) {
+                    closePopover();
+                }
+            });
+
+            // Close on Escape
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') closePopover();
+            });
+        })();
     </script>
 </body>
 </html>

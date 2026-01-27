@@ -8,8 +8,6 @@ translations:
 
 <nav class="progress-nav"><a href="#s1">1</a> <a href="#s2">2</a> <a href="#s3">3</a> <a href="#s4">4</a> <a href="#s5">5</a> <a href="#s6">6</a> <a href="#s7">7</a> <a href="#s8">8</a></nav>
 
-*This post is a cover of [Sasha's](https://ak.saxa.xyz/2026/01/25/resonant-coding-en.html) ideas.*
-
 There's a phenomenon that occurs when you stare too long at a screen full of code you don't understand[^foreign-code]. The brain starts doing something similar to what it does when you look at clouds: it searches for patterns, faces, familiar shapes. Except instead of seeing a rabbit or your Aunt Martha's profile, you start seeing intentions. Purpose. A logic that surely must be there, that has to be there, because someone—or something—wrote it with some goal in mind. The problem is when that something is a language model and the goal was simply to generate the most probable sequence of characters given an input, which, if you stop to think about it with the seriousness it deserves, is a rather disturbing way to create the instructions that will move money, control systems, decide things.
 
 This is not paranoid exaggeration[^paranoia]. Or maybe it is. But during the months I spent leading a development team—a new team, built from scratch to support a department that handled numbers with many zeros—that paranoia became something resembling a methodology, or at least something that worked better than having nothing, which was exactly what we had before.

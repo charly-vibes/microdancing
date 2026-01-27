@@ -8,8 +8,6 @@ translations:
 
 <nav class="progress-nav"><a href="#s1">1</a> <a href="#s2">2</a> <a href="#s3">3</a> <a href="#s4">4</a> <a href="#s5">5</a> <a href="#s6">6</a> <a href="#s7">7</a> <a href="#s8">8</a></nav>
 
-*Este post es un cover de las ideas de [Sasha](https://ak.saxa.xyz/2026/01/25/resonant-coding.html).*
-
 Hay un fenómeno que ocurre cuando uno mira demasiado tiempo una pantalla con código que no entiende[^codigo-ajeno]. El cerebro empieza a hacer algo parecido a lo que hace cuando mirás nubes: busca patrones, caras, formas familiares. Solo que en vez de ver un conejo o el perfil de tu tía Marta, empezás a ver intenciones. Propósitos. Una lógica que seguramente está ahí, que tiene que estar ahí, porque alguien —o algo— lo escribió con algún objetivo en mente. El problema es cuando ese algo es un modelo de lenguaje y el objetivo era simplemente generar la secuencia de caracteres más probable dada una entrada, lo cual, si uno se detiene a pensarlo con la seriedad que merece, es una forma bastante perturbadora de crear las instrucciones que van a mover dinero, controlar sistemas, decidir cosas.
 
 Esto no es una exageración paranoica[^paranoia]. O tal vez sí. Pero durante los meses que pasé liderando un equipo de desarrollo —un equipo nuevo, armado desde cero para dar soporte a un área que manejaba números con muchos ceros— esa paranoia se convirtió en algo parecido a una metodología, o al menos en algo que funcionaba mejor que no tener nada, que era exactamente lo que teníamos antes.

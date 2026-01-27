@@ -189,7 +189,7 @@ Hay una tentación constante de saltarse pasos, de ir directo al código porque 
 
 [^resonancia]: Hay algo profundamente satisfactorio en la idea de que trabajar bien con una herramienta es encontrar su frecuencia de resonancia. Implica que la herramienta tiene una forma correcta de ser usada, que no es arbitraria, que puede ser descubierta. Es una visión optimista, tal vez ingenuamente optimista, pero es la que me permite seguir haciendo esto.
 
-[^artefactos]: Los "artefactos" que genera el proceso —documentos de investigación, planes de acción, prompts refinados— tienen valor más allá de su uso inmediato. Pueden reutilizarse, adaptarse, servir de base para futuros proyectos. Es una forma de capital intelectual que se acumula. Esto es importante porque significa que el tiempo invertido no se pierde: se invierte.
+[^artefactos]: Los "artefactos" que genera el proceso —documentos de investigación, planes de acción, prompts refinados— tienen valor más allá de su uso inmediato. Pueden reutilizarse, adaptarse, servir de base para futuros proyectos. Es una forma de capital intelectual que se acumula. Esto es importante porque significa que el tiempo invertido no se pierde: se invierte. Mantengo una colección de estos prompts en [incitaciones](https://github.com/charly-vibes/incitaciones), por si a alguien le sirve como punto de partida.
 
 [^sistema]: Todo sistema de trabajo es una hipótesis sobre cómo funciona el mundo. Como toda hipótesis, debería estar sujeta a revisión cuando la evidencia lo contradice. El problema es que los humanos nos encariñamos con nuestros sistemas y los defendemos más allá de lo razonable. Intento recordarme esto regularmente. No siempre lo logro.
 

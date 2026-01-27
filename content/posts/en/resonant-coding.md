@@ -189,7 +189,7 @@ There's a constant temptation to skip steps, to go straight to code because "thi
 
 [^resonance]: There's something deeply satisfying about the idea that working well with a tool is finding its resonance frequency. It implies that the tool has a correct way of being used, that it's not arbitrary, that it can be discovered. It's an optimistic vision, perhaps naively optimistic, but it's the one that lets me keep doing this.
 
-[^artifacts]: The "artifacts" the process generates—research documents, action plans, refined prompts—have value beyond their immediate use. They can be reused, adapted, serve as a base for future projects. It's a form of intellectual capital that accumulates. This is important because it means the time invested isn't lost: it's invested.
+[^artifacts]: The "artifacts" the process generates—research documents, action plans, refined prompts—have value beyond their immediate use. They can be reused, adapted, serve as a base for future projects. It's a form of intellectual capital that accumulates. This is important because it means the time invested isn't lost: it's invested. I maintain a collection of these prompts at [incitaciones](https://github.com/charly-vibes/incitaciones), in case it's useful as a starting point for anyone.
 
 [^system]: Every work system is a hypothesis about how the world functions. Like any hypothesis, it should be subject to revision when evidence contradicts it. The problem is that humans become attached to our systems and defend them beyond reason. I try to remind myself of this regularly. I don't always succeed.
 

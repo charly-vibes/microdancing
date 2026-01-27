@@ -33,6 +33,42 @@
     <script>
         const titles = ["Haciendo lo que más me gusta", "No esperes nada de mí, no esperes nada de mí"];
         document.getElementById("site-title").textContent = titles[Math.floor(Math.random() * titles.length)];
+
+        // Progress indicator for long reads
+        (function() {
+            const markers = document.querySelectorAll('.progress-marker');
+            if (markers.length === 0) return;
+
+            const indicator = document.createElement('div');
+            indicator.className = 'progress-indicator';
+            document.body.appendChild(indicator);
+
+            let ticking = false;
+            window.addEventListener('scroll', function() {
+                if (!ticking) {
+                    window.requestAnimationFrame(function() {
+                        const scrollY = window.scrollY;
+                        const windowHeight = window.innerHeight;
+                        let current = 0;
+
+                        markers.forEach((marker, i) => {
+                            if (marker.getBoundingClientRect().top < windowHeight * 0.5) {
+                                current = i + 1;
+                            }
+                        });
+
+                        if (scrollY > 200) {
+                            indicator.textContent = current + '/' + markers.length;
+                            indicator.classList.add('visible');
+                        } else {
+                            indicator.classList.remove('visible');
+                        }
+                        ticking = false;
+                    });
+                    ticking = true;
+                }
+            });
+        })();
     </script>
 </body>
 </html>

@@ -6,11 +6,13 @@ translations:
   en: /en/resonant-coding
 ---
 
+<nav class="progress-nav"><a href="#s1">1</a> <a href="#s2">2</a> <a href="#s3">3</a> <a href="#s4">4</a> <a href="#s5">5</a> <a href="#s6">6</a> <a href="#s7">7</a> <a href="#s8">8</a></nav>
+
 Hay un fenómeno que ocurre cuando uno mira demasiado tiempo una pantalla con código que no entiende[^codigo-ajeno]. El cerebro empieza a hacer algo parecido a lo que hace cuando mirás nubes: busca patrones, caras, formas familiares. Solo que en vez de ver un conejo o el perfil de tu tía Marta, empezás a ver intenciones. Propósitos. Una lógica que seguramente está ahí, que tiene que estar ahí, porque alguien —o algo— lo escribió con algún objetivo en mente. El problema es cuando ese algo es un modelo de lenguaje y el objetivo era simplemente generar la secuencia de caracteres más probable dada una entrada, lo cual, si uno se detiene a pensarlo con la seriedad que merece, es una forma bastante perturbadora de crear las instrucciones que van a mover dinero, controlar sistemas, decidir cosas.
 
 Esto no es una exageración paranoica[^paranoia]. O tal vez sí. Pero durante los meses que pasé liderando un equipo de desarrollo —un equipo nuevo, armado desde cero para dar soporte a un área que manejaba números con muchos ceros— esa paranoia se convirtió en algo parecido a una metodología, o al menos en algo que funcionaba mejor que no tener nada, que era exactamente lo que teníamos antes.
 
----
+<span class="progress-marker" id="s1">⸻ 1/8 ⸻</span>
 
 El contexto, porque el contexto siempre importa aunque uno preferiría que no: había presión desde arriba para usar Inteligencia Artificial y acelerar todo[^presion]. El equipo tenía pocos desarrolladores con experiencia, lo cual significaba que yo tenía que revisar casi todo. Y cuando digo "casi todo" me refiero a esa situación particular donde cada *pull request*[^pr] que llegaba era como abrir una caja de Pandora manufacturada por un oráculo estadístico que había leído todo internet pero no necesariamente había entendido nada de lo que leyó[^entender].
 
@@ -22,7 +24,7 @@ Después descubrí que Cursor se había actualizado.
 
 No éramos nosotros. Era el modelo. Y si el modelo podía mejorar sin nuestra intervención, también podía empeorar. O cambiar de formas que no entendíamos. O ser reemplazado por otro modelo con otras idiosincrasias que tendríamos que aprender desde cero. Estábamos construyendo sobre arenas movedizas y celebrando cada vez que las arenas, por un momento, dejaban de moverse[^arenas].
 
----
+<span class="progress-marker" id="s2">⸻ 2/8 ⸻</span>
 
 Tengo que hacer un desvío acá porque sin este desvío nada de lo que sigue va a tener sentido, y además es el tipo de desvío que disfruto porque involucra ondas, y las ondas son hermosas de una manera que el código rara vez logra ser[^ondas-hermosas].
 
@@ -32,7 +34,7 @@ Me quedé mirando ese video probablemente más veces de las que admitiría en p�
 
 Y años después, mientras miraba otro *pull request* incomprensible y me preguntaba cómo carajo íbamos a salir de este pantano, me acordé de las ondas estacionarias. Y pensé: tal vez el problema no es la IA. Tal vez el problema es que estamos agitando la soga a cualquier frecuencia y esperando que aparezcan patrones.
 
----
+<span class="progress-marker" id="s3">⸻ 3/8 ⸻</span>
 
 Los modelos de lenguaje, para quien no haya tenido el placer de interactuar con ellos más allá del chat ocasional, son esencialmente máquinas de predicción de texto. Esto suena simple y en cierto sentido lo es: les das una secuencia de palabras y te devuelven la palabra más probable que sigue. Como el autocompletado del celular pero entrenado con una cantidad de datos que es difícil de conceptualizar sin recurrir a metáforas astronómicas[^datos].
 
@@ -44,7 +46,7 @@ Su atención es limitada. Tienen una ventana de contexto —la cantidad de texto
 
 Son probabilísticos. Para la misma entrada pueden dar salidas diferentes. Esto suena menor pero tiene implicaciones profundas: no podés confiar en que un resultado que funcionó una vez va a funcionar de nuevo. Cada interacción es un dado siendo tirado, y a veces sale siete y a veces sale una serpiente que te come el prompt[^dados].
 
----
+<span class="progress-marker" id="s4">⸻ 4/8 ⸻</span>
 
 En algún momento del invierno, durante unas vacaciones que pasé leyendo en vez de descansando porque aparentemente tengo una relación disfuncional con el tiempo libre, encontré dos líneas de pensamiento que eventualmente convergieron en lo que ahora llamo Resonant Coding. Una venía de Steve Yegge, un programador que lleva décadas escribiendo sobre software con una mezcla de brillantez técnica y opiniones que oscilan entre lo visionario y lo deliberadamente provocador[^yegge]. La otra venía de Dex Horthy y su concepto de Context Engineering, que es básicamente la idea de que el contexto que le das a un modelo importa más que cualquier otra cosa[^context].
 
@@ -54,7 +56,7 @@ De Horthy tomé la obsesión con el contexto. La formalización de lo que ya int
 
 Estos dos conjuntos de ideas, combinados con la desesperación profesional que ya mencioné y una cantidad moderada de cafeína, cristalizaron en algo que parecía funcionar. No inventamos nada nuevo —simplemente pegamos dos frameworks que ya existían y les pusimos un nombre pretencioso—, pero a veces la innovación es exactamente eso: ver que dos piezas encajan cuando nadie las había puesto juntas.
 
----
+<span class="progress-marker" id="s5">⸻ 5/8 ⸻</span>
 
 No voy a describir el método como una serie de pasos numerados porque eso sería traicionar el espíritu de cómo realmente funciona, que es más caótico, más iterativo, más parecido a una espiral que a una escalera. Pero hay tres movimientos generales que se repiten:
 
@@ -66,7 +68,7 @@ Después viene algo parecido a planificación, que es usar el documento de inves
 
 Y finalmente está la implementación, que para este punto debería ser casi mecánica. Cada tarea está tan bien definida que el modelo no tiene espacio para inventar. Y acá es donde los modelos brillan de verdad: pueden editar veinte archivos en segundos, pueden crear baterías de tests, pueden refactorizar estructuras completas. Lo que a un humano le llevaría horas. Pero solo porque el trabajo difícil —el de pensar— ya se hizo antes[^pensar].
 
----
+<span class="progress-marker" id="s6">⸻ 6/8 ⸻</span>
 
 Hay algo que me molesta profundamente de la narrativa dominante sobre la IA en programación, que es la idea de que estas herramientas te permiten "ir más rápido". No es falso, exactamente, pero tampoco es verdad de la forma en que usualmente se presenta. Es como decir que un auto te permite llegar más rápido a destino: cierto, pero solo si sabés manejar, si conocés el camino, si el auto está en buen estado, si las rutas están despejadas. Si no se cumplen esas condiciones, el auto te puede llevar muy rápidamente a cualquier lado, incluyendo un barranco[^barranco].
 
@@ -74,7 +76,7 @@ Con la IA pasa lo mismo. Sí, puede generar código más rápido de lo que cualq
 
 El método que describo no es un atajo. Es un proceso que toma más tiempo que tirarle un prompt al modelo y esperar que salga algo bueno. Pero ese tiempo se recupera multiplicado porque los errores se detectan temprano, porque el trabajo no tiene que rehacerse, porque cuando algo se implementa ya se sabe que es lo correcto[^correcto].
 
----
+<span class="progress-marker" id="s7">⸻ 7/8 ⸻</span>
 
 Durante un tiempo dudé del nombre. "Resonant Coding" suena pretencioso, lo sé. Hubo versiones alternativas: "Structured Prompting", que era demasiado genérico; "Context-First Development", que sonaba a consultora de management; "El Método del Balde", que era demasiado literal y además nadie iba a tomar en serio algo que se llama así[^nombres].
 
@@ -82,7 +84,7 @@ Pero seguía volviendo a la imagen de las ondas estacionarias. A la idea de que 
 
 El "Vibe Coding" que se popularizó[^vibe] propone algo así como dejarse llevar, confiar en el modelo, iterar hasta que algo funcione. No digo que no sirva —hay situaciones donde esa aproximación es perfectamente válida— pero para trabajo serio, para sistemas que tienen que funcionar, para código que va a ser mantenido por otros humanos, necesitás algo más riguroso. Necesitás encontrar la resonancia[^resonancia].
 
----
+<span class="progress-marker" id="s8">⸻ 8/8 ⸻</span>
 
 Debería probablemente cerrar con alguna conclusión elegante pero la verdad es que no tengo una. Lo que tengo es un proceso que funciona mejor que no tener proceso, que se puede refinar, que genera artefactos reutilizables[^artefactos], que obliga a pensar antes de actuar. No es perfecto. Hay días donde todo falla igual. Hay modelos que se resisten a cooperar. Hay problemas que son genuinamente difíciles y ningún método los hace fáciles.
 

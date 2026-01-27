@@ -6,11 +6,13 @@ translations:
   es: /es/resonant-coding
 ---
 
+<nav class="progress-nav"><a href="#s1">1</a> <a href="#s2">2</a> <a href="#s3">3</a> <a href="#s4">4</a> <a href="#s5">5</a> <a href="#s6">6</a> <a href="#s7">7</a> <a href="#s8">8</a></nav>
+
 There's a phenomenon that occurs when you stare too long at a screen full of code you don't understand[^foreign-code]. The brain starts doing something similar to what it does when you look at clouds: it searches for patterns, faces, familiar shapes. Except instead of seeing a rabbit or your Aunt Martha's profile, you start seeing intentions. Purpose. A logic that surely must be there, that has to be there, because someone—or something—wrote it with some goal in mind. The problem is when that something is a language model and the goal was simply to generate the most probable sequence of characters given an input, which, if you stop to think about it with the seriousness it deserves, is a rather disturbing way to create the instructions that will move money, control systems, decide things.
 
 This is not paranoid exaggeration[^paranoia]. Or maybe it is. But during the months I spent leading a development team—a new team, built from scratch to support a department that handled numbers with many zeros—that paranoia became something resembling a methodology, or at least something that worked better than having nothing, which was exactly what we had before.
 
----
+<span class="progress-marker" id="s1">⸻ 1/8 ⸻</span>
 
 The context, because context always matters even when you'd prefer it didn't: there was pressure from above to use Artificial Intelligence and accelerate everything[^pressure]. The team had few experienced developers, which meant I had to review almost everything. And when I say "almost everything" I mean that particular situation where every *pull request*[^pr] that arrived was like opening a Pandora's box manufactured by a statistical oracle that had read the entire internet but hadn't necessarily understood any of what it read[^understanding].
 
@@ -22,7 +24,7 @@ Then I discovered that Cursor had updated.
 
 It wasn't us. It was the model. And if the model could improve without our intervention, it could also get worse. Or change in ways we didn't understand. Or be replaced by another model with other idiosyncrasies we'd have to learn from scratch. We were building on quicksand and celebrating every time the sand, for a moment, stopped shifting[^quicksand].
 
----
+<span class="progress-marker" id="s2">⸻ 2/8 ⸻</span>
 
 I have to make a detour here because without this detour nothing that follows will make sense, and besides it's the kind of detour I enjoy because it involves waves, and waves are beautiful in a way that code rarely manages to be[^waves-beautiful].
 
@@ -32,7 +34,7 @@ I probably watched that video more times than I'd admit in public. The idea that
 
 And years later, while looking at another incomprehensible *pull request* and wondering how the hell we were going to get out of this swamp, I remembered the standing waves. And I thought: maybe the problem isn't the AI. Maybe the problem is that we're shaking the rope at any frequency and expecting patterns to appear.
 
----
+<span class="progress-marker" id="s3">⸻ 3/8 ⸻</span>
 
 Language models, for those who haven't had the pleasure of interacting with them beyond the occasional chat, are essentially text prediction machines. This sounds simple and in a sense it is: you give them a sequence of words and they return the most probable word that follows. Like your phone's autocomplete but trained on an amount of data that's difficult to conceptualize without resorting to astronomical metaphors[^data].
 
@@ -44,7 +46,7 @@ Their attention is limited. They have a context window—the amount of text they
 
 They're probabilistic. For the same input they can give different outputs. This sounds minor but has profound implications: you can't trust that a result that worked once will work again. Each interaction is a die being rolled, and sometimes you get seven and sometimes you get a snake that eats your prompt[^dice].
 
----
+<span class="progress-marker" id="s4">⸻ 4/8 ⸻</span>
 
 At some point during winter, during a vacation I spent reading instead of resting because apparently I have a dysfunctional relationship with free time, I found two lines of thought that eventually converged into what I now call Resonant Coding. One came from Steve Yegge, a programmer who's been writing about software for decades with a mix of technical brilliance and opinions that oscillate between visionary and deliberately provocative[^yegge]. The other came from Dex Horthy and his concept of Context Engineering, which is basically the idea that the context you give a model matters more than anything else[^context].
 
@@ -54,7 +56,7 @@ From Horthy I took the obsession with context. The formalization of what I alrea
 
 These two sets of ideas, combined with the professional desperation I already mentioned and a moderate amount of caffeine, crystallized into something that seemed to work. We didn't invent anything new—we simply glued two existing frameworks together and gave them a pretentious name—but sometimes innovation is exactly that: seeing that two pieces fit when nobody had put them together before.
 
----
+<span class="progress-marker" id="s5">⸻ 5/8 ⸻</span>
 
 I'm not going to describe the method as a numbered series of steps because that would betray the spirit of how it actually works, which is more chaotic, more iterative, more like a spiral than a staircase. But there are three general movements that repeat:
 
@@ -66,7 +68,7 @@ Then comes something like planning, which is using the research document (alread
 
 And finally there's implementation, which by this point should be almost mechanical. Each task is so well defined that the model has no room to invent. And this is where models truly shine: they can edit twenty files in seconds, create test batteries, refactor entire structures. What would take a human hours. But only because the hard work—the thinking—was already done before[^thinking].
 
----
+<span class="progress-marker" id="s6">⸻ 6/8 ⸻</span>
 
 There's something that deeply bothers me about the dominant narrative around AI in programming, which is the idea that these tools let you "go faster." It's not exactly false, but it's also not true in the way it's usually presented. It's like saying a car lets you get to your destination faster: true, but only if you know how to drive, if you know the way, if the car is in good condition, if the roads are clear. If those conditions aren't met, the car can take you very quickly anywhere, including off a cliff[^cliff].
 
@@ -74,7 +76,7 @@ The same happens with AI. Yes, it can generate code faster than any human could 
 
 The method I describe is not a shortcut. It's a process that takes more time than throwing a prompt at the model and hoping something good comes out. But that time is recovered multiplied because errors are detected early, because work doesn't have to be redone, because when something is implemented you already know it's correct[^correct].
 
----
+<span class="progress-marker" id="s7">⸻ 7/8 ⸻</span>
 
 For a while I doubted the name. "Resonant Coding" sounds pretentious, I know. There were alternative versions: "Structured Prompting," which was too generic; "Context-First Development," which sounded like a management consultancy; "The Bucket Method," which was too literal and besides nobody was going to take seriously something called that[^naming].
 
@@ -82,7 +84,7 @@ But I kept coming back to the image of standing waves. To the idea that there's 
 
 The "Vibe Coding" that became popular[^vibe] proposes something like going with the flow, trusting the model, iterating until something works. I'm not saying it's useless—there are situations where that approach is perfectly valid—but for serious work, for systems that have to function, for code that's going to be maintained by other humans, you need something more rigorous. You need to find the resonance[^resonance].
 
----
+<span class="progress-marker" id="s8">⸻ 8/8 ⸻</span>
 
 I should probably close with some elegant conclusion but the truth is I don't have one. What I have is a process that works better than having no process, that can be refined, that generates reusable artifacts[^artifacts], that forces you to think before acting. It's not perfect. There are days when everything fails anyway. There are models that resist cooperating. There are problems that are genuinely difficult and no method makes them easy.
 

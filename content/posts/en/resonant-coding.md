@@ -14,9 +14,9 @@ This is not paranoid exaggeration[^paranoia]. Or maybe it is. But during the mon
 
 The context, because context always matters even when you'd prefer it didn't: there was pressure from above to use Artificial Intelligence and accelerate everything[^pressure]. The team had few experienced developers, which meant I had to review almost everything. And when I say "almost everything" I mean that particular situation where every *pull request*[^pr] that arrived was like opening a Pandora's box manufactured by a statistical oracle that had read the entire internet but hadn't necessarily understood any of what it read[^understanding].
 
-The first months were a slow-motion disaster. Code that at first glance seemed reasonable but, upon examination, revealed structures that no human programmer would have chosen. Solutions that worked but for the wrong reasons. Patterns that smelled like something, but you didn't know what until they exploded in production at three in the morning, at which point you discovered that the model had interpreted "validate user input" as "assume the user always sends perfect data and pray."
+The first months were a slow-motion disaster. Code that at first glance seemed reasonable but, upon examination, revealed structures that no human programmer would have chosen. Solutions that worked but for the wrong reasons. Patterns that smelled like something, but you didn't know what until they exploded in production at the worst possible moment, at which point you discovered that the model had interpreted "validate user input" as "assume the user always sends perfect data and pray."
 
-There was a moment in late October—and this is important for understanding why I eventually stopped trusting in magical solutions—where the quality of code the team delivered improved dramatically. For approximately forty-eight glorious hours I thought we had achieved something. That the method we'd been refining was working. That we were, finally, good at this.
+There was a moment—and this is important for understanding why I eventually stopped trusting in magical solutions—where the quality of code the team delivered improved dramatically. For approximately forty-eight glorious hours I thought we had achieved something. That the method we'd been refining was working. That we were, finally, good at this.
 
 Then I discovered that Cursor had updated.
 
@@ -52,13 +52,13 @@ From Yegge I took something he calls the Rule of 5, which isn't so much a rule a
 
 From Horthy I took the obsession with context. The formalization of what I already intuited with the bucket metaphor: that the quality of what you give the model determines the quality of what it gives you back, and that if the problem is too big for a single bucket, you have to divide it into smaller parts and use clean water for each one.
 
-These two sets of ideas, combined with the professional desperation I already mentioned and a moderate amount of caffeine, crystallized into something that seemed to work.
+These two sets of ideas, combined with the professional desperation I already mentioned and a moderate amount of caffeine, crystallized into something that seemed to work. We didn't invent anything new—we simply glued two existing frameworks together and gave them a pretentious name—but sometimes innovation is exactly that: seeing that two pieces fit when nobody had put them together before.
 
 ---
 
 I'm not going to describe the method as a numbered series of steps because that would betray the spirit of how it actually works, which is more chaotic, more iterative, more like a spiral than a staircase. But there are three general movements that repeat:
 
-First there's what we might call research, though "reconnaissance" better captures the feeling. Before doing anything, you need to understand the problem. And this is where the model can help: you ask it to investigate the existing code, map dependencies, find relevant documentation, tell you what the hell is going on in this system you inherited from someone who no longer works here[^legacy]. The model does this work pretty well because it's essentially reading and synthesis, which is exactly what it was trained for.
+First there's what we might call research—this step comes directly from Horthy's Context Engineering framework[^context]—though "reconnaissance" better captures the feeling. Before doing anything, you need to understand the problem. And this is where the model can help: you ask it to investigate the existing code, map dependencies, find relevant documentation, tell you what the hell is going on in this system you inherited from someone who no longer works here[^legacy]. The model does this work pretty well because it's essentially reading and synthesis, which is exactly what it was trained for.
 
 But—and this but is crucial—the document the model generates has to be reviewed. Not accepted, reviewed. With the Rule of 5 or something similar, it doesn't matter, but with the firm conviction that the model may have misunderstood, may have invented things, may have mixed information from different projects because in its training it read similar code and got its wires crossed[^hallucinations]. Human review here is not optional; it's the entire point of the exercise.
 

@@ -14,9 +14,9 @@ Esto no es una exageración paranoica[^paranoia]. O tal vez sí. Pero durante lo
 
 El contexto, porque el contexto siempre importa aunque uno preferiría que no: había presión desde arriba para usar Inteligencia Artificial y acelerar todo[^presion]. El equipo tenía pocos desarrolladores con experiencia, lo cual significaba que yo tenía que revisar casi todo. Y cuando digo "casi todo" me refiero a esa situación particular donde cada *pull request*[^pr] que llegaba era como abrir una caja de Pandora manufacturada por un oráculo estadístico que había leído todo internet pero no necesariamente había entendido nada de lo que leyó[^entender].
 
-Los primeros meses fueron un desastre en cámara lenta. Código que a primera vista parecía razonable pero que, al examinarlo, revelaba estructuras que ningún programador humano hubiera elegido. Soluciones que funcionaban pero por las razones equivocadas. Patrones que olían a algo, pero no sabías a qué hasta que explotaban en producción a las tres de la mañana, momento en el cual descubrías que el modelo había interpretado "validar la entrada del usuario" como "asumir que el usuario siempre manda datos perfectos y rezar".
+Los primeros meses fueron un desastre en cámara lenta. Código que a primera vista parecía razonable pero que, al examinarlo, revelaba estructuras que ningún programador humano hubiera elegido. Soluciones que funcionaban pero por las razones equivocadas. Patrones que olían a algo, pero no sabías a qué hasta que explotaban en producción en el peor momento posible, momento en el cual descubrías que el modelo había interpretado "validar la entrada del usuario" como "asumir que el usuario siempre manda datos perfectos y rezar".
 
-Hubo un momento a finales de octubre —y esto es importante para entender por qué eventualmente dejé de confiar en las soluciones mágicas— donde la calidad del código que entregaba el equipo mejoró de forma drástica. Por aproximadamente cuarenta y ocho horas gloriosas pensé que habíamos logrado algo. Que el método que veníamos refinando estaba funcionando. Que éramos, finalmente, buenos en esto.
+Hubo un momento —y esto es importante para entender por qué eventualmente dejé de confiar en las soluciones mágicas— donde la calidad del código que entregaba el equipo mejoró de forma drástica. Por aproximadamente cuarenta y ocho horas gloriosas pensé que habíamos logrado algo. Que el método que veníamos refinando estaba funcionando. Que éramos, finalmente, buenos en esto.
 
 Después descubrí que Cursor se había actualizado.
 
@@ -52,13 +52,13 @@ De Yegge tomé algo que él llama la Regla de los 5, que no es tanto una regla c
 
 De Horthy tomé la obsesión con el contexto. La formalización de lo que ya intuía con la metáfora del balde: que la calidad de lo que le das al modelo determina la calidad de lo que te devuelve, y que si el problema es demasiado grande para un solo balde, tenés que dividirlo en partes más pequeñas y usar agua limpia para cada una.
 
-Estos dos conjuntos de ideas, combinados con la desesperación profesional que ya mencioné y una cantidad moderada de cafeína, cristalizaron en algo que parecía funcionar.
+Estos dos conjuntos de ideas, combinados con la desesperación profesional que ya mencioné y una cantidad moderada de cafeína, cristalizaron en algo que parecía funcionar. No inventamos nada nuevo —simplemente pegamos dos frameworks que ya existían y les pusimos un nombre pretencioso—, pero a veces la innovación es exactamente eso: ver que dos piezas encajan cuando nadie las había puesto juntas.
 
 ---
 
 No voy a describir el método como una serie de pasos numerados porque eso sería traicionar el espíritu de cómo realmente funciona, que es más caótico, más iterativo, más parecido a una espiral que a una escalera. Pero hay tres movimientos generales que se repiten:
 
-Primero está lo que podríamos llamar investigación, aunque "reconocimiento del terreno" captura mejor la sensación. Antes de hacer cualquier cosa, hay que entender el problema. Y acá es donde el modelo puede ayudar: le pedís que investigue el código existente, que mapee dependencias, que encuentre documentación relevante, que te cuente qué mierda está pasando en este sistema que heredaste de alguien que ya no trabaja acá[^herencia]. El modelo hace este trabajo bastante bien porque es esencialmente lectura y síntesis, que es exactamente para lo que fue entrenado.
+Primero está lo que podríamos llamar investigación —este paso viene directamente del framework de Context Engineering de Horthy[^context]— aunque "reconocimiento del terreno" captura mejor la sensación. Antes de hacer cualquier cosa, hay que entender el problema. Y acá es donde el modelo puede ayudar: le pedís que investigue el código existente, que mapee dependencias, que encuentre documentación relevante, que te cuente qué mierda está pasando en este sistema que heredaste de alguien que ya no trabaja acá[^herencia]. El modelo hace este trabajo bastante bien porque es esencialmente lectura y síntesis, que es exactamente para lo que fue entrenado.
 
 Pero —y este pero es crucial— el documento que genera el modelo tiene que ser revisado. No aceptado, revisado. Con la Regla de los 5 o con algo parecido, no importa, pero con la convicción firme de que el modelo pudo haber entendido mal, pudo haber inventado cosas, pudo haber mezclado información de diferentes proyectos porque en su entrenamiento leyó código parecido y se le cruzaron los cables[^alucinaciones]. La revisión humana acá no es opcional; es el punto entero del ejercicio.
 

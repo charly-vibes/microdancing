@@ -32,7 +32,7 @@ A few years ago, one night, in one of those YouTube rabbit holes where you end u
 
 I probably watched that video more times than I'd admit in public. The idea that chaos contains latent structures waiting for someone to find the right frequency to reveal them. That disorder is not the absence of order but potential order seeking to manifest[^potential].
 
-And years later, while looking at another incomprehensible *pull request* and wondering how the hell we were going to get out of this swamp, I remembered the standing waves. And I thought: maybe the problem isn't the AI. Maybe the problem is that we're shaking the rope at any frequency and expecting patterns to appear.
+And years later, while looking at another incomprehensible *pull request* and wondering how the hell we were going to get out of this swamp, I remembered the standing waves. And I thought: maybe the problem isn't the AI. Maybe the problem is that we're shaking the rope at any frequency and expecting patterns to appear. To find the right frequency, I first had to understand the rope.
 
 <span class="progress-marker" id="s3">⸻ 3/8 ⸻</span>
 
@@ -60,7 +60,7 @@ These two sets of ideas, combined with the professional desperation I already me
 
 I'm not going to describe the method as a numbered series of steps because that would betray the spirit of how it actually works, which is more chaotic, more iterative, more like a spiral than a staircase. But there are three general movements that repeat:
 
-First there's what we might call research—this step comes directly from Horthy's *Context Engineering* process[^context]—though "reconnaissance" better captures the feeling. Before doing anything, you need to understand the problem. And this is where the model can help: you ask it to investigate the existing code, map dependencies, find relevant documentation, tell you what the hell is going on in this system you inherited from someone who no longer works here[^legacy]. The model does this work pretty well because it's essentially reading and synthesis, which is exactly what it was trained for.
+First there's what we might call research—though "reconnaissance" better captures the feeling. Before doing anything, you need to understand the problem. And this is where the model can help: you ask it to investigate the existing code, map dependencies, find relevant documentation, tell you what the hell is going on in this system you inherited from someone who no longer works here[^legacy]. The model does this work pretty well because it's essentially reading and synthesis, which is exactly what it was trained for.
 
 But—and this but is crucial—the document the model generates has to be reviewed. Not accepted, reviewed. With the Rule of 5 or something similar, it doesn't matter, but with the firm conviction that the model may have misunderstood, may have invented things, may have mixed information from different projects because in its training it read similar code and got its wires crossed[^hallucinations]. Human review here is not optional; it's the entire point of the exercise.
 
@@ -70,13 +70,15 @@ And finally there's implementation, which by this point should be almost mechani
 
 <span class="progress-marker" id="s6">⸻ 6/8 ⸻</span>
 
-There's something that deeply bothers me about the dominant narrative around AI in programming, which is the idea that these tools let you "go faster." It's not exactly false, but it's also not true in the way it's usually presented. It's like saying a car lets you get to your destination faster: true, but only if you know how to drive, if you know the way, if the car is in good condition, if the roads are clear. If those conditions aren't met, the car can take you very quickly anywhere, including off a cliff[^cliff].
+I know what it looks like: yet another method promising efficiency. But the dominant narrative around AI in programming deeply bothers me: the idea that these tools let you "go faster." It's not exactly false, but it's also not true in the way it's usually presented. It's like saying a car lets you get to your destination faster: true, but only if you know how to drive, if you know the way, if the car is in good condition, if the roads are clear. If those conditions aren't met, the car can take you very quickly anywhere, including off a cliff[^cliff].
 
 The same happens with AI. Yes, it can generate code faster than any human could write it. But generating code is not the same as solving problems. And if you generate code without understanding the problem, what you get is a quick solution to the wrong question, which is worse than having no solution because now you have to undo what you did before you can move forward.
 
 The method I describe is not a shortcut. It's a process that takes more time than throwing a prompt at the model and hoping something good comes out. But that time is recovered multiplied because errors are detected early, because work doesn't have to be redone, because when something is implemented you already know it's correct[^correct].
 
 <span class="progress-marker" id="s7">⸻ 7/8 ⸻</span>
+
+The method already had a shape. It needed a name.
 
 For a while I doubted the name. "Resonant Coding" sounds pretentious, I know. There were alternative versions: "Structured Prompting," which was too generic; "Context-First Development," which sounded like a management consultancy; "The Bucket Method," which was too literal and besides nobody was going to take seriously something called that[^naming].
 
@@ -90,46 +92,19 @@ I should probably close with some elegant conclusion but the truth is I don't ha
 
 But when it works—when the context is well constructed, when the plan is well defined, when each task fits in its bucket and the water is clean—there's a moment where everything clicks. Where the model does exactly what you need it to do. Where the code it generates is the code you would have written yourself, only faster and probably with fewer errors. In those moments you understand, viscerally, what it means to find the right frequency. And then, invariably, the next incomprehensible *pull request* arrives, and you have to start again.
 
-But there's a question that haunts me lately, one that has no easy answer and that I'd rather leave resonating than close with a false conclusion: what happens to those who come after? I'm not just talking about programmers—though them too—but about an entire generation that will enter the job market when these tools are ubiquitous[^ubiquitous]. Call centers are already disappearing; the other day my bank called and I was answered by a voice that sounded human but was a robot, and the conversation was smoother than most I've had with humans in that context[^callcenter]. Entry-level jobs, the ones that served to learn the trade by making mistakes on things that didn't matter too much, are evaporating. And meanwhile we keep training people as if tomorrow's world were the same as yesterday's.
+There's a question that haunts me lately, one that has no easy answer and that I'd rather leave resonating than close with a false conclusion: what happens to those who come after? I'm not just talking about programmers—though them too—but about an entire generation that will enter the job market when these tools are ubiquitous[^ubiquitous]. Call centers are already disappearing. The other day my bank called and I was answered by a voice that sounded human but was a robot. The conversation was smoother than most I've had with humans in that context[^callcenter]. Entry-level jobs, the ones that served to learn the trade by making mistakes on things that didn't matter too much, are evaporating. And meanwhile we keep training people as if tomorrow's world were the same as yesterday's. But it's not just young people who suffer this transition.
 
-There's nothing closer to my personal image of hell than going to a bank and waiting hours watching retirees asking for help understanding how to access their own money, while someone from the bank—with that face of someone who's lost all hope—guides them toward a screen that might as well be a sign drawn with crayons for how well it works, or tell them to use their phone, knowing their fingers can't hit the tiny letters or navigate the labyrinthine apps where to see your balance you have to be Indiana Jones of technology[^banks]. And here's something that gives me a sliver of optimism: maybe, just maybe, AI can be used to design interfaces that accommodate everyone. That adapt. That guide. That are truly simple, not simple-for-the-person-who-designed-it.
+There's nothing closer to my personal image of hell than going to a bank and waiting hours watching retirees asking for help understanding how to access their own money. Someone from the bank—with that face of someone who's lost all hope—guides them toward a screen that might as well be a sign drawn with crayons for how well it works. Or they tell them to use their phone, knowing their fingers can't hit the tiny letters or navigate the labyrinthine apps where to see your balance you have to be Indiana Jones of technology[^banks]. And here's something that gives me a sliver of optimism: maybe, just maybe, AI can be used to design interfaces that accommodate everyone. That adapt. That guide. That are truly simple, not simple-for-the-person-who-designed-it.
 
-But all this has a cost, and I'm not just talking about the human cost[^cost]. Every prompt, every iteration, every bucket of clean water we use consumes tokens, and tokens cost money[^tokens]. It's easy to forget when the tool works well, but there's a new economy emerging here, one where the scarce resource isn't machine time but context capacity, and where being strategic about how you use your tokens can be the difference between a viable project and one that eats through the budget before delivering anything. What happens when they run out? What happens when the model you were using goes up in price or disappears? What skills are we failing to develop because it's easier to ask the model to simulate them?[^skills] Do we become more efficient or simply more dependent?[^dependencia]
+But all this has a cost, and I'm not just talking about the human cost[^cost]. Every prompt, every iteration, every bucket of clean water we use consumes tokens, and tokens cost money[^tokens]. It's easy to forget when the tool works well, but there's a new economy emerging here, one where the scarce resource isn't machine time but context capacity, and where being strategic about how you use your tokens can be the difference between a viable project and one that eats through the budget before delivering anything.
+
+What happens when they run out? When the model you were using goes up in price or disappears? What skills are we failing to develop because it's easier to ask the model to simulate them?[^skills] Do we become more efficient or simply more dependent?[^dependencia]
 
 I don't have answers. I suspect nobody does yet. But it seems to me these are the questions we should be asking ourselves now, while there's still time to influence how they're answered.
 
 ---
 
-## Appendix: The Method in Practice
-
-Everything above sounds good in theory, but theory has that annoying particularity of dissolving when it touches reality. So here's how this materializes in day-to-day work, with the caveat that any system that claims to be definitive is doomed to fail, and this one is no exception[^system].
-
-What follows is an expansion of the three-step method—research, planning, implementation—with the additional structures we discovered we needed as we applied it to real projects.
-
-The first decision was structural: if context is a bucket that gets dirty, then you need separate buckets for each type of water. In practice this translates to folders with specific functions[^folders]:
-
-- `research/` for research documents, named with dates to track the evolution of understanding
-- `plans/` for implementation plans, also dated, also versioned
-- `specs/` for formal specifications in Gherkin format[^gherkin], which function as living documentation and executable tests at the same time
-- `handoffs/` for handoff documents between sessions, because the model doesn't remember anything and someone has to remember for it
-
-The second decision was procedural: before writing code, write a plan. Always. Without exception. The plan divides work into phases that can be completed in a reasonable amount of time, with explicit success criteria—automated when possible, manual when there's no other option. Each phase is a clean bucket: the model receives only the plan for that phase and relevant information, nothing more. For tasks with architectural risk, we sometimes use *tracer bullets*[^tracer].
-
-The third decision was about memory. Models don't remember, but files do. At the end of each work session—or when you need to pass context to another person, or another model, or your future self—a *handoff* document is generated that captures the current state: what was done, what was learned, what's pending, what files are relevant. It's externalized prosthetic memory, and it works better than it has any right to[^handoff].
-
-For design decisions that aren't obvious—when there are multiple possible paths and choosing one means discarding others—we maintain a `debates/` folder where the options considered are documented, the pros and cons of each, and the reason why what was chosen was chosen. This seems like bureaucracy until, six months later, someone asks "why did you do it this way?" and the answer is written instead of lost in the head of someone who no longer works here[^debates].
-
-The typical flow ends up being something like this:
-
-1. A requirement arrives. Before touching code, a research document is created. The model reads the existing code, documentation, whatever exists, and generates a summary of the current state. That summary goes through the Rule of 5 until it's reliable.
-
-2. With the research document as input—and only that document, in a new conversation, with a clean bucket—a plan is generated. The plan divides work into phases, each phase has success criteria, each task is small enough to fit in a single bucket. The plan also goes through the Rule of 5.
-
-3. Implementation happens phase by phase, each in its own conversation, each validated before moving to the next. If something doesn't work, the plan is adjusted, not improvised.
-
-4. At the end of the session, the *handoff* is generated. Whoever picks up the work next—whether human or model—has all the context they need.
-
-There's a constant temptation to skip steps, to go straight to code because "this is simple" or "I already know how to do it." Sometimes it works. More often than I'd like to admit, it doesn't, and the time you saved skipping steps you lose multiplied fixing what went wrong. The method is slower at the beginning and faster at the end. The question is whether you have the patience to reach the end[^patience].
+For a practical guide to the method, see [Resonant Coding: Practical Guide](/en/resonant-coding-guide).
 
 ---
 
@@ -183,7 +158,7 @@ There's a constant temptation to skip steps, to go straight to code because "thi
 
 [^beads]: Yegge strikes again: [beads](https://github.com/steveyegge/beads) is an issue tracker designed specifically for AI agents. The idea is that tasks need to be small and well-defined enough that an agent can pick them up and execute them without human intervention. It's the formalization of what we describe here as "fitting in a bucket."
 
-[^thinking]: The paradox of using AI for programming is that the work it automates—writing code—is relatively easy, while the work it doesn't automate—deciding what code to write—is the genuinely difficult part. Models can generate implementations, but they can't generate requirements. They can write solutions, but they can't understand problems. At least not yet. Although "yet" is an increasingly loaded word in this context. There's an insight from [Dex Horthy](https://www.youtube.com/watch?v=42AzKZRNhsk) that I find fundamental: now that most of our work is reviewing what the AI generates instead of writing from scratch, we need tools for *editing*—leaving comments, striking through, marking as unclear—instead of tools for *writing*. Out of that frustration was born [fabbro](https://github.com/charly-vibes/fabbro), a tool I'm developing to annotate code and structure feedback to models.
+[^thinking]: The paradox of using AI for programming is that the work it automates—writing code—is relatively easy, while the work it doesn't automate—deciding what code to write—is the genuinely difficult part. Models can generate implementations, but they can't generate requirements. They can write solutions, but they can't understand problems. At least not yet. Although "yet" is an increasingly loaded word in this context.
 
 [^cliff]: This isn't a theoretical metaphor. I've seen projects where the speed of code generation outpaced the capacity for review, and the result was a system that no one understood, that no one could maintain, and that eventually had to be discarded and rewritten from scratch. Speed without direction is just a faster way of getting lost. In a future post about what I'm provisionally calling [Resonant Development](/es/resonant-development), I want to explore how to combine these ideas with *spec-driven development* to tackle exactly this problem: how to scale review when the code grows faster than any human can read.
 
@@ -191,7 +166,7 @@ There's a constant temptation to skip steps, to go straight to code because "thi
 
 [^naming]: The process of naming things is, according to the [famous quote by Phil Karlton](https://martinfowler.com/bliki/TwoHardThings.html) that has been circulating since the 90s, one of the two hardest things in computer science (the other is cache invalidation). The part about off-by-one errors is a later addition by Leon Bambrick. That there are three things is part of the joke.
 
-[^vibe]: The term *Vibe Coding* was coined by Andrej Karpathy in a tweet, but the concept was developed in depth in the book [*Vibe Coding*](https://itrevolution.com/product/vibe-coding-book/) by Steve Yegge and Gene Kim. I had been trying out *CHOP* (*Chat Oriented Programming*) since Steve's video appeared a year earlier, so I was eagerly awaiting the book's release. That it fell right on my birthday was a coincidence I interpreted as a sign from the universe. When it came out, I could barely tear my eyes from the screen; I almost blew out my birthday candle with the Kindle in my hand. The book is excellent and worth reading, although my methodology goes in a slightly different direction.
+[^vibe]: The term *Vibe Coding* was coined by Andrej Karpathy in a tweet, but the concept was developed in depth in the book [*Vibe Coding*](https://itrevolution.com/product/vibe-coding-book/) by Steve Yegge and Gene Kim. I had been trying out *CHOP* (*Chat Oriented Programming*) since Steve's video appeared a year earlier, so I was eagerly awaiting the book's release. The book is excellent and worth reading, although my methodology goes in a slightly different direction.
 
 [^resonance]: There is something deeply satisfying in the idea that working well with a tool is finding its resonance frequency. It implies that the tool has a correct way of being used, that it is not arbitrary, that it can be discovered. It's an optimistic vision, perhaps naively optimistic, but it's what allows me to keep doing this.
 
@@ -211,16 +186,3 @@ There's a constant temptation to skip steps, to go straight to code because "thi
 
 [^dependencia]: There's something that borders on addiction and that I don't know if it has a name yet. I find myself asking the models for things all the time, because it *seems* like they give results: for them to explain how Simondon's concept of form relates to Gombrowicz's, how to know if I'm addicted to AI, how to stop working while being in the south of the planet, how to be calmer, what native plants to plant in the garden, how to get clients, how to change jobs, where to learn about crypto, what physical activity to do if I don't like exercise, how to learn to write, how to make a post on LinkedIn, how to quit, how to spend less on tokens, how to know if I'm depressed, how to understand inheritance laws, how to understand a one-year-old baby, how to replicate my voice, how to translate a book, where my last name comes from, how to set up a SaaS, how to work less, what is the optimal width for a shower, how to stop thinking. Question after question, token after token, like someone smoking one more cigarette thinking it will be the last.
 
-[^system]: Every work system is a hypothesis about how the world works. Like any hypothesis, it should be subject to revision when the evidence contradicts it. The problem is that we humans get attached to our systems and defend them beyond what is reasonable. I try to remind myself of this regularly. I don't always succeed.
-
-[^folders]: The folder structure seems like a minor detail until you have to find something you wrote three months ago and can't find it. Naming things with dates in `YYYY-MM-DD` format at the beginning of the name has the advantage of ordering them chronologically automatically, which sounds trivial until it saves you twenty minutes of searching.
-
-[^gherkin]: Gherkin is a format for writing specifications in almost-natural language that can be executed as tests. The structure is *Given-When-Then* and it forces you to think in terms of observable behavior instead of internal implementation. It's one of those cases where the constraint of the format improves the quality of thought. To test *spec-driven development*, I asked the AI to describe the functionalities of [fabbro](https://github.com/charly-vibes/fabbro) following this format, and I ended up creating [nayra](https://github.com/charly-vibes/nayra)—a project I always wanted to have—specifically to explore more formal tools like [OpenSpec](https://github.com/humanlayer/openspec).
-
-[^tracer]: The term *tracer bullet* comes from ballistics: tracer bullets leave a visible trail that allows for real-time aim adjustment. In development, a *tracer bullet* is a minimal implementation that cuts across all layers of the system to verify that the architecture works before investing in building it out properly. The idea comes from the book *The Pragmatic Programmer* by Hunt and Thomas. For tasks with architectural risk—those where you don't know if the solution will work until you try it—it's cheaper to find out your architecture doesn't work when you have a hundred lines of code than when you have ten thousand.
-
-[^handoff]: The handoff document is, in a sense, a letter you write to your future self. Or to another person. Or to a model that will pick up your work. The key is to include not only what you did but what you learned: the dead ends you explored, the decisions you made, the things that surprised you. The context that seems obvious today will be completely opaque in two weeks.
-
-[^debates]: Documenting design decisions is one of those practices that everyone knows they should do and almost nobody does. The usual reason is that "there's no time." The irony is that the time you don't invest in documenting, you spend multiplied six months later trying to reconstruct the reasoning from scratch.
-
-[^patience]: Patience is probably the most underestimated skill in software development. Not the passive patience of waiting for things to happen, but the active patience of doing things right even if it takes longer. It's difficult because everything conspires against it: the deadlines, the pressure, the illusion that "this time it will work out" even though the last ten times it didn't. The method doesn't give you patience, but at least it gives you a-structure where patience makes sense. To practice without the pressure of a real project, I started [jams](https://github.com/charly-vibes/jams): simple, self-contained web applications, perfect for testing the full flow without risking anything important.

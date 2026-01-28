@@ -104,7 +104,7 @@ I don't have answers. I suspect nobody does yet. But it seems to me these are th
 
 ---
 
-For a practical guide to the method, see [Resonant Coding: Practical Guide](/en/resonant-coding-guide).
+For a practical guide to the method, see [Resonant Coding: Practical Guide](resonant-coding-guide.html).
 
 ---
 

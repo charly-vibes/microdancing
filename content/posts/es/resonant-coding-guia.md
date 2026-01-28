@@ -6,7 +6,7 @@ lang: es
 
 Todo lo anterior suena bien en teoría, pero la teoría tiene esa particularidad molesta de disolverse cuando toca la realidad. Así que acá va cómo se materializa esto en el día a día, con la advertencia de que cualquier sistema que pretenda ser definitivo está condenado a fracasar, y este no es la excepción[^sistema].
 
-Este documento es una expansión del método de tres pasos —investigación, planificación, implementación— descrito en [Resonant Coding](/es/resonant-coding), con las estructuras adicionales que fuimos descubriendo que necesitábamos a medida que lo aplicábamos en proyectos reales.
+Este documento es una expansión del método de tres pasos —investigación, planificación, implementación— descrito en [Resonant Coding](resonant-coding.html), con las estructuras adicionales que fuimos descubriendo que necesitábamos a medida que lo aplicábamos en proyectos reales.
 
 ## Estructura de carpetas
 

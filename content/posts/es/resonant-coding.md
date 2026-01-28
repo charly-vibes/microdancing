@@ -104,7 +104,7 @@ No tengo respuestas. Sospecho que nadie las tiene todavía. Pero me parece que e
 
 ---
 
-Para una guía práctica del método, ver [Resonant Coding: Guía práctica](/es/resonant-coding-guia).
+Para una guía práctica del método, ver [Resonant Coding: Guía práctica](resonant-coding-guia.html).
 
 ---
 

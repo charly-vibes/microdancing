@@ -6,7 +6,7 @@ lang: en
 
 Everything above sounds good in theory, but theory has that annoying particularity of dissolving when it touches reality. So here's how this materializes in day-to-day work, with the caveat that any system that claims to be definitive is doomed to fail, and this one is no exception[^system].
 
-This document is an expansion of the three-step method—research, planning, implementation—described in [Resonant Coding](/en/resonant-coding), with the additional structures we discovered we needed as we applied it to real projects.
+This document is an expansion of the three-step method—research, planning, implementation—described in [Resonant Coding](resonant-coding.html), with the additional structures we discovered we needed as we applied it to real projects.
 
 ## Folder Structure
 

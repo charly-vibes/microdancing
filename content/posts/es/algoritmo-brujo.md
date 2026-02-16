@@ -66,47 +66,29 @@ No le había contado eso. O alguien le había contado. O era una de esas balas q
 
 **—¿Y qué tiene que ver la Inteligencia Artificial con la brujería?**
 
-Se quedó mirando el cortado un segundo largo, como si la respuesta estuviera flotando entre la espuma y el borde de la taza.
+La taza fue depositada sobre el plato con un cuidado que parecía venir de muy lejos. La mirada no se dirigió a mí, sino a la calle, a la gente que pasaba.
 
-—Todo. La IA es el hechizo perfeccionado.
+—La brujería es una buena historia. Tiene un villano claro. Pero las buenas historias a veces son trampas. Te hacen buscar un héroe que mate al brujo. Y mientras buscás al héroe, no te das cuenta de que el problema es el cuento entero.
 
-Hizo una pausa. En la mesa de al lado, un tipo le dictaba algo al teléfono con la solemnidad de quien redacta un testamento. Probablemente un audio de WhatsApp de tres minutos que nadie iba a escuchar completo.
+Hubo una pausa, como si se eligieran las palabras de una bolsa llena de cosas dispares.
 
-—Mirá: vos le escribís algo a una de estas máquinas, y te devuelve una respuesta que parece inteligente, creativa, casi humana. Pero no tenés la menor idea de cómo lo hizo. Ni vos, ni yo, ni quienes la fabricaron.
+—Prefiero otro cuento. El de la bolsa, el del cesto. Durante años, hemos estado tirando todo adentro de una bolsa digital gigante: nuestros libros, nuestras conversaciones, nuestros dibujos, nuestras pesadillas, nuestras listas del súper. Todo junto, sin orden. Y ahora la bolsa aprendió a hablar. Y nos devuelve lo que le dimos, pero mezclado, rehecho. ¿Es inteligente? No sé si es la palabra. Una compostera también transforma los desechos en algo nuevo y no decimos que es inteligente. Simplemente, *hace*.
 
-**—No puede ser que los que la fabricaron no sepan.**
+**—Pero la gente que la fabricó debe saber cómo funciona.**
 
-—En 2017, en una conferencia de inteligencia artificial, un investigador de Google llamado Ali Rahimi dio un discurso donde dijo, textual, que el aprendizaje automático se había convertido en alquimia[^rahimi]. Construyen modelos que funcionan, pero no saben *por qué* funcionan. Ajustan perillas, cambian parámetros, prueban combinaciones. Si sale bien, publican un paper. Si sale mal, ajustan otra perilla. Es ensayo y error con supercomputadoras.
+—Saben ponerla en marcha. Como quien sabe la fórmula para que el compost fermente. Pero no entienden el resultado final. Una línea de investigación la llamó alquimia. Otra, más práctica, habló de *loros estocásticos*. Loros que repiten patrones de una selva de datos tan inmensa que su eco parece una conciencia. Me gusta esa imagen. El problema es que los dueños de los loros los venden como si fueran oráculos. Y se expulsó del escenario a quien advirtió que el supuesto oráculo era un loro. Como en los cuentos viejos.
 
-**—Pero funciona. ¿Eso no alcanza?**
+**—Pero es un loro que funciona. Que crea cosas. ¿Eso no alcanza?**
 
-—Eso es lo que dice un paciente que toma una pastilla sin preguntar qué tiene adentro. Funciona hasta que no funciona, y cuando no funciona no sabés por qué, ni cómo arreglarlo, ni qué rompiste. —Se sacó los anteojos. Los dejó sobre la mesa como quien depone un arma.— Unos años después, una investigadora del mismo Google, Timnit Gebru, escribió un paper donde llamaba a los modelos de lenguaje *loros estocásticos*[^gebru]. Máquinas que no entienden nada: repiten patrones estadísticos a una escala tan enorme que parece comprensión. Google la echó por publicarlo.
+—"Crear" es otra palabra-trampa. Es la historia del héroe otra vez. El dios que crea de la nada. Esta máquina no crea, recombina. Teje con hilos que no son suyos. El problema es que al llamarlo "creación" o "inteligencia", hacemos desaparecer los hilos y las manos que los hilaron. El trabajo de millones de escritores, artistas, traductores. Y el trabajo de los otros, de los que limpian la bolsa por dentro. Gente a la que le pagan para mirar las cosas más horribles que producimos, para que el loro no aprenda a decir esas palabras en público. La máquina no es inteligente, está subcontratando su conciencia a los países pobres.
 
-**—¿La echaron por un paper?**
+**—Mi hermana dice que si no aprendo a usarla, me quedo afuera.**
 
-—Nombró el truco y la sacaron del show de magia. Cuatro mujeres preguntando si los juguetes de los señores del algoritmo no eran demasiado grandes y demasiado peligrosos.
+—Tu hermana está repitiendo el final del cuento que nos están contando. —La mirada, ahora sí, se clavó en mí, con el brillo divertido de quien ha visto muchas historias repetirse—. Es un cuento muy viejo. El del Progreso. El del Tren que no podés perder. Te dan dos opciones: subirte al tren o quedarte en el andén para siempre. Pero nadie pregunta a dónde va el tren, quién lo conduce, ni quién puso las vías. Y sobre todo, nadie pregunta: ¿y si no queremos ir en tren? ¿Si preferimos caminar, o construir una canoa?
 
-Se quedó un momento en silencio, como si la frase le hubiera salido más amarga de lo que esperaba.
+**—Suena a que no hay salida. O te subís o te pisan.**
 
-—La ciencia requiere que puedas explicar por qué algo funciona. Esto es otra cosa. Funciona, sí. Enormemente. Pero la explicación no la tenemos. Es una caja negra. Y una caja negra que decide quién recibe un crédito, quién entra a una universidad, quién es sospechoso de un crimen... eso no es ciencia. Eso es magia. Magia con consecuencias materiales[^cajanegra]. Safiya Noble buscó "niñas negras" en Google y lo que devolvió el algoritmo fue pornografía[^noble]. Ruha Benjamin le puso nombre: el *New Jim Code*. —Me miró fijo.— La caja negra no es neutra. Nunca lo fue. El sesgo no es un error del sistema, es el sistema funcionando exactamente como fue diseñado para funcionar.
-
-Quise decir algo sobre el cartel de la estación, sobre la abuela repitiendo *el Algoritmo* como quien reza, pero antes de que pudiera armar la frase ya estaba hablando de vuelta.
-
-—¿Sabés qué es lo más perverso? Que le atribuimos intencionalidad. Creatividad. Inteligencia. Vos, justamente vos: ¿cómo le dijiste a la máquina que usaste? ¿Le pusiste un nombre, no? Seguro le pusiste un nombre simpático.
-
-La Choricera Artificial. Le había puesto nombre a una caja negra. Le había puesto nombre como se le pone nombre a una mascota.
-
-—Marx hablaba del fetichismo de la mercancía: las relaciones entre personas aparecen como relaciones entre cosas[^fetiche]. Bueno, ahora tenemos el fetichismo del algoritmo. Decimos que la IA *piensa*, que *alucina*, que *crea*. Y con ese lenguaje hacemos desaparecer todo el trabajo humano que hay detrás. Los millones de textos de escritores que se usaron para entrenarla, las imágenes de artistas, el código de programadores. Todo eso se esfuma y queda la *magia* de la máquina.
-
-**—Mi hermana dice que si no aprendo a usar IA me van a reemplazar.**
-
-Levantó la taza. La bajó sin tomar.
-
-—Tu hermana tiene razón. —Pausa.— Y al mismo tiempo está repitiendo el hechizo. A eso Stengers y Pignarre le llaman *alternativa infernal*[^infernal]. Una trampa con forma de opción. O aprendés a usar IA y duplicás tu producción, o te reemplazan. Las dos opciones refuerzan al sistema. Si aprendés, estás entrenando a lo que eventualmente te va a desplazar. Si no aprendés, quedás afuera. Con la privacidad pasa lo mismo: o cedés todos tus datos para que los algoritmos se entrenen, o quedás fuera de los servicios digitales[^privacidad]. Intentá vivir hoy sin Google, sin un celular con cámara que te escanea la cara. No hay puerta tres.
-
-**—Suena a que no hay salida.**
-
-—Y eso es el hechizo funcionando. Si sentís que no hay salida, el hechizo ya te agarró.
+—Suena así porque estás aceptando el cuento de ellos. El truco no es ganarles en su propio juego. El truco es empezar a contar una historia diferente. Una historia más rara, más lenta, más sucia. Una donde la tecnología no sea una lanza para conquistar el futuro, sino una bolsa para llevar cosas útiles. Una historia donde "eficiencia" no sea la única virtud. La resistencia no es una batalla, es un acto de imaginación.
 
 No dijo nada más. Por la ventana del café pasó un tipo hablándole al teléfono con una intensidad que sugería que el teléfono le importaba más que la vereda. Casi se lleva puesto un poste. Lo señaló con la cucharita sin decir una palabra.
 
@@ -224,9 +206,9 @@ Afuera la ciudad seguía funcionando con la eficiencia de algo que no necesita q
 
 ---
 
-### Fuentes y madrigueras
+### Fuentes y madrigueras: La Bolsa de Historias y Conceptos
 
-Para quien quiera seguir tirando del hilo, estos son los textos que orbitan alrededor de esta conversación. Algunos se mencionan arriba, otros son el subsuelo del que salieron las ideas.
+Las ideas que nutren esta conversación —y la propia reflexión del narrador— provienen de un vasto "cesto" de voces y perspectivas. Aunque el diálogo haya mutado en su forma y algunas de estas referencias no se citen explícitamente en el cuerpo principal del texto, la profundidad de su pensamiento permea cada línea. Para quien quiera seguir tirando de los hilos de estas narrativas, y explorar el subsuelo del que emergen estas ideas, aquí se ofrecen.
 
 - Philippe Pignarre e Isabelle Stengers, [*La sorcellerie capitaliste: Pratiques de désenvoûtement*](https://www.editionsladecouverte.fr/la_sorcellerie_capitaliste-9782707147813), Éditions La Découverte, 2005. Traducción al inglés: *Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011.
 - Ali Rahimi, ["Machine Learning has become Alchemy"](https://www.youtube.com/watch?v=x7psGHgatGM), NIPS 2017 Test-of-Time Award.

@@ -18,7 +18,7 @@ No podía armarlo en algo coherente. Se me ocurrió hacer picada de estas ideas 
 
 ---
 
-Lo que salió de la Choricera era un bodoque de texto académico con más citas al pie que el código civil. Ilegible, como esos prospectos de medicamentos que nadie lee pero que si los leyeras te darían más miedo que la enfermedad. Le había pedido claridad a la máquina y la máquina devolvió un ladrillo. Pero entre el ruido había nombres, conceptos, hilos que tiraban hacia algún lado. Una especie de mapa del miedo que venía sintiendo desde Belgrano R, dibujado por algo que no siente miedo, lo cual ya de por sí es perturbador si uno se detiene a pensarlo.
+Lo que salió de la Choricera era un bodoque de texto académico con más citas al pie que el Código Civil. Ilegible, como esos prospectos de medicamentos que nadie lee pero que si los leyeras te darían más miedo que la enfermedad. Le había pedido claridad a la máquina y la máquina devolvió un ladrillo. Pero entre el ruido había nombres, conceptos, hilos que tiraban hacia algún lado. Una especie de mapa del miedo que venía sintiendo desde Belgrano R, dibujado por algo que no siente miedo, lo cual ya de por sí es perturbador si uno se detiene a pensarlo.
 
 No alcanzaba con el mapa. Hacía falta alguien que supiera leerlo. Alguien de carne, que hablara en criollo y que pudiera explicar por qué un libro francés sobre brujería y capitalismo tenía algo que decir sobre un cartel de internet y una abuela repitiendo *el Algoritmo* como un mantra.
 
@@ -50,7 +50,7 @@ Se acomodó los anteojos. Los puso. Los sacó. Los volvió a poner. Parecía est
 
 Silencio. El mozo pasó entre las mesas arrastrando un trapo sucio como si limpiara más por costumbre que por resultado.
 
-—El hechizo funciona porque te pone en un estado... los franceses le dicen *sidération*. Parálisis. Es cuando te quedás congelado ante algo. No podés reaccionar. No podés pensar. Solo podés adaptarte.
+—El hechizo funciona porque te pone en un estado... los franceses le dicen *sidération*. Parálisis. Es cuando te congelás ante algo. No podés reaccionar. No podés pensar. Solo podés adaptarte.
 
 Pensé en el andén de Belgrano R. En la manada bajando del tren, todos con el teléfono en la mano, esquivando al de adelante sin levantar la vista. Nadie miraba el cartel pero el cartel ya estaba adentro de todos. Y pensé en la propia mañana, pidiéndole a una máquina que revisara un texto. Adaptándome.
 
@@ -88,7 +88,7 @@ Hizo una pausa. En la mesa de al lado, un tipo le dictaba algo al teléfono con 
 
 Se quedó un momento en silencio, como si la frase le hubiera salido más amarga de lo que esperaba.
 
-—La ciencia requiere que puedas explicar por qué algo funciona. Esto es otra cosa. Funciona, sí. Enormemente. Pero la explicación no la tenemos. Es una caja negra. Y una caja negra que decide quién recibe un crédito, quién entra a una universidad, quién es sospechoso de un crimen... eso no es ciencia. Eso es magia. Magia con consecuencias materiales[^cajanegra]. Safiya Noble buscó "niñas negras" en Google y lo que devolvió el algoritmo fue pornografía[^noble]. Ruha Benjamin le puso nombre: el *Nuevo Código Jim Crow*. —Me miró fijo.— La caja negra no es neutra. Nunca lo fue. El sesgo no es un error del sistema, es el sistema funcionando exactamente como fue diseñado para funcionar.
+—La ciencia requiere que puedas explicar por qué algo funciona. Esto es otra cosa. Funciona, sí. Enormemente. Pero la explicación no la tenemos. Es una caja negra. Y una caja negra que decide quién recibe un crédito, quién entra a una universidad, quién es sospechoso de un crimen... eso no es ciencia. Eso es magia. Magia con consecuencias materiales[^cajanegra]. Safiya Noble buscó "niñas negras" en Google y lo que devolvió el algoritmo fue pornografía[^noble]. Ruha Benjamin le puso nombre: el *New Jim Code*. —Me miró fijo.— La caja negra no es neutra. Nunca lo fue. El sesgo no es un error del sistema, es el sistema funcionando exactamente como fue diseñado para funcionar.
 
 Quise decir algo sobre el cartel de la estación, sobre la abuela repitiendo *el Algoritmo* como quien reza, pero antes de que pudiera armar la frase ya estaba hablando de vuelta.
 
@@ -102,7 +102,7 @@ La Choricera Artificial. Le había puesto nombre a una caja negra. Le había pue
 
 Levantó la taza. La bajó sin tomar.
 
-—Tu hermana tiene razón. —Pausa.— Y al mismo tiempo está repitiendo el hechizo. A eso Stengers y Pignarre le llaman *alternativa infernal*[^infernal]. Una trampa con forma de opción. O aprendés a usar IA y duplicás tu producción, o te reemplazan. Las dos opciones refuerzan al sistema. Si aprendés, estás entrenando a lo que eventualmente te va a desplazar. Si no aprendés, quedás afuera. Con la privacidad pasa lo mismo: o cedés todos tus datos para que los algoritmos se entrenen, o quedás excluido de los servicios digitales[^privacidad]. Intentá vivir hoy sin Google, sin un celular con cámara que te escanea la cara. No hay puerta tres.
+—Tu hermana tiene razón. —Pausa.— Y al mismo tiempo está repitiendo el hechizo. A eso Stengers y Pignarre le llaman *alternativa infernal*[^infernal]. Una trampa con forma de opción. O aprendés a usar IA y duplicás tu producción, o te reemplazan. Las dos opciones refuerzan al sistema. Si aprendés, estás entrenando a lo que eventualmente te va a desplazar. Si no aprendés, quedás afuera. Con la privacidad pasa lo mismo: o cedés todos tus datos para que los algoritmos se entrenen, o quedás fuera de los servicios digitales[^privacidad]. Intentá vivir hoy sin Google, sin un celular con cámara que te escanea la cara. No hay puerta tres.
 
 **—Suena a que no hay salida.**
 
@@ -128,7 +128,7 @@ Pidió otro cortado con un gesto que sugería décadas de práctica en ese mismo
 
 Se le endureció la cara.
 
-—Ahí está lo que nadie quiere ver[^fantasma]. Detrás de cada respuesta *inteligente* de ChatGPT, detrás de cada imagen de Midjourney, hay millones de horas de trabajo humano. Gente en Kenia, en Filipinas, en Venezuela, que etiqueta imágenes, filtra contenido tóxico —violencia, abuso sexual, decapitaciones— para que el producto final sea presentable para el consumo del Norte Global. Les pagan centavos. Absorben la toxicidad de la humanidad para que la máquina parezca limpia y neutral.
+—Ahí está lo que nadie quiere ver[^fantasma]. Detrás de cada respuesta *inteligente* de ChatGPT, detrás de cada imagen de Midjourney, hay millones de horas de trabajo humano. Gente en Kenia, en Filipinas, en Venezuela, que etiqueta imágenes, filtra contenido tóxico —violencia, abuso sexual, decapitaciones— para que el producto final resulte presentable ante el Norte Global. Les pagan centavos. Absorben la toxicidad de la humanidad para que la máquina parezca limpia y neutral.
 
 Sentí algo en el estómago. No metáfora: algo físico. Esa mañana le había pedido a una de esas máquinas limpias que me corrigiera un texto.
 
@@ -142,7 +142,7 @@ Sentí algo en el estómago. No metáfora: algo físico. Esa mañana le había p
 
 No respondió enseguida. Se sacó los anteojos. Los limpió con el borde de la camisa. Los volvió a poner.
 
-—Nos incluye a todos. Incluido yo, sentado acá explicando el hechizo sin ser capaz de salir de él. El peligro es creer que estás afuera. El cínico que dice *yo no caigo en eso* es el más atrapado de todos[^vulnerabilidad].
+—Nos incluye a todos. También a mí, acá explicando el hechizo sin ser capaz de salir de él. El peligro es creer que estás afuera. El cínico que dice *yo no caigo en eso* es el más atrapado de todos[^vulnerabilidad].
 
 Anoté algo en la servilleta que después no pude descifrar. Creo que era la palabra *vulnerable*. O *culpable*. La letra no ayudaba.
 
@@ -150,7 +150,7 @@ Llegó el cortado. Lo revolvió despacio, como si estuviera pensando con la cuch
 
 **—¿Y entonces qué se hace? ¿Cómo se rompe un hechizo que te tiene adentro?**
 
-—Ellos le dicen *désenvoûtement*. Deshechizo. No es huir a vivir al campo ni stockear latas para el apocalipsis. Es una práctica colectiva. Lo primero es admitir que te afecta. Stengers toma esto de Starhawk, una activista neopagana: antes de hacer cualquier trabajo, se traza un círculo. Un espacio protegido. Políticamente significa: no te hagás el duro. Reconocé que el miedo a quedarte atrás es real, que la fascinación por la magia de la IA es real. Después, rechazar la alternativa infernal. Cuando te dicen *IA o Irrelevancia*, detenete. ¿Quién define la relevancia? ¿Quién se beneficia de esta aceleración?
+—Ellos le dicen *désenvoûtement*. Deshechizo. No es huir a vivir al campo ni stockear latas para el apocalipsis. Es una práctica colectiva. Lo primero es admitir que te afecta. Stengers toma esto de Starhawk, una activista neopagana: antes de hacer cualquier trabajo, se traza un círculo. Un espacio protegido. Políticamente significa: no finjas que no te afecta. Reconocé que el miedo a quedarte atrás es real, que la fascinación por la magia de la IA es real. Después, rechazar la alternativa infernal. Cuando te dicen *IA o Irrelevancia*, detenete. ¿Quién define la relevancia? ¿Quién se beneficia de esta aceleración?
 
 **—Pero en lo concreto. Mañana a la mañana. ¿Qué hago?**
 
@@ -164,13 +164,21 @@ Se puso los anteojos. Se los sacó. Los empujó unos centímetros sobre la mesa,
 
 **—¿Y la gente lo va a hacer?**
 
-—Eso ya no me corresponde a mí. Lo que puedo decirte es esto: *faire attention*. Hacer atención. Prestar atención de verdad, en una economía que compite por capturarte el cerebro, ya es un acto político. Evaluar la IA por sus consecuencias presentes y no por sus promesas futuristas. Y solidarizarse con las pequeñas manos. Hacer visible su trabajo. Porque el día que todos sepamos que la magia funciona gracias a personas filtrando el horror del mundo para que nosotros veamos algo lindo y limpio, ese día el hechizo empieza a agrietarse.
+—Eso ya no me corresponde a mí. Lo que puedo decirte es esto: *faire attention*. Hacer atención. Prestar atención...
+
+Justo en ese momento, una vibración grave y sorda se sintió sobre la mesa. Su teléfono, boca abajo. Por un instante que pareció medido con cronómetro atómico, sus ojos se desviaron del cortado a la mancha oscura de plástico y vidrio que había interrumpido su propia sentencia. La disciplina de un monje contra el reflejo de un perro. Ganó el monje, pero por puntos, no por knock-out. Volvió la vista a la taza.
+
+—Prestar atención de verdad —retomó, con un matiz casi imperceptible de esfuerzo, como quien retoma el hilo después de un tropezón—, en una economía que compite por capturarte el cerebro, ya es un acto político. Evaluar la IA por sus consecuencias presentes y no por sus promesas futuristas. Y solidarizarse con las pequeñas manos. Hacer visible su trabajo. Porque el día que todos sepamos que la magia funciona gracias a personas filtrando el horror del mundo para que nosotros veamos algo lindo y limpio, ese día el hechizo empieza a agrietarse.
 
 Se tomó el cortado de un trago, como si fuera un whisky y la conversación hubiera sido larga de más. Juntó los papeles con la eficiencia de quien ha cerrado muchas conversaciones así. Agarró del respaldo de la silla un saco que había conocido mejores décadas y salió sin decir nada más.
 
 Se fue sin pagar el cortado[^cortado].
 
-Me quedé un rato en la mesa vacía. El mozo levantó la taza del otro lado sin preguntar. En la pantalla apagada del televisor se reflejaba el salón entero: las mesas de fórmica, el mostrador, una persona sentada sola con una servilleta llena de garabatos. Saqué el celular del bolsillo. Lo miré. Lo guardé sin abrir nada.
+Me quedé un rato en la mesa vacía. El mozo levantó la taza del otro lado sin preguntar. En la pantalla apagada del televisor se reflejaba el salón entero: las mesas de fórmica, el mostrador, una persona sentada sola con una servilleta llena de garabatos.
+
+Saqué el celular del bolsillo. El pulgar, por puro músculo, ya estaba a medio camino del ícono azul de Twitter. O X. O como se llame esta semana. Lo detuve. No fue un acto de voluntad heroica. Fue más bien cansancio. La fatiga de saber que del otro lado del vidrio solo había una versión más rápida y ruidosa del mismo hechizo del que acababa de tomar apuntes. Abrir la app ahora se sentía como prender un cigarrillo después de una charla con el neumonólogo. Se puede hacer, claro. Casi todo el mundo lo hace. Pero el placer ya viene con el gusto de la ceniza incorporado.
+
+Guardé el teléfono. No porque hubiera ganado una batalla. Sino porque, por primera vez en mucho tiempo, el combate me pareció profundamente estúpido. Y agotador.
 
 Afuera la ciudad seguía funcionando con la eficiencia de algo que no necesita que nadie lo entienda para seguir andando[^urgencia].
 
@@ -184,11 +192,11 @@ Afuera la ciudad seguía funcionando con la eficiencia de algo que no necesita q
 
 [^sorcellerie]: El título original en francés: *La sorcellerie capitaliste*. Hay una traducción al inglés (*Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011, traducción de Andrew Goffey) pero al español parece que nadie se animó todavía. Quizás porque "brujería capitalista" suena a título de novela de Laiseca y los editores tienen miedo de que la gente la busque en la sección de ficción.
 
-[^denuncia]: Esta idea martilló la cabeza durante días. La denuncia como gesto impotente. Todos sabemos que el sistema es injusto. Lo sabemos mientras hacemos la cola en el supermercado, mientras pagamos el alquiler que subió otro 30%, mientras miramos el telé que nos cuenta el horror del día. Y sin embargo. Y sin embargo.
+[^denuncia]: Esta idea me martilló la cabeza durante días. La denuncia como gesto impotente. Todos sabemos que el sistema es injusto. Lo sabemos mientras hacemos la cola en el supermercado, mientras pagamos el alquiler que subió otro 30%, mientras miramos la tele que nos cuenta el horror del día. Y sin embargo. Y sin embargo.
 
 [^rahimi]: Ali Rahimi, conferencia NIPS 2017. El [discurso](https://www.youtube.com/watch?v=x7psGHgatGM) le valió el Premio Test-of-Time. Yann LeCun, que es una especie de papa de la inteligencia artificial, [se enojó bastante](https://syncedreview.com/2017/12/12/lecun-vs-rahimi-has-machine-learning-become-alchemy/). Pero Rahimi no estaba diciendo que la IA no funcionara. Estaba diciendo que funciona y nadie sabe bien por qué, lo cual, si uno lo piensa con calma, es bastante más aterrador que si directamente no funcionara.
 
-[^cajanegra]: Luciano Floridi, filósofo de Oxford, sugiere que tal vez nunca podamos abrir la caja negra completamente. Que la sociedad debe aprender a gestionar tecnologías que son *ontológicamente* opacas. Como aceptar que hay fuerzas que gobiernan tu vida y que no podés entender. En cualquier otro siglo a eso le habrían dicho religión.
+[^cajanegra]: Luciano Floridi, filósofo de la información, sugiere que tal vez nunca podamos abrir la caja negra completamente. Que la sociedad debe aprender a gestionar tecnologías que son *ontológicamente* opacas. Como aceptar que hay fuerzas que gobiernan tu vida y que no podés entender. En cualquier otro siglo a eso le habrían dicho religión.
 
 [^fetiche]: Marx tendría un día de campo con todo esto. El trabajo humano desaparece dentro de la mercancía. Solo que ahora la mercancía te habla, te aconseja, te escribe poemas de amor y cartas de despido. Un fetiche con interfaz de chat.
 
@@ -204,7 +212,7 @@ Afuera la ciudad seguía funcionando con la eficiencia de algo que no necesita q
 
 [^abduccion]: Charles Sanders Peirce, el filósofo pragmatista americano, describió la abducción como la tercera forma de razonamiento, además de la deducción y la inducción. Es la que usamos cuando algo nos sorprende y tenemos que inventar una explicación nueva. Es lo que hace un detective, un artista, un científico en el momento del eureka. Es, básicamente, lo que un algoritmo no puede hacer porque solo trabaja con lo que ya vio.
 
-[^gebru]: Timnit Gebru, Emily Bender, Angelina McMillan-Major y Margaret Mitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?", FAccT 2021. Gebru no solo perdió el trabajo: perdió el acceso a su correo corporativo el mismo día, sin aviso, mientras estaba de vacaciones. La velocidad quirúrgica con la que Google ejecutó el despido contrasta con la lentitud deliberada con la que respondió a las preocupaciones del paper. Cuando el poder actúa rápido es porque algo le dolió.
+[^gebru]: Emily Bender, Timnit Gebru, Angelina McMillan-Major y Margaret Mitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?", FAccT 2021. Gebru no solo perdió el trabajo: perdió el acceso a su correo corporativo el mismo día, sin aviso, mientras estaba de vacaciones. La velocidad quirúrgica con la que Google ejecutó el despido contrasta con la lentitud deliberada con la que respondió a las preocupaciones del paper. Cuando el poder actúa rápido es porque algo le dolió.
 
 [^noble]: Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, NYU Press, 2018. Y Ruha Benjamin, *Race After Technology: Abolitionist Tools for the New Jim Code*, Polity Press, 2019. Dos libros que deberían ser lectura obligatoria para cualquier persona que diseñe un algoritmo que afecte la vida de otras personas. Es decir: para todas las personas que diseñan algoritmos.
 
@@ -229,10 +237,10 @@ Para quien quiera seguir tirando del hilo, estos son los textos que orbitan alre
 - Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, NYU Press, 2018.
 - Ruha Benjamin, *Race After Technology: Abolitionist Tools for the New Jim Code*, Polity Press, 2019.
 - Shoshana Zuboff, *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*, PublicAffairs, 2019.
-- Timnit Gebru, Emily Bender et al., ["On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"](https://dl.acm.org/doi/10.1145/3442188.3445922), FAccT, 2021.
+- Emily Bender, Timnit Gebru et al., ["On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"](https://dl.acm.org/doi/10.1145/3442188.3445922), FAccT, 2021.
 - Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*, Yale University Press, 2021.
 - Wendy Hui Kyong Chun, *Discriminating Data: Correlation, Neighborhoods, and the New Politics of Recognition*, MIT Press, 2021.
 - Matteo Pasquinelli, *The Eye of the Master: A Social History of Artificial Intelligence*, Verso, 2023.
 - Slavoj Žižek, *Like a Thief in Broad Daylight: Power in the Era of Post-Human Capitalism*, Allen Lane, 2018.
-- Antoinette Rouvroy, sobre [gubernamentalidad algorítmica](http://etheses.dur.ac.uk/14493/1/D'Amato%2C_P._-_Stratoanalysis_of_the_Digital.pdf?DDD36+) y el fin del sujeto de derecho.
-- ["The Incomputable and Instrumental Possibility"](https://www.e-flux.com/journal/77/76322/the-incomputable-and-instrumental-possibility), *e-flux* Journal #77. Sobre lo que los algoritmos no pueden calcular y por qué eso importa.
+- Antoinette Rouvroy y Thomas Berns, ["Gouvernementalité algorithmique et perspectives d'émancipation"](https://shs.cairn.info/article/E_RES_177_0163?lang=en), *Réseaux*, 2013. Sobre gubernamentalidad algorítmica y el fin del sujeto de derecho.
+- Yuk Hui, ["The Incomputable and Instrumental Possibility"](https://www.e-flux.com/journal/77/76322/the-incomputable-and-instrumental-possibility), *e-flux* Journal #77. Sobre lo que los algoritmos no pueden calcular y por qué eso importa.

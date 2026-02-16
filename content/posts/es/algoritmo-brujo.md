@@ -141,7 +141,15 @@ Llegó el cortado. Lo revolvió despacio, como si estuviera pensando con la cuch
 
 Se puso los anteojos. Se los sacó. Los empujó unos centímetros sobre la mesa, como si necesitaran más espacio para respirar.
 
-—Dos cosas. Una es lo que los algoritmos no pueden hacer: razonamiento abductivo[^abduccion]. Los algoritmos trabajan con inducción, patrones del pasado proyectados al futuro. Si pasó antes, probablemente pase de nuevo. Eso es lo *probable*. Nosotros podemos imaginar hipótesis que no están en los datos. Inventar explicaciones. Imaginar futuros que nunca existieron. Si el algoritmo gobierna lo probable, la resistencia tiene que operar en lo *posible*.
+—Dos cosas. Una, y acá entramos en un terreno resbaladizo, es lo que se dice que los algoritmos no pueden hacer: razonamiento abductivo[^abduccion].
+
+**—¿Se dice?**
+
+—Se dice. La idea es que los algoritmos trabajan con inducción, patrones del pasado proyectados al futuro. Si pasó antes, probablemente pase de nuevo. Eso es lo *probable*. Nosotros, en cambio, podemos imaginar hipótesis que no están en los datos. Inventar explicaciones. Imaginar futuros que nunca existieron. Si el algoritmo gobierna lo probable, la resistencia tiene que operar en lo *posible*.
+
+**—Suena bien. ¿Cuál es el terreno resbaladizo?**
+
+—Que es una distinción discutida. Hay quien te va a decir que esa "invención" nuestra no es más que una forma muy compleja de recombinar lo que ya vimos, y que la máquina, con suficientes datos, hace lo mismo pero a una escala que nos supera. Que la diferencia es de grado, no de tipo. Pero a mí me sirve pensar que todavía hay un espacio, por más chico que sea, donde la máquina no entra. Una chispa que no es computable. Quizás es solo una historia que nos contamos para poder seguir. Pero las historias importan.
 
 **—Eso es hermoso pero no me sirve para el lunes.**
 

@@ -2,6 +2,8 @@
 title: "El Algoritmo Brujo"
 date: 2026-02-16
 lang: es
+translations:
+  en: /en/the-sorcerer-algorithm
 ---
 
 Bajando del tren en Belgrano R me agarró algo que todavía no sé si fue miedo o vergüenza. Probablemente las dos cosas, que en el fondo son la misma cosa disfrazada. Es muy común en CABA que al bajar de un tren la gente se abalance como la estampida que mató a Mufasa hacia la salida, y en esos segundos entre tocar la plataforma y que te arrastre la manada alcancé a ver —no, alcancé a *sentir que me veían*— un cartel de propaganda de un proveedor de internet diciendo algo como *dejá que el Algoritmo decida por vos*. El cartel tenía un ojo ilustrado, enorme, celeste corporativo, puesto a la altura exacta de la cara de alguien que baja de un tren. Alguien lo diseñó así. Alguien cobró por eso. Y alguien —concretamente, esa misma mañana— le había pedido a una inteligencia artificial que revisara un texto antes de mandarlo, porque ya no confiaba en la propia capacidad de escribir sin muleta[^muleta].

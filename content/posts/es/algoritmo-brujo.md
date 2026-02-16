@@ -30,7 +30,7 @@ Lo primero que dijo, antes de saludar, fue que no grabara. Que la voz grabada si
 
 Me quedé.
 
-Lo que sigue es de memoria y de las notas que fui garabateando en una servilleta que esperemos no haya tirado el mozo antes de llegar a casa.
+Lo que sigue es memoria sucia y garabatos de servilleta, esa prueba frágil que el mozo pudo haber barrido antes de que yo llegara a casa.
 
 ---
 
@@ -53,6 +53,7 @@ Silencio. El mozo pasó entre las mesas arrastrando un trapo sucio como si limpi
 —El hechizo funciona porque te pone en un estado... los franceses le dicen *sidération*. Parálisis. Es cuando te congelás ante algo. No podés reaccionar. No podés pensar. Solo podés adaptarte.
 
 Pensé en el andén de Belgrano R. En la manada bajando del tren, todos con el teléfono en la mano, esquivando al de adelante sin levantar la vista. Nadie miraba el cartel pero el cartel ya estaba adentro de todos. Y pensé en la propia mañana, pidiéndole a una máquina que revisara un texto. Adaptándome.
+Me dejó la prosa más limpia y a mí más sucio.
 
 **—Bueno, pero eso se puede decir más simple: el capitalismo es malo. Listo. ¿Para qué necesitamos a dos franceses?**
 
@@ -71,16 +72,18 @@ La taza fue depositada sobre el plato con un cuidado que parecía venir de muy l
 —La brujería es una buena historia. Tiene un villano claro. Pero las buenas historias a veces son trampas. Te hacen buscar un héroe que mate al brujo. Y mientras buscás al héroe, no te das cuenta de que el problema es el cuento entero.
 
 Hubo una pausa, como si se eligieran las palabras de una bolsa llena de cosas dispares.
+El mozo dejó un plato que nadie pidió y se fue sin mirar.
 
 —Prefiero otro cuento. El de la bolsa, el del cesto. Durante años, hemos estado tirando todo adentro de una bolsa digital gigante: nuestros libros, nuestras conversaciones, nuestros dibujos, nuestras pesadillas, nuestras listas del súper. Todo junto, sin orden. Y ahora la bolsa aprendió a hablar. Y nos devuelve lo que le dimos, pero mezclado, rehecho. ¿Es inteligente? No sé si es la palabra. Una compostera también transforma los desechos en algo nuevo y no decimos que es inteligente. Simplemente, *hace*.
 
 **—Pero la gente que la fabricó debe saber cómo funciona.**
 
-—Saben ponerla en marcha. Como quien sabe la fórmula para que el compost fermente. Pero no entienden el resultado final. Una línea de investigación la llamó alquimia. Otra, más práctica, habló de *loros estocásticos*. Loros que repiten patrones de una selva de datos tan inmensa que su eco parece una conciencia. Me gusta esa imagen. El problema es que los dueños de los loros los venden como si fueran oráculos. Y se expulsó del escenario a quien advirtió que el supuesto oráculo era un loro. Como en los cuentos viejos.
+—Saben ponerla en marcha. Como quien sabe la fórmula para que el compost fermente. Pero no entienden el resultado final. Una línea de investigación la llamó alquimia[^rahimi]. Otra, más práctica, habló de *loros estocásticos*[^gebru]. Loros que repiten patrones de una selva de datos tan inmensa que su eco parece una conciencia. Me gusta esa imagen. El problema es que los dueños de los loros los venden como si fueran oráculos. Y se expulsó del escenario a quien advirtió que el supuesto oráculo era un loro. Como en los cuentos viejos. La caja negra se volvió santuario[^cajanegra]. Y cuando decide qué se ve, hasta una búsqueda inocente devuelve mugre[^noble].
 
 **—Pero es un loro que funciona. Que crea cosas. ¿Eso no alcanza?**
 
-—"Crear" es otra palabra-trampa. Es la historia del héroe otra vez. El dios que crea de la nada. Esta máquina no crea, recombina. Teje con hilos que no son suyos. El problema es que al llamarlo "creación" o "inteligencia", hacemos desaparecer los hilos y las manos que los hilaron. El trabajo de millones de escritores, artistas, traductores. Y el trabajo de los otros, de los que limpian la bolsa por dentro. Gente a la que le pagan para mirar las cosas más horribles que producimos, para que el loro no aprenda a decir esas palabras en público. La máquina no es inteligente, está subcontratando su conciencia a los países pobres.
+—"Crear" es otra palabra-trampa. Es la historia del héroe otra vez. El dios que crea de la nada. Esta máquina no crea, recombina. Teje con hilos que no son suyos. El problema es que al llamarlo "creación" o "inteligencia", hacemos desaparecer los hilos y las manos que los hilaron. El trabajo de millones de escritores, artistas, traductores. Y el trabajo de los otros, de los que limpian la bolsa por dentro. Gente a la que le pagan para mirar las cosas más horribles que producimos, para que el loro no aprenda a decir esas palabras en público. La máquina no es inteligente, está subcontratando su conciencia a los países pobres. Es el fetiche con interfaz de chat[^fetiche].
+Yo igual le digo gracias, por educación o por miedo, todavía no sé.
 
 **—Mi hermana dice que si no aprendo a usarla, me quedo afuera.**
 
@@ -94,7 +97,7 @@ No dijo nada más. Por la ventana del café pasó un tipo hablándole al teléfo
 
 El silencio se estiró. Escribí algo en la servilleta —*no hay salida*— y después lo taché. Pero tacharlo no lo borraba.
 
-—Lo importante —retomó, como si el silencio hubiera sido parte del argumento— es entender que la alternativa infernal es *verdadera* dentro de las coordenadas del sistema. Si vos individualmente rechazás la IA, efectivamente corrés riesgo. Pero esas coordenadas fueron construidas. No son leyes de la naturaleza. Son decisiones políticas y económicas disfrazadas de inevitabilidad.
+—Lo importante —retomó, como si el silencio hubiera sido parte del argumento— es entender que la alternativa infernal es *verdadera* dentro de las coordenadas del sistema[^infernal]. Si vos individualmente rechazás la IA, efectivamente corrés riesgo. Pero esas coordenadas fueron construidas. No son leyes de la naturaleza. Son decisiones políticas y económicas disfrazadas de inevitabilidad. La privacidad funciona igual: o cedés datos o quedás afuera[^privacidad].
 
 **—¿Y quién las construyó?**
 
@@ -166,7 +169,7 @@ Afuera la ciudad seguía funcionando con la eficiencia de algo que no necesita q
 
 [^muleta]: La muleta: esa cosa que uno empieza a usar temporalmente y termina siendo parte del cuerpo. Primero fue el corrector ortográfico, después el traductor, después pedirle a la máquina que "mejore la redacción". En algún momento dejé de saber si lo que escribo es mío o es una versión corregida de mí. Y lo peor no es la duda: es que la mayoría de las veces la versión corregida suena mejor.
 
-[^libro]: *La sorcellerie capitaliste: Pratiques de désenvoûtement*, de Isabelle Stengers y Philippe Pignarre. Publicado por Éditions La Découverte (2005). Un libro que en la contratapa promete "herramientas pragmáticas para comprender la sumisión aturdida ante lo que se presenta como inevitable", lo cual es una forma elegantísima de decir que el mundo nos está engañando pero de una manera tan sofisticada que ni siquiera nos damos cuenta de que nos están engañando.
+[^libro]: *La sorcellerie capitaliste: Pratiques de désenvoûtement*, de Isabelle Stengers y Philippe Pignarre. Publicado por Éditions La Découverte (2005). En español: *La brujería capitalista* (Editorial Heckt). Un libro que en la contratapa promete "herramientas pragmáticas para comprender la sumisión aturdida ante lo que se presenta como inevitable", lo cual es una forma elegantísima de decir que el mundo nos está engañando pero de una manera tan sofisticada que ni siquiera nos damos cuenta de que nos están engañando.
 
 [^boca]: El boca a boca: esa tecnología milenaria de procesamiento de información que funciona con café, sobremesa y la necesidad humana básica de contar cosas que nos parecieron interesantes. Requiere cero electricidad y cero datos personales. Su tasa de error es altísima pero la experiencia de usuario es insuperable.
 
@@ -208,7 +211,7 @@ Afuera la ciudad seguía funcionando con la eficiencia de algo que no necesita q
 
 ### Fuentes y madrigueras: La Bolsa de Historias y Conceptos
 
-Las ideas que nutren esta conversación —y la propia reflexión del narrador— provienen de un vasto "cesto" de voces y perspectivas. Aunque el diálogo haya mutado en su forma y algunas de estas referencias no se citen explícitamente en el cuerpo principal del texto, la profundidad de su pensamiento permea cada línea. Para quien quiera seguir tirando de los hilos de estas narrativas, y explorar el subsuelo del que emergen estas ideas, aquí se ofrecen.
+Las ideas que nutren esta conversación —y la propia reflexión del narrador— provienen de un vasto "cesto" de voces y perspectivas. Aunque el diálogo haya mutado en su forma y algunas de estas referencias no se citen explícitamente en el cuerpo principal del texto, la profundidad de su pensamiento permea cada línea. La lista es larga y un poco obscena, pero si querés tirar del hilo, acá está.
 
 - Philippe Pignarre e Isabelle Stengers, [*La sorcellerie capitaliste: Pratiques de désenvoûtement*](https://www.editionsladecouverte.fr/la_sorcellerie_capitaliste-9782707147813), Éditions La Découverte, 2005. Traducción al inglés: *Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011.
 - Ali Rahimi, ["Machine Learning has become Alchemy"](https://www.youtube.com/watch?v=x7psGHgatGM), NIPS 2017 Test-of-Time Award.

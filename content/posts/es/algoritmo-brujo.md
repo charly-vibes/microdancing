@@ -150,17 +150,17 @@ Se tomó el cortado de un trago, como si fuera un whisky y la conversación hubi
 
 Se fue sin pagar el cortado[^cortado].
 
-[^libro]: *La sorcellerie capitaliste: Pratiques de désenvoûtement*, de Isabelle Stengers y Philippe Pignarre. Publicado por Éditions La Découverte. Un libro que en la contratapa promete "herramientas pragmáticas para comprender la sumisión aturdida ante lo que se presenta como inevitable", lo cual es una forma elegantísima de decir que el mundo nos está engañando pero de una manera tan sofisticada que ni siquiera nos damos cuenta de que nos están engañando.
+[^libro]: *La sorcellerie capitaliste: Pratiques de désenvoûtement*, de Isabelle Stengers y Philippe Pignarre. Publicado por Éditions La Découverte (2005). Un libro que en la contratapa promete "herramientas pragmáticas para comprender la sumisión aturdida ante lo que se presenta como inevitable", lo cual es una forma elegantísima de decir que el mundo nos está engañando pero de una manera tan sofisticada que ni siquiera nos damos cuenta de que nos están engañando.
 
 [^boca]: El boca a boca: esa tecnología milenaria de procesamiento de información que funciona con café, sobremesa y la necesidad humana básica de contar cosas que nos parecieron interesantes. Requiere cero electricidad y cero datos personales. Su tasa de error es altísima pero la experiencia de usuario es insuperable.
 
 [^anteojos]: Los anteojos como instrumento de puntuación son un fenómeno poco estudiado. Ponérselos equivale a un punto y aparte. Sacárselos, a puntos suspensivos. Mirarlos con desconfianza es, claramente, un signo de interrogación.
 
-[^sorcellerie]: El título original en francés: *La sorcellerie capitaliste*. Hay una traducción al inglés (*Capitalist Sorcery: Breaking the Spell*) pero al español parece que nadie se animó todavía. Quizás porque "brujería capitalista" suena a título de novela de Laiseca y los editores tienen miedo de que la gente la busque en la sección de ficción.
+[^sorcellerie]: El título original en francés: *La sorcellerie capitaliste*. Hay una traducción al inglés (*Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011, traducción de Andrew Goffey) pero al español parece que nadie se animó todavía. Quizás porque "brujería capitalista" suena a título de novela de Laiseca y los editores tienen miedo de que la gente la busque en la sección de ficción.
 
 [^denuncia]: Esta idea martilló la cabeza durante días. La denuncia como gesto impotente. Todos sabemos que el sistema es injusto. Lo sabemos mientras hacemos la cola en el supermercado, mientras pagamos el alquiler que subió otro 30%, mientras miramos el telé que nos cuenta el horror del día. Y sin embargo. Y sin embargo.
 
-[^rahimi]: Ali Rahimi, conferencia NIPS 2017. El discurso le valió el Premio Test-of-Time. Yann LeCun, que es una especie de papa de la inteligencia artificial, se enojó bastante. Pero Rahimi no estaba diciendo que la IA no funcionara. Estaba diciendo que funciona y nadie sabe bien por qué, lo cual, si uno lo piensa con calma, es bastante más aterrador que si directamente no funcionara.
+[^rahimi]: Ali Rahimi, conferencia NIPS 2017. El [discurso](https://www.youtube.com/watch?v=x7psGHgatGM) le valió el Premio Test-of-Time. Yann LeCun, que es una especie de papa de la inteligencia artificial, [se enojó bastante](https://syncedreview.com/2017/12/12/lecun-vs-rahimi-has-machine-learning-become-alchemy/). Pero Rahimi no estaba diciendo que la IA no funcionara. Estaba diciendo que funciona y nadie sabe bien por qué, lo cual, si uno lo piensa con calma, es bastante más aterrador que si directamente no funcionara.
 
 [^cajanegra]: Luciano Floridi, filósofo de Oxford, sugiere que tal vez nunca podamos abrir la caja negra completamente. Que la sociedad debe aprender a gestionar tecnologías que son *ontológicamente* opacas. Como aceptar que hay fuerzas que gobiernan tu vida y que no podés entender. En cualquier otro siglo a eso le habrían dicho religión.
 
@@ -172,10 +172,26 @@ Se fue sin pagar el cortado[^cortado].
 
 [^varoufakis]: Yanis Varoufakis, el economista griego que fue ministro de Finanzas durante la crisis de 2015 y se negó a aceptar la austeridad que le impuso la troika europea. Después escribió varios libros donde básicamente dice que el capitalismo ya murió pero lo que lo reemplazó es peor. El concepto de *tecnofeudalismo* lo desarrolla en *Technofeudalism: What Killed Capitalism* (2023).
 
-[^fantasma]: El concepto de *Ghost Work* (Trabajo Fantasma) es de Mary L. Gray y Siddharth Suri, que investigaron la infraestructura humana invisible que sostiene los servicios de IA. El título completo del libro es *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass*. Spoiler: Silicon Valley no paró.
+[^fantasma]: El concepto de *Ghost Work* (Trabajo Fantasma) es de Mary L. Gray y Siddharth Suri, que investigaron la infraestructura humana invisible que sostiene los servicios de IA. El título completo del libro es *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass* (Houghton Mifflin Harcourt, 2019). Spoiler: Silicon Valley no paró.
 
 [^vulnerabilidad]: Esta parte cuesta. La idea de que reconocer la debilidad es un acto de fuerza. Vivimos tan entrenados en la pose de quien entiende todo, que sabe cómo funciona el mundo y no le afecta, que admitir *esto me da miedo* suena casi obsceno. Pero es lo que hay.
 
 [^abduccion]: Charles Sanders Peirce, el filósofo pragmatista americano, describió la abducción como la tercera forma de razonamiento, además de la deducción y la inducción. Es la que usamos cuando algo nos sorprende y tenemos que inventar una explicación nueva. Es lo que hace un detective, un artista, un científico en el momento del eureka. Es, básicamente, lo que un algoritmo no puede hacer porque solo trabaja con lo que ya vio.
 
 [^cortado]: No pagué yo tampoco. El mozo nos miró irse y se encogió de hombros con una resignación que sugería que esto pasaba seguido. Dejé plata por los dos cortados y una propina que no compensaba nada pero al menos reconocía la existencia de otra pequeña mano invisible.
+
+---
+
+### Fuentes y madrigueras
+
+Para quien quiera seguir tirando del hilo, estos son los textos que orbitan alrededor de esta conversación. Algunos se mencionan arriba, otros son el subsuelo del que salieron las ideas.
+
+- Philippe Pignarre e Isabelle Stengers, [*La sorcellerie capitaliste: Pratiques de désenvoûtement*](https://www.editionsladecouverte.fr/la_sorcellerie_capitaliste-9782707147813), Éditions La Découverte, 2005. Traducción al inglés: *Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011.
+- Ali Rahimi, ["Machine Learning has become Alchemy"](https://www.youtube.com/watch?v=x7psGHgatGM), NIPS 2017 Test-of-Time Award.
+- Yanis Varoufakis, *Technofeudalism: What Killed Capitalism*, Bodley Head, 2023.
+- Mary L. Gray y Siddharth Suri, *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass*, Houghton Mifflin Harcourt, 2019.
+- Nick Srnicek, [*Platform Capitalism*](https://www.wiley.com/en-us/Platform+Capitalism-p-9781509504862), Polity Press, 2017.
+- Luciano Floridi, sobre la opacidad ontológica de la IA. Ver: ["Escaping AI's Magic Black Box"](https://www.americanscientist.org/article/escaping-ai%E2%80%99s-magic-black-box), *American Scientist*.
+- Slavoj Žižek, *Like a Thief in Broad Daylight: Power in the Era of Post-Human Capitalism*, Allen Lane, 2018.
+- Antoinette Rouvroy, sobre [gubernamentalidad algorítmica](http://etheses.dur.ac.uk/14493/1/D'Amato%2C_P._-_Stratoanalysis_of_the_Digital.pdf?DDD36+) y el fin del sujeto de derecho.
+- ["The Incomputable and Instrumental Possibility"](https://www.e-flux.com/journal/77/76322/the-incomputable-and-instrumental-possibility), *e-flux* Journal #77. Sobre lo que los algoritmos no pueden calcular y por qué eso importa.

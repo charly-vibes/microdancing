@@ -172,7 +172,7 @@ Se fue sin pagar el cortado[^cortado].
 
 Me quedé un rato en la mesa vacía. El mozo levantó la taza del otro lado sin preguntar. En la pantalla apagada del televisor se reflejaba el salón entero: las mesas de fórmica, el mostrador, una persona sentada sola con una servilleta llena de garabatos. Saqué el celular del bolsillo. Lo miré. Lo guardé sin abrir nada.
 
-Afuera la ciudad seguía funcionando con la eficiencia de algo que no necesita que nadie lo entienda para seguir andando.
+Afuera la ciudad seguía funcionando con la eficiencia de algo que no necesita que nadie lo entienda para seguir andando[^urgencia].
 
 [^muleta]: La muleta: esa cosa que uno empieza a usar temporalmente y termina siendo parte del cuerpo. Primero fue el corrector ortográfico, después el traductor, después pedirle a la máquina que "mejore la redacción". En algún momento dejé de saber si lo que escribo es mío o es una versión corregida de mí. Y lo peor no es la duda: es que la mayoría de las veces la versión corregida suena mejor.
 
@@ -211,6 +211,8 @@ Afuera la ciudad seguía funcionando con la eficiencia de algo que no necesita q
 [^crawford]: Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*, Yale University Press, 2021. Un libro que te obliga a mirar la factura de luz del futuro que nos vendieron. Spoiler: la paga el planeta y la cobran cinco empresas.
 
 [^cortado]: Dejé plata por los dos cortados y una propina que no compensaba nada pero al menos reconocía la existencia de otra pequeña mano invisible. El mozo la juntó sin contar. Probablemente esto pasaba seguido.
+
+[^urgencia]: Este texto llevaba días juntando polvo en la carpeta de borradores. Lo que lo sacó de ahí fue un artículo de Matt Shumer, un emprendedor de Silicon Valley, titulado [*Something Big Is Happening*](https://shumer.dev/something-big-is-happening). El artículo dice, en resumen: la IA ya muestra juicio propio, la ventana para adaptarse se cierra, dedicale una hora por día, pagá el modelo premium, ahorrá plata. Urgencia sin pregunta. Oportunidad sin costo visible. Ni una línea sobre quién etiqueta los datos, quién paga la factura de luz planetaria, ni por qué la única respuesta posible es individual. Es, involuntariamente, el ejemplo perfecto de lo que la persona del café llamaría el hechizo funcionando a la perfección: el miedo disfrazado de entusiasmo, la alternativa infernal presentada como consejo de amigo. Cuando lo leí supe que este texto no podía seguir juntando polvo.
 
 ---
 

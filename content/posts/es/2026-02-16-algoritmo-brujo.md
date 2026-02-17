@@ -6,7 +6,7 @@ translations:
   en: /en/posts/the-sorcerer-algorithm.html
 ---
 
-Bajando del tren en Belgrano R me agarró algo que todavía no sé si fue miedo o vergüenza. Probablemente las dos cosas. Al bajar del tren la gente se abalanzó como la estampida que mató a Mufasa hacia la salida, y en esos segundos entre tocar la plataforma y que te arrastre la manada alcancé a ver —no, alcancé a *sentir que me veían*— un cartel de un proveedor de internet diciendo algo como *dejá que el Algoritmo decida por vos*. El cartel tenía un ojo ilustrado, enorme, celeste corporativo, puesto a la altura exacta de la cara de alguien que baja de un tren. Alguien lo diseñó así. Alguien cobró por eso. Y alguien —concretamente, esa misma mañana— le había pedido a una inteligencia artificial que revisara un texto antes de mandarlo[^muleta].
+Bajando del tren me agarró algo que todavía no sé si fue miedo o vergüenza. Probablemente las dos cosas. Al bajar del tren la gente se abalanzó como la estampida que mató a Mufasa hacia la salida, y en esos segundos entre tocar la plataforma y que te arrastre la manada alcancé a ver —no, alcancé a *sentir que me veían*— un cartel de un proveedor de internet diciendo algo como *dejá que el Algoritmo decida por vos*. El cartel tenía un ojo ilustrado, enorme, celeste corporativo, puesto a la altura exacta de la cara de alguien que baja de un tren. Alguien lo diseñó así. Alguien cobró por eso. Y alguien —concretamente, esa misma mañana— le había pedido a una inteligencia artificial que revisara un texto antes de mandarlo[^muleta].
 
 La vergüenza duró lo que dura cruzar un molinete. El miedo, en cambio, se quedó.
 
@@ -20,11 +20,11 @@ No podía armarlo en algo coherente. Se me ocurrió hacer picada de estas ideas 
 
 ---
 
-Lo que salió de la Choricera era un bodoque de texto académico con más citas al pie que el Código Civil. Ilegible, como esos prospectos de medicamentos que nadie lee pero que si los leyeras te darían más miedo que la enfermedad. Le había pedido claridad a la máquina y la máquina devolvió un ladrillo. Pero entre el ruido había nombres, conceptos, hilos que tiraban hacia algún lado. Una especie de mapa del miedo que venía sintiendo desde Belgrano R, dibujado por algo que no siente miedo.
+Lo que salió de la Choricera era un bodoque de texto académico con más citas al pie que el Código Civil. Ilegible, como esos prospectos de medicamentos que nadie lee pero que si los leyeras te darían más miedo que la enfermedad. Le había pedido claridad a la máquina y la máquina devolvió un ladrillo. Pero entre el ruido había nombres, conceptos, hilos que tiraban hacia algún lado. Una especie de mapa del miedo que venía sintiendo desde el andén, dibujado por algo que no siente miedo.
 
-No alcanzaba con el mapa. Hacía falta alguien que supiera leerlo. Alguien de carne, que hablara en criollo.
+No alcanzaba con el mapa. Hacía falta alguien que supiera leerlo. Alguien de carne, que hablara en cristiano.
 
-El contacto llegó por el boca a boca[^boca]. Alguien que vende libros usados en Parque Centenario conocía a alguien que conocía a alguien. La cadena terminó en una indicación: café de Medrano, mesa del fondo, cualquier tarde después de las cinco.
+El contacto llegó por el boca a boca[^boca]. Alguien que vende libros usados en un parque conocía a alguien que conocía a alguien. La cadena terminó en una indicación: un café de barrio, mesa del fondo, cualquier tarde después de las cinco.
 
 El café era uno de esos que sobreviven por costumbre y no por mérito. Mesas de fórmica con las patas desparejas, un mozo que te mira como si le debieras plata de otra vida, una tele apagada que presidía el salón como un altar en desuso. Debajo de la tele, la mesa del fondo: pilas de papeles, un cortado que parecía llevar ahí desde el turno anterior y, detrás de todo eso, alguien de pelo canoso y anteojos de marco grueso que se sacaba y se ponía como para puntuar sus propias frases[^anteojos].
 
@@ -54,7 +54,7 @@ Silencio. El mozo pasó entre las mesas arrastrando un trapo sucio.
 
 —El hechizo funciona porque te pone en un estado... los franceses le dicen *sidération*. Parálisis. No podés reaccionar. Solo podés adaptarte.
 
-Pensé en el andén de Belgrano R. La manada bajando del tren, todos con el teléfono en la mano, esquivando al de adelante sin levantar la vista. Nadie miraba el cartel pero el cartel ya estaba adentro de todos.
+Pensé en el andén. La manada bajando del tren, todos con el teléfono en la mano, esquivando al de adelante sin levantar la vista. Nadie miraba el cartel pero el cartel ya estaba adentro de todos.
 Me dejó la prosa más limpia y a mí más sucio.
 
 **—Bueno, pero eso se puede decir más simple: el capitalismo es malo. Listo. ¿Para qué necesitamos a dos franceses?**

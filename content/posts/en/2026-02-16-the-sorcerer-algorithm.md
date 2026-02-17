@@ -6,7 +6,7 @@ translations:
   es: /es/posts/algoritmo-brujo.html
 ---
 
-Getting off the train at Belgrano R, I was seized by something I still can't tell if it was fear or shame. Probably both. When you get off a train in Buenos Aires, people rush towards the exit like the stampede that killed Mufasa, and in those few seconds between touching the platform and being swept away by the herd, I managed to see—no, I managed to *feel that I was being watched* by—a poster from an internet provider saying something like *let the Algorithm decide for you*. The poster had a huge, illustrated, corporate-blue eye, placed at the exact height of the face of someone getting off a train. Someone designed it that way. Someone got paid for it. And someone—specifically, that very morning—had asked an artificial intelligence to review a text before sending it[^muleta].
+Getting off the train, I was seized by something I still can't tell if it was fear or shame. Probably both. When you get off a train, people rush towards the exit like the stampede that killed Mufasa, and in those few seconds between touching the platform and being swept away by the herd, I managed to see—no, I managed to *feel that I was being watched* by—a poster from an internet provider saying something like *let the Algorithm decide for you*. The poster had a huge, illustrated, corporate-blue eye, placed at the exact height of the face of someone getting off a train. Someone designed it that way. Someone got paid for it. And someone—specifically, that very morning—had asked an artificial intelligence to review a text before sending it[^muleta].
 
 The shame lasted as long as it takes to cross a turnstile. The fear, however, stayed.
 
@@ -20,11 +20,11 @@ I couldn't put it together into anything coherent. It occurred to me to chop up 
 
 ---
 
-What came out of the Sausage-Maker was a brick of academic text with more footnotes than the Civil Code. Unreadable, like those medicine leaflets that nobody reads but if you did, they'd scare you more than the disease itself. I had asked the machine for clarity and the machine returned a brick. But amidst the noise, there were names, concepts, threads to pull on. A kind of map of the fear I had been feeling since Belgrano R, drawn by something that doesn't feel fear.
+What came out of the Sausage-Maker was a brick of academic text with more footnotes than the Civil Code. Unreadable, like those medicine leaflets that nobody reads but if you did, they'd scare you more than the disease itself. I had asked the machine for clarity and the machine returned a brick. But amidst the noise, there were names, concepts, threads to pull on. A kind of map of the fear I had been feeling since the platform, drawn by something that doesn't feel fear.
 
 The map wasn't enough. I needed someone who knew how to read it. Someone of flesh and blood, who spoke plainly.
 
-The contact came through word of mouth[^boca]. Someone who sells used books in Parque Centenario knew someone who knew someone. The chain ended with a set of directions: a café on Medrano, the table in the back, any afternoon after five.
+The contact came through word of mouth[^boca]. Someone who sells used books in a park knew someone who knew someone. The chain ended with a set of directions: a neighborhood café, the table in the back, any afternoon after five.
 
 The café was one of those that survive out of habit, not merit. Formica tables with uneven legs, a waiter who looks at you as if you owe him money from a past life, a turned-off TV presiding over the room like a disused altar. Below the TV, the table in the back: piles of papers, a cortado that seemed to have been there since the previous shift, and behind it all, someone with graying hair and thick-rimmed glasses that they took on and off as if to punctuate their own sentences[^anteojos].
 
@@ -54,7 +54,7 @@ Silence. The waiter passed between the tables, dragging a dirty cloth.
 
 —The spell works because it puts you in a state... the French call it *sidération*. Paralysis. You can't react. You can only adapt.
 
-I thought of the platform at Belgrano R. The herd getting off the train, all with phones in hand, dodging the person in front without looking up. No one looked at the poster, but the poster was already inside everyone.
+I thought of the platform. The herd getting off the train, all with phones in hand, dodging the person in front without looking up. No one looked at the poster, but the poster was already inside everyone.
 It left my prose cleaner and me dirtier.
 
 **—Okay, but you can say that more simply: capitalism is bad. Done. Why do we need two French authors?**

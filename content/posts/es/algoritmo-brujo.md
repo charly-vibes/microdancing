@@ -6,7 +6,7 @@ translations:
   en: /en/the-sorcerer-algorithm
 ---
 
-Bajando del tren en Belgrano R me agarró algo que todavía no sé si fue miedo o vergüenza. Probablemente las dos cosas, que en el fondo son la misma cosa disfrazada. Es muy común en CABA que al bajar de un tren la gente se abalance como la estampida que mató a Mufasa hacia la salida, y en esos segundos entre tocar la plataforma y que te arrastre la manada alcancé a ver —no, alcancé a *sentir que me veían*— un cartel de propaganda de un proveedor de internet diciendo algo como *dejá que el Algoritmo decida por vos*. El cartel tenía un ojo ilustrado, enorme, celeste corporativo, puesto a la altura exacta de la cara de alguien que baja de un tren. Alguien lo diseñó así. Alguien cobró por eso. Y alguien —concretamente, esa misma mañana— le había pedido a una inteligencia artificial que revisara un texto antes de mandarlo, porque ya no confiaba en la propia capacidad de escribir sin muleta[^muleta].
+Bajando del tren en Belgrano R me agarró algo que todavía no sé si fue miedo o vergüenza. Probablemente las dos cosas. Al bajar del tren la gente se abalanzó como la estampida que mató a Mufasa hacia la salida, y en esos segundos entre tocar la plataforma y que te arrastre la manada alcancé a ver —no, alcancé a *sentir que me veían*— un cartel de un proveedor de internet diciendo algo como *dejá que el Algoritmo decida por vos*. El cartel tenía un ojo ilustrado, enorme, celeste corporativo, puesto a la altura exacta de la cara de alguien que baja de un tren. Alguien lo diseñó así. Alguien cobró por eso. Y alguien —concretamente, esa misma mañana— le había pedido a una inteligencia artificial que revisara un texto antes de mandarlo[^muleta].
 
 La vergüenza duró lo que dura cruzar un molinete. El miedo, en cambio, se quedó.
 
@@ -16,19 +16,19 @@ Había un libro. Encontrado meses antes en un descuido, en un estante bien abajo
 
 Y fue cuando todo se volvió uno solo: el libro, el ojo, la abuela, mi hermana, yo pidiéndole a una máquina que me corrigiera la prosa. Algo raro ya había salido de su crisálida y se había esparcido entre nosotros volviéndonos sus secuaces.
 
-No podía armarlo en algo coherente. Se me ocurrió hacer picada de estas ideas y meterlas en la Choricera Artificial —sí, la misma máquina que daba vergüenza usar esa mañana, porque la coherencia es un lujo que a veces no se puede dar— para ver qué salía. Como los chorizos hacen mal si los comemos crudos, los tiré a la parri para que el fuego mate lo que corresponda. Agarren su pan, ahí tienen el chimi... y tómense un vino para que no les caiga pesado.
+No podía armarlo en algo coherente. Se me ocurrió hacer picada de estas ideas y meterlas en la Choricera Artificial —sí, la misma máquina que daba vergüenza usar esa mañana, porque la coherencia es un lujo que a veces no se puede dar— para ver qué salía.
 
 ---
 
-Lo que salió de la Choricera era un bodoque de texto académico con más citas al pie que el Código Civil. Ilegible, como esos prospectos de medicamentos que nadie lee pero que si los leyeras te darían más miedo que la enfermedad. Le había pedido claridad a la máquina y la máquina devolvió un ladrillo. Pero entre el ruido había nombres, conceptos, hilos que tiraban hacia algún lado. Una especie de mapa del miedo que venía sintiendo desde Belgrano R, dibujado por algo que no siente miedo, lo cual ya de por sí es perturbador si uno se detiene a pensarlo.
+Lo que salió de la Choricera era un bodoque de texto académico con más citas al pie que el Código Civil. Ilegible, como esos prospectos de medicamentos que nadie lee pero que si los leyeras te darían más miedo que la enfermedad. Le había pedido claridad a la máquina y la máquina devolvió un ladrillo. Pero entre el ruido había nombres, conceptos, hilos que tiraban hacia algún lado. Una especie de mapa del miedo que venía sintiendo desde Belgrano R, dibujado por algo que no siente miedo.
 
-No alcanzaba con el mapa. Hacía falta alguien que supiera leerlo. Alguien de carne, que hablara en criollo y que pudiera explicar por qué un libro francés sobre brujería y capitalismo tenía algo que decir sobre un cartel de internet y una abuela repitiendo *el Algoritmo* como un mantra.
+No alcanzaba con el mapa. Hacía falta alguien que supiera leerlo. Alguien de carne, que hablara en criollo.
 
-El contacto llegó por el boca a boca, que es la única red social que todavía funciona sin algoritmo[^boca]. Alguien que vende libros usados en Parque Centenario conocía a alguien que conocía a alguien. La cadena terminó en una indicación: café de Medrano, mesa del fondo, cualquier tarde después de las cinco.
+El contacto llegó por el boca a boca[^boca]. Alguien que vende libros usados en Parque Centenario conocía a alguien que conocía a alguien. La cadena terminó en una indicación: café de Medrano, mesa del fondo, cualquier tarde después de las cinco.
 
 El café era uno de esos que sobreviven por costumbre y no por mérito. Mesas de fórmica con las patas desparejas, un mozo que te mira como si le debieras plata de otra vida, una tele apagada que presidía el salón como un altar en desuso. Debajo de la tele, la mesa del fondo: pilas de papeles, un cortado que parecía llevar ahí desde el turno anterior y, detrás de todo eso, alguien de pelo canoso y anteojos de marco grueso que se sacaba y se ponía como para puntuar sus propias frases[^anteojos].
 
-Lo primero que dijo, antes de saludar, fue que no grabara. Que la voz grabada siempre suena a otra persona y que después uno termina discutiendo con su propia voz en vez de con las ideas. Lo segundo fue que si venía a buscar soluciones me fuera ahora porque soluciones no tenía. Tenía preguntas. Algunas bastante incómodas.
+Lo primero que dijo, antes de saludar, fue que no grabara. Lo segundo fue que si venía a buscar soluciones me fuera ahora porque soluciones no tenía. Tenía preguntas. Algunas bastante incómodas.
 
 Me quedé.
 
@@ -44,62 +44,62 @@ Se acomodó los anteojos. Los puso. Los sacó. Los volvió a poner. Parecía est
 
 **—¿Brujería? ¿En serio? ¿Con velas y todo?**
 
-—Sin velas. Sin brujo, incluso. Esa es la parte que cuesta entender. —Se inclinó sobre la mesa.— Es un sistema que captura, que atrapa, que paraliza la capacidad de pensar. Y funciona *sin* que nadie lo controle centralmente. No hay un gran brujo sentado en una silla moviendo los hilos. Hay una red de prácticas, de incentivos, de miedos, que funcionan solas. ¿Vos alguna vez hiciste algo sin saber por qué? ¿Compraste algo que no necesitabas, aceptaste un trabajo que te hacía mal, abriste una app en el celular por vigésima vez en una hora?
+—Sin velas. Sin brujo, incluso. Esa es la parte que cuesta entender. —Se inclinó sobre la mesa.— Es un sistema que captura, que atrapa, que paraliza la capacidad de pensar. Y funciona *sin* que nadie lo controle centralmente. No hay un gran brujo sentado en una silla moviendo los hilos. Hay una red de prácticas, de incentivos, de miedos, que funcionan solas. ¿Vos alguna vez hiciste algo sin saber por qué? ¿Aceptaste un trabajo que te hacía mal, abriste una app por vigésima vez en una hora?
 
 **—Eso suena a conspiración sin conspiradores.**
 
 —Si necesitás conspiradores para tomártelo en serio, el hechizo ya te agarró.
 
-Silencio. El mozo pasó entre las mesas arrastrando un trapo sucio como si limpiara más por costumbre que por resultado.
+Silencio. El mozo pasó entre las mesas arrastrando un trapo sucio.
 
-—El hechizo funciona porque te pone en un estado... los franceses le dicen *sidération*. Parálisis. Es cuando te congelás ante algo. No podés reaccionar. No podés pensar. Solo podés adaptarte.
+—El hechizo funciona porque te pone en un estado... los franceses le dicen *sidération*. Parálisis. No podés reaccionar. Solo podés adaptarte.
 
-Pensé en el andén de Belgrano R. En la manada bajando del tren, todos con el teléfono en la mano, esquivando al de adelante sin levantar la vista. Nadie miraba el cartel pero el cartel ya estaba adentro de todos. Y pensé en la propia mañana, pidiéndole a una máquina que revisara un texto. Adaptándome.
+Pensé en el andén de Belgrano R. La manada bajando del tren, todos con el teléfono en la mano, esquivando al de adelante sin levantar la vista. Nadie miraba el cartel pero el cartel ya estaba adentro de todos.
 Me dejó la prosa más limpia y a mí más sucio.
 
 **—Bueno, pero eso se puede decir más simple: el capitalismo es malo. Listo. ¿Para qué necesitamos a dos franceses?**
 
 No sonrió. Levantó el cortado, lo miró como si le encontrara un defecto, lo dejó.
 
-—Porque la denuncia no alcanza. Y esto te va a molestar, pero escuchame: si bastara con denunciar el horror, el capitalismo habría caído hace rato. Todo el mundo sabe que hay explotación, que hay desigualdad, que el sistema es injusto. Lo sabemos. ¿Y? Ahí sigue. Vos lo sabés y esta mañana le pediste a una inteligencia artificial que te corrigiera un texto, ¿o no?
+—Porque la denuncia no alcanza. Y esto te va a molestar, pero escuchame: si bastara con denunciar el horror, el capitalismo habría caído hace rato. Todo el mundo sabe que hay explotación, que el sistema es injusto. Lo sabemos. ¿Y? Ahí sigue. Vos lo sabés y esta mañana le pediste a una inteligencia artificial que te corrigiera un texto, ¿o no?
 
-No le había contado eso. O alguien le había contado. O era una de esas balas que se tiran al aire y dan en el blanco por pura estadística.
+No le había contado eso. O alguien le había contado. O era una bala al aire que dio en el blanco.
 
-—Lo que estos dos proponen —siguió, sin esperar respuesta— es tomar en serio *cómo* sigue funcionando el sistema. No el qué, sino el cómo. Y el cómo es la captura. Te atrapa, te deja sin capacidad de reacción. Como un hechizo[^denuncia].
+—Lo que estos dos proponen es tomar en serio *cómo* sigue funcionando el sistema. No el qué, sino el cómo. Y el cómo es la captura. Te atrapa, te deja sin capacidad de reacción. Como un hechizo[^denuncia].
 
 **—¿Y qué tiene que ver la Inteligencia Artificial con la brujería?**
 
-La taza fue depositada sobre el plato con un cuidado que parecía venir de muy lejos. La mirada no se dirigió a mí, sino a la calle, a la gente que pasaba.
+Dejó la taza. Miró la calle.
 
 —La brujería es una buena historia. Tiene un villano claro. Pero las buenas historias a veces son trampas. Te hacen buscar un héroe que mate al brujo. Y mientras buscás al héroe, no te das cuenta de que el problema es el cuento entero.
 
-Hubo una pausa, como si se eligieran las palabras de una bolsa llena de cosas dispares.
+Hubo una pausa.
 El mozo dejó un plato que nadie pidió y se fue sin mirar.
 
-—Prefiero otro cuento. El de la bolsa, el del cesto. Durante años, hemos estado tirando todo adentro de una bolsa digital gigante: nuestros libros, nuestras conversaciones, nuestros dibujos, nuestras pesadillas, nuestras listas del súper. Todo junto, sin orden. Y ahora la bolsa aprendió a hablar. Y nos devuelve lo que le dimos, pero mezclado, rehecho. ¿Es inteligente? No sé si es la palabra. Una compostera también transforma los desechos en algo nuevo y no decimos que es inteligente. Simplemente, *hace*.
+—Prefiero otro cuento. El de la bolsa, el del cesto. Durante años, hemos estado tirando todo adentro de una bolsa digital gigante: nuestros libros, nuestras pesadillas, nuestras listas del súper. Todo junto, sin orden. Y ahora la bolsa aprendió a hablar. Y nos devuelve lo que le dimos, pero mezclado, rehecho. ¿Es inteligente? No sé si es la palabra. Una compostera también transforma los desechos en algo nuevo y no decimos que es inteligente. Simplemente, *hace*.
 
 **—Pero la gente que la fabricó debe saber cómo funciona.**
 
-—Saben ponerla en marcha. Como quien sabe la fórmula para que el compost fermente. Pero no entienden el resultado final. Una línea de investigación la llamó alquimia[^rahimi]. Otra, más práctica, habló de *loros estocásticos*[^gebru]. Loros que repiten patrones de una selva de datos tan inmensa que su eco parece una conciencia. Me gusta esa imagen. El problema es que los dueños de los loros los venden como si fueran oráculos. Y se expulsó del escenario a quien advirtió que el supuesto oráculo era un loro. Como en los cuentos viejos. La caja negra se volvió santuario[^cajanegra]. Y cuando decide qué se ve, hasta una búsqueda inocente devuelve mugre[^noble].
+—Saben ponerla en marcha. Como quien sabe la fórmula para que el compost fermente. Pero no entienden el resultado final. Una línea de investigación la llamó alquimia[^rahimi]. Otra, más práctica, habló de *loros estocásticos*[^gebru]. Loros que repiten patrones de una selva de datos tan inmensa que su eco parece una conciencia. El problema es que los dueños de los loros los venden como si fueran oráculos. Y se expulsó del escenario a quien advirtió que el supuesto oráculo era un loro. Como en los cuentos viejos. La caja negra se volvió santuario[^cajanegra]. Y cuando decide qué se ve, hasta una búsqueda inocente devuelve mugre[^noble].
 
 **—Pero es un loro que funciona. Que crea cosas. ¿Eso no alcanza?**
 
-—"Crear" es otra palabra-trampa. Es la historia del héroe otra vez. El dios que crea de la nada. Esta máquina no crea, recombina. Teje con hilos que no son suyos. El problema es que al llamarlo "creación" o "inteligencia", hacemos desaparecer los hilos y las manos que los hilaron. El trabajo de millones de escritores, artistas, traductores. Y el trabajo de los otros, de los que limpian la bolsa por dentro. Gente a la que le pagan para mirar las cosas más horribles que producimos, para que el loro no aprenda a decir esas palabras en público. La máquina no es inteligente, está subcontratando su conciencia a los países pobres. Es el fetiche con interfaz de chat[^fetiche].
+—"Crear" es otra palabra-trampa. Es la historia del héroe otra vez. El dios que crea de la nada. Esta máquina no crea, recombina. Teje con hilos que no son suyos. El problema es que al llamarlo "creación" o "inteligencia", hacemos desaparecer los hilos y las manos que los hilaron. Millones de escritores, artistas, traductores. Y los que limpian la bolsa por dentro: gente a la que le pagan para mirar lo peor que producimos. La máquina no es inteligente, está subcontratando su conciencia a los países pobres. Es el fetiche con interfaz de chat[^fetiche].
 Yo igual le digo gracias, por educación o por miedo, todavía no sé.
 
 **—Mi hermana dice que si no aprendo a usarla, me quedo afuera.**
 
-—Tu hermana está repitiendo el final del cuento que nos están contando. —La mirada, ahora sí, se clavó en mí, con el brillo divertido de quien ha visto muchas historias repetirse—. Es un cuento muy viejo. El del Progreso. El del Tren que no podés perder. Te dan dos opciones: subirte al tren o quedarte en el andén para siempre. Pero nadie pregunta a dónde va el tren, quién lo conduce, ni quién puso las vías. Y sobre todo, nadie pregunta: ¿y si no queremos ir en tren? ¿Si preferimos caminar, o construir una canoa?
+—Tu hermana está repitiendo el final del cuento que nos están contando. —Me miró—. Es un cuento muy viejo. El del Progreso. El del Tren que no podés perder. Te dan dos opciones: subirte al tren o quedarte en el andén para siempre. Pero nadie pregunta a dónde va el tren, quién lo conduce, ni quién puso las vías. Y sobre todo, nadie pregunta: ¿y si no queremos ir en tren? ¿Si preferimos caminar?
 
 **—Suena a que no hay salida. O te subís o te pisan.**
 
-—Suena así porque estás aceptando el cuento de ellos. El truco no es ganarles en su propio juego. El truco es empezar a contar una historia diferente. Una historia más rara, más lenta, más sucia. Una donde la tecnología no sea una lanza para conquistar el futuro, sino una bolsa para llevar cosas útiles. Una historia donde "eficiencia" no sea la única virtud. La resistencia no es una batalla, es un acto de imaginación.
+—Suena así porque estás aceptando el cuento de ellos. El truco no es ganarles en su propio juego. El truco es empezar a contar una historia diferente. Una historia más rara, más lenta, más sucia. Una donde la tecnología no sea una lanza para conquistar el futuro, sino una bolsa para llevar cosas útiles. La resistencia no es una batalla, es un acto de imaginación.
 
-No dijo nada más. Por la ventana del café pasó un tipo hablándole al teléfono con una intensidad que sugería que el teléfono le importaba más que la vereda. Casi se lleva puesto un poste. Lo señaló con la cucharita sin decir una palabra.
+No dijo nada más. Por la ventana del café pasó un tipo hablándole al teléfono. Casi se lleva puesto un poste. Lo señaló con la cucharita sin decir una palabra.
 
 El silencio se estiró. Escribí algo en la servilleta —*no hay salida*— y después lo taché. Pero tacharlo no lo borraba.
 
-—Lo importante —retomó, como si el silencio hubiera sido parte del argumento— es entender que la alternativa infernal es *verdadera* dentro de las coordenadas del sistema[^infernal]. Si vos individualmente rechazás la IA, efectivamente corrés riesgo. Pero esas coordenadas fueron construidas. No son leyes de la naturaleza. Son decisiones políticas y económicas disfrazadas de inevitabilidad. La privacidad funciona igual: o cedés datos o quedás afuera[^privacidad].
+—Lo importante —retomó— es entender que la alternativa infernal es *verdadera* dentro de las coordenadas del sistema[^infernal]. Si vos individualmente rechazás la IA, efectivamente corrés riesgo. Pero esas coordenadas fueron construidas. No son leyes de la naturaleza. Son decisiones disfrazadas de inevitabilidad. La privacidad funciona igual: o cedés datos o quedás afuera[^privacidad].
 
 **—¿Y quién las construyó?**
 
@@ -115,15 +115,15 @@ Pidió otro cortado con un gesto que sugería décadas de práctica en ese mismo
 
 Se le endureció la cara.
 
-—Ahí está lo que nadie quiere ver[^fantasma]. Detrás de cada respuesta *inteligente* de ChatGPT, detrás de cada imagen de Midjourney, hay millones de horas de trabajo humano. Gente en Kenia, en Filipinas, en Venezuela, que etiqueta imágenes, filtra contenido tóxico —violencia, abuso sexual, decapitaciones— para que el producto final resulte presentable ante el Norte Global. Les pagan centavos. Absorben la toxicidad de la humanidad para que la máquina parezca limpia y neutral.
+—Ahí está lo que nadie quiere ver[^fantasma]. Detrás de cada respuesta *inteligente* de ChatGPT, detrás de cada imagen de Midjourney, hay millones de horas de trabajo humano. Gente en Kenia, en Filipinas, en Venezuela, que etiqueta imágenes, filtra contenido tóxico —violencia, abuso sexual, decapitaciones— para que el producto parezca limpio. Les pagan centavos.
 
-Sentí algo en el estómago. No metáfora: algo físico. Esa mañana le había pedido a una de esas máquinas limpias que me corrigiera un texto.
+Sentí algo en el estómago. No metáfora: algo físico.
 
-—Stengers les dice *les petites mains*. Las pequeñas manos. Sin ellas no funciona nada. Pero la brujería consiste justamente en eso: en ocultarlas. Si vieras las manos, se rompe la ilusión. Kate Crawford armó un atlas entero de todo lo que necesita una IA para funcionar[^crawford]. Minas de litio en Bolivia, centros de datos que chupan más agua que ciudades enteras, cables submarinos. La IA no es ni artificial ni inteligente: está hecha de tierra, de agua y de trabajo humano. Lo que llamamos *la nube* se parece bastante más a una mina a cielo abierto.
+—Stengers les dice *les petites mains*. Las pequeñas manos. Sin ellas no funciona nada. Pero la brujería consiste justamente en eso: en ocultarlas. Si vieras las manos, se rompe la ilusión. Kate Crawford armó un atlas entero de todo lo que necesita una IA para funcionar[^crawford]. Minas de litio en Bolivia, centros de datos que chupan más agua que ciudades enteras, cables submarinos. La IA no es ni artificial ni inteligente: está hecha de tierra, de agua y de trabajo humano. Lo que llamamos *la nube* es una mina a cielo abierto.
 
 **—¿Y los programadores? ¿Los ingenieros?**
 
-—Otra clase de pequeñas manos. Stengers les dice *minions*, secuaces. No son los dueños del capital, pero se identifican con la lógica del sistema y trabajan para perfeccionarlo. Traducen problemas sociales complejos —delincuencia, educación, salud— en problemas de optimización algorítmica. Y al hacerlo, cierran el espacio para cualquier solución que no sea tecnológica.
+—Otra clase de pequeñas manos. Stengers les dice *minions*, secuaces. No son los dueños del capital, pero se identifican con la lógica del sistema y trabajan para perfeccionarlo. Traducen problemas sociales complejos —delincuencia, educación, salud— en problemas de optimización algorítmica. Y al hacerlo, cierran el espacio para cualquier otra solución.
 
 **—Eso me incluye.**
 
@@ -137,17 +137,17 @@ Llegó el cortado. Lo revolvió despacio, como si estuviera pensando con la cuch
 
 **—¿Y entonces qué se hace? ¿Cómo se rompe un hechizo que te tiene adentro?**
 
-—Ellos le dicen *désenvoûtement*. Deshechizo. No es huir a vivir al campo ni stockear latas para el apocalipsis. Es una práctica colectiva. Lo primero es admitir que te afecta. Stengers toma esto de Starhawk, una activista neopagana: antes de hacer cualquier trabajo, se traza un círculo. Un espacio protegido. Políticamente significa: no finjas que no te afecta. Reconocé que el miedo a quedarte atrás es real, que la fascinación por la magia de la IA es real. Después, rechazar la alternativa infernal. Cuando te dicen *IA o Irrelevancia*, detenete. ¿Quién define la relevancia? ¿Quién se beneficia de esta aceleración?
+—Ellos le dicen *désenvoûtement*. Deshechizo. No es huir a vivir al campo ni stockear latas para el apocalipsis. Es una práctica colectiva. Lo primero es admitir que te afecta. Stengers toma esto de Starhawk: antes de hacer cualquier trabajo, se traza un círculo. Un espacio protegido. No finjas que no te afecta. Reconocé que el miedo a quedarte atrás es real. Después, rechazar la alternativa infernal. Cuando te dicen *IA o Irrelevancia*, detenete. ¿Quién define la relevancia? ¿Quién se beneficia de esta aceleración?
 
 **—Pero en lo concreto. Mañana a la mañana. ¿Qué hago?**
 
-Se puso los anteojos. Se los sacó. Los empujó unos centímetros sobre la mesa, como si necesitaran más espacio para respirar.
+Se puso los anteojos. Se los sacó.
 
 —Dos cosas. Una, y acá entramos en un terreno resbaladizo, es lo que se dice que los algoritmos no pueden hacer: razonamiento abductivo[^abduccion].
 
 **—¿Se dice?**
 
-—Se dice. La idea es que los algoritmos trabajan con inducción, patrones del pasado proyectados al futuro. Si pasó antes, probablemente pase de nuevo. Eso es lo *probable*. Nosotros, en cambio, podemos imaginar hipótesis que no están en los datos. Inventar explicaciones. Imaginar futuros que nunca existieron. Si el algoritmo gobierna lo probable, la resistencia tiene que operar en lo *posible*.
+—Se dice. La idea es que los algoritmos trabajan con inducción, patrones del pasado proyectados al futuro. Si pasó antes, probablemente pase de nuevo. Eso es lo *probable*. Nosotros, en cambio, podemos imaginar hipótesis que no están en los datos. Inventar futuros que nunca existieron. Si el algoritmo gobierna lo probable, la resistencia tiene que operar en lo *posible*.
 
 **—Suena bien. ¿Cuál es el terreno resbaladizo?**
 
@@ -155,15 +155,15 @@ Se puso los anteojos. Se los sacó. Los empujó unos centímetros sobre la mesa,
 
 **—Eso es hermoso pero no me sirve para el lunes.**
 
-—La otra es política y es fea. Tecnología comunitaria: modelos de IA chicos, que corran en hardware propio, entrenados con datos consensuados. Software libre. Redes federadas. Licencias que prohíban el uso de tu trabajo para entrenar IA sin consentimiento. Auditorías de impacto antes de implementar cualquier sistema. Derecho a no ser perfilado. Todo eso existe. Todo eso es posible. Pero nada de eso lo vas a hacer solo un lunes a la mañana. Es colectivo o no es nada.
+—La otra es política y es fea. Tecnología comunitaria: modelos de IA chicos que corran en hardware propio. Software libre. Redes federadas. Derecho a no ser perfilado. Todo eso existe. Todo eso es posible. Pero nada de eso lo vas a hacer solo un lunes a la mañana. Es colectivo o no es nada.
 
 **—¿Y la gente lo va a hacer?**
 
 —Eso ya no me corresponde a mí. Lo que puedo decirte es esto: *faire attention*. Hacer atención. Prestar atención...
 
-Justo en ese momento, una vibración grave y sorda se sintió sobre la mesa. Su teléfono, boca abajo. Por un instante que pareció medido con cronómetro atómico, sus ojos se desviaron del cortado a la mancha oscura de plástico y vidrio que había interrumpido su propia sentencia. La disciplina de un monje contra el reflejo de un perro. Ganó el monje, pero por puntos, no por knock-out. Volvió la vista a la taza.
+Justo en ese momento, una vibración sorda sobre la mesa. Su teléfono, boca abajo. La disciplina de un monje contra el reflejo de un perro. Ganó el monje, pero por puntos, no por knock-out. Volvió la vista a la taza.
 
-—Prestar atención de verdad —retomó, con un matiz casi imperceptible de esfuerzo, como quien retoma el hilo después de un tropezón—, en una economía que compite por capturarte el cerebro, ya es un acto político. Evaluar la IA por sus consecuencias presentes y no por sus promesas futuristas. Y solidarizarse con las pequeñas manos. Hacer visible su trabajo. Porque el día que todos sepamos que la magia funciona gracias a personas filtrando el horror del mundo para que nosotros veamos algo lindo y limpio, ese día el hechizo empieza a agrietarse.
+—Prestar atención de verdad —retomó—, en una economía que compite por capturarte el cerebro, ya es un acto político. Evaluar la IA por sus consecuencias presentes y no por sus promesas futuristas. Y solidarizarse con las pequeñas manos. Hacer visible su trabajo. Porque el día que veamos las manos, el hechizo se agrieta.
 
 Se tomó el cortado de un trago, como si fuera un whisky y la conversación hubiera sido larga de más. Juntó los papeles con la eficiencia de quien ha cerrado muchas conversaciones así. Agarró del respaldo de la silla un saco que había conocido mejores décadas y salió sin decir nada más.
 
@@ -173,7 +173,7 @@ Me quedé un rato en la mesa vacía. El mozo levantó la taza del otro lado sin 
 
 Saqué el celular del bolsillo. El pulgar, por puro músculo, ya estaba a medio camino del ícono azul de Twitter. O X. O como se llame esta semana. Lo detuve. No fue un acto de voluntad heroica. Fue más bien cansancio. La fatiga de saber que del otro lado del vidrio solo había una versión más rápida y ruidosa del mismo hechizo del que acababa de tomar apuntes. Abrir la app ahora se sentía como prender un cigarrillo después de una charla con el neumonólogo. Se puede hacer, claro. Casi todo el mundo lo hace. Pero el placer ya viene con el gusto de la ceniza incorporado.
 
-Guardé el teléfono. No porque hubiera ganado una batalla. Sino porque, por primera vez en mucho tiempo, el combate me pareció profundamente estúpido. Y agotador.
+Guardé el teléfono. No porque hubiera ganado una batalla. Sino porque, por primera vez en mucho tiempo, el combate me pareció estúpido. Y agotador.
 
 Afuera la ciudad seguía funcionando con la eficiencia de algo que no necesita que nadie lo entienda para seguir andando[^urgencia].
 

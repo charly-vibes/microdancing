@@ -11,6 +11,7 @@ build_post() {
     local input_file="$1"
     local lang="$2"
     local filename=$(basename "$input_file" .md)
+    filename="${filename#[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-}"
     local output_file="${OUTPUT_DIR}/${lang}/posts/${filename}.html"
 
     mkdir -p "${OUTPUT_DIR}/${lang}/posts"
@@ -30,10 +31,14 @@ build_index() {
     local posts_html=""
     local content_lang_dir="${CONTENT_DIR}/${lang}"
 
-    for post in "${content_lang_dir}"/*.md; do
+    local -a all_posts=("${content_lang_dir}"/*.md)
+    local idx
+    for ((idx=${#all_posts[@]}-1; idx>=0; idx--)); do
+        local post="${all_posts[$idx]}"
         [ -f "$post" ] || continue
         local filename
         filename="$(basename "$post" .md)"
+        filename="${filename#[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-}"
 
         local title
         title=$(grep -m1 '^title:' "$post" | sed 's/^title: *["'\'']\{0,1\}\([^"'\'']*\)["'\'']\{0,1\} *$/\1/' || true)

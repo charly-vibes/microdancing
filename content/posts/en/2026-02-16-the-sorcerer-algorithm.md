@@ -26,9 +26,9 @@ The map wasn't enough. I needed someone who knew how to read it. Someone of fles
 
 The contact came through word of mouth[^boca]. Someone who sells used books in Parque Centenario knew someone who knew someone. The chain ended with a set of directions: a café on Medrano, the table in the back, any afternoon after five.
 
-The café was one of those that survive out of habit, not merit. Formica tables with uneven legs, a waiter who looks at you as if you owe him money from a past life, a turned-off TV presiding over the room like a disused altar. Below the TV, the table in the back: piles of papers, a cortado that seemed to have been there since the previous shift, and behind it all, someone with graying hair and thick-rimmed glasses that he took on and off as if to punctuate his own sentences[^anteojos].
+The café was one of those that survive out of habit, not merit. Formica tables with uneven legs, a waiter who looks at you as if you owe him money from a past life, a turned-off TV presiding over the room like a disused altar. Below the TV, the table in the back: piles of papers, a cortado that seemed to have been there since the previous shift, and behind it all, someone with graying hair and thick-rimmed glasses that they took on and off as if to punctuate their own sentences[^anteojos].
 
-The first thing he said, before any greeting, was not to record. The second was that if I came looking for solutions, I should leave now because he had no solutions. He had questions. Some of them quite uncomfortable.
+The first thing they said, before any greeting, was not to record. The second was that if I came looking for solutions, I should leave now because they had no solutions. They had questions. Some of them quite uncomfortable.
 
 I stayed.
 
@@ -38,13 +38,13 @@ What follows is dirty memory and napkin scribbles, that fragile proof the waiter
 
 **—Tell me something: that book they told me about, what's it about?**
 
-He adjusted his glasses. Put them on. Took them off. Put them back on. He seemed to be deciding if it was worth wasting his breath.
+They adjusted their glasses. Put them on. Took them off. Put them back on. They seemed to be deciding if it was worth wasting their breath.
 
 —It's by two French authors. Stengers and Pignarre. The book says that capitalism functions as a system of sorcery[^sorcellerie]. And before you make that face, it's not a pretty metaphor. It's an analytical tool.
 
 **—Sorcery? Seriously? With candles and everything?**
 
-—No candles. Not even a sorcerer. That's the part that's hard to understand. —He leaned over the table.— It's a system that captures, that traps, that paralyzes the ability to think. And it works *without* anyone centrally controlling it. There's no great sorcerer sitting in a chair pulling the strings. There's a network of practices, incentives, fears, that function on their own. Have you ever done something without knowing why? Accepted a job that made you miserable, opened an app for the twentieth time in an hour?
+—No candles. Not even a sorcerer. That's the part that's hard to understand. —They leaned over the table.— It's a system that captures, that traps, that paralyzes the ability to think. And it works *without* anyone centrally controlling it. There's no great sorcerer sitting in a chair pulling the strings. There's a network of practices, incentives, fears, that function on their own. Have you ever done something without knowing why? Accepted a job that made you miserable, opened an app for the twentieth time in an hour?
 
 **—That sounds like a conspiracy without conspirators.**
 
@@ -59,17 +59,17 @@ It left my prose cleaner and me dirtier.
 
 **—Okay, but you can say that more simply: capitalism is bad. Done. Why do we need two French authors?**
 
-He didn't smile. He lifted the cortado, looked at it as if finding a flaw, and put it down.
+They didn't smile. They lifted the cortado, looked at it as if finding a flaw, and put it down.
 
 —Because denunciation is not enough. And this is going to annoy you, but listen: if denouncing the horror were enough, capitalism would have fallen long ago. Everyone knows there's exploitation, that the system is unfair. We know it. And? It's still there. You know it, and this morning you asked an artificial intelligence to correct a text for you, didn't you?
 
-I hadn't told him that. Either someone else had, or it was a shot fired into the air that hit its target.
+I hadn't told them that. Either someone else had, or it was a shot fired into the air that hit its target.
 
 —What these two propose is to take seriously *how* the system continues to function. Not the what, but the how. And the how is capture. It traps you, leaves you without the ability to react. Like a spell[^denuncia].
 
 **—And what does Artificial Intelligence have to do with sorcery?**
 
-He put down the cup. He looked at the street.
+They put down the cup. They looked at the street.
 
 —Sorcery is a good story. It has a clear villain. But good stories are sometimes traps. They make you look for a hero to kill the sorcerer. And while you're looking for the hero, you don't realize that the problem is the whole story.
 
@@ -89,21 +89,21 @@ I still say thank you to it, out of politeness or fear, I'm not sure yet.
 
 **—My sister says that if I don't learn to use it, I'll be left behind.**
 
-—Your sister is repeating the end of the story they're telling us. —He looked at me—. It's a very old story. The story of Progress. Of the Train you can't miss. They give you two options: get on the train or stay on the platform forever. But no one asks where the train is going, who's driving it, or who laid the tracks. And above all, no one asks: what if we don't want to go by train? What if we prefer to walk?
+—Your sister is repeating the end of the story they're telling us. —They looked at me—. It's a very old story. The story of Progress. Of the Train you can't miss. They give you two options: get on the train or stay on the platform forever. But no one asks where the train is going, who's driving it, or who laid the tracks. And above all, no one asks: what if we don't want to go by train? What if we prefer to walk?
 
 **—It sounds like there's no way out. Either you get on or you get run over.**
 
 —It sounds like that because you're accepting their story. The trick isn't to beat them at their own game. The trick is to start telling a different story. A stranger, slower, dirtier story. One where technology isn't a spear to conquer the future, but a bag to carry useful things. Resistance isn't a battle, it's an act of imagination.
 
-He said nothing more. Through the café window, a guy walked by, talking to his phone. He almost walked into a pole. He pointed at him with his spoon without a word.
+They said nothing more. Through the café window, a guy walked by, talking to his phone. He almost walked into a pole. They pointed at him with their spoon without a word.
 
 The silence stretched. I wrote something on the napkin—*no way out*—and then crossed it out. But crossing it out didn't erase it.
 
-—The important thing —he resumed— is to understand that the infernal alternative is *true* within the system's coordinates[^infernal]. If you individually reject AI, you are indeed at risk. But those coordinates were constructed. They are not laws of nature. They are decisions disguised as inevitability. Privacy works the same way: either you give up your data or you're left out[^privacidad].
+—The important thing —they resumed— is to understand that the infernal alternative is *true* within the system's coordinates[^infernal]. If you individually reject AI, you are indeed at risk. But those coordinates were constructed. They are not laws of nature. They are decisions disguised as inevitability. Privacy works the same way: either you give up your data or you're left out[^privacidad].
 
 **—And who constructed them?**
 
-He ordered another cortado with a gesture that suggested decades of practice in that very café. The waiter registered the order without looking up.
+They ordered another cortado with a gesture that suggested decades of practice in that very café. The waiter registered the order without looking up.
 
 —Varoufakis, the Greek who was finance minister, says we're not even in capitalism anymore. That we're in a technofeudalism[^varoufakis]. The markets are dead. On Amazon, there is no free market: the feudal lord's algorithm decides what is seen, who succeeds, who goes bankrupt. Google, Microsoft, Amazon are the landlords of the digital space. And with AI, every company that integrates ChatGPT into its operations pays a perpetual cognitive tithe to Microsoft and OpenAI. It's rent. Pure and simple. The Cloud is the fiefdom and we are the serfs who produce the data for free.
 
@@ -113,7 +113,7 @@ He ordered another cortado with a gesture that suggested decades of practice in 
 
 **—And what about those who actually work? Those inside the machine.**
 
-His face hardened.
+Their face hardened.
 
 —There's what no one wants to see[^fantasma]. Behind every *intelligent* response from ChatGPT, behind every image from Midjourney, there are millions of hours of human labor. People in Kenya, in the Philippines, in Venezuela, who label images, filter toxic content—violence, sexual abuse, decapitations—so the product appears clean. They are paid cents.
 
@@ -127,13 +127,13 @@ I felt something in my stomach. Not a metaphor: something physical.
 
 **—That includes me.**
 
-He didn't answer right away. He took off his glasses. Cleaned them with the hem of his shirt. Put them back on.
+They didn't answer right away. They took off their glasses. Cleaned them with the hem of their shirt. Put them back on.
 
 —It includes all of us. Me too, here explaining the spell without being able to get out of it. The danger is believing you're outside. The cynic who says *I don't fall for that* is the most trapped of all[^vulnerabilidad].
 
 I wrote something on the napkin that I couldn't decipher later. I think it was the word *vulnerable*. Or *guilty*. The handwriting didn't help.
 
-The cortado arrived. He stirred it slowly, as if thinking with the spoon.
+The cortado arrived. They stirred it slowly, as if thinking with the spoon.
 
 **—So what do we do? How do you break a spell that has you inside it?**
 
@@ -141,7 +141,7 @@ The cortado arrived. He stirred it slowly, as if thinking with the spoon.
 
 **—But in concrete terms. Tomorrow morning. What do I do?**
 
-He put on his glasses. He took them off.
+They put on their glasses. They took them off.
 
 —Two things. One, and here we enter slippery ground, is what is said that algorithms cannot do: abductive reasoning[^abduccion].
 
@@ -161,13 +161,13 @@ He put on his glasses. He took them off.
 
 —That's not up to me anymore. What I can tell you is this: *faire attention*. Pay attention...
 
-Just then, a muffled vibration on the table. His phone, face down. The discipline of a monk against the reflex of a dog. The monk won, but on points, not by knockout. He returned his gaze to the cup.
+Just then, a muffled vibration on the table. Their phone, face down. The discipline of a monk against the reflex of a dog. The monk won, but on points, not by knockout. Their gaze returned to the cup.
 
-—Really pay attention —he resumed—, in an economy that competes to capture your brain, is already a political act. Evaluate AI by its present consequences and not by its futuristic promises. And show solidarity with the little hands. Make their work visible. Because the day we see the hands, the spell cracks.
+—Really pay attention —they resumed—, in an economy that competes to capture your brain, is already a political act. Evaluate AI by its present consequences and not by its futuristic promises. And show solidarity with the little hands. Make their work visible. Because the day we see the hands, the spell cracks.
 
-He drank his cortado in one gulp, as if it were a whiskey and the conversation had gone on too long. He gathered his papers with the efficiency of someone who has closed many such conversations. He grabbed a jacket from the back of the chair that had seen better decades and left without another word.
+They drank the cortado in one gulp, as if it were a whiskey and the conversation had gone on too long. They gathered their papers with the efficiency of someone who has closed many such conversations. They grabbed a jacket from the back of the chair that had seen better decades and left without another word.
 
-He left without paying for the cortado[^cortado].
+They left without paying for the cortado[^cortado].
 
 I stayed for a while at the empty table. The waiter cleared the other cup without asking. The entire room was reflected on the turned-off TV screen: the Formica tables, the counter, a person sitting alone with a napkin full of scribbles.
 

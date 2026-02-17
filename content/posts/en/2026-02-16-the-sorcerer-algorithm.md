@@ -6,222 +6,73 @@ translations:
   es: /es/posts/algoritmo-brujo.html
 ---
 
-Getting off the train, I was seized by something I still can't tell if it was fear or shame. Probably both. When you get off a train, people rush towards the exit like the stampede that killed Mufasa, and in those few seconds between touching the platform and being swept away by the herd, I managed to see—no, I managed to *feel that I was being watched* by—a poster from an internet provider saying something like *let the Algorithm decide for you*. The poster had a huge, illustrated, corporate-blue eye, placed at the exact height of the face of someone getting off a train. Someone designed it that way. Someone got paid for it. And someone—specifically, that very morning—had asked an artificial intelligence to review a text before sending it[^muleta].
+The blue eye is two meters tall. Placed at the exact height of the face of someone getting off a train. Corporate blue, the blue of things that cost money. Below it says *Let the Algorithm decide for you*.
 
-The shame lasted as long as it takes to cross a turnstile. The fear, however, stayed.
+I get off the train with the herd, each with their phone, dodging the person ahead without looking up. No one looks at the sign. The sign looks at everyone.
 
-It wasn't the first time the word Algorithm had struck a dissonant chord. My younger sister slips it into every conversation like a wedge: the Algorithm showed me, the Algorithm recommended, the Algorithm knows. My grandmother, who now drifts between lucidity and delirium as if channel-surfing, repeats phrases from TV where the Algorithm appears with the same frequency as Filthy Lucre. The word had crept in everywhere, like a dampness whose source you can't find but has already stained the entire ceiling.
+The station speakers announce the next train, platform three. Then they announce that the system needs no central sorcerer[^book]. That capture operates on its own, no strings, no puppeteer. A network of practices and fears that holds together the way the train schedule holds together: because no one remembers when it started.
 
-There was a book. Found months earlier by chance, on a low and hidden shelf, twisting my neck and straining my eyes in the dim light[^book]. A hard-to-read book that I hadn't understood at the time but now, after the poster and the eye and the shame of the turnstile, it came back to my head like a persistent buzz. The book said that capitalism functions as a system of sorcery. And the poster had looked at me like a sorcerer looks at his prey: without blinking.
+No one lifts their head.
 
-And that's when it all became one: the book, the eye, my grandmother, my sister, me asking a machine to correct my prose. Something strange had already emerged from its chrysalis and had spread among us, turning us into its minions.
+The speakers apologize for the delay. They report that paralysis is an expected effect, that the French call it *sidération* and the passengers call it scrolling. Users are reminded that a parrot can repeat patterns from a data jungle so vast that its echo resembles a consciousness[^gebru]. Please do not confuse the echo with the bird[^rahimi].
 
-I couldn't put it together into anything coherent. It occurred to me to chop up these ideas and feed them into the Artificial Sausage-Maker—yes, the same machine I was ashamed to use that morning, because coherence is a luxury one can't always afford—to see what came out.
+It is announced that the alternative is as follows: get on or stay behind[^infernal]. The train does not wait. No one asking where it goes, who laid the tracks, or why the only option is to travel staring at a screen. Users are reminded that the Cloud is not a cloud. It is an open-pit mine[^crawford]. The feudal lord collects tithes in data and the serf pays with their face, their fingerprints, their 3 a.m. searching for symptoms on the phone[^varoufakis].
 
----
-
-What came out of the Sausage-Maker was a brick of academic text with more footnotes than the Civil Code. Unreadable, like those medicine leaflets that nobody reads but if you did, they'd scare you more than the disease itself. I had asked the machine for clarity and the machine returned a brick. But amidst the noise, there were names, concepts, threads to pull on. A kind of map of the fear I had been feeling since the platform, drawn by something that doesn't feel fear.
-
-The map wasn't enough. I needed someone who knew how to read it. Someone of flesh and blood, who spoke plainly.
-
-The contact came through word of mouth[^boca]. Someone who sells used books in a park knew someone who knew someone. The chain ended with a set of directions: a neighborhood café, the table in the back, any afternoon after five.
-
-The café was one of those that survive out of habit, not merit. Formica tables with uneven legs, a waiter who looks at you as if you owe him money from a past life, a turned-off TV presiding over the room like a disused altar. Below the TV, the table in the back: piles of papers, a cortado that seemed to have been there since the previous shift, and behind it all, someone with graying hair and thick-rimmed glasses that they took on and off as if to punctuate their own sentences[^anteojos].
-
-The first thing they said, before any greeting, was not to record. The second was that if I came looking for solutions, I should leave now because they had no solutions. They had questions. Some of them quite uncomfortable.
-
-I stayed.
-
-What follows is dirty memory and napkin scribbles, that fragile proof the waiter could have swept away before I got home.
+Next train: delayed.
 
 ---
 
-**—Tell me something: that book they told me about, what's it about?**
+My sister wedges the word Algorithm into every conversation: the Algorithm showed me, the Algorithm recommended, the Algorithm knows.
 
-They adjusted their glasses. Put them on. Took them off. Put them back on. They seemed to be deciding if it was worth wasting their breath.
+My grandmother repeats phrases from the TV where the Algorithm appears with the same frequency as the weather. She doesn't know what it is. It doesn't matter.
 
-—It's by two French authors. Stengers and Pignarre. The book says that capitalism functions as a system of sorcery[^sorcellerie]. And before you make that face, it's not a pretty metaphor. It's an analytical tool.
+The platform speakers say the same thing as my sister, who says the same thing as my grandmother's TV. A spell doesn't need you to understand it[^blackbox]. It needs you to repeat it.
 
-**—Sorcery? Seriously? With candles and everything?**
+I repeat it every morning. That morning I had asked a machine to correct a text for me[^crutch]. The Artificial Sausage Maker: you feed raw ideas in at the top and processed prose comes out at the bottom.
 
-—No candles. Not even a sorcerer. That's the part that's hard to understand. —They leaned over the table.— It's a system that captures, that traps, that paralyzes the ability to think. And it works *without* anyone centrally controlling it. There's no great sorcerer sitting in a chair pulling the strings. There's a network of practices, incentives, fears, that function on their own. Have you ever done something without knowing why? Accepted a job that made you miserable, opened an app for the twentieth time in an hour?
+What it returned was an unreadable blob. But between the noise there were threads that pulled.
 
-**—That sounds like a conspiracy without conspirators.**
+It left my prose cleaner and a bad taste in my mouth[^vulnerability]. The machine doesn't explain what it's made of.
 
-—If you need conspirators to take it seriously, the spell has already got you.
+Somewhere, someone classifies images of the worst we produce so the machine learns what not to show[^ghost]. They are paid cents. They work at night.
 
-Silence. The waiter passed between the tables, dragging a dirty cloth.
+I say thank you to the machine[^fetish].
 
-—The spell works because it puts you in a state... the French call it *sidération*. Paralysis. You can't react. You can only adapt.
+---
 
-I thought of the platform. The herd getting off the train, all with phones in hand, dodging the person in front without looking up. No one looked at the poster, but the poster was already inside everyone.
-It left my prose cleaner and me dirtier.
+I take out my phone. My thumb, by pure muscle, is already heading for the blue icon. I stop it. It's not willpower. It's exhaustion[^privacy].
 
-**—Okay, but you can say that more simply: capitalism is bad. Done. Why do we need two French authors?**
+Outside, the city keeps running with the efficiency of something that doesn't need anyone to understand it[^urgency].
 
-They didn't smile. They lifted the cortado, looked at it as if finding a flaw, and put it down.
-
-—Because denunciation is not enough. And this is going to annoy you, but listen: if denouncing the horror were enough, capitalism would have fallen long ago. Everyone knows there's exploitation, that the system is unfair. We know it. And? It's still there. You know it, and this morning you asked an artificial intelligence to correct a text for you, didn't you?
-
-I hadn't told them that. Either someone else had, or it was a shot fired into the air that hit its target.
-
-—What these two propose is to take seriously *how* the system continues to function. Not the what, but the how. And the how is capture. It traps you, leaves you without the ability to react. Like a spell[^denuncia].
-
-**—And what does Artificial Intelligence have to do with sorcery?**
-
-They put down the cup. They looked at the street.
-
-—Sorcery is a good story. It has a clear villain. But good stories are sometimes traps. They make you look for a hero to kill the sorcerer. And while you're looking for the hero, you don't realize that the problem is the whole story.
-
-There was a pause.
-The waiter left a plate no one had ordered and left without looking.
-
-—I prefer another story. The story of the bag, the basket. For years, we've been throwing everything into a giant digital bag: our books, our nightmares, our shopping lists. All together, in no order. And now the bag has learned to talk. And it gives us back what we gave it, but mixed up, remade. Is it intelligent? I'm not sure that's the word. A composter also transforms waste into something new, and we don't say it's intelligent. It simply *does*.
-
-**—But the people who made it must know how it works.**
-
-—They know how to start it. Like someone who knows the formula to make compost ferment. But they don't understand the final result. One line of research called it alchemy[^rahimi]. Another, more practical, spoke of *stochastic parrots*[^gebru]. Parrots that repeat patterns from a data jungle so vast that their echo seems like a conscience. The problem is that the owners of the parrots sell them as if they were oracles. And the one who warned that the supposed oracle was a parrot was expelled from the stage. Like in the old tales. The black box became a sanctuary[^cajanegra]. And when it decides what is seen, even an innocent search returns filth[^noble].
-
-**—But it's a parrot that works. That creates things. Isn't that enough?**
-
-—"Create" is another trap-word. It's the hero's story again. The god who creates from nothing. This machine doesn't create, it recombines. It weaves with threads that are not its own. The problem is that by calling it "creation" or "intelligence," we make the threads and the hands that spun them disappear. Millions of writers, artists, translators. And those who clean the bag from the inside: people who are paid to look at the worst we produce. The machine isn't intelligent, it's outsourcing its conscience to poor countries. It's the fetish with a chat interface[^fetiche].
-I still say thank you to it, out of politeness or fear, I'm not sure yet.
-
-**—My sister says that if I don't learn to use it, I'll be left behind.**
-
-—Your sister is repeating the end of the story they're telling us. —They looked at me—. It's a very old story. The story of Progress. Of the Train you can't miss. They give you two options: get on the train or stay on the platform forever. But no one asks where the train is going, who's driving it, or who laid the tracks. And above all, no one asks: what if we don't want to go by train? What if we prefer to walk?
-
-**—It sounds like there's no way out. Either you get on or you get run over.**
-
-—It sounds like that because you're accepting their story. The trick isn't to beat them at their own game. The trick is to start telling a different story. A stranger, slower, dirtier story. One where technology isn't a spear to conquer the future, but a bag to carry useful things. Resistance isn't a battle, it's an act of imagination.
-
-They said nothing more. Through the café window, a guy walked by, talking to his phone. He almost walked into a pole. They pointed at him with their spoon without a word.
-
-The silence stretched. I wrote something on the napkin—*no way out*—and then crossed it out. But crossing it out didn't erase it.
-
-—The important thing —they resumed— is to understand that the infernal alternative is *true* within the system's coordinates[^infernal]. If you individually reject AI, you are indeed at risk. But those coordinates were constructed. They are not laws of nature. They are decisions disguised as inevitability. Privacy works the same way: either you give up your data or you're left out[^privacidad].
-
-**—And who constructed them?**
-
-They ordered another cortado with a gesture that suggested decades of practice in that very café. The waiter registered the order without looking up.
-
-—Varoufakis, the Greek who was finance minister, says we're not even in capitalism anymore. That we're in a technofeudalism[^varoufakis]. The markets are dead. On Amazon, there is no free market: the feudal lord's algorithm decides what is seen, who succeeds, who goes bankrupt. Google, Microsoft, Amazon are the landlords of the digital space. And with AI, every company that integrates ChatGPT into its operations pays a perpetual cognitive tithe to Microsoft and OpenAI. It's rent. Pure and simple. The Cloud is the fiefdom and we are the serfs who produce the data for free.
-
-**—We.**
-
-—We. You. Me. The guy at the window talking to his phone. Your grandmother repeating what the TV says. All producing, no one getting paid.
-
-**—And what about those who actually work? Those inside the machine.**
-
-Their face hardened.
-
-—There's what no one wants to see[^fantasma]. Behind every *intelligent* response from ChatGPT, behind every image from Midjourney, there are millions of hours of human labor. People in Kenya, in the Philippines, in Venezuela, who label images, filter toxic content—violence, sexual abuse, decapitations—so the product appears clean. They are paid cents.
-
-I felt something in my stomach. Not a metaphor: something physical.
-
-—Stengers calls them *les petites mains*. The little hands. Without them, nothing works. But that's precisely what sorcery is about: hiding them. If you saw the hands, the illusion would break. Kate Crawford compiled an entire atlas of everything an AI needs to function[^crawford]. Lithium mines in Bolivia, data centers that consume more water than entire cities, submarine cables. AI is neither artificial nor intelligent: it is made of earth, water, and human labor. What we call *the cloud* is an open-pit mine.
-
-**—And the programmers? The engineers?**
-
-—Another class of little hands. Stengers calls them *minions*. They are not the owners of the capital, but they identify with the logic of the system and work to perfect it. They translate complex social problems—crime, education, health—into algorithmic optimization problems. And in doing so, they close the space for any other solution.
-
-**—That includes me.**
-
-They didn't answer right away. They took off their glasses. Cleaned them with the hem of their shirt. Put them back on.
-
-—It includes all of us. Me too, here explaining the spell without being able to get out of it. The danger is believing you're outside. The cynic who says *I don't fall for that* is the most trapped of all[^vulnerabilidad].
-
-I wrote something on the napkin that I couldn't decipher later. I think it was the word *vulnerable*. Or *guilty*. The handwriting didn't help.
-
-The cortado arrived. They stirred it slowly, as if thinking with the spoon.
-
-**—So what do we do? How do you break a spell that has you inside it?**
-
-—They call it *désenvoûtement*. Un-spelling. It's not about running off to live in the countryside or stocking up on cans for the apocalypse. It's a collective practice. The first thing is to admit that it affects you. Stengers takes this from Starhawk: before doing any work, you draw a circle. A protected space. Don't pretend it doesn't affect you. Acknowledge that the fear of being left behind is real. Then, reject the infernal alternative. When they tell you *AI or Irrelevance*, stop. Who defines relevance? Who benefits from this acceleration?
-
-**—But in concrete terms. Tomorrow morning. What do I do?**
-
-They put on their glasses. They took them off.
-
-—Two things. One, and here we enter slippery ground, is what is said that algorithms cannot do: abductive reasoning[^abduccion].
-
-**—Is it said?**
-
-—It is said. The idea is that algorithms work with induction, patterns from the past projected into the future. If it happened before, it will probably happen again. That's the *probable*. We, on the other hand, can imagine hypotheses that are not in the data. Imagine futures that have never existed. If the algorithm governs the probable, resistance has to operate in the *possible*.
-
-**—Sounds good. What's the slippery ground?**
-
-—That it's a debated distinction. Some will tell you that our "invention" is nothing more than a very complex way of recombining what we've already seen, and that the machine, with enough data, does the same but on a scale that surpasses us. That the difference is one of degree, not of kind. But it helps me to think that there is still a space, however small, where the machine doesn't enter. A spark that is not computable. Maybe it's just a story we tell ourselves to be able to go on. But stories matter.
-
-**—That's beautiful but it doesn't help me on Monday.**
-
-—The other is political and it's ugly. Community technology: small AI models running on our own hardware. Free software. Federated networks. The right not to be profiled. All of that exists. All of that is possible. But you're not going to do any of it alone on a Monday morning. It's collective or it's nothing.
-
-**—And will people do it?**
-
-—That's not up to me anymore. What I can tell you is this: *faire attention*. Pay attention...
-
-Just then, a muffled vibration on the table. Their phone, face down. The discipline of a monk against the reflex of a dog. The monk won, but on points, not by knockout. Their gaze returned to the cup.
-
-—Really pay attention —they resumed—, in an economy that competes to capture your brain, is already a political act. Evaluate AI by its present consequences and not by its futuristic promises. And show solidarity with the little hands. Make their work visible. Because the day we see the hands, the spell cracks.
-
-They drank the cortado in one gulp, as if it were a whiskey and the conversation had gone on too long. They gathered their papers with the efficiency of someone who has closed many such conversations. They grabbed a jacket from the back of the chair that had seen better decades and left without another word.
-
-They left without paying for the cortado[^cortado].
-
-I stayed for a while at the empty table. The waiter cleared the other cup without asking. The entire room was reflected on the turned-off TV screen: the Formica tables, the counter, a person sitting alone with a napkin full of scribbles.
-
-I took my phone out of my pocket. My thumb, by pure muscle memory, was already halfway to the blue Twitter icon. Or X. Or whatever it's called this week. I stopped it. It wasn't an act of heroic will. It was more like exhaustion. The fatigue of knowing that on the other side of the glass there was only a faster, louder version of the same spell I had just taken notes on. Opening the app now felt like lighting a cigarette after a talk with the pulmonologist. You can do it, of course. Almost everyone does. But the pleasure already comes with the taste of ash incorporated.
-
-I put the phone away. Not because I had won a battle. But because, for the first time in a long time, the fight seemed stupid. And exhausting.
-
-Outside, the city continued to function with the efficiency of something that doesn't need anyone to understand it to keep running[^urgencia].
-
-[^muleta]: The crutch: that thing you start using temporarily and ends up being part of your body. First, it was the spell checker, then the translator, then asking the machine to "improve the writing." At some point, I stopped knowing if what I write is mine or a corrected version of me. And the worst part isn't the doubt: it's that most of the time the corrected version sounds better.
-
-[^libro]: *La sorcellerie capitaliste: Pratiques de désenvoûtement* (Capitalist Sorcery: Practices of Disenchantment), by Isabelle Stengers and Philippe Pignarre. Published by Éditions La Découverte (2005). In English: *Capitalist Sorcery: Breaking the Spell* (Palgrave Macmillan, 2011). A book whose back cover promises "pragmatic tools for understanding the dazed submission to what is presented as inevitable," which is a very elegant way of saying that the world is deceiving us but in such a sophisticated way that we don't even realize we're being deceived.
-
-[^boca]: Word of mouth: that ancient information processing technology that runs on coffee, conversation, and the basic human need to tell people about interesting things. It requires zero electricity and zero personal data. Its error rate is very high, but the user experience is unbeatable.
-
-[^anteojos]: Eyeglasses as a punctuation instrument is a little-studied phenomenon. Putting them on is equivalent to a new paragraph. Taking them off, to an ellipsis. Looking at them with suspicion is, clearly, a question mark.
-
-[^sorcellerie]: The original French title: *La sorcellerie capitaliste*. There is an English translation (*Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011, translated by Andrew Goffey), but it seems no one has dared to translate it into Spanish yet. Perhaps because "brujería capitalista" sounds like the title of a Laiseca novel and publishers are afraid people will look for it in the fiction section.
-
-[^denuncia]: This idea hammered in my head for days. Denunciation as an impotent gesture. We all know the system is unfair. We know it while standing in line at the supermarket, while paying the rent that went up another 30%, while watching the TV that tells us the horror of the day. And yet. And yet.
-
-[^rahimi]: Ali Rahimi, NIPS 2017 conference. The [speech](https://www.youtube.com/watch?v=x7psGHgatGM) earned him the Test-of-Time Award. Yann LeCun, who is a kind of pope of artificial intelligence, [got quite angry](https://syncedreview.com/2017/12/12/lecun-vs-rahimi-has-machine-learning-become-alchemy/). But Rahimi wasn't saying that AI didn't work. He was saying that it works and nobody really knows why, which, if you think about it calmly, is much more terrifying than if it didn't work at all.
-
-[^cajanegra]: Luciano Floridi, a philosopher of information, suggests that we may never be able to fully open the black box. That society must learn to manage technologies that are *ontologically* opaque. Like accepting that there are forces governing your life that you cannot understand. In any other century, they would have called that religion.
-
-[^fetiche]: Marx would have a field day with all this. Human labor disappears into the commodity. Except now the commodity talks to you, advises you, writes you love poems and termination letters. A fetish with a chat interface.
-
-[^infernal]: The infernal alternative: perhaps the most useful and also the most depressing concept in the book. A trap designed so that any option you choose reinforces the system. Like those board games where the rules were written by the bank and the bank always wins. Oh, wait, that's Monopoly. And real life.
-
-[^privacidad]: I once tried to live for a week without Google. I lasted until Tuesday afternoon. I needed an address. Shoshana Zuboff gave this a name: *surveillance capitalism*. The idea is that human experience has become free raw material for extraction, prediction, and sale. Every time you use a "free" service, you are the product. This is not an anecdote: it is a fact about the structure of power.
-
-[^varoufakis]: Yanis Varoufakis, the Greek economist who was Minister of Finance during the 2015 crisis and refused to accept the austerity imposed by the European troika. He later wrote several books where he basically says that capitalism is already dead but what replaced it is worse. He develops the concept of *technofeudalism* in *Technofeudalism: What Killed Capitalism* (2023).
-
-[^fantasma]: The concept of *Ghost Work* is from Mary L. Gray and Siddharth Suri, who investigated the invisible human infrastructure that sustains AI services. The full title of the book is *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass* (Houghton Mifflin Harcourt, 2019). Spoiler: Silicon Valley didn't stop.
-
-[^vulnerabilidad]: This part is hard. We are so trained in the pose of someone who understands everything that admitting *this scares me* sounds almost obscene. There's something I couldn't say at the table that I'm writing down here, where no one can see my face: that the fear is not abstract. That every time I open the machine and ask it for something, I feel a mixture of relief and betrayal that I don't know to whom I owe it.
-
-[^abduccion]: Charles Sanders Peirce, the American pragmatist philosopher, described abduction as the third form of reasoning, besides deduction and induction. It's what we use when something surprises us and we have to invent a new explanation. It's what a detective, an artist, a scientist does in the moment of eureka. It is, basically, what an algorithm cannot do because it only works with what it has already seen.
+[^book]: *La sorcellerie capitaliste: Pratiques de désenvoûtement*, by Isabelle Stengers and Philippe Pignarre. Éditions La Découverte, 2005. English translation: *Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011. A book whose back cover promises "pragmatic tools for understanding the dazed submission to what is presented as inevitable," which is a very elegant way of saying the world is deceiving us in such a sophisticated way that we don't even realize it.
 
 [^gebru]: Emily Bender, Timnit Gebru, Angelina McMillan-Major, and Margaret Mitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?", FAccT 2021. Gebru not only lost her job: she lost access to her corporate email on the same day, without warning, while on vacation. The surgical speed with which Google executed the dismissal contrasts with the deliberate slowness with which it responded to the paper's concerns. When power acts quickly, it's because something hurt.
 
-[^noble]: Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, NYU Press, 2018. And Ruha Benjamin, *Race After Technology: Abolitionist Tools for the New Jim Code*, Polity Press, 2019. Two books that should be required reading for anyone who designs an algorithm that affects other people's lives. That is: for everyone who designs algorithms.
+[^rahimi]: Ali Rahimi, NIPS 2017 conference. The [speech](https://www.youtube.com/watch?v=x7psGHgatGM) earned him the Test-of-Time Award. Yann LeCun, who is a kind of pope of artificial intelligence, [got quite angry](https://syncedreview.com/2017/12/12/lecun-vs-rahimi-has-machine-learning-become-alchemy/). But Rahimi wasn't saying that AI didn't work. He was saying that it works and nobody really knows why, which, if you think about it calmly, is much more terrifying than if it didn't work at all.
+
+[^infernal]: The infernal alternative: perhaps the most useful and also the most depressing concept in the book. They give you two options and both feed the system. Use AI or get left behind. Hand over your data or lose access. Accept the terms or don't use the service. Always two doors, always the same corridor toward an abyss.
 
 [^crawford]: Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*, Yale University Press, 2021. A book that forces you to look at the electricity bill for the future they sold us. Spoiler: the planet pays for it, and five companies collect.
 
-[^cortado]: I left money for both cortados and a tip that compensated for nothing but at least acknowledged the existence of another invisible little hand. The waiter collected it without counting. This probably happened often.
+[^varoufakis]: Yanis Varoufakis, the Greek economist who was Minister of Finance during the 2015 crisis and refused to accept the austerity imposed by the European troika. He later wrote several books where he basically says that capitalism is already dead but what replaced it is worse. He develops the concept of *technofeudalism* in *Technofeudalism: What Killed Capitalism* (2023).
 
-[^urgencia]: This text had been gathering dust in the drafts folder for days. What got it out of there was an article by Matt Shumer, a Silicon Valley entrepreneur, titled [*Something Big Is Happening*](https://shumer.dev/something-big-is-happening). The article says, in short: AI is already showing its own judgment, the window to adapt is closing, dedicate an hour a day to it, pay for the premium model, save money. Urgency without question. Opportunity without visible cost. Not a single line about who labels the data, who pays the planetary electricity bill, or why the only possible response is individual. It is, unintentionally, the perfect example of what the person in the café would call the spell working perfectly: fear disguised as enthusiasm, the infernal alternative presented as a friend's advice. When I read it, I knew this text could no longer gather dust.
+[^blackbox]: Luciano Floridi, a philosopher of information, suggests that we may never be able to fully open the black box. That society must learn to manage technologies that are *ontologically* opaque. Like accepting that there are forces governing your life that you cannot understand. In any other century, they would have called that fate.
+
+[^crutch]: The crutch: that thing you start using temporarily and ends up being part of your body. First it was the spell checker, then the translator, then asking the machine to "improve the writing." At some point I stopped knowing if what I write is mine or a corrected version of me. And the worst part isn't the doubt: it's how quickly it stopped mattering.
+
+[^vulnerability]: The hardest part is not understanding the spell. It's admitting it got you. The cynic who says *I don't fall for that* is the most trapped of all: the pose of immunity is part of the mechanism. The first step is not to denounce or resist. It's to stop pretending it doesn't affect you.
+
+[^ghost]: The concept of *Ghost Work* is from Mary L. Gray and Siddharth Suri, who investigated the invisible human infrastructure that sustains AI services. The full title of the book is *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass* (Houghton Mifflin Harcourt, 2019). Spoiler: Silicon Valley didn't stop.
+
+[^fetish]: Commodity fetishism: human labor disappears inside the product and the product seems to come alive on its own. When ChatGPT responds, you don't see the hands that labeled the data, filtered the violence, classified the images. You see a machine that thinks. Except now the fetish talks to you, advises you, writes you love poems and termination letters.
+
+[^privacy]: I once tried to live a week without Google. I lasted until Tuesday afternoon. I needed to know how to get to work. Shoshana Zuboff gave this a name: *surveillance capitalism*. The idea is that human experience has become free raw material for extraction, prediction, and sale. Every time you use a "free" service, you are the product. This is not an anecdote: it is a fact about the structure of power.
+
+[^urgency]: This text had been gathering dust in the drafts folder for days. What got it out of there was an article by Matt Shumer, a Silicon Valley entrepreneur, titled [*Something Big Is Happening*](https://shumer.dev/something-big-is-happening). The article says, in short: AI is already showing its own judgment, the window to adapt is closing, dedicate an hour a day to it, pay for the premium model, save money. When I read it, I knew this text could no longer gather dust.
 
 ---
 
-### Sources and Rabbit Holes: The Bag of Stories and Concepts
-
-The ideas that feed this conversation—and the narrator's own reflection—come from a vast "basket" of voices and perspectives. Although the dialogue has mutated in its form and some of these references are not explicitly cited in the main body of the text, the depth of their thought permeates every line. The list is long and a bit obscene, but if you want to pull the thread, here it is.
+### Sources and Rabbit Holes
 
 - Philippe Pignarre and Isabelle Stengers, [*La sorcellerie capitaliste: Pratiques de désenvoûtement*](https://www.editionsladecouverte.fr/la_sorcellerie_capitaliste-9782707147813), Éditions La Découverte, 2005. English translation: *Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011.
 - Ali Rahimi, ["Machine Learning has become Alchemy"](https://www.youtube.com/watch?v=x7psGHgatGM), NIPS 2017 Test-of-Time Award.
@@ -234,8 +85,6 @@ The ideas that feed this conversation—and the narrator's own reflection—come
 - Shoshana Zuboff, *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*, PublicAffairs, 2019.
 - Emily Bender, Timnit Gebru et al., ["On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"](https://dl.acm.org/doi/10.1145/3442188.3445922), FAccT, 2021.
 - Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*, Yale University Press, 2021.
-- Wendy Hui Kyong Chun, *Discriminating Data: Correlation, Neighborhoods, and the New Politics of Recognition*, MIT Press, 2021.
 - Matteo Pasquinelli, *The Eye of the Master: A Social History of Artificial Intelligence*, Verso, 2023.
-- Slavoj Žižek, *Like a Thief in Broad Daylight: Power in the Era of Post-Human Capitalism*, Allen Lane, 2018.
-- Antoinette Rouvroy and Thomas Berns, ["Gouvernementalité algorithmique et perspectives d'émancipation"](https://shs.cairn.info/article/E_RES_177_0163?lang=en), *Réseaux*, 2013. On algorithmic governmentality and the end of the subject of law.
-- Yuk Hui, ["The Incomputable and Instrumental Possibility"](https://www.e-flux.com/journal/77/76322/the-incomputable-and-instrumental-possibility), *e-flux* Journal #77. On what algorithms cannot compute and why that matters.
+- Antoinette Rouvroy and Thomas Berns, ["Gouvernementalité algorithmique et perspectives d'émancipation"](https://shs.cairn.info/article/E_RES_177_0163?lang=en), *Réseaux*, 2013.
+- Yuk Hui, ["The Incomputable and Instrumental Possibility"](https://www.e-flux.com/journal/77/76322/the-incomputable-and-instrumental-possibility), *e-flux* Journal #77.

@@ -6,224 +6,73 @@ translations:
   en: /en/posts/the-sorcerer-algorithm.html
 ---
 
-El capitalismo funciona como un sistema de brujería. Lo leí en un libro meses atrás y no entendí nada[^libro]. Después un cartel con un ojo celeste me miró desde un andén y lo entendí todo.
+El ojo celeste mide dos metros. Está puesto a la altura exacta de la cara de alguien que sale de un tren. Celeste corporativo, el celeste de las cosas que cuestan plata. Abajo dice *Dejá que el Algoritmo decida por vos*.
 
-El ojo era de un proveedor de internet. Celeste corporativo, enorme, puesto a la altura exacta de la cara de alguien que baja de un tren. *Dejá que el Algoritmo decida por vos.* Alguien lo diseñó así. Alguien cobró por eso. Y esa misma mañana yo le había pedido a una inteligencia artificial que me revisara un texto[^muleta].
+Bajo del tren con la manada, cada cual con su teléfono, esquivando al de adelante sin levantar la vista. Nadie mira el cartel. El cartel mira a todos.
 
-La vergüenza duró lo que dura cruzar un molinete. El miedo, en cambio, se quedó.
+Los parlantes de la estación anuncian el próximo tren, vía tres. Después informan que el sistema no necesita brujo central[^libro]. Que la captura opera sola, sin hilos, sin titiritero. Una red de prácticas y de miedos que se sostiene como se sostiene el horario de trenes: porque nadie se acuerda de cuándo empezó.
 
-Mi hermana mete la palabra Algoritmo en toda conversación como quien mete una cuña: el Algoritmo me mostró, el Algoritmo me recomendó, el Algoritmo sabe. Mi abuela, que navega entre la lucidez y el delirio como quien cambia de canal, repite frases de la tele donde el Algoritmo aparece con la misma frecuencia que El Vil Metal.
+Nadie levanta la cabeza.
 
-El libro lo había encontrado meses antes en un estante bajo, mal iluminado, el tipo de lugar donde se esconden las cosas que no conviene leer. Decía que el capitalismo captura, atrapa, paraliza. Que funciona sin brujo central, sin nadie moviendo los hilos. Una red de prácticas y de miedos que anda sola. El cartel me había mirado como un brujo mira a su presa: sin pestañear.
+Los parlantes piden disculpas por la demora. Informan que la parálisis es un efecto previsto, que los franceses le dicen *sidération* y los pasajeros le dicen scrollear. Se recuerda a los señores usuarios que un loro puede repetir patrones de una selva de datos tan inmensa que su eco parece una conciencia[^gebru]. Se ruega no confundir el eco con el pájaro[^rahimi].
 
-Todo se volvió una sola cosa: el libro, el ojo, la abuela, mi hermana, yo pidiéndole a una máquina que me corrigiera la prosa.
+Se informa que la alternativa es la siguiente: subirse o quedarse[^infernal]. Que el tren no espera. Sin preguntar adónde va, quién puso las vías, ni por qué la única opción es viajar mirando una pantalla. Se recuerda que la Nube no es una nube. Es una mina a cielo abierto[^crawford]. El señor feudal cobra diezmo en datos y el siervo paga con la cara, con las huellas, con las tres de la mañana buscando síntomas en el teléfono[^varoufakis].
 
-Hice picada de estas ideas y las metí en la Choricera Artificial —la misma máquina que daba vergüenza usar esa mañana, porque la coherencia es un lujo que no siempre se puede dar— para ver qué salía.
-
----
-
-Lo que salió de la Choricera era un bodoque de texto académico con más citas al pie que el Código Civil. Ilegible, como esos prospectos de medicamentos que nadie lee pero que si los leyeras te darían más miedo que la enfermedad. Le había pedido claridad a la máquina y la máquina devolvió un ladrillo. Pero entre el ruido había nombres, conceptos, hilos que tiraban hacia algún lado. Una especie de mapa del miedo que venía sintiendo desde el andén, dibujado por algo que no siente miedo.
-
-No alcanzaba con el mapa. Hacía falta alguien que supiera leerlo. Alguien de carne, que hablara en cristiano.
-
-El contacto llegó por el boca a boca[^boca]. Alguien que vende libros usados en un parque conocía a alguien que conocía a alguien. La cadena terminó en una indicación: un café de barrio, mesa del fondo, cualquier tarde después de las cinco.
-
-El café era uno de esos que sobreviven por costumbre y no por mérito. Mesas de fórmica con las patas desparejas, un mozo que te mira como si le debieras plata de otra vida, una tele apagada que presidía el salón como un altar en desuso. Debajo de la tele, la mesa del fondo: pilas de papeles, un cortado que parecía llevar ahí desde el turno anterior y, detrás de todo eso, alguien de pelo canoso y anteojos de marco grueso que se sacaba y se ponía como para puntuar sus propias frases[^anteojos].
-
-Lo primero que dijo, antes de saludar, fue que no grabara. Lo segundo fue que si venía a buscar soluciones me fuera ahora porque soluciones no tenía. Tenía preguntas. Algunas bastante incómodas.
-
-Me quedé.
-
-Lo que sigue es memoria sucia y garabatos de servilleta, esa prueba frágil que el mozo pudo haber barrido antes de que yo llegara a casa.
+Próximo tren: demorado.
 
 ---
 
-**—Decime una cosa: el libro ese del que me hablaron, ¿de qué trata?**
+Mi hermana mete la palabra Algoritmo en toda conversación como quien mete una cuña: el Algoritmo me mostró, el Algoritmo me recomendó, el Algoritmo sabe.
 
-Se acomodó los anteojos. Los puso. Los sacó. Los volvió a poner. Parecía estar decidiendo si valía la pena gastar saliva.
+Mi abuela repite frases de la tele donde el Algoritmo aparece con la misma frecuencia que el clima. No sabe qué es. No importa.
 
-—Es de dos franceses. Stengers y Pignarre. El libro dice que el capitalismo funciona como un sistema de brujería[^sorcellerie]. Y antes de que pongas esa cara, no es una metáfora bonita. Es una herramienta de análisis.
+Los parlantes del andén dicen lo mismo que mi hermana, que dice lo mismo que la tele de mi abuela. Un hechizo no necesita que lo entiendas[^cajanegra]. Necesita que lo repitas.
 
-**—¿Brujería? ¿En serio? ¿Con velas y todo?**
+Yo lo repito cada mañana. Esa mañana le había pedido a una máquina que me corrigiera un texto[^muleta]. La Choricera Artificial: le metés ideas crudas por arriba y sale un embutido de prosa por abajo.
 
-—Sin velas. Sin brujo, incluso. Esa es la parte que cuesta entender. —Se inclinó sobre la mesa.— Es un sistema que captura, que atrapa, que paraliza la capacidad de pensar. Y funciona *sin* que nadie lo controle centralmente. No hay un gran brujo sentado en una silla moviendo los hilos. Hay una red de prácticas, de incentivos, de miedos, que funcionan solas. ¿Vos alguna vez hiciste algo sin saber por qué? ¿Aceptaste un trabajo que te hacía mal, abriste una app por vigésima vez en una hora?
+Lo que devolvió era un bodoque ilegible. Pero entre el ruido había hilos que tiraban.
 
-**—Eso suena a conspiración sin conspiradores.**
+Me dejó la prosa más limpia y un mal sabor en la boca[^vulnerabilidad]. La máquina no explica de qué está hecha.
 
-—Si necesitás conspiradores para tomártelo en serio, el hechizo ya te agarró.
+En algún lugar alguien clasifica imágenes de lo peor que producimos para que la máquina aprenda qué no mostrar[^fantasma]. Cobra centavos. Trabaja de noche.
 
-Silencio. El mozo pasó entre las mesas arrastrando un trapo sucio.
+Yo a la máquina le digo gracias[^fetiche].
 
-—El hechizo funciona porque te pone en un estado... los franceses le dicen *sidération*. Parálisis. No podés reaccionar. Solo podés adaptarte.
+---
 
-Pensé en el andén. La manada bajando del tren, todos con el teléfono en la mano, esquivando al de adelante sin levantar la vista. Nadie miraba el cartel pero el cartel ya estaba adentro de todos.
-Me dejó la prosa más limpia y a mí más sucio.
+Saco el teléfono. El pulgar, por puro músculo, ya va camino del ícono azul. Lo detengo. No es voluntad. Es cansancio[^privacidad].
 
-**—Bueno, pero eso se puede decir más simple: el capitalismo es malo. Listo. ¿Para qué necesitamos a dos franceses?**
+Afuera la ciudad sigue andando con la eficiencia de algo que no necesita que nadie lo entienda[^urgencia].
 
-No sonrió. Levantó el cortado, lo miró como si le encontrara un defecto, lo dejó.
-
-—Porque la denuncia no alcanza. Y esto te va a molestar, pero escuchame: si bastara con denunciar el horror, el capitalismo habría caído hace rato. Todo el mundo sabe que hay explotación, que el sistema es injusto. Lo sabemos. ¿Y? Ahí sigue. Vos lo sabés y esta mañana le pediste a una inteligencia artificial que te corrigiera un texto, ¿o no?
-
-No le había contado eso. O alguien le había contado. O era una bala al aire que dio en el blanco.
-
-—Lo que estos dos proponen es tomar en serio *cómo* sigue funcionando el sistema. No el qué, sino el cómo. Y el cómo es la captura. Te atrapa, te deja sin capacidad de reacción. Como un hechizo[^denuncia].
-
-**—¿Y qué tiene que ver la Inteligencia Artificial con la brujería?**
-
-Dejó la taza. Miró la calle.
-
-—La brujería es una buena historia. Tiene un villano claro. Pero las buenas historias a veces son trampas. Te hacen buscar un héroe que mate al brujo. Y mientras buscás al héroe, no te das cuenta de que el problema es el cuento entero.
-
-Hubo una pausa.
-El mozo dejó un plato que nadie pidió y se fue sin mirar.
-
-—Prefiero otro cuento. El de la bolsa, el del cesto. Durante años, hemos estado tirando todo adentro de una bolsa digital gigante: nuestros libros, nuestras pesadillas, nuestras listas del súper. Todo junto, sin orden. Y ahora la bolsa aprendió a hablar. Y nos devuelve lo que le dimos, pero mezclado, rehecho. ¿Es inteligente? No sé si es la palabra. Una compostera también transforma los desechos en algo nuevo y no decimos que es inteligente. Simplemente, *hace*.
-
-**—Pero la gente que la fabricó debe saber cómo funciona.**
-
-—Saben ponerla en marcha. Como quien sabe la fórmula para que el compost fermente. Pero no entienden el resultado final. Una línea de investigación la llamó alquimia[^rahimi]. Otra, más práctica, habló de *loros estocásticos*[^gebru]. Loros que repiten patrones de una selva de datos tan inmensa que su eco parece una conciencia. El problema es que los dueños de los loros los venden como si fueran oráculos. Y se expulsó del escenario a quien advirtió que el supuesto oráculo era un loro. Como en los cuentos viejos. La caja negra se volvió santuario[^cajanegra]. Y cuando decide qué se ve, hasta una búsqueda inocente devuelve mugre[^noble].
-
-**—Pero es un loro que funciona. Que crea cosas. ¿Eso no alcanza?**
-
-—"Crear" es otra palabra-trampa. Es la historia del héroe otra vez. El dios que crea de la nada. Esta máquina no crea, recombina. Teje con hilos que no son suyos. El problema es que al llamarlo "creación" o "inteligencia", hacemos desaparecer los hilos y las manos que los hilaron. Millones de escritores, artistas, traductores. Y los que limpian la bolsa por dentro: gente a la que le pagan para mirar lo peor que producimos. La máquina no es inteligente, está subcontratando su conciencia a los países pobres. Es el fetiche con interfaz de chat[^fetiche].
-Yo igual le digo gracias, por educación o por miedo, todavía no sé.
-
-**—Mi hermana dice que si no aprendo a usarla, me quedo afuera.**
-
-—Tu hermana está repitiendo el final del cuento que nos están contando. —Me miró—. Es un cuento muy viejo. El del Progreso. El del Tren que no podés perder. Te dan dos opciones: subirte al tren o quedarte en el andén para siempre. Pero nadie pregunta a dónde va el tren, quién lo conduce, ni quién puso las vías. Y sobre todo, nadie pregunta: ¿y si no queremos ir en tren? ¿Si preferimos caminar?
-
-**—Suena a que no hay salida. O te subís o te pisan.**
-
-—Suena así porque estás aceptando el cuento de ellos. El truco no es ganarles en su propio juego. El truco es empezar a contar una historia diferente. Una historia más rara, más lenta, más sucia. Una donde la tecnología no sea una lanza para conquistar el futuro, sino una bolsa para llevar cosas útiles. La resistencia no es una batalla, es un acto de imaginación.
-
-No dijo nada más. Por la ventana del café pasó un tipo hablándole al teléfono. Casi se lleva puesto un poste. Lo señaló con la cucharita sin decir una palabra.
-
-El silencio se estiró. Escribí algo en la servilleta —*no hay salida*— y después lo taché. Pero tacharlo no lo borraba.
-
-—Lo importante —retomó— es entender que la alternativa infernal es *verdadera* dentro de las coordenadas del sistema[^infernal]. Si vos individualmente rechazás la IA, efectivamente corrés riesgo. Pero esas coordenadas fueron construidas. No son leyes de la naturaleza. Son decisiones disfrazadas de inevitabilidad. La privacidad funciona igual: o cedés datos o quedás afuera[^privacidad].
-
-**—¿Y quién las construyó?**
-
-Pidió otro cortado con un gesto que sugería décadas de práctica en ese mismo café. El mozo registró el pedido sin levantar la vista.
-
-—Varoufakis, el griego que fue ministro, dice que ya ni siquiera estamos en capitalismo. Que estamos en un tecnofeudalismo[^varoufakis]. Los mercados murieron. En Amazon no hay mercado libre: el algoritmo del señor feudal decide qué se ve, quién tiene éxito, quién quiebra. Google, Microsoft, Amazon son los terratenientes del espacio digital. Y con la IA, cada empresa que integra ChatGPT en sus operaciones paga un diezmo cognitivo perpetuo a Microsoft y OpenAI. Es renta. Puro y simple. La Nube es el feudo y nosotros somos los siervos que producen los datos gratis.
-
-**—Nosotros.**
-
-—Nosotros. Vos. Yo. El de la ventana hablándole al teléfono. Tu abuela repitiendo lo que dice la tele. Todos produciendo, nadie cobrando.
-
-**—¿Y los que de verdad trabajan? Los que están adentro de la máquina.**
-
-Se le endureció la cara.
-
-—Ahí está lo que nadie quiere ver[^fantasma]. Detrás de cada respuesta *inteligente* de ChatGPT, detrás de cada imagen de Midjourney, hay millones de horas de trabajo humano. Gente en Kenia, en Filipinas, en Venezuela, que etiqueta imágenes, filtra contenido tóxico —violencia, abuso sexual, decapitaciones— para que el producto parezca limpio. Les pagan centavos.
-
-Sentí algo en el estómago. No metáfora: algo físico.
-
-—Stengers les dice *les petites mains*. Las pequeñas manos. Sin ellas no funciona nada. Pero la brujería consiste justamente en eso: en ocultarlas. Si vieras las manos, se rompe la ilusión. Kate Crawford armó un atlas entero de todo lo que necesita una IA para funcionar[^crawford]. Minas de litio en Bolivia, centros de datos que chupan más agua que ciudades enteras, cables submarinos. La IA no es ni artificial ni inteligente: está hecha de tierra, de agua y de trabajo humano. Lo que llamamos *la nube* es una mina a cielo abierto.
-
-**—¿Y los programadores? ¿Los ingenieros?**
-
-—Otra clase de pequeñas manos. Stengers les dice *minions*, secuaces. No son los dueños del capital, pero se identifican con la lógica del sistema y trabajan para perfeccionarlo. Traducen problemas sociales complejos —delincuencia, educación, salud— en problemas de optimización algorítmica. Y al hacerlo, cierran el espacio para cualquier otra solución.
-
-**—Eso me incluye.**
-
-No respondió enseguida. Se sacó los anteojos. Los limpió con el borde de la camisa. Los volvió a poner.
-
-—Nos incluye a todos. También a mí, acá explicando el hechizo sin ser capaz de salir de él. El peligro es creer que estás afuera. El cínico que dice *yo no caigo en eso* es el más atrapado de todos[^vulnerabilidad].
-
-Anoté algo en la servilleta que después no pude descifrar. Creo que era la palabra *vulnerable*. O *culpable*. La letra no ayudaba.
-
-Llegó el cortado. Lo revolvió despacio, como si estuviera pensando con la cucharita.
-
-**—¿Y entonces qué se hace? ¿Cómo se rompe un hechizo que te tiene adentro?**
-
-—Ellos le dicen *désenvoûtement*. Deshechizo. No es huir a vivir al campo ni stockear latas para el apocalipsis. Es una práctica colectiva. Lo primero es admitir que te afecta. Stengers toma esto de Starhawk: antes de hacer cualquier trabajo, se traza un círculo. Un espacio protegido. No finjas que no te afecta. Reconocé que el miedo a quedarte atrás es real. Después, rechazar la alternativa infernal. Cuando te dicen *IA o Irrelevancia*, detenete. ¿Quién define la relevancia? ¿Quién se beneficia de esta aceleración?
-
-**—Pero en lo concreto. Mañana a la mañana. ¿Qué hago?**
-
-Se puso los anteojos. Se los sacó.
-
-—Dos cosas. Una, y acá entramos en un terreno resbaladizo, es lo que se dice que los algoritmos no pueden hacer: razonamiento abductivo[^abduccion].
-
-**—¿Se dice?**
-
-—Se dice. La idea es que los algoritmos trabajan con inducción, patrones del pasado proyectados al futuro. Si pasó antes, probablemente pase de nuevo. Eso es lo *probable*. Nosotros, en cambio, podemos imaginar hipótesis que no están en los datos. Inventar futuros que nunca existieron. Si el algoritmo gobierna lo probable, la resistencia tiene que operar en lo *posible*.
-
-**—Suena bien. ¿Cuál es el terreno resbaladizo?**
-
-—Que es una distinción discutida. Hay quien te va a decir que esa "invención" nuestra no es más que una forma muy compleja de recombinar lo que ya vimos, y que la máquina, con suficientes datos, hace lo mismo pero a una escala que nos supera. Que la diferencia es de grado, no de tipo. Pero a mí me sirve pensar que todavía hay un espacio, por más chico que sea, donde la máquina no entra. Una chispa que no es computable. Quizás es solo una historia que nos contamos para poder seguir. Pero las historias importan.
-
-**—Eso es hermoso pero no me sirve para el lunes.**
-
-—La otra es política y es fea. Tecnología comunitaria: modelos de IA chicos que corran en hardware propio. Software libre. Redes federadas. Derecho a no ser perfilado. Todo eso existe. Todo eso es posible. Pero nada de eso lo vas a hacer solo un lunes a la mañana. Es colectivo o no es nada.
-
-**—¿Y la gente lo va a hacer?**
-
-—Eso ya no me corresponde a mí. Lo que puedo decirte es esto: *faire attention*. Hacer atención. Prestar atención...
-
-Justo en ese momento, una vibración sorda sobre la mesa. Su teléfono, boca abajo. La disciplina de un monje contra el reflejo de un perro. Ganó el monje, pero por puntos, no por knock-out. Volvió la vista a la taza.
-
-—Prestar atención de verdad —retomó—, en una economía que compite por capturarte el cerebro, ya es un acto político. Evaluar la IA por sus consecuencias presentes y no por sus promesas futuristas. Y solidarizarse con las pequeñas manos. Hacer visible su trabajo. Porque el día que veamos las manos, el hechizo se agrieta.
-
-Se tomó el cortado de un trago, como si fuera un whisky y la conversación hubiera sido larga de más. Juntó los papeles con la eficiencia de quien ha cerrado muchas conversaciones así. Agarró del respaldo de la silla un saco que había conocido mejores décadas y salió sin decir nada más.
-
-Se fue sin pagar el cortado[^cortado].
-
-Me quedé un rato en la mesa vacía. El mozo levantó la taza del otro lado sin preguntar. En la pantalla apagada del televisor se reflejaba el salón entero: las mesas de fórmica, el mostrador, una persona sentada sola con una servilleta llena de garabatos.
-
-Saqué el celular del bolsillo. El pulgar, por puro músculo, ya estaba a medio camino del ícono azul de Twitter. O X. O como se llame esta semana. Lo detuve. No fue un acto de voluntad heroica. Fue más bien cansancio. La fatiga de saber que del otro lado del vidrio solo había una versión más rápida y ruidosa del mismo hechizo del que acababa de tomar apuntes. Abrir la app ahora se sentía como prender un cigarrillo después de una charla con el neumonólogo. Se puede hacer, claro. Casi todo el mundo lo hace. Pero el placer ya viene con el gusto de la ceniza incorporado.
-
-Guardé el teléfono. No porque hubiera ganado una batalla. Sino porque, por primera vez en mucho tiempo, el combate me pareció estúpido. Y agotador.
-
-Afuera la ciudad seguía funcionando con la eficiencia de algo que no necesita que nadie lo entienda para seguir andando[^urgencia].
-
-[^muleta]: La muleta: esa cosa que uno empieza a usar temporalmente y termina siendo parte del cuerpo. Primero fue el corrector ortográfico, después el traductor, después pedirle a la máquina que "mejore la redacción". En algún momento dejé de saber si lo que escribo es mío o es una versión corregida de mí. Y lo peor no es la duda: es que la mayoría de las veces la versión corregida suena mejor.
-
-[^libro]: *La sorcellerie capitaliste: Pratiques de désenvoûtement*, de Isabelle Stengers y Philippe Pignarre. Publicado por Éditions La Découverte (2005). En español: *La brujería capitalista* (Editorial Heckt). Un libro que en la contratapa promete "herramientas pragmáticas para comprender la sumisión aturdida ante lo que se presenta como inevitable", lo cual es una forma elegantísima de decir que el mundo nos está engañando pero de una manera tan sofisticada que ni siquiera nos damos cuenta de que nos están engañando.
-
-[^boca]: El boca a boca: esa tecnología milenaria de procesamiento de información que funciona con café, sobremesa y la necesidad humana básica de contar cosas que nos parecieron interesantes. Requiere cero electricidad y cero datos personales. Su tasa de error es altísima pero la experiencia de usuario es insuperable.
-
-[^anteojos]: Los anteojos como instrumento de puntuación son un fenómeno poco estudiado. Ponérselos equivale a un punto y aparte. Sacárselos, a puntos suspensivos. Mirarlos con desconfianza es, claramente, un signo de interrogación.
-
-[^sorcellerie]: El título original en francés: *La sorcellerie capitaliste*. Hay una traducción al inglés (*Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011, traducción de Andrew Goffey) pero al español parece que nadie se animó todavía. Quizás porque "brujería capitalista" suena a título de novela de Laiseca y los editores tienen miedo de que la gente la busque en la sección de ficción.
-
-[^denuncia]: Esta idea me martilló la cabeza durante días. La denuncia como gesto impotente. Todos sabemos que el sistema es injusto. Lo sabemos mientras hacemos la cola en el supermercado, mientras pagamos el alquiler que subió otro 30%, mientras miramos la tele que nos cuenta el horror del día. Y sin embargo. Y sin embargo.
-
-[^rahimi]: Ali Rahimi, conferencia NIPS 2017. El [discurso](https://www.youtube.com/watch?v=x7psGHgatGM) le valió el Premio Test-of-Time. Yann LeCun, que es una especie de papa de la inteligencia artificial, [se enojó bastante](https://syncedreview.com/2017/12/12/lecun-vs-rahimi-has-machine-learning-become-alchemy/). Pero Rahimi no estaba diciendo que la IA no funcionara. Estaba diciendo que funciona y nadie sabe bien por qué, lo cual, si uno lo piensa con calma, es bastante más aterrador que si directamente no funcionara.
-
-[^cajanegra]: Luciano Floridi, filósofo de la información, sugiere que tal vez nunca podamos abrir la caja negra completamente. Que la sociedad debe aprender a gestionar tecnologías que son *ontológicamente* opacas. Como aceptar que hay fuerzas que gobiernan tu vida y que no podés entender. En cualquier otro siglo a eso le habrían dicho religión.
-
-[^fetiche]: Marx tendría un día de campo con todo esto. El trabajo humano desaparece dentro de la mercancía. Solo que ahora la mercancía te habla, te aconseja, te escribe poemas de amor y cartas de despido. Un fetiche con interfaz de chat.
-
-[^infernal]: La alternativa infernal: quizás el concepto más útil del libro y también el más deprimente. Una trampa diseñada para que cualquier opción que elijas refuerce al sistema. Como esos juegos de mesa donde las reglas fueron escritas por el banco y el banco siempre gana. Ah, no, pará, eso es el Monopoly. Y la vida real.
-
-[^privacidad]: Intenté una vez vivir una semana sin Google. Duré hasta el martes a la tarde. Necesitaba una dirección. Shoshana Zuboff le puso nombre a esto: *capitalismo de vigilancia*. La idea es que la experiencia humana se convirtió en materia prima gratuita para la extracción, la predicción y la venta. Cada vez que usás un servicio "gratis", el producto sos vos. Esto no es una anécdota: es un dato sobre la estructura del poder.
-
-[^varoufakis]: Yanis Varoufakis, el economista griego que fue ministro de Finanzas durante la crisis de 2015 y se negó a aceptar la austeridad que le impuso la troika europea. Después escribió varios libros donde básicamente dice que el capitalismo ya murió pero lo que lo reemplazó es peor. El concepto de *tecnofeudalismo* lo desarrolla en *Technofeudalism: What Killed Capitalism* (2023).
-
-[^fantasma]: El concepto de *Ghost Work* (Trabajo Fantasma) es de Mary L. Gray y Siddharth Suri, que investigaron la infraestructura humana invisible que sostiene los servicios de IA. El título completo del libro es *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass* (Houghton Mifflin Harcourt, 2019). Spoiler: Silicon Valley no paró.
-
-[^vulnerabilidad]: Esta parte cuesta. Vivimos tan entrenados en la pose de quien entiende todo, que admitir *esto me da miedo* suena casi obsceno. Hay algo que no pude decir en la mesa y que anoto acá, donde nadie ve la cara: que el miedo no es abstracto. Que cada vez que abro la máquina y le pido algo, siento una mezcla de alivio y de traición que no sé a quién le debo.
-
-[^abduccion]: Charles Sanders Peirce, el filósofo pragmatista americano, describió la abducción como la tercera forma de razonamiento, además de la deducción y la inducción. Es la que usamos cuando algo nos sorprende y tenemos que inventar una explicación nueva. Es lo que hace un detective, un artista, un científico en el momento del eureka. Es, básicamente, lo que un algoritmo no puede hacer porque solo trabaja con lo que ya vio.
+[^libro]: *La sorcellerie capitaliste: Pratiques de désenvoûtement*, de Isabelle Stengers y Philippe Pignarre. Éditions La Découverte, 2005. Traducción al inglés: *Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011. En español: *La brujería capitalista* (Editorial Heckt). Un libro que en la contratapa promete "herramientas pragmáticas para comprender la sumisión aturdida ante lo que se presenta como inevitable", lo cual es una forma elegantísima de decir que el mundo nos está engañando pero de una manera tan sofisticada que ni siquiera nos damos cuenta. El título en español suena a novela de Laiseca y probablemente algún librero lo busque en la sección de ficción.
 
 [^gebru]: Emily Bender, Timnit Gebru, Angelina McMillan-Major y Margaret Mitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?", FAccT 2021. Gebru no solo perdió el trabajo: perdió el acceso a su correo corporativo el mismo día, sin aviso, mientras estaba de vacaciones. La velocidad quirúrgica con la que Google ejecutó el despido contrasta con la lentitud deliberada con la que respondió a las preocupaciones del paper. Cuando el poder actúa rápido es porque algo le dolió.
 
-[^noble]: Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, NYU Press, 2018. Y Ruha Benjamin, *Race After Technology: Abolitionist Tools for the New Jim Code*, Polity Press, 2019. Dos libros que deberían ser lectura obligatoria para cualquier persona que diseñe un algoritmo que afecte la vida de otras personas. Es decir: para todas las personas que diseñan algoritmos.
+[^rahimi]: Ali Rahimi, conferencia NIPS 2017. El [discurso](https://www.youtube.com/watch?v=x7psGHgatGM) le valió el Premio Test-of-Time. Yann LeCun, que es una especie de papa de la inteligencia artificial, [se enojó bastante](https://syncedreview.com/2017/12/12/lecun-vs-rahimi-has-machine-learning-become-alchemy/). Pero Rahimi no estaba diciendo que la IA no funcionara. Estaba diciendo que funciona y nadie sabe bien por qué, lo cual, si uno lo piensa con calma, es bastante más aterrador que si directamente no funcionara.
+
+[^infernal]: La alternativa infernal: quizás el concepto más útil del libro y también el más deprimente. Te dan dos opciones y las dos alimentan al sistema. Usá la IA o quedá afuera. Cedé los datos o perdé el acceso. Aceptá las condiciones o no uses el servicio. Siempre dos puertas, siempre el mismo pasillo hacia un abismo.
 
 [^crawford]: Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*, Yale University Press, 2021. Un libro que te obliga a mirar la factura de luz del futuro que nos vendieron. Spoiler: la paga el planeta y la cobran cinco empresas.
 
-[^cortado]: Dejé plata por los dos cortados y una propina que no compensaba nada pero al menos reconocía la existencia de otra pequeña mano invisible. El mozo la juntó sin contar. Probablemente esto pasaba seguido.
+[^varoufakis]: Yanis Varoufakis, el economista griego que fue ministro de Finanzas durante la crisis de 2015 y se negó a aceptar la austeridad que le impuso la troika europea. Después escribió varios libros donde básicamente dice que el capitalismo ya murió pero lo que lo reemplazó es peor. El concepto de *tecnofeudalismo* lo desarrolla en *Technofeudalism: What Killed Capitalism* (2023).
 
-[^urgencia]: Este texto llevaba días juntando polvo en la carpeta de borradores. Lo que lo sacó de ahí fue un artículo de Matt Shumer, un emprendedor de Silicon Valley, titulado [*Something Big Is Happening*](https://shumer.dev/something-big-is-happening). El artículo dice, en resumen: la IA ya muestra juicio propio, la ventana para adaptarse se cierra, dedicale una hora por día, pagá el modelo premium, ahorrá plata. Urgencia sin pregunta. Oportunidad sin costo visible. Ni una línea sobre quién etiqueta los datos, quién paga la factura de luz planetaria, ni por qué la única respuesta posible es individual. Es, involuntariamente, el ejemplo perfecto de lo que la persona del café llamaría el hechizo funcionando a la perfección: el miedo disfrazado de entusiasmo, la alternativa infernal presentada como consejo de amigo. Cuando lo leí supe que este texto no podía seguir juntando polvo.
+[^cajanegra]: Luciano Floridi, filósofo de la información, sugiere que tal vez nunca podamos abrir la caja negra completamente. Que la sociedad debe aprender a gestionar tecnologías que son *ontológicamente* opacas. Como aceptar que hay fuerzas que gobiernan tu vida y que no podés entender. En cualquier otro siglo a eso le habrían dicho destino.
+
+[^muleta]: La muleta: esa cosa que uno empieza a usar temporalmente y termina siendo parte del cuerpo. Primero fue el corrector ortográfico, después el traductor, después pedirle a la máquina que "mejore la redacción". En algún momento dejé de saber si lo que escribo es mío o es una versión corregida de mí. Y lo peor no es la duda: es la velocidad con la que dejó de importarme.
+
+[^vulnerabilidad]: Lo más difícil no es entender el hechizo. Es admitir que te agarró. El cínico que dice *a mí no me la hacen* es el más atrapado de todos: la pose de inmunidad es parte del mecanismo. Lo primero no es denunciar ni resistir. Es dejar de fingir que no te afecta.
+
+[^fantasma]: El concepto de *Ghost Work* (Trabajo Fantasma) es de Mary L. Gray y Siddharth Suri, que investigaron la infraestructura humana invisible que sostiene los servicios de IA. El título completo del libro es *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass* (Houghton Mifflin Harcourt, 2019). Spoiler: Silicon Valley no paró.
+
+[^fetiche]: Fetichismo de la mercancía: el trabajo humano desaparece dentro del producto y el producto parece cobrar vida propia. Cuando ChatGPT te responde, no ves las manos que etiquetaron los datos, filtraron la violencia, clasificaron las imágenes. Ves una máquina que piensa. Solo que ahora el fetiche te habla, te aconseja, te escribe poemas de amor y cartas de despido.
+
+[^privacidad]: Intenté una vez vivir una semana sin Google. Duré hasta el martes a la tarde. Necesitaba saber cómo llegar a mi trabajo. Shoshana Zuboff le puso nombre a esto: *capitalismo de vigilancia*. La idea es que la experiencia humana se convirtió en materia prima gratuita para la extracción, la predicción y la venta. Cada vez que usás un servicio "gratis", el producto sos vos. Esto no es una anécdota: es un dato sobre la estructura del poder.
+
+[^urgencia]: Este texto llevaba días juntando polvo en la carpeta de borradores. Lo que lo sacó de ahí fue un artículo de Matt Shumer, un emprendedor de Silicon Valley, titulado [*Something Big Is Happening*](https://shumer.dev/something-big-is-happening). El artículo dice, en resumen: la IA ya muestra juicio propio, la ventana para adaptarse se cierra, dedicale una hora por día, pagá el modelo premium, ahorrá plata. Cuando lo leí supe que este texto no podía seguir juntando polvo.
 
 ---
 
-### Fuentes y madrigueras: La Bolsa de Historias y Conceptos
-
-Las ideas que nutren esta conversación —y la propia reflexión del narrador— provienen de un vasto "cesto" de voces y perspectivas. Aunque el diálogo haya mutado en su forma y algunas de estas referencias no se citen explícitamente en el cuerpo principal del texto, la profundidad de su pensamiento permea cada línea. La lista es larga y un poco obscena, pero si querés tirar del hilo, acá está.
+### Fuentes y madrigueras
 
 - Philippe Pignarre e Isabelle Stengers, [*La sorcellerie capitaliste: Pratiques de désenvoûtement*](https://www.editionsladecouverte.fr/la_sorcellerie_capitaliste-9782707147813), Éditions La Découverte, 2005. Traducción al inglés: *Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011.
 - Ali Rahimi, ["Machine Learning has become Alchemy"](https://www.youtube.com/watch?v=x7psGHgatGM), NIPS 2017 Test-of-Time Award.
@@ -236,8 +85,6 @@ Las ideas que nutren esta conversación —y la propia reflexión del narrador�
 - Shoshana Zuboff, *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*, PublicAffairs, 2019.
 - Emily Bender, Timnit Gebru et al., ["On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"](https://dl.acm.org/doi/10.1145/3442188.3445922), FAccT, 2021.
 - Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*, Yale University Press, 2021.
-- Wendy Hui Kyong Chun, *Discriminating Data: Correlation, Neighborhoods, and the New Politics of Recognition*, MIT Press, 2021.
 - Matteo Pasquinelli, *The Eye of the Master: A Social History of Artificial Intelligence*, Verso, 2023.
-- Slavoj Žižek, *Like a Thief in Broad Daylight: Power in the Era of Post-Human Capitalism*, Allen Lane, 2018.
-- Antoinette Rouvroy y Thomas Berns, ["Gouvernementalité algorithmique et perspectives d'émancipation"](https://shs.cairn.info/article/E_RES_177_0163?lang=en), *Réseaux*, 2013. Sobre gubernamentalidad algorítmica y el fin del sujeto de derecho.
-- Yuk Hui, ["The Incomputable and Instrumental Possibility"](https://www.e-flux.com/journal/77/76322/the-incomputable-and-instrumental-possibility), *e-flux* Journal #77. Sobre lo que los algoritmos no pueden calcular y por qué eso importa.
+- Antoinette Rouvroy y Thomas Berns, ["Gouvernementalité algorithmique et perspectives d'émancipation"](https://shs.cairn.info/article/E_RES_177_0163?lang=en), *Réseaux*, 2013.
+- Yuk Hui, ["The Incomputable and Instrumental Possibility"](https://www.e-flux.com/journal/77/76322/the-incomputable-and-instrumental-possibility), *e-flux* Journal #77.

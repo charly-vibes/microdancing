@@ -22,6 +22,12 @@
                 <header>
                     <h1>$title$</h1>
                     $if(date)$<time>$date$</time>$endif$
+                    $if(translations.es)$
+                    <a href="$base-path$$translations.es$" class="translation-link" lang="es">Leer en español</a>
+                    $endif$
+                    $if(translations.en)$
+                    <a href="$base-path$$translations.en$" class="translation-link" lang="en">Read in English</a>
+                    $endif$
                 </header>
                 $body$
             </article>

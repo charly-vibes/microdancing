@@ -3,7 +3,7 @@ title: "The Sorcerer Algorithm"
 date: 2026-02-16
 lang: en
 translations:
-  es: /es/algoritmo-brujo
+  es: /es/posts/algoritmo-brujo.html
 ---
 
 Getting off the train at Belgrano R, I was seized by something I still can't tell if it was fear or shame. Probably both. When you get off a train in Buenos Aires, people rush towards the exit like the stampede that killed Mufasa, and in those few seconds between touching the platform and being swept away by the herd, I managed to see—no, I managed to *feel that I was being watched* by—a poster from an internet provider saying something like *let the Algorithm decide for you*. The poster had a huge, illustrated, corporate-blue eye, placed at the exact height of the face of someone getting off a train. Someone designed it that way. Someone got paid for it. And someone—specifically, that very morning—had asked an artificial intelligence to review a text before sending it[^muleta].

@@ -3,7 +3,7 @@ title: "Resonant Coding: or How I Learned to Stop Worrying and Love the Chaos"
 date: 2026-01-25
 lang: en
 translations:
-  es: /es/resonant-coding
+  es: /es/posts/resonant-coding.html
 ---
 
 <nav class="progress-nav"><a href="#s1">1</a> <a href="#s2">2</a> <a href="#s3">3</a> <a href="#s4">4</a> <a href="#s5">5</a> <a href="#s6">6</a> <a href="#s7">7</a> <a href="#s8">8</a></nav>

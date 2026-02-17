@@ -2,6 +2,8 @@
 title: "Resonant Coding: Guía práctica"
 date: 2026-01-25
 lang: es
+translations:
+  en: /en/posts/resonant-coding-guide.html
 ---
 
 Todo lo anterior suena bien en teoría, pero la teoría tiene esa particularidad molesta de disolverse cuando toca la realidad. Así que acá va cómo se materializa esto en el día a día, con la advertencia de que cualquier sistema que pretenda ser definitivo está condenado a fracasar, y este no es la excepción[^sistema].

@@ -6,17 +6,19 @@ translations:
   en: /en/posts/the-sorcerer-algorithm.html
 ---
 
-Bajando del tren me agarró algo que todavía no sé si fue miedo o vergüenza. Probablemente las dos cosas. Al bajar del tren la gente se abalanzó como la estampida que mató a Mufasa hacia la salida, y en esos segundos entre tocar la plataforma y que te arrastre la manada alcancé a ver —no, alcancé a *sentir que me veían*— un cartel de un proveedor de internet diciendo algo como *dejá que el Algoritmo decida por vos*. El cartel tenía un ojo ilustrado, enorme, celeste corporativo, puesto a la altura exacta de la cara de alguien que baja de un tren. Alguien lo diseñó así. Alguien cobró por eso. Y alguien —concretamente, esa misma mañana— le había pedido a una inteligencia artificial que revisara un texto antes de mandarlo[^muleta].
+El capitalismo funciona como un sistema de brujería. Lo leí en un libro meses atrás y no entendí nada[^libro]. Después un cartel con un ojo celeste me miró desde un andén y lo entendí todo.
+
+El ojo era de un proveedor de internet. Celeste corporativo, enorme, puesto a la altura exacta de la cara de alguien que baja de un tren. *Dejá que el Algoritmo decida por vos.* Alguien lo diseñó así. Alguien cobró por eso. Y esa misma mañana yo le había pedido a una inteligencia artificial que me revisara un texto[^muleta].
 
 La vergüenza duró lo que dura cruzar un molinete. El miedo, en cambio, se quedó.
 
-No era la primera vez que la palabra Algoritmo hacía ruido. Mi hermana menor la mete en toda conversación como quien mete una cuña: el Algoritmo me mostró, el Algoritmo me recomendó, el Algoritmo sabe. Mi abuela, que ya navega entre la lucidez y el delirio como quien cambia de canal, repite frases de la tele donde el Algoritmo aparece con la misma frecuencia que El Vil Metal. La palabra se había metido en todas partes, como una humedad que no sabés de dónde viene pero ya manchó todo el techo.
+Mi hermana mete la palabra Algoritmo en toda conversación como quien mete una cuña: el Algoritmo me mostró, el Algoritmo me recomendó, el Algoritmo sabe. Mi abuela, que navega entre la lucidez y el delirio como quien cambia de canal, repite frases de la tele donde el Algoritmo aparece con la misma frecuencia que El Vil Metal.
 
-Había un libro. Encontrado meses antes en un descuido, en un estante bien abajo y escondido, torciendo el cuello y esforzando la vista por la luz baja[^libro]. Un libro duro de leer que en su momento no había entendido pero que ahora, después del cartel y del ojo y de la vergüenza del molinete, volvía a la cabeza como un zumbido que no para. El libro decía que el capitalismo funciona como un sistema de brujería. Y el cartel me había mirado como un brujo mira a su presa: sin pestañear.
+El libro lo había encontrado meses antes en un estante bajo, mal iluminado, el tipo de lugar donde se esconden las cosas que no conviene leer. Decía que el capitalismo captura, atrapa, paraliza. Que funciona sin brujo central, sin nadie moviendo los hilos. Una red de prácticas y de miedos que anda sola. El cartel me había mirado como un brujo mira a su presa: sin pestañear.
 
-Y fue cuando todo se volvió uno solo: el libro, el ojo, la abuela, mi hermana, yo pidiéndole a una máquina que me corrigiera la prosa. Algo raro ya había salido de su crisálida y se había esparcido entre nosotros volviéndonos sus secuaces.
+Todo se volvió una sola cosa: el libro, el ojo, la abuela, mi hermana, yo pidiéndole a una máquina que me corrigiera la prosa.
 
-No podía armarlo en algo coherente. Se me ocurrió hacer picada de estas ideas y meterlas en la Choricera Artificial —sí, la misma máquina que daba vergüenza usar esa mañana, porque la coherencia es un lujo que a veces no se puede dar— para ver qué salía.
+Hice picada de estas ideas y las metí en la Choricera Artificial —la misma máquina que daba vergüenza usar esa mañana, porque la coherencia es un lujo que no siempre se puede dar— para ver qué salía.
 
 ---
 

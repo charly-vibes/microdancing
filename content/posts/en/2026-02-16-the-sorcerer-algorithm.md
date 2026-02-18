@@ -35,14 +35,16 @@ I take out my phone. My thumb heads for Twitter.
 — Stop.
 — Why?
 — Because you already know what happens. Twenty minutes and then you can't remember a thing.
-— I know. I know every time and every time I tap anyway.
-— You don't need a sorcerer. All it takes is for the finger to arrive before the thought.
+— I know. I know every time. But not this time. This time I put the phone down and I watch the faces of the people not looking at a screen. There are three of them: an older woman with a book, a kid drawing in a notebook, and a man in a uniform staring into space.
+— A small act of disobedience.
+— Does it do any good?
+— It's a reminder that the thumb has no will of its own.
 — That's a book. This is a train.
 — What's the difference?
 
 ---
 
-The woman across the aisle looks at her phone. On her screen, the same video I watched last night.
+The woman across the aisle, a girl no older than twenty, looks at her phone with the white earbuds Apple gives away. On the screen, the same video I saw last night of a guy cutting colorful bars of soap into cubes. Visual ASMR. The girl doesn't smile, just watches, with the same concentration as someone reading a biopsy result.
 
 — Coincidence.
 — Coincidences don't exist when there's a recommendation system.
@@ -52,19 +54,20 @@ The woman across the aisle looks at her phone. On her screen, the same video I w
 — Everything you gave it. Which is almost everything.
 — I didn't give it anything.
 — You gave it every second your thumb lingered on an image. Every search at three in the morning. Every link you hesitated over and didn't tap.
-— That's not giving. That's being watched[^privacy].
-— Your grandmother says "the Algorithm" with the same face she uses for "inflation." Something that comes from above.
+— That's not giving. That's being watched[^privacy]. It becomes an abstract force, like destiny or gravity.
+— In fact, my grandmother says "the Algorithm" with the same face she uses for "inflation." Something that comes from above.
 — My grandmother doesn't know what it is.
 — No one does. It's not that we don't understand it yet: it's that it won't let itself be understood[^blackbox].
 
-She laughs at something on her screen.
+Suddenly, the biopsy girl laughs. A short, inward laugh. Her jaw tenses again instantly.
 
 — The worst part isn't being watched. It's that they put a video in front of you and you laugh.
 
 ---
 
-A guy walks through with a bag full of earbuds. He offers them with a script he repeats every two cars. No one buys.
+A guy walks through with a trash bag full of earbuds. The script is always the same, chanted with the weariness of a thousand trips: 'Headphones, great sound, power bank for your phone, don't run out of juice, boss.' No one looks up. He doesn't look at anyone either; he's talking to a car of bowed heads. A human algorithm, repeating its pattern.
 
+The memory of another pattern interrupts me.
 — This morning I asked a machine to fix a text for me.
 — And?
 — I fed it raw ideas and out came a sausage of prose. The Artificial Sausage Maker.
@@ -94,7 +97,7 @@ Someone gets on wearing a hoodie that says Google. Sits down, takes out their ph
 
 ---
 
-The train stops. Outside: the wet platform, the loose tiles, a dog tied to a column watching the train pass with the patience of something that no longer expects anything.
+A sharp screech of metal on metal, and the car shudders to a halt. Outside: the wet platform, the loose tiles, a dog tied to a column now watching the still car with the patience of something that no longer expects anything.
 
 — That last part isn't yours.
 — What do you mean?
@@ -113,7 +116,7 @@ The train starts. My thumb is still there.
 
 — Did I think this or did you suggest it?
 — Does it matter?
-— Because if it doesn't matter, they've already won.
+— If it doesn't matter, they've already won. If it starts to matter, the game is still on.
 
 Outside, the city keeps running with the efficiency of something that doesn't need anyone to understand it.
 
@@ -129,9 +132,9 @@ Outside, the city keeps running with the efficiency of something that doesn't ne
 
 [^blackbox]: Luciano Floridi, philosopher of information, suggests that we may never be able to fully open the black box. That society must learn to manage technologies that are *ontologically* opaque. Like accepting that there are forces governing your life that you cannot understand. In any other century, they would have called that fate.
 
-[^crutch]: The crutch: that thing you start using temporarily and ends up being part of your body.
+[^crutch]: The crutch: that thing you start using temporarily and ends up being part of your body. A friend's grandfather used a cane for a sprained ankle and never let it go. He said it gave him 'dignity.' Isn't that what we say about AI when it 'improves' a text for us? The dignity of sounding more eloquent than we are. The problem is when they take away the cane and you don't remember how to walk.
 
-[^vulnerability]: Every time I write about technology, I'm tempted by the pose of someone analyzing from outside, with surgical distance. But there is no outside. The first honest gesture is to say *me too*.
+[^vulnerability]: Every time I write about technology, I'm tempted by the pose of someone analyzing from the outside, with surgical distance. But there is no outside. The first honest gesture is to say *me too*. The irony, of course, is that I'm writing this in a text editor that underlines long sentences and suggests synonyms. This very paragraph, lamenting the 'Artificial Sausage Maker,' has already been through a version of that same machine.
 
 [^ghost]: The concept of *Ghost Work* is from Mary L. Gray and Siddharth Suri, who investigated the invisible human infrastructure that sustains AI services. The full title of the book is *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass* (Houghton Mifflin Harcourt, 2019). Spoiler: Silicon Valley didn't stop.
 

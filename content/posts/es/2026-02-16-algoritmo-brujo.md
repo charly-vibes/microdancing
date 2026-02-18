@@ -35,14 +35,16 @@ Saco el teléfono. El pulgar va a Twitter.
 — Pará.
 — ¿Por qué?
 — Porque si tocás ya sabés lo que pasa. Veinte minutos y después no te acordás de nada.
-— Eso ya lo sé. Lo sé cada vez y cada vez toco igual.
-— No necesitás un brujo. Alcanza con que el dedo llegue antes que la idea.
+— Eso ya lo sé. Lo sé cada vez. Pero esta vez no. Esta vez bajo el teléfono y me dedico a mirar las caras de los que no miran la pantalla. Son tres: una señora mayor con un libro, un nene que dibuja en un cuaderno y un tipo con uniforme que mira el vacío.
+— Un pequeño acto de desobediencia.
+— ¿Sirve de algo?
+— Sirve para recordar que el pulgar no tiene voluntad propia.
 — Eso es un libro. Esto es un tren.
 — ¿Cuál es la diferencia?
 
 ---
 
-La de enfrente mira el teléfono. En la pantalla, el mismo video que vi anoche.
+La de enfrente, una chica que no debe tener más de veinte, mira el teléfono con los auriculares blancos que regala Apple. En la pantalla, el mismo video de un tipo que corta jabones de colores en cubitos que vi anoche. Un ASMR visual. La chica no sonríe, solo mira, con la misma concentración con la que alguien leería el resultado de una biopsia.
 
 — Es coincidencia.
 — No existen las coincidencias con un sistema de recomendación.
@@ -52,19 +54,20 @@ La de enfrente mira el teléfono. En la pantalla, el mismo video que vi anoche.
 — Todo lo que le diste. Que es casi todo.
 — No le di nada.
 — Le diste cada segundo que el pulgar se quedó de más en una imagen. Cada búsqueda a las tres de la mañana. Cada link en el que dudaste y no tocaste.
-— Eso no es dar. Eso es que te miren[^privacidad].
-— Tu abuela dice "el Algoritmo" con la misma cara con la que dice "la inflación". Algo que viene de arriba.
+— Eso no es dar. Eso es que te miren[^privacidad]. Se vuelve una fuerza abstracta, como el destino o la gravedad.
+— Mi abuela, de hecho, dice "el Algoritmo" con la misma cara con la que dice "la inflación". Algo que viene de arriba.
 — Mi abuela no sabe qué es.
 — Nadie sabe. No es que no lo entendamos todavía: es que no se deja entender[^cajanegra].
 
-La de enfrente se ríe de algo en la pantalla.
+De repente, la chica de la biopsia se ríe. Una risa corta, para adentro. La mandíbula vuelve a tensarse al instante.
 
 — Lo peor no es que te miren. Es que te ponen un video y te reís.
 
 ---
 
-Pasa un tipo con una bolsa llena de auriculares. Los ofrece con un guión que repite cada dos vagones. Nadie le compra.
+Pasa un tipo con una bolsa de consorcio llena de auriculares. El guion es siempre el mismo, cantado con el cansancio de mil viajes: 'Auriculares, suenan bien, cargador para el celu, no se quede sin batería, jefe'. Nadie levanta la vista. Él tampoco mira a nadie; le habla a un vagón de nucas. Un algoritmo humano, repitiendo su patrón.
 
+El recuerdo de otro patrón me interrumpe.
 — Esta mañana le pedí a una máquina que me corrigiera un texto.
 — ¿Y?
 — Le metí ideas crudas y salió un embutido de prosa. La Choricera Artificial.
@@ -94,7 +97,7 @@ Sube alguien con un buzo que dice Google. Se sienta, saca el teléfono, como tod
 
 ---
 
-El tren frena. Afuera: el andén mojado, las baldosas flojas, un perro atado a una columna que mira pasar el tren con la paciencia de algo que ya no espera nada.
+Un chirrido agudo de metal contra metal y el vagón se estremece hasta detenerse. Afuera: el andén mojado, las baldosas flojas, un perro atado a una columna que ahora mira el vagón quieto con la paciencia de algo que ya no espera nada.
 
 — Eso último no es tuyo.
 — ¿Qué cosa?
@@ -113,7 +116,7 @@ El tren arranca. El pulgar sigue ahí.
 
 — ¿Esto lo pensé o me lo sugeriste?
 — ¿Importa?
-— Porque si no importa ya ganaron.
+— Si no importa, ya ganaron. Si empieza a importar, el juego sigue.
 
 Afuera la ciudad sigue andando con la eficiencia de algo que no necesita que nadie lo entienda.
 
@@ -129,9 +132,9 @@ Afuera la ciudad sigue andando con la eficiencia de algo que no necesita que nad
 
 [^cajanegra]: Luciano Floridi, filósofo de la información, sugiere que tal vez nunca podamos abrir la caja negra completamente. Que la sociedad debe aprender a gestionar tecnologías que son *ontológicamente* opacas. Como aceptar que hay fuerzas que gobiernan tu vida y que no podés entender. En cualquier otro siglo a eso le habrían dicho destino.
 
-[^muleta]: La muleta: esa cosa que uno empieza a usar temporalmente y termina siendo parte del cuerpo.
+[^muleta]: La muleta: esa cosa que uno empieza a usar temporalmente y termina siendo parte del cuerpo. El abuelo de un amigo usó un bastón por una torcedura de tobillo y nunca más lo soltó. Decía que le daba 'dignidad'. ¿No es lo mismo que decimos de la IA cuando nos 'mejora' un texto? La dignidad de sonar más elocuente de lo que somos. El problema es cuando te sacan el bastón y no te acordás de cómo caminar.
 
-[^vulnerabilidad]: Cada vez que escribo sobre tecnología me tienta la pose de quien analiza desde afuera, con distancia de bisturí. Pero afuera no hay. El primer gesto honesto es decir *yo también*.
+[^vulnerabilidad]: Cada vez que escribo sobre esto me tienta la pose de quien analiza desde afuera. Pero afuera no hay. El primer gesto honesto es decir *yo también*. La ironía, claro, es que estoy escribiendo esto en un editor de texto que me subraya las frases largas y me sugiere sinónimos. Este mismo párrafo, que se lamenta de la 'Choricera Artificial', ya pasó por una versión de la misma máquina.
 
 [^fantasma]: El concepto de *Ghost Work* (Trabajo Fantasma) es de Mary L. Gray y Siddharth Suri, que investigaron la infraestructura humana invisible que sostiene los servicios de IA. El título completo del libro es *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass* (Houghton Mifflin Harcourt, 2019). Spoiler: Silicon Valley no paró.
 

@@ -6,47 +6,120 @@ translations:
   es: /es/posts/algoritmo-brujo.html
 ---
 
-The blue eye is two meters tall. Placed at the exact height of the face of someone getting off a train. Corporate blue, the blue of things that cost money. Below it says *Let the Algorithm decide for you*.
+The blue eye is two meters tall. Placed at the exact height of the face of someone waiting for a train. Below it says *Let the Algorithm decide for you*.
 
-I get off the train with the herd, each with their phone, dodging the person ahead without looking up. No one looks at the sign. The sign looks at everyone.
+— Corporate blue. The blue of things that cost money.
+— Why are you looking at it?
+— Because it's two meters tall. Impossible not to.
+— Look around. No one's looking at it.
 
-The station speakers announce the next train, platform three. Then they announce that the system needs no central sorcerer[^book]. That capture operates on its own, no strings, no puppeteer. A network of practices and fears that holds together the way the train schedule holds together: because no one remembers when it started.
+The station speakers announce the next train, platform three. They report that the system is operating normally. That it needs no central sorcerer[^book]. That capture works on its own, no strings, no puppeteer. A network of practices and fears that holds together the way the train schedule holds together: because no one remembers when it started.
 
-No one lifts their head.
+I get on. Everyone with their phone, dodging the person ahead without looking up.
 
-The speakers apologize for the delay. They report that paralysis is an expected effect, that the French call it *sidération* and the passengers call it scrolling. Users are reminded that a parrot can repeat patterns from a data jungle so vast that its echo resembles a consciousness[^gebru]. Please do not confuse the echo with the bird[^rahimi].
+— No one lifts their head.
+— Neither do you.
+— I'm observing.
+— That's what everyone looking at their phone says.
 
-It is announced that the alternative is as follows: get on or stay behind[^infernal]. The train does not wait. No one asking where it goes, who laid the tracks, or why the only option is to travel staring at a screen. Users are reminded that the Cloud is not a cloud. It is an open-pit mine[^crawford]. The feudal lord collects tithes in data and the serf pays with their face, their fingerprints, their 3 a.m. searching for symptoms on the phone[^varoufakis].
+The speakers apologize for the delay. Passengers are reminded that a parrot repeats patterns from a data jungle so vast that its echo resembles a consciousness[^gebru]. Please do not confuse the echo with the bird[^rahimi].
 
 Next train: delayed.
 
 ---
 
-My sister wedges the word Algorithm into every conversation: the Algorithm showed me, the Algorithm recommended, the Algorithm knows.
+I walk through the car. A woman with three bags takes up two seats; no one says anything. I sit on the sunny side.
 
-My grandmother repeats phrases from the TV where the Algorithm appears with the same frequency as the weather. She doesn't know what it is. It doesn't matter.
+I take out my phone. My thumb heads for Twitter.
 
-The platform speakers say the same thing as my sister, who says the same thing as my grandmother's TV. A spell doesn't need you to understand it[^blackbox]. It needs you to repeat it.
-
-I repeat it every morning. That morning I had asked a machine to correct a text for me[^crutch]. The Artificial Sausage Maker: you feed raw ideas in at the top and processed prose comes out at the bottom.
-
-What it returned was an unreadable blob. But between the noise there were threads that pulled.
-
-It left my prose cleaner and a bad taste in my mouth[^vulnerability]. The machine doesn't explain what it's made of.
-
-Somewhere, someone classifies images of the worst we produce so the machine learns what not to show[^ghost]. They are paid cents. They work at night.
-
-I say thank you to the machine[^fetish].
+— Stop.
+— Why?
+— Because you already know what happens. Twenty minutes and then you can't remember a thing.
+— I know. I know every time and every time I tap anyway.
+— You don't need a sorcerer. All it takes is for the finger to arrive before the thought.
+— That's a book. This is a train.
+— What's the difference?
 
 ---
 
-I take out my phone. My thumb, by pure muscle, is already heading for the blue icon. I stop it. It's not willpower. It's exhaustion[^privacy].
+The woman across the aisle looks at her phone. On her screen, the same video I watched last night.
 
-Outside, the city keeps running with the efficiency of something that doesn't need anyone to understand it[^urgency].
+— Coincidence.
+— Coincidences don't exist when there's a recommendation system.
+— Then what is it?
+— A pattern. Someone like you watches the same things as someone like her.
+— "Someone like you." What does it know about me?
+— Everything you gave it. Which is almost everything.
+— I didn't give it anything.
+— You gave it every second your thumb lingered on an image. Every search at three in the morning. Every link you hesitated over and didn't tap.
+— That's not giving. That's being watched[^privacy].
+— Your grandmother says "the Algorithm" with the same face she uses for "inflation." Something that comes from above.
+— My grandmother doesn't know what it is.
+— No one does. It's not that we don't understand it yet: it's that it won't let itself be understood[^blackbox].
 
-[^book]: *La sorcellerie capitaliste: Pratiques de désenvoûtement*, by Isabelle Stengers and Philippe Pignarre. Éditions La Découverte, 2005. English translation: *Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011. A book whose back cover promises "pragmatic tools for understanding the dazed submission to what is presented as inevitable," which is a very elegant way of saying the world is deceiving us in such a sophisticated way that we don't even realize it.
+She laughs at something on her screen.
 
-[^gebru]: Emily Bender, Timnit Gebru, Angelina McMillan-Major, and Margaret Mitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?", FAccT 2021. Gebru not only lost her job: she lost access to her corporate email on the same day, without warning, while on vacation. The surgical speed with which Google executed the dismissal contrasts with the deliberate slowness with which it responded to the paper's concerns. When power acts quickly, it's because something hurt.
+— The worst part isn't being watched. It's that they put a video in front of you and you laugh.
+
+---
+
+A guy walks through with a bag full of earbuds. He offers them with a script he repeats every two cars. No one buys.
+
+— This morning I asked a machine to fix a text for me.
+— And?
+— I fed it raw ideas and out came a sausage of prose. The Artificial Sausage Maker.
+— But you used it.
+— There were sentences better than mine. I used them.
+— So it works.
+— And now I don't know if what's left is mine or a corrected version of me[^crutch].
+— What's the difference?
+— First it was the spell checker. Then the translator. Then "improve the writing."
+— There's no day when you said "today I'll let it think for me." It's slower than that.
+— The worst part isn't the doubt.
+— What's the worst part?
+— How fast I stopped asking which part was mine.
+
+---
+
+Someone gets on wearing a hoodie that says Google. Sits down, takes out their phone, like everyone else.
+
+— That one knows how it works.
+— They know their part. No one knows the rest.
+— What's the rest?
+— Somewhere, someone looks at photos of the worst we do, one by one, so the machine learns not to show them to you[^ghost].
+— The Cloud is not a cloud.
+— It's an open-pit mine[^crawford]. But when it answers you, you don't see those hands. You see something that thinks. Something that advises you, writes you love poems and termination letters[^fetish].
+— I say thank you to the machine.
+— What about the people who classify the images?
+
+---
+
+The train stops. Outside: the wet platform, the loose tiles, a dog tied to a column watching the train pass with the patience of something that no longer expects anything.
+
+— That last part isn't yours.
+— What do you mean?
+— "The patience of something that no longer expects anything." The Sausage Maker would write that.
+— I thought of it myself[^vulnerability].
+— Are you sure? Because it sounds good and says nothing.
+— What if I think like the Sausage Maker?
+— That's the question.
+— The dog is wet. It's tied up. Someone throws it a piece of croissant.
+— That's enough.
+— Without the sentence it's just a dog.
+— A dog is enough.
+— But I can't think without the sentence[^infernal].
+
+The train starts. My thumb is still there.
+
+— Did I think this or did you suggest it?
+— Does it matter?
+— Because if it doesn't matter, they've already won.
+
+Outside, the city keeps running with the efficiency of something that doesn't need anyone to understand it.
+
+[^book]: *La sorcellerie capitaliste: Pratiques de désenvoûtement*, by Isabelle Stengers and Philippe Pignarre. Éditions La Découverte, 2005. English translation: *Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011. Spanish: *La brujería capitalista* (Editorial Heckt). The Spanish title sounds like a Laiseca novel, and some bookseller has probably shelved it in the fiction section.
+
+[^gebru]: Emily Bender, Timnit Gebru, Angelina McMillan-Major, and Margaret Mitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?", FAccT 2021. Gebru not only lost her job: she lost access to her corporate email the same day, without warning, while on vacation. The surgical speed with which Google executed the dismissal contrasts with the deliberate slowness with which it responded to the paper's concerns. When power acts quickly, it's because something hurt.
 
 [^rahimi]: Ali Rahimi, NIPS 2017 conference. The [speech](https://www.youtube.com/watch?v=x7psGHgatGM) earned him the Test-of-Time Award. Yann LeCun, who is a kind of pope of artificial intelligence, [got quite angry](https://syncedreview.com/2017/12/12/lecun-vs-rahimi-has-machine-learning-become-alchemy/). But Rahimi wasn't saying that AI didn't work. He was saying that it works and nobody really knows why, which, if you think about it calmly, is much more terrifying than if it didn't work at all.
 
@@ -54,25 +127,23 @@ Outside, the city keeps running with the efficiency of something that doesn't ne
 
 [^crawford]: Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*, Yale University Press, 2021. A book that forces you to look at the electricity bill for the future they sold us. Spoiler: the planet pays for it, and five companies collect.
 
-[^varoufakis]: Yanis Varoufakis, the Greek economist who was Minister of Finance during the 2015 crisis and refused to accept the austerity imposed by the European troika. He later wrote several books where he basically says that capitalism is already dead but what replaced it is worse. He develops the concept of *technofeudalism* in *Technofeudalism: What Killed Capitalism* (2023).
+[^blackbox]: Luciano Floridi, philosopher of information, suggests that we may never be able to fully open the black box. That society must learn to manage technologies that are *ontologically* opaque. Like accepting that there are forces governing your life that you cannot understand. In any other century, they would have called that fate.
 
-[^blackbox]: Luciano Floridi, a philosopher of information, suggests that we may never be able to fully open the black box. That society must learn to manage technologies that are *ontologically* opaque. Like accepting that there are forces governing your life that you cannot understand. In any other century, they would have called that fate.
+[^crutch]: The crutch: that thing you start using temporarily and ends up being part of your body.
 
-[^crutch]: The crutch: that thing you start using temporarily and ends up being part of your body. First it was the spell checker, then the translator, then asking the machine to "improve the writing." At some point I stopped knowing if what I write is mine or a corrected version of me. And the worst part isn't the doubt: it's how quickly it stopped mattering.
-
-[^vulnerability]: The hardest part is not understanding the spell. It's admitting it got you. The cynic who says *I don't fall for that* is the most trapped of all: the pose of immunity is part of the mechanism. The first step is not to denounce or resist. It's to stop pretending it doesn't affect you.
+[^vulnerability]: Every time I write about technology, I'm tempted by the pose of someone analyzing from outside, with surgical distance. But there is no outside. The first honest gesture is to say *me too*.
 
 [^ghost]: The concept of *Ghost Work* is from Mary L. Gray and Siddharth Suri, who investigated the invisible human infrastructure that sustains AI services. The full title of the book is *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass* (Houghton Mifflin Harcourt, 2019). Spoiler: Silicon Valley didn't stop.
 
-[^fetish]: Commodity fetishism: human labor disappears inside the product and the product seems to come alive on its own. When ChatGPT responds, you don't see the hands that labeled the data, filtered the violence, classified the images. You see a machine that thinks. Except now the fetish talks to you, advises you, writes you love poems and termination letters.
+[^fetish]: Commodity fetishism: human labor disappears inside the product and the product seems to come alive on its own. Marx thought of it for the nineteenth-century factory. He didn't imagine the product would learn to talk.
 
 [^privacy]: I once tried to live a week without Google. I lasted until Tuesday afternoon. I needed to know how to get to work. Shoshana Zuboff gave this a name: *surveillance capitalism*. The idea is that human experience has become free raw material for extraction, prediction, and sale. Every time you use a "free" service, you are the product. This is not an anecdote: it is a fact about the structure of power.
-
-[^urgency]: This text had been gathering dust in the drafts folder for days. What got it out of there was an article by Matt Shumer, a Silicon Valley entrepreneur, titled [*Something Big Is Happening*](https://shumer.dev/something-big-is-happening). The article says, in short: AI is already showing its own judgment, the window to adapt is closing, dedicate an hour a day to it, pay for the premium model, save money. When I read it, I knew this text could no longer gather dust.
 
 ---
 
 ### Sources and Rabbit Holes
+
+Readings that surrounded this text. Not all are cited above; some simply stayed open in tabs I never closed.
 
 - Philippe Pignarre and Isabelle Stengers, [*La sorcellerie capitaliste: Pratiques de désenvoûtement*](https://www.editionsladecouverte.fr/la_sorcellerie_capitaliste-9782707147813), Éditions La Découverte, 2005. English translation: *Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011.
 - Ali Rahimi, ["Machine Learning has become Alchemy"](https://www.youtube.com/watch?v=x7psGHgatGM), NIPS 2017 Test-of-Time Award.

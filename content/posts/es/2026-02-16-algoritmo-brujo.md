@@ -6,51 +6,114 @@ translations:
   en: /en/posts/the-sorcerer-algorithm.html
 ---
 
-El ojo celeste mide dos metros. Está puesto a la altura exacta de la cara de alguien que sale de un tren. Celeste corporativo, el celeste de las cosas que cuestan plata. Abajo dice *Dejá que el Algoritmo decida por vos*.
+El ojo celeste mide dos metros. Está a la altura exacta de la cara de alguien que espera un tren. Abajo dice *Dejá que el Algoritmo decida por vos*.
 
-Bajo del tren con la manada, cada cual con su teléfono, esquivando al de adelante sin levantar la vista. Nadie mira el cartel. El cartel mira a todos.
+— Celeste corporativo. El celeste de las cosas que cuestan plata.
+— ¿Y por qué lo mirás?
+— Porque mide dos metros. Es imposible no mirarlo.
+— Mirá alrededor. Nadie lo mira.
 
-Los parlantes de la estación anuncian el próximo tren, vía tres. Informan que el sistema opera con normalidad. Que no necesita brujo central[^libro]. Que la captura funciona sola, sin hilos, sin titiritero. Una red de prácticas y de miedos que se sostiene como se sostiene el horario de trenes: porque nadie se acuerda de cuándo empezó.
+Los parlantes anuncian el próximo tren, vía tres. Informan que el sistema opera con normalidad. Que no necesita brujo central[^libro]. Que la captura funciona sola, sin hilos, sin titiritero. Una red de prácticas y de miedos que se sostiene como se sostiene el horario de trenes: porque nadie se acuerda de cuándo empezó.
 
-Nadie levanta la cabeza.
+Subo. Cada cual con su teléfono, esquivando al de adelante sin levantar la vista.
+
+— Nadie levanta la cabeza.
+— Vos tampoco.
+— Yo estoy observando.
+— Eso dicen todos los que miran el teléfono.
 
 Los parlantes piden disculpas por la demora. Se recuerda a los señores pasajeros que un loro repite patrones de una selva de datos tan inmensa que su eco parece una conciencia[^gebru]. Se ruega no confundir el eco con el pájaro[^rahimi].
-
-Se informa que la alternativa es la siguiente: subirse o quedarse[^infernal]. Que el tren no espera. Que las puertas se cierran. Que nadie preguntó adónde va ni quién puso las vías.
 
 Próximo tren: demorado.
 
 ---
 
-Mi hermana mete la palabra Algoritmo en toda conversación como quien mete una cuña: el Algoritmo me mostró, el Algoritmo me recomendó, el Algoritmo sabe.
+Camino por el vagón. Una señora con tres bolsas ocupa dos asientos; nadie le dice nada. Me siento donde hay sol.
 
-Mi abuela repite frases de la tele donde el Algoritmo aparece con la misma frecuencia que el clima. No sabe qué es. No importa.
+Saco el teléfono. El pulgar va a Twitter.
 
-Los parlantes, mi hermana, la tele de mi abuela: todos dicen Algoritmo con la misma convicción con la que se dice cualquier cosa que no se entiende del todo[^cajanegra].
-
-Yo lo repito cada mañana. Esa mañana le había pedido a una máquina que me corrigiera un texto. La Choricera Artificial: le metés ideas crudas por arriba y sale un embutido de prosa por abajo.
-
-Lo que devolvió era un bodoque ilegible. Pero entre el ruido había hilos que tiraban. Me dejó la prosa más limpia y un mal sabor en la boca.
-
-Primero fue el corrector ortográfico, después el traductor, después pedirle a la máquina que "mejore la redacción". En algún momento dejé de saber si lo que escribo es mío o es una versión corregida de mí[^muleta]. Y lo peor no es la duda: es la velocidad con la que dejó de importarme.
-
-La máquina no explica de qué está hecha. En algún lugar alguien clasifica imágenes de lo peor que producimos para que aprenda qué no mostrar[^fantasma]. Cobra centavos. Trabaja de noche. La Nube no es una nube — es una mina a cielo abierto[^crawford]. Pero cuando la máquina te responde, no ves esas manos. Ves algo que piensa. Solo que ahora el fetiche te habla, te aconseja, te escribe poemas de amor y cartas de despido[^fetiche].
-
-Yo a la máquina le digo gracias.
+— Pará.
+— ¿Por qué?
+— Porque si tocás ya sabés lo que pasa. Veinte minutos y después no te acordás de nada.
+— Eso ya lo sé. Lo sé cada vez y cada vez toco igual.
+— No necesitás un brujo. Alcanza con que el dedo llegue antes que la idea.
+— Eso es un libro. Esto es un tren.
+— ¿Cuál es la diferencia?
 
 ---
 
-Saco el teléfono. El pulgar, por puro músculo, ya va camino del ícono azul. Lo detengo.
+La de enfrente mira el teléfono. En la pantalla, el mismo video que vi anoche.
 
-No es voluntad. No es rebeldía. Es algo más chico: un segundo de más entre el músculo y la decisión.
+— Es coincidencia.
+— No existen las coincidencias con un sistema de recomendación.
+— ¿Entonces qué es?
+— Un patrón. Alguien como vos mira lo mismo que alguien como ella.
+— "Alguien como vos". ¿Qué sabe de mí?
+— Todo lo que le diste. Que es casi todo.
+— No le di nada.
+— Le diste cada segundo que el pulgar se quedó de más en una imagen. Cada búsqueda a las tres de la mañana. Cada link en el que dudaste y no tocaste.
+— Eso no es dar. Eso es que te miren[^privacidad].
+— Tu abuela dice "el Algoritmo" con la misma cara con la que dice "la inflación". Algo que viene de arriba.
+— Mi abuela no sabe qué es.
+— Nadie sabe. No es que no lo entendamos todavía: es que no se deja entender[^cajanegra].
 
-Stengers y Pignarre prometen en la contratapa "herramientas pragmáticas para comprender la sumisión aturdida ante lo que se presenta como inevitable". Suena a mucho. Pero la herramienta que ofrecen es casi ridícula de tan simple: nombrar el hechizo. Decir *esto es una captura* ya es un acto de des-embrujamiento.
+La de enfrente se ríe de algo en la pantalla.
 
-Lo más difícil no es entenderlo. Es admitir que te agarró. La pose de inmunidad — *yo uso la herramienta, la herramienta no me usa a mí* — es parte del mecanismo[^vulnerabilidad]. Lo primero no es resistir ni denunciar. Es dejar de fingir que no te afecta.
+— Lo peor no es que te miren. Es que te ponen un video y te reís.
 
-La alternativa a "subirse o quedarse" no es una tercera puerta mágica. Es dejar de aceptar que solo hay dos puertas.
+---
 
-El pulgar sigue ahí, suspendido sobre el vidrio. Un gesto mínimo: no tocarlo todavía. No es mucho. Pero el hechizo funciona porque nadie se detiene, y detenerse — aunque sea un segundo — ya es otra cosa[^privacidad].
+Pasa un tipo con una bolsa llena de auriculares. Los ofrece con un guión que repite cada dos vagones. Nadie le compra.
+
+— Esta mañana le pedí a una máquina que me corrigiera un texto.
+— ¿Y?
+— Le metí ideas crudas y salió un embutido de prosa. La Choricera Artificial.
+— Pero lo usaste.
+— Había frases mejores que las mías. Las usé.
+— O sea que funciona.
+— Y ahora no sé si lo que quedó es mío o es una versión corregida de mí[^muleta].
+— ¿Cuál es la diferencia?
+— Primero fue el corrector ortográfico. Después el traductor. Después "mejorá la redacción".
+— No hay un día en que dijiste "hoy dejo que piense por mí". Es más lento que eso.
+— Lo peor no es la duda.
+— ¿Qué es lo peor?
+— Lo rápido que dejé de preguntarme qué parte era mía.
+
+---
+
+Sube alguien con un buzo que dice Google. Se sienta, saca el teléfono, como todos.
+
+— Ese sabe cómo funciona.
+— Sabe su parte. Nadie sabe el resto.
+— ¿Qué es el resto?
+— En algún lugar alguien mira fotos de lo peor que hacemos, una por una, para que la máquina aprenda a no mostrártelas[^fantasma].
+— La Nube no es una nube.
+— Es una mina a cielo abierto[^crawford]. Pero cuando te responde no ves esas manos. Ves algo que piensa. Algo que te aconseja, te escribe poemas de amor y cartas de despido[^fetiche].
+— Yo a la máquina le digo gracias.
+— ¿Y a los que clasifican las imágenes?
+
+---
+
+El tren frena. Afuera: el andén mojado, las baldosas flojas, un perro atado a una columna que mira pasar el tren con la paciencia de algo que ya no espera nada.
+
+— Eso último no es tuyo.
+— ¿Qué cosa?
+— "La paciencia de algo que ya no espera nada." Eso lo escribiría la Choricera.
+— Lo pensé yo[^vulnerabilidad].
+— ¿Seguro? Porque suena bien y no dice nada.
+— ¿Y si pienso como la Choricera?
+— Esa es la pregunta.
+— El perro está mojado. Está atado. Alguien le tira un pedazo de medialuna.
+— Eso alcanza.
+— Sin la frase es solo un perro.
+— Un perro es suficiente.
+— Pero no puedo pensar sin la frase[^infernal].
+
+El tren arranca. El pulgar sigue ahí.
+
+— ¿Esto lo pensé o me lo sugeriste?
+— ¿Importa?
+— Porque si no importa ya ganaron.
 
 Afuera la ciudad sigue andando con la eficiencia de algo que no necesita que nadie lo entienda.
 

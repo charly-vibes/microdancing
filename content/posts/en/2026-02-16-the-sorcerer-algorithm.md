@@ -13,7 +13,7 @@ The blue eye is two meters tall. Placed at the exact height of the face of someo
 — Because it's two meters tall. Impossible not to.
 — Look around. No one's looking at it.
 
-The station speakers announce the next train, platform three. They report that the system is operating normally. That it needs no central sorcerer[^book]. That capture works on its own, no strings, no puppeteer. A network of practices and fears that holds together the way the train schedule holds together: because no one remembers when it started.
+The station speakers announce the next train, platform three, but report the service is delayed. They clarify, however, that the system needs no central sorcerer[^book]. That capture works on its own, no strings, no puppeteer. A network of practices and fears that holds together the way the train schedule holds together: because no one remembers when it started.
 
 I get on. Everyone with their phone, dodging the person ahead without looking up.
 
@@ -22,9 +22,7 @@ I get on. Everyone with their phone, dodging the person ahead without looking up
 — I'm observing.
 — That's what everyone looking at their phone says.
 
-The speakers apologize for the delay. Passengers are reminded that a parrot repeats patterns from a data jungle so vast that its echo resembles a consciousness[^gebru]. Please do not confuse the echo with the bird[^rahimi].
-
-Next train: delayed.
+From the speakers, a voice reminds passengers that a parrot repeats patterns from a data jungle so vast that its echo resembles a consciousness[^gebru]. Please do not confuse the echo with the bird[^rahimi].
 
 ---
 
@@ -39,7 +37,7 @@ I take out my phone. My thumb heads for Twitter.
 — A small act of disobedience.
 — Does it do any good?
 — It's a reminder that the thumb has no will of its own.
-— That's a book. This is a train.
+— In a book, you choose the rhythm. This is a train. The rhythm chooses you.
 — What's the difference?
 
 ---
@@ -65,9 +63,8 @@ Suddenly, the biopsy girl laughs. A short, inward laugh. Her jaw tenses again in
 
 ---
 
-A guy walks through with a trash bag full of earbuds. The script is always the same, chanted with the weariness of a thousand trips: 'Headphones, great sound, power bank for your phone, don't run out of juice, boss.' No one looks up. He doesn't look at anyone either; he's talking to a car of bowed heads. A human algorithm, repeating its pattern.
+A guy walks through with a trash bag full of earbuds. The script is always the same, chanted with the weariness of a thousand trips: 'Headphones, great sound, power bank for your phone...'. No one looks up. He doesn't look at anyone either; he's talking to a car of bowed heads. A human algorithm, repeating its pattern. The repetition reminds me of another.
 
-The memory of another pattern interrupts me.
 — This morning I asked a machine to fix a text for me.
 — And?
 — I fed it raw ideas and out came a sausage of prose. The Artificial Sausage Maker.
@@ -97,9 +94,9 @@ Someone gets on wearing a hoodie that says Google. Sits down, takes out their ph
 
 ---
 
-A sharp screech of metal on metal, and the car shudders to a halt. Outside: the wet platform, the loose tiles, a dog tied to a column now watching the still car with the patience of something that no longer expects anything.
+A sharp screech of metal on metal, and the car shudders to a halt. Outside: the wet platform, the loose tiles, a dog tied to a column. It watches the still car with the patience of...
 
-— That last part isn't yours.
+— No. That sentence isn't yours.
 — What do you mean?
 — "The patience of something that no longer expects anything." The Sausage Maker would write that.
 — I thought of it myself[^vulnerability].
@@ -119,6 +116,40 @@ The train starts. My thumb is still there.
 — If it doesn't matter, they've already won. If it starts to matter, the game is still on.
 
 Outside, the city keeps running with the efficiency of something that doesn't need anyone to understand it.
+
+### Addendum: Echoes
+
+—Sorcery? Seriously?
+
+—It's not a metaphor. It's a diagnosis. Stengers isn't talking about black candles, she's talking about paralysis. About capture.[^book]
+
+—Capture?
+
+—A fridge that plugs itself in. The system gives you two doors, and both lead to the same hallway.[^infernal] Use the machine or become irrelevant. Give up your data or you don't exist.[^privacy] It's a trap that works on its own. No sorcerer. That's why it's so good.
+
+—But someone made it. Someone knows how it works.
+
+—They know how to start it up. Like someone who knows the formula for compost to ferment. But they don't understand the end result. One of their own engineers called it alchemy.[^rahimi] Others, *stochastic parrots*.[^gebru] They repeat patterns from a data jungle so vast that the echo sounds like a conscience.
+
+—A parrot that works.
+
+—It works, yes. The way an open-pit mine works.[^crawford] It extracts value from everything you've given it. Your conversations, your fears, the pictures of your kids. And to make it look clean, to hide the filth, there are people on the other side of the world looking at the worst of us for two dollars an hour.[^ghost] Fetishism with a chat interface.[^fetish]
+
+—But denunciation is not enough. Knowing doesn't change anything.
+
+—Knowing is a necessary but not sufficient condition. Denunciation is a literary genre that soothes the one who denounces and leaves the system intact.[^denunciation] What they propose is something else. To cast a circle. Like real witches used to do.
+
+—What for?
+
+—To protect yourself. To admit that you're affected. To create a space where you can think differently. To pay attention. In an economy that thrives on your distraction, paying attention is a political act.
+
+—Doesn't sound like much.
+
+—That's because there's no red button to turn it all off. It's slower than that. It's about starting to tell another story. One where technology isn't a spear to conquer the future, but a bag to carry things in. And to always ask, who benefits from the acceleration?
+
+—My sister says I'll get left behind.
+
+—Your sister is afraid. Fear is the engine. But resistance is not a battle, it's an act of imagination. It's inventing futures that are not in the data.[^abduction] It is, simply, to start walking instead of waiting for the next train.
 
 [^book]: *La sorcellerie capitaliste: Pratiques de désenvoûtement*, by Isabelle Stengers and Philippe Pignarre. Éditions La Découverte, 2005. English translation: *Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011. Spanish: *La brujería capitalista* (Editorial Heckt). The Spanish title sounds like a Laiseca novel, and some bookseller has probably shelved it in the fiction section.
 
@@ -142,16 +173,20 @@ Outside, the city keeps running with the efficiency of something that doesn't ne
 
 [^privacy]: I once tried to live a week without Google. I lasted until Tuesday afternoon. I needed to know how to get to work. Shoshana Zuboff gave this a name: *surveillance capitalism*. The idea is that human experience has become free raw material for extraction, prediction, and sale. Every time you use a "free" service, you are the product. This is not an anecdote: it is a fact about the structure of power.
 
+[^denunciation]: This idea hammered in my head for days. Denunciation as an impotent gesture. We all know the system is unfair. We know it while we stand in line at the supermarket, while we pay the rent that went up another 30%, while we watch the TV that tells us the horror of the day. And yet. And yet.
+
+[^abduction]: Charles Sanders Peirce, the American pragmatist philosopher, described abduction as the third form of reasoning, besides deduction and induction. It's what we use when something surprises us and we have to invent a new explanation. It's what a detective, an artist, a scientist does in their eureka moment. It is, basically, what an algorithm cannot do because it only works with what it has already seen.
+
 ---
 
 ### Sources and Rabbit Holes
 
 Readings that surrounded this text. Not all are cited above; some simply stayed open in tabs I never closed.
 
-- Philippe Pignarre and Isabelle Stengers, [*La sorcellerie capitaliste: Pratiques de désenvoûtement*](https://www.editionsladecouverte.fr/la_sorcellerie_capitaliste-9782707147813), Éditions La Découverte, 2005. English translation: *Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011.
+- Philippe Pignarre e Isabelle Stengers, [*La sorcellerie capitaliste: Pratiques de désenvoûtement*](https://www.editionsladecouverte.fr/la_sorcellerie_capitaliste-9782707147813), Éditions La Découverte, 2005. English translation: *Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011.
 - Ali Rahimi, ["Machine Learning has become Alchemy"](https://www.youtube.com/watch?v=x7psGHgatGM), NIPS 2017 Test-of-Time Award.
 - Yanis Varoufakis, *Technofeudalism: What Killed Capitalism*, Bodley Head, 2023.
-- Mary L. Gray and Siddharth Suri, *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass*, Houghton Mifflin Harcourt, 2019.
+- Mary L. Gray y Siddharth Suri, *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass*, Houghton Mifflin Harcourt, 2019.
 - Nick Srnicek, [*Platform Capitalism*](https://www.wiley.com/en-us/Platform+Capitalism-p-9781509504862), Polity Press, 2017.
 - Luciano Floridi, on the ontological opacity of AI. See: ["Escaping AI's Magic Black Box"](https://www.americanscientist.org/article/escaping-ai%E2%80%99s-magic-black-box), *American Scientist*.
 - Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, NYU Press, 2018.
@@ -160,5 +195,5 @@ Readings that surrounded this text. Not all are cited above; some simply stayed 
 - Emily Bender, Timnit Gebru et al., ["On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"](https://dl.acm.org/doi/10.1145/3442188.3445922), FAccT, 2021.
 - Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*, Yale University Press, 2021.
 - Matteo Pasquinelli, *The Eye of the Master: A Social History of Artificial Intelligence*, Verso, 2023.
-- Antoinette Rouvroy and Thomas Berns, ["Gouvernementalité algorithmique et perspectives d'émancipation"](https://shs.cairn.info/article/E_RES_177_0163?lang=en), *Réseaux*, 2013.
+- Antoinette Rouvroy y Thomas Berns, ["Gouvernementalité algorithmique et perspectives d'émancipation"](https://shs.cairn.info/article/E_RES_177_0163?lang=en), *Réseaux*, 2013.
 - Yuk Hui, ["The Incomputable and Instrumental Possibility"](https://www.e-flux.com/journal/77/76322/the-incomputable-and-instrumental-possibility), *e-flux* Journal #77.

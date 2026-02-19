@@ -13,7 +13,7 @@ El ojo celeste mide dos metros. Está a la altura exacta de la cara de alguien q
 — Porque mide dos metros. Es imposible no mirarlo.
 — Mirá alrededor. Nadie lo mira.
 
-Los parlantes anuncian el próximo tren, vía tres. Informan que el sistema opera con normalidad. Que no necesita brujo central[^libro]. Que la captura funciona sola, sin hilos, sin titiritero. Una red de prácticas y de miedos que se sostiene como se sostiene el horario de trenes: porque nadie se acuerda de cuándo empezó.
+Los parlantes anuncian el próximo tren, vía tres, pero informan que el servicio opera con demora. Aclaran, sin embargo, que el sistema no necesita brujo central[^libro]. Que la captura funciona sola, sin hilos, sin titiritero. Una red de prácticas y de miedos que se sostiene como se sostiene el horario de trenes: porque nadie se acuerda de cuándo empezó.
 
 Subo. Cada cual con su teléfono, esquivando al de adelante sin levantar la vista.
 
@@ -22,9 +22,7 @@ Subo. Cada cual con su teléfono, esquivando al de adelante sin levantar la vist
 — Yo estoy observando.
 — Eso dicen todos los que miran el teléfono.
 
-Los parlantes piden disculpas por la demora. Se recuerda a los señores pasajeros que un loro repite patrones de una selva de datos tan inmensa que su eco parece una conciencia[^gebru]. Se ruega no confundir el eco con el pájaro[^rahimi].
-
-Próximo tren: demorado.
+Desde los parlantes, una voz recuerda a los señores pasajeros que un loro repite patrones de una selva de datos tan inmensa que su eco parece una conciencia[^gebru]. Se ruega no confundir el eco con el pájaro[^rahimi].
 
 ---
 
@@ -39,7 +37,7 @@ Saco el teléfono. El pulgar va a Twitter.
 — Un pequeño acto de desobediencia.
 — ¿Sirve de algo?
 — Sirve para recordar que el pulgar no tiene voluntad propia.
-— Eso es un libro. Esto es un tren.
+— En un libro elegís el ritmo. Esto es un tren. El ritmo te elige a vos.
 — ¿Cuál es la diferencia?
 
 ---
@@ -65,9 +63,8 @@ De repente, la chica de la biopsia se ríe. Una risa corta, para adentro. La man
 
 ---
 
-Pasa un tipo con una bolsa de consorcio llena de auriculares. El guion es siempre el mismo, cantado con el cansancio de mil viajes: 'Auriculares, suenan bien, cargador para el celu, no se quede sin batería, jefe'. Nadie levanta la vista. Él tampoco mira a nadie; le habla a un vagón de nucas. Un algoritmo humano, repitiendo su patrón.
+Pasa un tipo con una bolsa de consorcio llena de auriculares. El guion es siempre el mismo, cantado con el cansancio de mil viajes: 'Auriculares, suenan bien, cargador para el celu...'. Nadie levanta la vista. Él tampoco mira a nadie; le habla a un vagón de nucas. Un algoritmo humano, repitiendo su patrón. La repetición me recuerda a otra.
 
-El recuerdo de otro patrón me interrumpe.
 — Esta mañana le pedí a una máquina que me corrigiera un texto.
 — ¿Y?
 — Le metí ideas crudas y salió un embutido de prosa. La Choricera Artificial.
@@ -97,9 +94,9 @@ Sube alguien con un buzo que dice Google. Se sienta, saca el teléfono, como tod
 
 ---
 
-Un chirrido agudo de metal contra metal y el vagón se estremece hasta detenerse. Afuera: el andén mojado, las baldosas flojas, un perro atado a una columna que ahora mira el vagón quieto con la paciencia de algo que ya no espera nada.
+Un chirrido agudo de metal contra metal y el vagón se estremece hasta detenerse. Afuera: el andén mojado, las baldosas flojas, un perro atado a una columna. Mira el vagón quieto con la paciencia de...
 
-— Eso último no es tuyo.
+— No. Esa frase no es tuya.
 — ¿Qué cosa?
 — "La paciencia de algo que ya no espera nada." Eso lo escribiría la Choricera.
 — Lo pensé yo[^vulnerabilidad].
@@ -141,6 +138,46 @@ Afuera la ciudad sigue andando con la eficiencia de algo que no necesita que nad
 [^fetiche]: Fetichismo de la mercancía: el trabajo humano desaparece dentro del producto y el producto parece cobrar vida propia. Marx lo pensó para la fábrica del siglo XIX. No imaginó que el producto iba a aprender a conversar.
 
 [^privacidad]: Intenté una vez vivir una semana sin Google. Duré hasta el martes a la tarde. Necesitaba saber cómo llegar a mi trabajo. Shoshana Zuboff le puso nombre a esto: *capitalismo de vigilancia*. La idea es que la experiencia humana se convirtió en materia prima gratuita para la extracción, la predicción y la venta. Cada vez que usás un servicio "gratis", el producto sos vos. Esto no es una anécdota: es un dato sobre la estructura del poder.
+
+### Addendum: Ecos
+
+—¿Brujería? ¿En serio?
+
+—No es una metáfora. Es un diagnóstico. Stengers no habla de velas negras, habla de parálisis. De captura.[^sorcellerie]
+
+—¿Captura?
+
+—Una heladera que se enchufa a sí misma. El sistema te da dos puertas y las dos llevan al mismo pasillo.[^infernal] Usá la máquina o sos irrelevante. Cedé los datos o no existís.[^privacidad] Es una trampa que funciona sola. Sin brujo. Por eso es buena.
+
+—Pero alguien la hizo. Alguien sabe cómo funciona.
+
+—Saben ponerla en marcha. Como quien sabe la fórmula para que el compost fermente. Pero no entienden el resultado final. Uno de sus propios ingenieros lo llamó alquimia.[^rahimi] Otros, *loros estocásticos*.[^gebru] Repiten patrones de una selva de datos tan inmensa que el eco parece una conciencia.
+
+—Un loro que funciona.
+
+—Funciona, sí. Como funciona una mina a cielo abierto.[^crawford] Extrae valor de todo lo que le diste. Tus conversaciones, tus miedos, las fotos de tus hijos. Y para que parezca limpio, para que no veas la mugre, hay gente del otro lado del mundo mirando lo peor de nosotros por dos dólares la hora.[^fantasma] Fetichismo con interfaz de chat.[^fetiche]
+
+—Pero la denuncia no alcanza. Saberlo no cambia nada.
+
+—Saberlo es una condición necesaria pero no suficiente. La denuncia es un género literario que tranquiliza al que denuncia y deja intacto el sistema.[^denuncia] Lo que proponen es otra cosa. Trazar un círculo. Como hacían las brujas de verdad.
+
+—¿Para qué?
+
+—Para protegerse. Para admitir que estás afectado. Para crear un espacio donde se pueda pensar distinto. Para prestar atención. En una economía que vive de tu distracción, prestar atención es un acto político.
+
+—Suena a poco.
+
+—Es que no hay un botón rojo para apagarlo todo. Es más lento. Es empezar a contar otra historia. Una donde la tecnología no sea una lanza para conquistar el futuro, sino una bolsa para llevar cosas. Y preguntarse, siempre, quién se beneficia de la aceleración.
+
+—Mi hermana dice que me quedo afuera.
+
+—Tu hermana tiene miedo. El miedo es el motor. Pero la resistencia no es una batalla, es un acto de imaginación. Es inventar futuros que no están en los datos.[^abduccion] Es, simplemente, empezar a caminar en lugar de esperar el próximo tren.
+
+[^sorcellerie]: El título original en francés: *La sorcellerie capitaliste*. Hay una traducción al inglés (*Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011, traducción de Andrew Goffey) pero al español parece que nadie se animó todavía. Quizás porque "brujería capitalista" suena a título de novela de Laiseca y los editores tienen miedo de que la gente la busque en la sección de ficción.
+
+[^denuncia]: Esta idea me martilló la cabeza durante días. La denuncia como gesto impotente. Todos sabemos que el sistema es injusto. Lo sabemos mientras hacemos la cola en el supermercado, mientras pagamos el alquiler que subió otro 30%, mientras miramos la tele que nos cuenta el horror del día. Y sin embargo. Y sin embargo.
+
+[^abduccion]: Charles Sanders Peirce, el filósofo pragmatista americano, describió la abducción como la tercera forma de razonamiento, además de la deducción y la inducción. Es la que usamos cuando algo nos sorprende y tenemos que inventar una explicación nueva. Es lo que hace un detective, un artista, un científico en el momento del eureka. Es, básicamente, lo que un algoritmo no puede hacer porque solo trabaja con lo que ya vio.
 
 ---
 

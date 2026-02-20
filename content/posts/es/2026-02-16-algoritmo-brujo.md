@@ -56,7 +56,7 @@ Saco el teléfono. El pulgar va a Twitter.
 
 ---
 
-La de enfrente, una chica que no debe tener más de veinte, mira el teléfono con los auriculares blancos que regala Apple. En la pantalla, el mismo video de un tipo que corta jabones de colores en cubitos que vi anoche. Un ASMR visual. La chica no sonríe, solo mira, con la misma concentración con la que alguien leería el resultado de una biopsia.
+La de enfrente, una chica que no debe tener más de veinte, mira el teléfono con esos auriculares blancos, de cable, que son casi un uniforme. En la pantalla, el mismo video de un tipo que corta jabones de colores en cubitos que vi anoche. Un ASMR visual. La chica no sonríe, solo mira, con la misma concentración con la que alguien leería el resultado de una biopsia.
 
 — Es coincidencia.
 
@@ -118,7 +118,7 @@ Pasa un tipo con una bolsa de consorcio llena de auriculares. El guion es siempr
 
 ---
 
-Sube alguien con un buzo que dice Google. Se sienta, saca el teléfono, como todos.
+Sube alguien con un buzo gris que delata una conferencia de desarrolladores; un logo críptico sobre el pecho. Se sienta, saca el teléfono, como todos.
 
 — Ese sabe cómo funciona.
 
@@ -178,9 +178,9 @@ Afuera la ciudad sigue andando con la eficiencia de algo que no necesita que nad
 
 [^gebru]: Emily Bender, Timnit Gebru, Angelina McMillan-Major y Margaret Mitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?", FAccT 2021. Gebru no solo perdió el trabajo: perdió el acceso a su correo corporativo el mismo día, sin aviso, mientras estaba de vacaciones. La velocidad quirúrgica con la que Google ejecutó el despido contrasta con la lentitud deliberada con la que respondió a las preocupaciones del paper. Cuando el poder actúa rápido es porque algo le dolió.
 
-[^rahimi]: Ali Rahimi, conferencia NIPS 2017. El [discurso](https://www.youtube.com/watch?v=x7psGHgatGM) le valió el Premio Test-of-Time. Yann LeCun, que es una especie de papa de la inteligencia artificial, [se enojó bastante](https://syncedreview.com/2017/12/12/lecun-vs-rahimi-has-machine-learning-become-alchemy/). Pero Rahimi no estaba diciendo que la IA no funcionara. Estaba diciendo que funciona y nadie sabe bien por qué, lo cual, si uno lo piensa con calma, es bastante más aterrador que si directamente no funcionara.
+[^rahimi]: Ali Rahimi, conferencia NIPS 2017. El [discurso](https://www.youtube.com/watch?v=x7psGHgatGM) le valió el Premio Test-of-Time. Yann LeCun, que es un referente de la inteligencia artificial, [se enojó bastante](https://syncedreview.com/2017/12/12/lecun-vs-rahimi-has-machine-learning-become-alchemy/). Pero Rahimi no estaba diciendo que la IA no funcionara. Estaba diciendo que funciona y nadie sabe bien por qué, lo cual, si uno lo piensa con calma, es bastante más aterrador que si directamente no funcionara.
 
-[^infernal]: La alternativa infernal: quizás el concepto más útil del libro y también el más deprimente. Te dan dos opciones y las dos alimentan al sistema. Usá la IA o quedá afuera. Cedé los datos o perdé el acceso. Aceptá las condiciones o no uses el servicio. Siempre dos puertas, siempre el mismo pasillo hacia un abismo.
+[^infernal]: La alternativa infernal: quizás el concepto más útil de "La brujería capitalista" y también el más deprimente. Te dan dos opciones y las dos alimentan al sistema. Usá la IA o quedá afuera. Cedé los datos o perdé el acceso. Aceptá las condiciones o no uses el servicio. Siempre dos puertas, siempre el mismo pasillo hacia un abismo.
 
 [^crawford]: Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*, Yale University Press, 2021. Un libro que te obliga a mirar la factura de luz del futuro que nos vendieron. Spoiler: la paga el planeta y la cobran cinco empresas.
 
@@ -219,7 +219,7 @@ Afuera la ciudad sigue andando con la eficiencia de algo que no necesita que nad
 
 —Pero la denuncia no alcanza. Saberlo no cambia nada.
 
-—Saberlo es una condición necesaria pero no suficiente. La denuncia es un género literario que tranquiliza al que denuncia y deja intacto el sistema.[^denuncia] Lo que proponen es otra cosa. Trazar un círculo. Como hacían las brujas de verdad.
+—Saberlo es una condición necesaria pero no suficiente. La denuncia es un género literario que tranquiliza al que denuncia y deja intacto el sistema.[^denuncia] Stengers y Pignarre proponen otra cosa. Trazar un círculo. Como hacían las brujas de verdad.
 
 —¿Para qué?
 

@@ -56,7 +56,7 @@ I take out my phone. My thumb heads for Twitter.
 
 ---
 
-The woman across the aisle, a girl no older than twenty, looks at her phone with the white earbuds Apple gives away. On the screen, the same video I saw last night of a guy cutting colorful bars of soap into cubes. Visual ASMR. The girl doesn't smile, just watches, with the same concentration as someone reading a biopsy result.
+The woman across the aisle, a girl no older than twenty, looks at her phone with those white, wired earbuds that are almost a uniform. On the screen, the same video I saw last night of a guy cutting colorful bars of soap into cubes. Visual ASMR. The girl doesn't smile, just watches, with the same concentration as someone reading a biopsy result.
 
 — Coincidence.
 
@@ -118,7 +118,7 @@ A guy walks through with a trash bag full of earbuds. The script is always the s
 
 ---
 
-Someone gets on wearing a hoodie that says Google. Sits down, takes out their phone, like everyone else.
+Someone gets on wearing a gray hoodie that betrays a developer conference; a cryptic logo on the chest. Sits down, takes out their phone, like everyone else.
 
 — That one knows how it works.
 
@@ -178,9 +178,9 @@ Outside, the city keeps running with the efficiency of something that doesn't ne
 
 [^gebru]: Emily Bender, Timnit Gebru, Angelina McMillan-Major, and Margaret Mitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?", FAccT 2021. Gebru not only lost her job: she lost access to her corporate email the same day, without warning, while on vacation. The surgical speed with which Google executed the dismissal contrasts with the deliberate slowness with which it responded to the paper's concerns. When power acts quickly, it's because something hurt.
 
-[^rahimi]: Ali Rahimi, NIPS 2017 conference. The [speech](https://www.youtube.com/watch?v=x7psGHgatGM) earned him the Test-of-Time Award. Yann LeCun, who is a kind of pope of artificial intelligence, [got quite angry](https://syncedreview.com/2017/12/12/lecun-vs-rahimi-has-machine-learning-become-alchemy/). But Rahimi wasn't saying that AI didn't work. He was saying that it works and nobody really knows why, which, if you think about it calmly, is much more terrifying than if it didn't work at all.
+[^rahimi]: Ali Rahimi, NIPS 2017 conference. The [speech](https://www.youtube.com/watch?v=x7psGHgatGM) earned him the Test-of-Time Award. Yann LeCun, who is a leading figure in artificial intelligence, [got quite angry](https://syncedreview.com/2017/12/12/lecun-vs-rahimi-has-machine-learning-become-alchemy/). But Rahimi wasn't saying that AI didn't work. He was saying that it works and nobody really knows why, which, if you think about it calmly, is much more terrifying than if it didn't work at all.
 
-[^infernal]: The infernal alternative: perhaps the most useful and also the most depressing concept in the book. They give you two options and both feed the system. Use AI or get left behind. Hand over your data or lose access. Accept the terms or don't use the service. Always two doors, always the same corridor toward an abyss.
+[^infernal]: The infernal alternative: perhaps the most useful and also the most depressing concept in "Capitalist Sorcery". They give you two options and both feed the system. Use AI or get left behind. Hand over your data or lose access. Accept the terms or don't use the service. Always two doors, always the same corridor toward an abyss.
 
 [^crawford]: Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*, Yale University Press, 2021. A book that forces you to look at the electricity bill for the future they sold us. Spoiler: the planet pays for it, and five companies collect.
 
@@ -218,7 +218,7 @@ Outside, the city keeps running with the efficiency of something that doesn't ne
 
 —But denunciation is not enough. Knowing doesn't change anything.
 
-—Knowing is a necessary but not sufficient condition. Denunciation is a literary genre that soothes the one who denounces and leaves the system intact.[^denunciation] What they propose is something else. To cast a circle. Like real witches used to do.
+—Knowing is a necessary but not sufficient condition. Denunciation is a literary genre that soothes the one who denounces and leaves the system intact.[^denunciation] Stengers and Pignarre propose something else. To cast a circle. Like real witches used to do.
 
 —What for?
 

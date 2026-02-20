@@ -176,7 +176,7 @@ Afuera la ciudad sigue andando con la eficiencia de algo que no necesita que nad
 
 [^libro]: *La sorcellerie capitaliste: Pratiques de désenvoûtement*, de Isabelle Stengers y Philippe Pignarre. Éditions La Découverte, 2005. Traducción al inglés: *Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011. En español: *La brujería capitalista* (Editorial Heckt). El título en español suena a novela de Laiseca y probablemente algún librero lo busque en la sección de ficción.
 
-[^gebru]: Emily Bender, Timnit Gebru, Angelina McMillan-Major y Margaret Mitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?", FAccT 2021. Gebru no solo perdió el trabajo: perdió el acceso a su correo corporativo el mismo día, sin aviso, mientras estaba de vacaciones. La velocidad quirúrgica con la que Google ejecutó el despido contrasta con la lentitud deliberada con la que respondió a las preocupaciones del paper. Cuando el poder actúa rápido es porque algo le dolió.
+[^gebru]: Emily Bender, Timnit Gebru, et al., "On the Dangers of Stochastic Parrots...", FAccT 2021. El paper, crítico de los modelos de lenguaje masivos, le costó el puesto a Gebru. Google la despidió de forma inmediata y sin aviso mientras estaba de vacaciones; la velocidad de la ejecución delató el nervio que había tocado.
 
 [^rahimi]: Ali Rahimi, conferencia NIPS 2017. El [discurso](https://www.youtube.com/watch?v=x7psGHgatGM) le valió el Premio Test-of-Time. Yann LeCun, que es un referente de la inteligencia artificial, [se enojó bastante](https://syncedreview.com/2017/12/12/lecun-vs-rahimi-has-machine-learning-become-alchemy/). Pero Rahimi no estaba diciendo que la IA no funcionara. Estaba diciendo que funciona y nadie sabe bien por qué, lo cual, si uno lo piensa con calma, es bastante más aterrador que si directamente no funcionara.
 
@@ -184,7 +184,7 @@ Afuera la ciudad sigue andando con la eficiencia de algo que no necesita que nad
 
 [^crawford]: Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*, Yale University Press, 2021. Un libro que te obliga a mirar la factura de luz del futuro que nos vendieron. Spoiler: la paga el planeta y la cobran cinco empresas.
 
-[^cajanegra]: Luciano Floridi, filósofo de la información, sugiere que tal vez nunca podamos abrir la caja negra completamente. Que la sociedad debe aprender a gestionar tecnologías que son *ontológicamente* opacas. Como aceptar que hay fuerzas que gobiernan tu vida y que no podés entender. En cualquier otro siglo a eso le habrían dicho destino.
+[^cajanegra]: Luciano Floridi, filósofo de la información, sugiere que tal vez nunca podamos abrir la caja negra completamente. Que la sociedad debe aprender a gestionar tecnologías que son *ontológicamente* opacas. Como aceptar que hay fuerzas que gobiernan tu vida y que no podés entender. En cualquier otro siglo, lo habrían considerado una fatalidad ineludible.
 
 [^muleta]: La muleta: esa cosa que uno empieza a usar temporalmente y termina siendo parte del cuerpo. El abuelo de un amigo usó un bastón por una torcedura de tobillo y nunca más lo soltó. Decía que le daba 'dignidad'. ¿No es lo mismo que decimos de la IA cuando nos 'mejora' un texto? La dignidad de sonar más elocuente de lo que somos. El problema es cuando te sacan el bastón y no te acordás de cómo caminar.
 

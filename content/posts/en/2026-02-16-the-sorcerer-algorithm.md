@@ -176,7 +176,7 @@ Outside, the city keeps running with the efficiency of something that doesn't ne
 
 [^book]: *La sorcellerie capitaliste: Pratiques de désenvoûtement*, by Isabelle Stengers and Philippe Pignarre. Éditions La Découverte, 2005. English translation: *Capitalist Sorcery: Breaking the Spell*, Palgrave Macmillan, 2011. Spanish: *La brujería capitalista* (Editorial Heckt). The Spanish title sounds like a Laiseca novel, and some bookseller has probably shelved it in the fiction section.
 
-[^gebru]: Emily Bender, Timnit Gebru, Angelina McMillan-Major, and Margaret Mitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?", FAccT 2021. Gebru not only lost her job: she lost access to her corporate email the same day, without warning, while on vacation. The surgical speed with which Google executed the dismissal contrasts with the deliberate slowness with which it responded to the paper's concerns. When power acts quickly, it's because something hurt.
+[^gebru]: Emily Bender, Timnit Gebru, et al., "On the Dangers of Stochastic Parrots...", FAccT 2021. The paper, critical of massive language models, cost Gebru her job. Google fired her immediately and without warning while she was on vacation; the speed of the execution exposed the nerve it had struck.
 
 [^rahimi]: Ali Rahimi, NIPS 2017 conference. The [speech](https://www.youtube.com/watch?v=x7psGHgatGM) earned him the Test-of-Time Award. Yann LeCun, who is a leading figure in artificial intelligence, [got quite angry](https://syncedreview.com/2017/12/12/lecun-vs-rahimi-has-machine-learning-become-alchemy/). But Rahimi wasn't saying that AI didn't work. He was saying that it works and nobody really knows why, which, if you think about it calmly, is much more terrifying than if it didn't work at all.
 
@@ -184,7 +184,7 @@ Outside, the city keeps running with the efficiency of something that doesn't ne
 
 [^crawford]: Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*, Yale University Press, 2021. A book that forces you to look at the electricity bill for the future they sold us. Spoiler: the planet pays for it, and five companies collect.
 
-[^blackbox]: Luciano Floridi, philosopher of information, suggests that we may never be able to fully open the black box. That society must learn to manage technologies that are *ontologically* opaquen. Like accepting that there are forces governing your life that you cannot understand. In any other century, they would have called that fate.
+[^blackbox]: Luciano Floridi, philosopher of information, suggests that we may never be able to fully open the black box. That society must learn to manage technologies that are *ontologically* opaquen. Like accepting that there are forces governing your life that you cannot understand. In any other century, it would have been considered an inescapable fatality.
 
 [^crutch]: The crutch: that thing you start using temporarily and ends up being part of your body. A friend's grandfather used a cane for a sprained ankle and never let it go. He said it gave him 'dignity.' Isn't that what we say about AI when it 'improves' a text for us? The dignity of sounding more eloquent than we are. The problem is when they take away the cane and you don't remember how to walk.
 

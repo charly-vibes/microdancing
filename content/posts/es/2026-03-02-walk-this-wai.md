@@ -1,12 +1,12 @@
 ---
-title: "Walk this WAI: El origen"
+title: "Walk this WAI"
 date: 2026-03-02
 lang: es
 translations:
-  en: /en/posts/the-origin-of-wai.html
+  en: /en/posts/walk-this-wai.html
 ---
 
-# Walk this WAI: El origen
+# Walk this WAI
 
 Hay algo en el acto de programar que no termina de cerrar. Lo vengo diciendo [hace años](https://youtu.be/ioeMeQNEgL8?si=4b66Jm53aEtlQMfr&t=99): las manos son una burocracia de carne que llega tarde a lo que la cabeza ya resolvió tres cuadras antes. Sin formación formal, el software se presenta como un laberinto ajeno, sin planos. Pero esa misma ignorancia termina siendo un machete; permite cuestionar cada gesto del ritual y buscar, por puro instinto de supervivencia, el camino del menor esfuerzo. La meta siempre fue encontrar una sintonía directa entre el pensamiento y el resultado, sin que el código sea una interferencia.
 

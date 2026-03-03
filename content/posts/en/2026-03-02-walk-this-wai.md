@@ -1,12 +1,12 @@
 ---
-title: "Walk this WAI: The Origin"
+title: "Walk this WAI"
 date: 2026-03-02
 lang: en
 translations:
-  es: /es/posts/el-origen-de-wai.html
+  es: /es/posts/walk-this-wai.html
 ---
 
-# Walk this WAI: The Origin
+# Walk this WAI
 
 There is something in the act of programming that doesn't quite click. I've been saying it [for years](https://youtu.be/ioeMeQNEgL8?si=4b66Jm53aEtlQMfr&t=99): hands are a bureaucracy of flesh that arrives late to what the head already solved three blocks ago. Without formal training, software appears as an alien labyrinth, without blueprints. But that same ignorance ends up being a machete; it allows for questioning every gesture of the ritual and seeking, out of pure survival instinct, the path of least effort. The goal was always to find a direct resonance between thought and result, without code acting as interference.
 

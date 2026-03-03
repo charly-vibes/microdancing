@@ -8,98 +8,66 @@ translations:
 
 # Walk this WAI: El origen
 
-Este va a ser un post un poco más didáctico y explicativo, y quizá no tan experimental, pero eso no quita que no vaya a ser entretenido. La idea principal es contarles mi visión luego de estar experimentando por varios meses con IA, exprimiéndola al máximo para entender cómo sacarle provecho a algo que todavía no terminamos de comprender del todo. Y lo hago por una razón fundamental: no me gusta programar. Lo vengo diciendo [públicamente desde hace años](https://youtu.be/ioeMeQNEgL8?si=4b66Jm53aEtlQMfr&t=99), pero sigue siendo una herramienta esencial para lo que realmente me apasiona: resolver problemas.
+Hay algo en el acto de programar que no termina de cerrar. Lo vengo diciendo [hace años](https://youtu.be/ioeMeQNEgL8?si=4b66Jm53aEtlQMfr&t=99): las manos son una burocracia de carne que llega tarde a lo que la cabeza ya resolvió tres cuadras antes. Sin formación formal, el software se presenta como un laberinto ajeno, sin planos. Pero esa misma ignorancia termina siendo un machete; permite cuestionar cada gesto del ritual y buscar, por puro instinto de supervivencia, el camino del menor esfuerzo. La meta siempre fue encontrar una sintonía directa entre el pensamiento y el resultado, sin que el código sea una interferencia.
 
-¿Por qué no me gusta programar o codificar? Primero, porque soy lento escribiendo. Con el tiempo fui mejorando, pero mis manos siguen siendo muy lentas para la velocidad a la que va mi cabeza. Segundo, porque no tengo formación formal en sistemas, lo cual hace que todo parezca siempre demasiado complicado. Eso no quita que no sepa cosas: leí decenas de libros, vi centenares de charlas, [miles de artículos](https://ak.saxa.xyz/hipervinculos/), cursos... Pero esa falta de formación terminó siendo una ventaja, porque me permitió cuestionar cada gesto del proceso y buscar la manera de garantizar que las cosas funcionen. Algo que aprendí en todo este tiempo es que el mayor problema de los sistemas no son los sistemas, sino las personas, y lo mejor es siempre tratar de eliminarlas de los procesos[^humanos].
+La máquina escribe hoy en una tarde lo que antes costaba meses de transpiración. El costo de producción es cero, pero los sistemas que se producen no son mejores. El problema cambió de lugar. La sintaxis ya no importa cuando el grifo de tokens está abierto; el riesgo es que el volumen nos tape la vista y perdamos el norte. Lo único que realmente importa es la intencionalidad.
 
-A medida que el costo de generar software se desploma, el verdadero desafío deja de ser la escritura del código y pasa a ser la **intencionalidad**. Geoff Huntley lo explica muy bien en su nota [The Burrowing](https://ghuntley.com/real/): la IA no solo está tocando nuestra puerta, está cavando por debajo de nuestros cimientos. Si no marcamos un camino claro de cómo trabajar ahora, corremos el riesgo de dejar a toda una generación de personas con menos experiencia sin un mapa para navegar este nuevo mundo donde las habilidades técnicas tradicionales se están comoditizando a una velocidad absurda. ¿Cómo formamos a alguien cuando el "picar código" ya no es la puerta de entrada?
+## Contra la entropía humana
 
-## La Regla del Tres y el camino de menor esfuerzo
+El eslabón más débil de cualquier sistema complejo es el ser humano. Tenemos esa costumbre de olvidarnos, de cansarnos, de dejar que un manual de instrucciones se convierta en papel muerto a los dos días. No es mala voluntad, es fatiga de materiales.
 
-Cuando digo que hay que eliminar a las personas de los procesos, me refiero a quitar de en medio la posibilidad de que nos equivoquemos. Y para eso, terminé definiendo una regla que me ayuda a priorizar qué cosas hacer: la Regla del Tres. Si algo ocurre tres veces, deja de ser una anomalía estadística. Es una señal de que el sistema te está pidiendo a gritos que lo automatices para que no tengas que volver a pensar en ello nunca más.
+Frente a esto, automatizar no es un atajo de productividad comercial; es pura prevención. Es blindar la arquitectura del software contra nuestra propia torpeza. Hay una regla que me ayuda a priorizar qué cosas hacer: la Regla del Tres. Si un proceso manual se repite tres veces, deja de ser una casualidad y es una señal de que el sistema te pide a gritos que lo automatices. La instrucción tiene que ser un comando ejecutable[^just]; que el camino correcto sea el más fácil de caminar. Todo lo demás es gastar energía sin sentido[^humanos].
 
-El ejemplo más claro está en esas tareas repetitivas que hacemos mil veces por semana[^just]. ¿Cuántas veces nos hemos equivocado en un proceso de varios pasos solo por un simple olvido? ¿O peor aún: tener un manual de instrucciones que se desactualiza a los dos días? Para evitar eso, la mejor práctica es que la instrucción sea el comando mismo. Si el camino correcto es el más fácil de seguir, entonces se convierte en la norma. Es una forma de blindar el sistema contra nuestras propias limitaciones y garantizar que el orden de los pasos no dependa de nuestra memoria o de la paciencia de ese día.
+## El vértigo de la caja negra
 
-## El quiebre: El grifo abierto
+El primer contacto real con la IA te deja un poco desorientado. Te devuelve archivos enteros en lo que tardás en cebarte un mate. El instinto del que viene del oficio tradicional es auditar cada línea, revisar cada tuerca por miedo al error. Durante años, no leer tu propio código fue negligencia pura; era mala praxis.
 
-Esta misma obsesión por automatizar lo repetitivo fue la que me llevó a mi siguiente gran quiebre personal: la IA. Llegó como un autocompletado mágico que prometía mucho, y tuve la ventaja de vivirlo en un contexto donde no teníamos límites en lo que podíamos consumir. Estaba en un proyecto nuevo que me obligaba a aprender varios lenguajes y herramientas internas al mismo tiempo[^tech]. Al principio fue abrumador. Como líder del equipo, mi tarea era ver qué era posible y dónde estaban los puntos donde la herramienta fallaba o se volvía peligrosa; me sentía como alguien con un machete abriendo camino hacia algún lado.
+Soltar ese reflejo da un vértigo físico. Se siente como un fraude. La propuesta es abrazar a la máquina y dejar de mirar el código de cerca[^vibecoding]. Es una renuncia dolorosa; significa aceptar que el código se volvió una caja negra y que la habilidad manual que te dio de comer durante años ahora vale mucho menos.
 
-Y había una única manera de hacerlo. Como proponen Steve Yegge y Gene Kim en su libro *Vibe Coding*: **Embrace the AI and stop looking at the code.**[^vibecoding]
+Pero intentar leer la salida de una IA es inútil; es como tratar de seguirle el ritmo a un torrente verborrágico y caótico. Nuestro trabajo ya no es escribir, sino marcar los bordes y el contexto para asegurarnos de que la máquina opere sin destruir todo lo que hay alrededor.
 
-Fue una decisión evaluada, no un capricho. El código, en realidad, no es el producto en sí (podemos programar en cualquier lenguaje), lo que realmente importa es que la funcionalidad sea la correcta. La imagen que me vino a la cabeza es esta: si queremos construir productos de calidad, ya sean vasos de plástico o un auto de F1, necesitamos una infraestructura que nos permita hacerlo con la mejor calidad posible. Con la programación siempre podemos mejorar la fábrica con la que construimos el producto en sí, y eso es una ventaja enorme cuando sabemos que podemos hacerlo. Como dije antes: no me gusta programar, me gusta crear cosas y resolver problemas. Y al igual que los monos que usan palitos para comer hormigas[^monos], nosotros podemos crear programas para mejorar nuestros productos.
+## La ética del contrato
 
-## El Laboratorio: De Jams a Fabbro
+Generar código es trivial. Revisarlo es el infierno.
 
-Con esta idea de la fábrica en mente, empecé a experimentar qué tan lejos podía llegar[^tools]. El navegador es la interfaz universal para casi todo[^talk], así que siguiendo los pasos de Simon Willison, creé pequeñas herramientas que cabían en una sola página: las **Jams**[^jams]. Empecé con un limpiador de direcciones web y terminé con una aplicación que registraba el acelerómetro del celular en tiempo real. La premisa no era ver la calidad de lo que estaba haciendo, sino ver cómo podía crear funciones y cuánto tiempo me tomaba.
+Cuando la máquina te devuelve un archivo enorme con miles de modificaciones, la interacción colapsa. La solución tiene que ser quirúrgica. La premisa es simple: no se anota el código, se anota el comportamiento. A través de documentos estrictos donde definís exactamente qué esperás que pase, la charla con la máquina deja de ser una lista de pedidos vagos y se vuelve un contrato[^sdd].
 
-Pero crear funciones rápido tiene un costo: el tiempo de revisión. El desafío apareció cuando intentaba aceptar lo que la IA me proponía sin poder revisarlo de forma sencilla. Cuando me generaba un archivo enorme con mil cosas para mirar, ¿dónde diablos le ponía los comentarios?
+El foco abandona el *cómo* y se clava en el *qué*. Se audita la intención; la máquina implementa y vos marcás el límite.
 
-Así nació **Fabbro**[^fabbro], una herramienta que me permite poner notas sobre el código igual que lo hacemos en Google Docs. Con ella empecé a probar una forma de trabajar guiada por especificaciones[^sdd]: yo definía qué tenía que hacer el programa en documentos simples y la IA se encargaba de implementarlo. Lo mejor de todo es que podía probar la misma herramienta mientras la construía, definiendo sus propias reglas. Resolví un problema concreto: poder dejarle feedback a la máquina desde cualquier lugar, con precisión quirúrgica, sin perderme en el código.
+## Diplomacia y entorno
 
-## Nayra y la autonomía
+Una IA aislada es amnésica. Es un actor errático sin memoria histórica. Arrancar un proyecto desde cero es someter a la máquina a la desorientación total.
 
-Con un sistema de revisión en marcha, empecé a confiar en la autonomía de la IA. Ya no solo le pedía trozos de código; empecé a organizarle las tareas por tickets[^beads] para que ella misma gestionara qué hacer y yo solo tuviera que supervisar. Ya sabiendo que con esta metodología podía generar cosas complejas en lenguajes que casi no conocía, me animé a ir por más.
+[WAI](https://github.com/charly-vibes/wai) nació para resolver ese problema. No es una herramienta pensada para que la use un humano. Es un tratado diplomático, un manual de operaciones explícito para que la IA navegue el proyecto bajo reglas innegociables.
 
-Así nació **Nayra**[^nayra], un visualizador de eventos en una línea de tiempo. Siempre quise contrastar eventos (¿qué músicos existían cuando Einstein era chico?), pero nunca tuve las ganas de sentarme a escribir el JavaScript necesario. Esta vez solo necesité charlar bastante con la máquina para ir estructurando el problema y definir qué funcionalidades quería. El resultado fue más allá de mi idea inicial: de un simple comparador de músicos, terminó mapeando tiempos del universo y un millón de detalles más, inspirado en un video de Kurzgesagt[^kurz] que me fascinaba desde hacía años.
+Esto utiliza la práctica de **AIX** (Experiencia de la IA). Diseñar el entorno asumiendo que tu usuario principal no respira. Estructurar la información de manera ordenada[^para] y forzar reglas claras y convenciones duras[^pressure]. El entorno moldea al actor. Si la máquina alucina o se equivoca sistemáticamente, la culpa no es de la inteligencia artificial. La culpa es del ecosistema mediocre que le armaste.
 
-## El nacimiento de WAI
+## Aura, velocidad y pausa
 
-Pero con cada nuevo proyecto aparecía la misma tarea tediosa de configurar todo desde cero[^setup]. Tenía que andar unificando las "habilidades" de cada herramienta —porque cada una quiere sus propios archivos de configuración— y el proceso se volvía repetitivo. Además, me pasaba que a mitad de semana me quedaba sin créditos en todas partes; tenía que esperar al siguiente período o seguir cargando más dinero... Ya me tenían enganchado.
+Cuando el entorno está blindado, ocurre el acople armónico. Describís un problema, la máquina ensambla, el producto emerge. La distancia entre el pensamiento y la ejecución se vuelve imperceptible. Y ahí mismo radica la trampa mortal.
 
-Por eso creé **WAI**[^wai], una herramienta para que el proceso de desarrollo sea más predecible. La idea principal era estandarizar todas las prácticas que fui aprendiendo en estos años en algo que fuera \"AI-first\". No es para que uno la use directamente, sino para que la IA la utilice siguiendo mis reglas. Empecé a explorar lo que llamo **AIX** (experiencia de la IA): consultarle constantemente qué le parece poco intuitivo o qué necesita para trabajar mejor en otros proyectos.
+Históricamente, el código fue un trabajo artesanal. Tenía fricción. Hoy es un bien de reproducción masiva y gratuita. Perdió su aura[^aura]. Frente a esta capacidad de producir sin pausa, aparece el Vampiro de la IA: el impulso idiota de usar la hiper-velocidad para escupir diez veces más software mediocre[^vampire].
 
-Incluso empecé a organizar toda la información siguiendo un método de gestión de conocimiento[^para] para ver si era efectivo para la IA. Con el tiempo, agregué un subcomando llamado `way` para verificar que el repositorio tenga configuradas buenas prácticas de \"presión interna\"[^pressure], enfocándome siempre en crear la infraestructura necesaria para generar calidad.
+Construir sin pausa es acumular ruinas a mayor velocidad.
 
-## Reflejar y construir
+El verdadero antídoto contra la automatización ciega es contraintuitivo: producir menos. Al delegar el trabajo manual, recuperamos el recurso más caro y escaso de la ingeniería: el espacio mental para pensar. Usar el tiempo ganado para dudar de la arquitectura antes de empezar a construir. Para preguntarse si el sistema siquiera merece existir.
 
-Uno de los comandos que más uso en WAI es `reflect`[^reflect]. Le pide a la IA que analice nuestras conversaciones anteriores para detectar patrones, vicios o detalles del proyecto que pueden facilitar las tareas futuras. Es como tener una memoria colectiva que no falla. De WAI nunca vi una línea de código; está implementada en un lenguaje del que no sé nada[^rust], pero funciona y es estable en todas las plataformas.
-
-Con todas estas herramientas y la experiencia acumulada, me animé a un proyecto más difícil: **Fotos**[^fotos]. Quería una aplicación para sacar capturas de pantalla y anotarlas, pero con superpoderes: reconocimiento de texto e integración con IA para anotaciones automáticas. En mi sistema operativo no existía nada parecido. En una sola tarde, dándole feedback constante a la máquina, resolví problemas de compilación y empaquetado que me hubiesen costado muchísimo resolver, y terminé instalando la aplicación en mi propia computadora.
-
-Hoy, mi estrategia de consumo se estabilizó en el plan Pro de 100 USD. Es lo más efectivo en precio y calidad. Todavía no llegué a consumir todo el presupuesto semanal y cada vez tengo más procesos ejecutándose de manera autónoma. Al final, se trata de subir el nivel de abstracción: dejar de preocuparnos por cómo se escribe el código para enfocarnos en cómo estructurar las ideas. Es lo que llamo **Resonant Coding**. 
-
-El código ha dejado de ser el fin para volver a ser lo que siempre debió ser: el medio para resolver problemas. Pero hay un peligro latente, lo que Steve Yegge llama el *AI Vampire*[^vampire]: la tentación de usar esa productividad extra para producir diez veces más cosas mediocres y terminar agotados. Ahora que podemos generar funcionalidad en mucho menos tiempo, el verdadero valor está en capturar ese tiempo para nosotros. En lugar de correr más rápido, podemos dedicarnos a construir cosas de mejor calidad y, sobre todo, dedicar más tiempo a pensar. Porque al final del día, la IA puede ejecutar a toda velocidad, pero la dirección y el sentido siguen siendo humanos.
+La máquina acelera. El código es apenas el hormigón. La dirección, el sentido y la responsabilidad siguen siendo exclusivamente nuestros.
 
 ---
 
-[^humanos]: Eliminar a las personas de los procesos no es odio, es pragmatismo. La gente olvida, se cansa, se equivoca. El código automatizado no.
+[^humanos]: **Eliminar a las personas del proceso** no es una postura de odio hacia lo humano, sino una forma extrema de respeto por nuestra falibilidad. La gente olvida, se cansa y se distrae. Dejar tareas críticas de infraestructura en manos de la memoria es, en el mejor de los casos, optimismo ciego; en el peor, una negligencia que garantiza el fallo.
 
-[^just]: El uso de herramientas como [just](https://just.systems/) permite codificar estas recetas. Algunas de las buenas prácticas que aplico incluyen: flujos de trabajo automatizados, configuración viva de ambientes, chequeos de salud (doctor) y procesos complejos multi-paso.
+[^just]: [just](https://just.systems/) es un ejecutor de comandos que permite codificar recetas de trabajo. La gran ventaja frente a un manual de instrucciones es que el comando es la verdad última: si el comando falla, el sistema está roto. No hay lugar para interpretaciones o pasos olvidados.
 
-[^tech]: En ese momento me tocó aprender Go, TypeScript, BigQuery y todas las reglas internas de la compañía de manera acelerada. La IA fue el catalizador para que eso fuera posible.
+[^vibecoding]: El concepto de *Vibe Coding* (Yegge y Kim, 2025) marca el fin de la era del "picar código" como habilidad central. El programador se desplaza hacia la orquestación. Es un cambio de identidad doloroso: de ser el que escribe a ser el que decide y valida la intención.
 
-[^vibecoding]: *Vibe Coding*, de Steve Yegge y Gene Kim (IT Revolution Press, 2025). La frase original es "Abraza la IA y deja de mirar el código". Es un cambio de paradigma donde el programador se convierte en un director de orquesta que supervisa la intención en lugar de cada línea de código.
+[^sdd]: El *Spec-Driven Development* (SDD) utiliza archivos en lenguaje natural estructurado para que la charla con la IA sea un contrato binario: o la funcionalidad cumple la especificación o no la cumple. No hay puntos medios ni pedidos vagos.
 
-[^monos]: La analogía del palito y la hormiga: somos animales de herramientas. La IA es simplemente el palito más largo y refinado que hemos encontrado hasta ahora.
+[^para]: El [Método PARA](https://fortelabs.com/blog/para/) (Proyectos, Áreas, Recursos, Archivos). Organizar el repositorio bajo este esquema no es solo para el orden humano; es para que la IA tenga un mapa de contexto claro y no alucine mezclando archivos de distintas naturalezas.
 
-[^tools]: En el trabajo usábamos Cursor pero no teníamos Claude Code, así que contraté la versión Pro por mi cuenta. Aproveché para usar Gemini CLI y ampcode (aprovechando una oferta de crédito gratuito).
+[^pressure]: [BackPressure](https://ghuntley.com/pressure/), de Geoff Huntley. La idea es que la infraestructura (linters, tests, convenciones) debe forzar la calidad antes de que el código sea siquiera propuesto. Si el entorno no ejerce presión, la máquina tiende a la entropía y al código basura.
 
-[^talk]: Me refiero a *The Birth and Death of JavaScript* de Gary Bernhardt. Una joya.
+[^aura]: Walter Benjamin (*La obra de arte en la época de su reproductibilidad técnica*). El código artesanal tenía un aura: el rastro del esfuerzo y la decisión humana única. El código de IA es reproducción masiva; carece de aura. El valor ahora está solo en el diseño arquitectónico original.
 
-[^jams]: [Jams](https://charly-vibes.github.io/jams/): aplicaciones que viven en una sola página inspiradas en Simon Willison.
-
-[^fabbro]: [Fabbro](https://charly-vibes.github.io/fabbro/): Una interfaz de terminal (TUI) para comentar código que ahora también cuenta con una [versión web](https://charly-vibes.github.io/fabbro-web/). 
-
-[^sdd]: Conocido como *Spec Driven Development* (SDD). En este caso, usaba archivos en formato Gherkin dentro de una carpeta de especificaciones para que la IA tuviera una guía clara de la funcionalidad esperada.
-
-[^beads]: Hecho a través de un sistema de tickets para que la IA sepa exactamente en qué trabajar en cada momento sin perder el contexto.
-
-[^nayra]: [Nayra](https://charly-vibes.github.io/nayra/): Un visualizador de eventos históricos y cronologías en una línea temporal que utiliza OpenSpec.
-
-[^kurz]: [The History of the Entire World](https://www.youtube.com/watch?v=dGiQaabX3_o), un video de Kurzgesagt que muestra la inmensidad del tiempo. 
-
-[^setup]: Hablo de configurar herramientas como beads, openspec y archivos específicos como AGENTS.md, CLAUDE.md o carpetas como .claude, .amp y .gemini.
-
-[^wai]: WAI: Un CLI (interfaz de línea de comandos) agnóstico y simple que intenta ser el puente entre el humano y la máquina.
-
-[^para]: El [Método PARA](https://fortelabs.com/blog/para/): Proyectos, Áreas, Recursos y Archivos, de Tiago Forte. 
-
-[^pressure]: [BackPressure](https://ghuntley.com/pressure/), un concepto de Geoff Huntley sobre la infraestructura y la calidad del software.
-
-[^reflect]: Comando que codifica las prácticas de años y guía a la IA para que las siga sin que yo tenga que recordarlas todas.
-
-[^rust]: WAI está escrita en Rust, un lenguaje conocido por su rendimiento y seguridad, pero cuya sintaxis nunca tuve el tiempo (ni las ganas) de aprender.
-
-[^fotos]: [Fotos](https://github.com/charly-vibes/fotos): Mi herramienta diaria para capturar y procesar información visual con la ayuda de agentes.
-
-[^vampire]: [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163), de Steve Yegge. Una advertencia sobre cómo usar el tiempo ganado para pensar en lugar de solo producir más.
+[^vampire]: [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163), de Steve Yegge. Una advertencia sobre el burnout de la IA: usar el ahorro de tiempo para producir 10 veces más basura digital. El acto de resistencia es usar ese tiempo para pensar y contemplar el sistema antes de ejecutarlo.

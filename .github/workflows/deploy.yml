@@ -30,6 +30,9 @@ jobs:
       - name: Build site
         run: just build
 
+      - name: Copy llms.txt
+        run: cp llms.txt public/llms.txt
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 

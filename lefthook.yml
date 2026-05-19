@@ -1,0 +1,9 @@
+pre-commit:
+  commands:
+    syntax:
+      run: bash -n scripts/build.sh
+
+pre-push:
+  commands:
+    build:
+      run: just ci

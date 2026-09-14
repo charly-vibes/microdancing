@@ -1,0 +1,1622 @@
+[
+ {
+  "conf": "A",
+  "idx": 9,
+  "value": 66000,
+  "unit": "lines"
+ },
+ {
+  "conf": "A",
+  "idx": 9,
+  "value": 6,
+  "unit": "weeks"
+ },
+ {
+  "conf": "A",
+  "idx": 9,
+  "value": 10000,
+  "unit": "USD"
+ },
+ {
+  "conf": "A",
+  "idx": 10,
+  "value": 93,
+  "unit": "%"
+ },
+ {
+  "conf": "A",
+  "idx": 10,
+  "value": 92,
+  "unit": "%"
+ },
+ {
+  "conf": "A",
+  "idx": 10,
+  "value": 80,
+  "unit": "%"
+ },
+ {
+  "conf": "A",
+  "idx": 12,
+  "value": 100,
+  "unit": "x"
+ },
+ {
+  "conf": "A",
+  "idx": 13,
+  "value": 20,
+  "unit": "apps"
+ },
+ {
+  "conf": "A",
+  "idx": 13,
+  "value": 8,
+  "unit": "years"
+ },
+ {
+  "conf": "A",
+  "idx": 15,
+  "value": 8,
+  "unit": "hackathons"
+ },
+ {
+  "conf": "A",
+  "idx": 15,
+  "value": 40,
+  "unit": "%"
+ },
+ {
+  "conf": "A",
+  "idx": 15,
+  "value": 700,
+  "unit": "people"
+ },
+ {
+  "conf": "A",
+  "idx": 15,
+  "value": 6,
+  "unit": "hours"
+ },
+ {
+  "conf": "A",
+  "idx": 19,
+  "value": 200,
+  "unit": "participants"
+ },
+ {
+  "conf": "A",
+  "idx": 19,
+  "value": 3000,
+  "unit": "pushes"
+ },
+ {
+  "conf": "A",
+  "idx": 19,
+  "value": 102000000,
+  "unit": "Claude tokens"
+ },
+ {
+  "conf": "A",
+  "idx": 19,
+  "value": 198,
+  "unit": "workspaces"
+ },
+ {
+  "conf": "A",
+  "idx": 21,
+  "value": 2,
+  "unit": "engineers"
+ },
+ {
+  "conf": "A",
+  "idx": 21,
+  "value": 90,
+  "unit": "days"
+ },
+ {
+  "conf": "A",
+  "idx": 21,
+  "value": 500000,
+  "unit": "USD"
+ },
+ {
+  "conf": "A",
+  "idx": 21,
+  "value": 40,
+  "unit": "% of revenue"
+ },
+ {
+  "conf": "A",
+  "idx": 22,
+  "value": 100,
+  "unit": "leaders"
+ },
+ {
+  "conf": "A",
+  "idx": 24,
+  "value": 130000000,
+  "unit": "customers"
+ },
+ {
+  "conf": "A",
+  "idx": 25,
+  "value": 20,
+  "unit": "%"
+ },
+ {
+  "conf": "A",
+  "idx": 25,
+  "value": 10,
+  "unit": "x"
+ },
+ {
+  "conf": "B",
+  "idx": 2,
+  "value": 30.0,
+  "unit": "%",
+  "context": "Internal data science agent judged 'awful' by first users despite passing 30% of evals; evals didn't predict r"
+ },
+ {
+  "conf": "B",
+  "idx": 8,
+  "value": 600.0,
+  "unit": "k",
+  "context": "Same ~600k token budget: agent that asked a second agent for advice scored 89 vs 76 executing alone"
+ },
+ {
+  "conf": "B",
+  "idx": 8,
+  "value": 89.0,
+  "unit": "",
+  "context": "Same ~600k token budget: agent that asked a second agent for advice scored 89 vs 76 executing alone"
+ },
+ {
+  "conf": "B",
+  "idx": 8,
+  "value": 76.0,
+  "unit": "",
+  "context": "Same ~600k token budget: agent that asked a second agent for advice scored 89 vs 76 executing alone"
+ },
+ {
+  "conf": "B",
+  "idx": 10,
+  "value": 12.0,
+  "unit": "",
+  "context": "One designer + agents covers hundreds of deliverables at a 12-15 person company; agents catch missing sponsor "
+ },
+ {
+  "conf": "B",
+  "idx": 10,
+  "value": 15.0,
+  "unit": "",
+  "context": "One designer + agents covers hundreds of deliverables at a 12-15 person company; agents catch missing sponsor "
+ },
+ {
+  "conf": "B",
+  "idx": 12,
+  "value": 2.0,
+  "unit": "M",
+  "context": "2M websites over a decade: internet was homogenizing before AI; AI accelerated it and made it context-blind"
+ },
+ {
+  "conf": "B",
+  "idx": 18,
+  "value": 1.0,
+  "unit": "",
+  "context": "Adding UI made the agent worse: with rendered results it stopped exploring (1 search vs 10-15); lessons from M"
+ },
+ {
+  "conf": "B",
+  "idx": 18,
+  "value": 10.0,
+  "unit": "",
+  "context": "Adding UI made the agent worse: with rendered results it stopped exploring (1 search vs 10-15); lessons from M"
+ },
+ {
+  "conf": "B",
+  "idx": 18,
+  "value": 15.0,
+  "unit": "",
+  "context": "Adding UI made the agent worse: with rendered results it stopped exploring (1 search vs 10-15); lessons from M"
+ },
+ {
+  "conf": "B",
+  "idx": 19,
+  "value": 200.0,
+  "unit": "",
+  "context": "Frontier models drop instructions somewhere past ~200-300 items; hard limit on skill length before forgetting"
+ },
+ {
+  "conf": "B",
+  "idx": 19,
+  "value": 300.0,
+  "unit": "",
+  "context": "Frontier models drop instructions somewhere past ~200-300 items; hard limit on skill length before forgetting"
+ },
+ {
+  "conf": "B",
+  "idx": 20,
+  "value": 21.0,
+  "unit": "M",
+  "context": "Same prompt: 21M tokens without context engine vs 10.8M with, ~2 hours faster"
+ },
+ {
+  "conf": "B",
+  "idx": 20,
+  "value": 10.8,
+  "unit": "M",
+  "context": "Same prompt: 21M tokens without context engine vs 10.8M with, ~2 hours faster"
+ },
+ {
+  "conf": "B",
+  "idx": 20,
+  "value": 2.0,
+  "unit": "hours",
+  "context": "Same prompt: 21M tokens without context engine vs 10.8M with, ~2 hours faster"
+ },
+ {
+  "conf": "B",
+  "idx": 21,
+  "value": 1300.0,
+  "unit": "tools",
+  "context": "1300 tools + 600 playbooks behind exactly 3 meta-tools (search, get-schema, execute); MCP degrades past 30-40 "
+ },
+ {
+  "conf": "B",
+  "idx": 21,
+  "value": 600.0,
+  "unit": "",
+  "context": "1300 tools + 600 playbooks behind exactly 3 meta-tools (search, get-schema, execute); MCP degrades past 30-40 "
+ },
+ {
+  "conf": "B",
+  "idx": 21,
+  "value": 3.0,
+  "unit": "",
+  "context": "1300 tools + 600 playbooks behind exactly 3 meta-tools (search, get-schema, execute); MCP degrades past 30-40 "
+ },
+ {
+  "conf": "B",
+  "idx": 21,
+  "value": 30.0,
+  "unit": "",
+  "context": "1300 tools + 600 playbooks behind exactly 3 meta-tools (search, get-schema, execute); MCP degrades past 30-40 "
+ },
+ {
+  "conf": "B",
+  "idx": 21,
+  "value": 40.0,
+  "unit": "tools",
+  "context": "1300 tools + 600 playbooks behind exactly 3 meta-tools (search, get-schema, execute); MCP degrades past 30-40 "
+ },
+ {
+  "conf": "B",
+  "idx": 22,
+  "value": 12.0,
+  "unit": "",
+  "context": "Summing 12 numbers in 30k tokens fails; with a REPL the model writes regex instead - recursive language models"
+ },
+ {
+  "conf": "B",
+  "idx": 22,
+  "value": 30.0,
+  "unit": "k",
+  "context": "Summing 12 numbers in 30k tokens fails; with a REPL the model writes regex instead - recursive language models"
+ },
+ {
+  "conf": "B",
+  "idx": 24,
+  "value": 1.0,
+  "unit": "token",
+  "context": "1 token of KV cache on Mistral 7B = 131KB; 16k context x 80 users = 42GB - inference math from first principle"
+ },
+ {
+  "conf": "B",
+  "idx": 24,
+  "value": 7.0,
+  "unit": "B",
+  "context": "1 token of KV cache on Mistral 7B = 131KB; 16k context x 80 users = 42GB - inference math from first principle"
+ },
+ {
+  "conf": "B",
+  "idx": 24,
+  "value": 131.0,
+  "unit": "KB",
+  "context": "1 token of KV cache on Mistral 7B = 131KB; 16k context x 80 users = 42GB - inference math from first principle"
+ },
+ {
+  "conf": "B",
+  "idx": 24,
+  "value": 16.0,
+  "unit": "k",
+  "context": "1 token of KV cache on Mistral 7B = 131KB; 16k context x 80 users = 42GB - inference math from first principle"
+ },
+ {
+  "conf": "B",
+  "idx": 24,
+  "value": 80.0,
+  "unit": "users",
+  "context": "1 token of KV cache on Mistral 7B = 131KB; 16k context x 80 users = 42GB - inference math from first principle"
+ },
+ {
+  "conf": "B",
+  "idx": 24,
+  "value": 42.0,
+  "unit": "GB",
+  "context": "1 token of KV cache on Mistral 7B = 131KB; 16k context x 80 users = 42GB - inference math from first principle"
+ },
+ {
+  "conf": "B",
+  "idx": 25,
+  "value": 3.0,
+  "unit": "",
+  "context": "Agents need million-token context across long conversations/tools; M3 ships 1M-token window"
+ },
+ {
+  "conf": "B",
+  "idx": 25,
+  "value": 1.0,
+  "unit": "M",
+  "context": "Agents need million-token context across long conversations/tools; M3 ships 1M-token window"
+ },
+ {
+  "conf": "B",
+  "idx": 32,
+  "value": 4.0,
+  "unit": "",
+  "context": "Same sales report query returned 4 different layouts/copy across runs; would not ship it - generative UX needs"
+ },
+ {
+  "conf": "B",
+  "idx": 34,
+  "value": 402.0,
+  "unit": "",
+  "context": "x402 vulnerability window: between signature verification and blockchain settlement nothing stops double-spend"
+ },
+ {
+  "conf": "B",
+  "idx": 36,
+  "value": 25.0,
+  "unit": "",
+  "context": "25-cent card-rail floor on a 0.1-cent API call = ~250x overhead; subscriptions don't map to agent commerce; bo"
+ },
+ {
+  "conf": "B",
+  "idx": 36,
+  "value": 0.1,
+  "unit": "",
+  "context": "25-cent card-rail floor on a 0.1-cent API call = ~250x overhead; subscriptions don't map to agent commerce; bo"
+ },
+ {
+  "conf": "B",
+  "idx": 36,
+  "value": 250.0,
+  "unit": "x",
+  "context": "25-cent card-rail floor on a 0.1-cent API call = ~250x overhead; subscriptions don't map to agent commerce; bo"
+ },
+ {
+  "conf": "B",
+  "idx": 43,
+  "value": 2.0,
+  "unit": "s",
+  "context": "Hyper-personalized page assembled in <2s from one query ('audience of one')"
+ },
+ {
+  "conf": "B",
+  "idx": 44,
+  "value": 200.0,
+  "unit": "",
+  "context": "'Book when fare < $200' fires 2 weeks later - who made the purchase? Agent on-behalf vs under-its-own-authorit"
+ },
+ {
+  "conf": "B",
+  "idx": 44,
+  "value": 2.0,
+  "unit": "weeks",
+  "context": "'Book when fare < $200' fires 2 weeks later - who made the purchase? Agent on-behalf vs under-its-own-authorit"
+ },
+ {
+  "conf": "B",
+  "idx": 44,
+  "value": 2015.0,
+  "unit": "",
+  "context": "'Book when fare < $200' fires 2 weeks later - who made the purchase? Agent on-behalf vs under-its-own-authorit"
+ },
+ {
+  "conf": "B",
+  "idx": 48,
+  "value": 5.0,
+  "unit": "%",
+  "context": "~5% of vendor demo calls end in enterprise signature (10-15 startups → 2-3 demos → 0-1 pilots → 1 contract per"
+ },
+ {
+  "conf": "B",
+  "idx": 48,
+  "value": 10.0,
+  "unit": "",
+  "context": "~5% of vendor demo calls end in enterprise signature (10-15 startups → 2-3 demos → 0-1 pilots → 1 contract per"
+ },
+ {
+  "conf": "B",
+  "idx": 48,
+  "value": 15.0,
+  "unit": "",
+  "context": "~5% of vendor demo calls end in enterprise signature (10-15 startups → 2-3 demos → 0-1 pilots → 1 contract per"
+ },
+ {
+  "conf": "B",
+  "idx": 48,
+  "value": 2.0,
+  "unit": "",
+  "context": "~5% of vendor demo calls end in enterprise signature (10-15 startups → 2-3 demos → 0-1 pilots → 1 contract per"
+ },
+ {
+  "conf": "B",
+  "idx": 48,
+  "value": 3.0,
+  "unit": "",
+  "context": "~5% of vendor demo calls end in enterprise signature (10-15 startups → 2-3 demos → 0-1 pilots → 1 contract per"
+ },
+ {
+  "conf": "B",
+  "idx": 48,
+  "value": 1.0,
+  "unit": "",
+  "context": "~5% of vendor demo calls end in enterprise signature (10-15 startups → 2-3 demos → 0-1 pilots → 1 contract per"
+ },
+ {
+  "conf": "B",
+  "idx": 48,
+  "value": 1.0,
+  "unit": "",
+  "context": "~5% of vendor demo calls end in enterprise signature (10-15 startups → 2-3 demos → 0-1 pilots → 1 contract per"
+ },
+ {
+  "conf": "B",
+  "idx": 48,
+  "value": 4.0,
+  "unit": "",
+  "context": "~5% of vendor demo calls end in enterprise signature (10-15 startups → 2-3 demos → 0-1 pilots → 1 contract per"
+ },
+ {
+  "conf": "B",
+  "idx": 50,
+  "value": 32000.0,
+  "unit": "lines",
+  "context": "AI rewrote zlib in Lean: 32,000 lines of proof (not tests) in ~1 week; small kernel checks the theorem"
+ },
+ {
+  "conf": "B",
+  "idx": 50,
+  "value": 1.0,
+  "unit": "week",
+  "context": "AI rewrote zlib in Lean: 32,000 lines of proof (not tests) in ~1 week; small kernel checks the theorem"
+ },
+ {
+  "conf": "B",
+  "idx": 53,
+  "value": 90.0,
+  "unit": "%",
+  "context": "90% of 50 watched teams used same assistant; half saw <3x deployment velocity, other half median 4.5x (sometim"
+ },
+ {
+  "conf": "B",
+  "idx": 53,
+  "value": 50.0,
+  "unit": "",
+  "context": "90% of 50 watched teams used same assistant; half saw <3x deployment velocity, other half median 4.5x (sometim"
+ },
+ {
+  "conf": "B",
+  "idx": 53,
+  "value": 3.0,
+  "unit": "x",
+  "context": "90% of 50 watched teams used same assistant; half saw <3x deployment velocity, other half median 4.5x (sometim"
+ },
+ {
+  "conf": "B",
+  "idx": 53,
+  "value": 4.5,
+  "unit": "x",
+  "context": "90% of 50 watched teams used same assistant; half saw <3x deployment velocity, other half median 4.5x (sometim"
+ },
+ {
+  "conf": "B",
+  "idx": 53,
+  "value": 10.0,
+  "unit": "x",
+  "context": "90% of 50 watched teams used same assistant; half saw <3x deployment velocity, other half median 4.5x (sometim"
+ },
+ {
+  "conf": "B",
+  "idx": 57,
+  "value": 3.0,
+  "unit": "",
+  "context": "PR first-review wait went ~3h (2024) → 9h (2026); volume grew; multi-agent code review engine built for thousa"
+ },
+ {
+  "conf": "B",
+  "idx": 57,
+  "value": 2024.0,
+  "unit": "",
+  "context": "PR first-review wait went ~3h (2024) → 9h (2026); volume grew; multi-agent code review engine built for thousa"
+ },
+ {
+  "conf": "B",
+  "idx": 57,
+  "value": 9.0,
+  "unit": "",
+  "context": "PR first-review wait went ~3h (2024) → 9h (2026); volume grew; multi-agent code review engine built for thousa"
+ },
+ {
+  "conf": "B",
+  "idx": 57,
+  "value": 2026.0,
+  "unit": "",
+  "context": "PR first-review wait went ~3h (2024) → 9h (2026); volume grew; multi-agent code review engine built for thousa"
+ },
+ {
+  "conf": "B",
+  "idx": 57,
+  "value": 12.0,
+  "unit": "sites",
+  "context": "PR first-review wait went ~3h (2024) → 9h (2026); volume grew; multi-agent code review engine built for thousa"
+ },
+ {
+  "conf": "B",
+  "idx": 57,
+  "value": 6.0,
+  "unit": "",
+  "context": "PR first-review wait went ~3h (2024) → 9h (2026); volume grew; multi-agent code review engine built for thousa"
+ },
+ {
+  "conf": "B",
+  "idx": 58,
+  "value": 20.0,
+  "unit": "%",
+  "context": "20%-time side project became Figma's first MCP server in ~3 months, then one of fastest-growing products ever "
+ },
+ {
+  "conf": "B",
+  "idx": 58,
+  "value": 3.0,
+  "unit": "months",
+  "context": "20%-time side project became Figma's first MCP server in ~3 months, then one of fastest-growing products ever "
+ },
+ {
+  "conf": "B",
+  "idx": 60,
+  "value": 50.0,
+  "unit": "%",
+  "context": "Bottleneck moved from GPU to interconnect; PyTorch+NCCL baseline <50% of achievable multi-GPU throughput"
+ },
+ {
+  "conf": "B",
+  "idx": 62,
+  "value": 2.0,
+  "unit": "",
+  "context": "Adoption is a leadership problem, not an IC one: if left to individuals, the 2-PR/day engineer reviews the 10-"
+ },
+ {
+  "conf": "B",
+  "idx": 62,
+  "value": 10.0,
+  "unit": "",
+  "context": "Adoption is a leadership problem, not an IC one: if left to individuals, the 2-PR/day engineer reviews the 10-"
+ },
+ {
+  "conf": "B",
+  "idx": 63,
+  "value": 3000.0,
+  "unit": "turns",
+  "context": "Agentic sessions: 3,000 turns, >90% cache hit rates, input:output ratios >100:1; public benchmarks report sani"
+ },
+ {
+  "conf": "B",
+  "idx": 63,
+  "value": 90.0,
+  "unit": "%",
+  "context": "Agentic sessions: 3,000 turns, >90% cache hit rates, input:output ratios >100:1; public benchmarks report sani"
+ },
+ {
+  "conf": "B",
+  "idx": 63,
+  "value": 100.0,
+  "unit": "",
+  "context": "Agentic sessions: 3,000 turns, >90% cache hit rates, input:output ratios >100:1; public benchmarks report sani"
+ },
+ {
+  "conf": "B",
+  "idx": 63,
+  "value": 1.0,
+  "unit": "",
+  "context": "Agentic sessions: 3,000 turns, >90% cache hit rates, input:output ratios >100:1; public benchmarks report sani"
+ },
+ {
+  "conf": "B",
+  "idx": 64,
+  "value": 65.0,
+  "unit": "%",
+  "context": "Assistant recommends Sourcegraph 65% of time for tool-comparison phrasing but 0% when the actual pain is descr"
+ },
+ {
+  "conf": "B",
+  "idx": 65,
+  "value": 3.0,
+  "unit": "",
+  "context": "Weekly GTM summary written by 3 agents in sequence (draft, fact-check, tone); team read every run for 2-3 mont"
+ },
+ {
+  "conf": "B",
+  "idx": 65,
+  "value": 2.0,
+  "unit": "",
+  "context": "Weekly GTM summary written by 3 agents in sequence (draft, fact-check, tone); team read every run for 2-3 mont"
+ },
+ {
+  "conf": "B",
+  "idx": 65,
+  "value": 3.0,
+  "unit": "months",
+  "context": "Weekly GTM summary written by 3 agents in sequence (draft, fact-check, tone); team read every run for 2-3 mont"
+ },
+ {
+  "conf": "B",
+  "idx": 66,
+  "value": 760.0,
+  "unit": "",
+  "context": "AI clone built from 760 own emails for voice + hundreds of past decisions as evals; colleagues use it to draft"
+ },
+ {
+  "conf": "B",
+  "idx": 67,
+  "value": 13.0,
+  "unit": "",
+  "context": "Since April 13 LLM recommendations are the single largest inbound source for an OSS consent-banner library"
+ },
+ {
+  "conf": "B",
+  "idx": 68,
+  "value": 150.0,
+  "unit": "",
+  "context": "Started with 150 questions from real sales process; first run scored 50%; rule: quality over coverage (50 answ"
+ },
+ {
+  "conf": "B",
+  "idx": 68,
+  "value": 50.0,
+  "unit": "%",
+  "context": "Started with 150 questions from real sales process; first run scored 50%; rule: quality over coverage (50 answ"
+ },
+ {
+  "conf": "B",
+  "idx": 68,
+  "value": 50.0,
+  "unit": "",
+  "context": "Started with 150 questions from real sales process; first run scored 50%; rule: quality over coverage (50 answ"
+ },
+ {
+  "conf": "B",
+  "idx": 68,
+  "value": 95.0,
+  "unit": "%",
+  "context": "Started with 150 questions from real sales process; first run scored 50%; rule: quality over coverage (50 answ"
+ },
+ {
+  "conf": "B",
+  "idx": 68,
+  "value": 150.0,
+  "unit": "",
+  "context": "Started with 150 questions from real sales process; first run scored 50%; rule: quality over coverage (50 answ"
+ },
+ {
+  "conf": "B",
+  "idx": 68,
+  "value": 60.0,
+  "unit": "%",
+  "context": "Started with 150 questions from real sales process; first run scored 50%; rule: quality over coverage (50 answ"
+ },
+ {
+  "conf": "B",
+  "idx": 72,
+  "value": 9.0,
+  "unit": "months",
+  "context": "OpenAI shipped requested enterprise features 9 months late; buyers had already bought Copilot - sequence of en"
+ },
+ {
+  "conf": "B",
+  "idx": 73,
+  "value": 10.0,
+  "unit": "",
+  "context": "Point agent at 10 product pages, get real content from 3, send all 10 to model: ~70% of tokens spent reading C"
+ },
+ {
+  "conf": "B",
+  "idx": 73,
+  "value": 3.0,
+  "unit": "",
+  "context": "Point agent at 10 product pages, get real content from 3, send all 10 to model: ~70% of tokens spent reading C"
+ },
+ {
+  "conf": "B",
+  "idx": 73,
+  "value": 10.0,
+  "unit": "",
+  "context": "Point agent at 10 product pages, get real content from 3, send all 10 to model: ~70% of tokens spent reading C"
+ },
+ {
+  "conf": "B",
+  "idx": 73,
+  "value": 70.0,
+  "unit": "%",
+  "context": "Point agent at 10 product pages, get real content from 3, send all 10 to model: ~70% of tokens spent reading C"
+ },
+ {
+  "conf": "B",
+  "idx": 73,
+  "value": 200.0,
+  "unit": "",
+  "context": "Point agent at 10 product pages, get real content from 3, send all 10 to model: ~70% of tokens spent reading C"
+ },
+ {
+  "conf": "B",
+  "idx": 76,
+  "value": 30.0,
+  "unit": "",
+  "context": "30+ recognizable 'vibe-coded app' tells (purple gradients, all-caps pills, emoji); naming them makes them tell"
+ },
+ {
+  "conf": "B",
+  "idx": 77,
+  "value": 70.0,
+  "unit": "%",
+  "context": ">70% of Uber PRs now from local or cloud agents; LOC per engineer doubled YoY; every model call passes one gat"
+ },
+ {
+  "conf": "B",
+  "idx": 79,
+  "value": 12.0,
+  "unit": "M",
+  "context": "Fine-tuned model generated $12M at 50x ROI but replied to 'good morning' with a phone call; fine-tuned model a"
+ },
+ {
+  "conf": "B",
+  "idx": 79,
+  "value": 50.0,
+  "unit": "x",
+  "context": "Fine-tuned model generated $12M at 50x ROI but replied to 'good morning' with a phone call; fine-tuned model a"
+ },
+ {
+  "conf": "B",
+  "idx": 79,
+  "value": 50.0,
+  "unit": "x",
+  "context": "Fine-tuned model generated $12M at 50x ROI but replied to 'good morning' with a phone call; fine-tuned model a"
+ },
+ {
+  "conf": "B",
+  "idx": 83,
+  "value": 2.0,
+  "unit": "",
+  "context": "CTO ships 2-10 PRs/week inside a manager schedule; manager schedule became usable as building time"
+ },
+ {
+  "conf": "B",
+  "idx": 83,
+  "value": 10.0,
+  "unit": "PRs",
+  "context": "CTO ships 2-10 PRs/week inside a manager schedule; manager schedule became usable as building time"
+ },
+ {
+  "conf": "B",
+  "idx": 87,
+  "value": 70.0,
+  "unit": "%",
+  "context": "~70% of medical communication still moves by fax; exactly the data evals need and the data least allowed to us"
+ },
+ {
+  "conf": "B",
+  "idx": 90,
+  "value": 12.0,
+  "unit": "",
+  "context": "Phone, portal, and X12 feeds of the same payer often disagree; none is ground truth - agent needs the real 'by"
+ },
+ {
+  "conf": "B",
+  "idx": 91,
+  "value": 200.0,
+  "unit": "M",
+  "context": "Almost no hands for 'ever received a proactive call from your provider' = scarcity signature; 200M clinical co"
+ },
+ {
+  "conf": "B",
+  "idx": 92,
+  "value": 35000.0,
+  "unit": "clinicians",
+  "context": "BetterHelp: ~35,000 clinicians, 5M users, a decade. ChatGPT: ~900M weekly users - therapy displacement already"
+ },
+ {
+  "conf": "B",
+  "idx": 92,
+  "value": 5.0,
+  "unit": "M",
+  "context": "BetterHelp: ~35,000 clinicians, 5M users, a decade. ChatGPT: ~900M weekly users - therapy displacement already"
+ },
+ {
+  "conf": "B",
+  "idx": 92,
+  "value": 900.0,
+  "unit": "M",
+  "context": "BetterHelp: ~35,000 clinicians, 5M users, a decade. ChatGPT: ~900M weekly users - therapy displacement already"
+ },
+ {
+  "conf": "B",
+  "idx": 94,
+  "value": 200.0,
+  "unit": "x",
+  "context": "Sodium bromide case: consumer AI diet advice → ER, bromide 200x safe level, 3-week hospitalization; guardrails"
+ },
+ {
+  "conf": "B",
+  "idx": 94,
+  "value": 3.0,
+  "unit": "",
+  "context": "Sodium bromide case: consumer AI diet advice → ER, bromide 200x safe level, 3-week hospitalization; guardrails"
+ },
+ {
+  "conf": "B",
+  "idx": 95,
+  "value": 2.0,
+  "unit": "",
+  "context": "'Pajama time': ~2h/day of after-work note writing; documentation product reached 300 of largest US health syst"
+ },
+ {
+  "conf": "B",
+  "idx": 95,
+  "value": 300.0,
+  "unit": "",
+  "context": "'Pajama time': ~2h/day of after-work note writing; documentation product reached 300 of largest US health syst"
+ },
+ {
+  "conf": "B",
+  "idx": 95,
+  "value": 2.0,
+  "unit": "",
+  "context": "'Pajama time': ~2h/day of after-work note writing; documentation product reached 300 of largest US health syst"
+ },
+ {
+  "conf": "B",
+  "idx": 95,
+  "value": 3.0,
+  "unit": "years",
+  "context": "'Pajama time': ~2h/day of after-work note writing; documentation product reached 300 of largest US health syst"
+ },
+ {
+  "conf": "B",
+  "idx": 97,
+  "value": 100.0,
+  "unit": "%",
+  "context": "GPU utilization is a lie - reads 100% while cluster idle; track tensor core utilization instead"
+ },
+ {
+  "conf": "B",
+  "idx": 98,
+  "value": 10.0,
+  "unit": "",
+  "context": "$10 ≈ 3 hours continuously generated video; interesting axis stopped being quality, it's real-time"
+ },
+ {
+  "conf": "B",
+  "idx": 98,
+  "value": 3.0,
+  "unit": "hours",
+  "context": "$10 ≈ 3 hours continuously generated video; interesting axis stopped being quality, it's real-time"
+ },
+ {
+  "conf": "B",
+  "idx": 99,
+  "value": 8.0,
+  "unit": "",
+  "context": "Real-time avatar ran 8h continuously (16h being built); hard part is duration - every frame block inherits err"
+ },
+ {
+  "conf": "B",
+  "idx": 99,
+  "value": 16.0,
+  "unit": "",
+  "context": "Real-time avatar ran 8h continuously (16h being built); hard part is duration - every frame block inherits err"
+ },
+ {
+  "conf": "B",
+  "idx": 104,
+  "value": 30.0,
+  "unit": "%",
+  "context": ">30% of changes merge with no review at all; review wait 4x what it used to be; AI writes, AI reviews in a web"
+ },
+ {
+  "conf": "B",
+  "idx": 104,
+  "value": 4.0,
+  "unit": "x",
+  "context": ">30% of changes merge with no review at all; review wait 4x what it used to be; AI writes, AI reviews in a web"
+ },
+ {
+  "conf": "B",
+  "idx": 108,
+  "value": 15000.0,
+  "unit": "queries",
+  "context": "~15,000 queries is the crossover where renting context stops being cheaper than owning a scraper pipeline (exp"
+ },
+ {
+  "conf": "B",
+  "idx": 110,
+  "value": 2.0,
+  "unit": "",
+  "context": "Preparing the talk triggered an OpenAI cyber-abuse ban warning; agent cleared Turnstile + 2 image captchas + r"
+ },
+ {
+  "conf": "B",
+  "idx": 110,
+  "value": 2.0,
+  "unit": "",
+  "context": "Preparing the talk triggered an OpenAI cyber-abuse ban warning; agent cleared Turnstile + 2 image captchas + r"
+ },
+ {
+  "conf": "B",
+  "idx": 111,
+  "value": 2.0,
+  "unit": "",
+  "context": "People bought Mac minis, SSH'd in, cleared captchas from residential IPs; 'yet to see a SOC 2 compliant Mac Mi"
+ },
+ {
+  "conf": "B",
+  "idx": 112,
+  "value": 1.0,
+  "unit": "MB",
+  "context": "Sub-1MB script replaying one recorded trajectory per task matches or beats the frontier model it copied; pass@"
+ },
+ {
+  "conf": "B",
+  "idx": 114,
+  "value": 2.0,
+  "unit": "",
+  "context": "Agents mining traces of other agents: does compaction #2 make it dumber? where did users get upset? what would"
+ },
+ {
+  "conf": "B",
+  "idx": 116,
+  "value": 80.0,
+  "unit": "%",
+  "context": "Thousand-example eval suite: switch harnesses and 80% stops meaning anything; eval advice still written for th"
+ },
+ {
+  "conf": "B",
+  "idx": 117,
+  "value": 22.0,
+  "unit": "%",
+  "context": "Submit tool-call rate 22%→60% with pass rate flat via RL; but teacher conditioned on old trace never touched t"
+ },
+ {
+  "conf": "B",
+  "idx": 117,
+  "value": 60.0,
+  "unit": "%",
+  "context": "Submit tool-call rate 22%→60% with pass rate flat via RL; but teacher conditioned on old trace never touched t"
+ },
+ {
+  "conf": "B",
+  "idx": 118,
+  "value": 200.0,
+  "unit": "",
+  "context": "Start knowledge base with voice dictation (200 wpm vs typing); capture sloppy, let agents impose structure aft"
+ },
+ {
+  "conf": "B",
+  "idx": 119,
+  "value": 5000.0,
+  "unit": "people",
+  "context": "Fewer than 5,000 people can train a frontier model; knowledge travels by apprenticeship, not literature - cont"
+ },
+ {
+  "conf": "B",
+  "idx": 121,
+  "value": 10.0,
+  "unit": "k",
+  "context": "Model trained on 10k financial reports drives loss to 0.00001 then collapses at generation; public-data era of"
+ },
+ {
+  "conf": "B",
+  "idx": 121,
+  "value": 1e-05,
+  "unit": "",
+  "context": "Model trained on 10k financial reports drives loss to 0.00001 then collapses at generation; public-data era of"
+ },
+ {
+  "conf": "B",
+  "idx": 122,
+  "value": 124.0,
+  "unit": "",
+  "context": "Negative result as boundary: memory harness changed nothing when corpus fit in context window; matters only wh"
+ },
+ {
+  "conf": "B",
+  "idx": 122,
+  "value": 500.0,
+  "unit": "",
+  "context": "Negative result as boundary: memory harness changed nothing when corpus fit in context window; matters only wh"
+ },
+ {
+  "conf": "B",
+  "idx": 123,
+  "value": 100.0,
+  "unit": "",
+  "context": "Scaling self-distillation to 100-tool-call trajectories → 'but wait problem': student drifts, tokens fill with"
+ },
+ {
+  "conf": "B",
+  "idx": 125,
+  "value": 4.5,
+  "unit": "",
+  "context": "Sonnet 4.5 showed 'context anxiety' - wrapping up early near window limit; context resets built as compensatio"
+ },
+ {
+  "conf": "B",
+  "idx": 125,
+  "value": 4.5,
+  "unit": "",
+  "context": "Sonnet 4.5 showed 'context anxiety' - wrapping up early near window limit; context resets built as compensatio"
+ },
+ {
+  "conf": "B",
+  "idx": 126,
+  "value": 10.0,
+  "unit": "PRs",
+  "context": "Adoption is a leadership problem: early adopter ships 10 PRs, peers review them, fall behind, conclude agents "
+ },
+ {
+  "conf": "B",
+  "idx": 127,
+  "value": 500.0,
+  "unit": "MB",
+  "context": "Send ~500MB instead of 500GB: <1% of rollout-visible weights change between updates; bitwise-identical reconst"
+ },
+ {
+  "conf": "B",
+  "idx": 127,
+  "value": 500.0,
+  "unit": "GB",
+  "context": "Send ~500MB instead of 500GB: <1% of rollout-visible weights change between updates; bitwise-identical reconst"
+ },
+ {
+  "conf": "B",
+  "idx": 127,
+  "value": 1.0,
+  "unit": "%",
+  "context": "Send ~500MB instead of 500GB: <1% of rollout-visible weights change between updates; bitwise-identical reconst"
+ },
+ {
+  "conf": "B",
+  "idx": 128,
+  "value": 1000.0,
+  "unit": "tokens",
+  "context": "At 1000 tokens/s inference stopped being the bottleneck and the network became it; websocket mode with statefu"
+ },
+ {
+  "conf": "B",
+  "idx": 130,
+  "value": 3.0,
+  "unit": "months",
+  "context": "CM study: AI-tool productivity gains ran out after ~3 months; static analysis warnings and complexity stayed -"
+ },
+ {
+  "conf": "B",
+  "idx": 133,
+  "value": 3.0,
+  "unit": "",
+  "context": "3-line plain-English prompt expanded into full upgrade playbook (check releases, read changelogs, apply, open "
+ },
+ {
+  "conf": "B",
+  "idx": 134,
+  "value": 6.0,
+  "unit": "months",
+  "context": "Spent 6 months collapsing 10 repos into a monorepo; honest audit of whether they should have just waited for m"
+ },
+ {
+  "conf": "B",
+  "idx": 134,
+  "value": 10.0,
+  "unit": "repos",
+  "context": "Spent 6 months collapsing 10 repos into a monorepo; honest audit of whether they should have just waited for m"
+ },
+ {
+  "conf": "B",
+  "idx": 136,
+  "value": 1945.0,
+  "unit": "",
+  "context": "Bush described OCR, hypertext, search, voice interfaces in 1945; we're at the same moment for AI-native primit"
+ },
+ {
+  "conf": "B",
+  "idx": 139,
+  "value": 20.0,
+  "unit": "%",
+  "context": "Quantizing a single number makes a model 20% dumber (super weights); layers wildly unequal - first/last carry "
+ },
+ {
+  "conf": "B",
+  "idx": 152,
+  "value": 2022.0,
+  "unit": "",
+  "context": "Galactica briefly crossed the Rubicon on curated data + intermediate reasoning tokens in 2022; long-horizon RL"
+ },
+ {
+  "conf": "B",
+  "idx": 154,
+  "value": 3.0,
+  "unit": "",
+  "context": "Base model is dead: instruction data and synthetic reasoning traces now start in pre-training; no modern base "
+ },
+ {
+  "conf": "B",
+  "idx": 163,
+  "value": 100.0,
+  "unit": "M",
+  "context": "AI-generated decks are cleaner, never defensive, confidently wrong; demo vs memo: a demo shows it can work, a "
+ },
+ {
+  "conf": "B",
+  "idx": 170,
+  "value": 20.0,
+  "unit": "x",
+  "context": "Simulated conversations standing in for real ones unlocked 20x shipping pace; evals were the unlock"
+ },
+ {
+  "conf": "B",
+  "idx": 175,
+  "value": 5.0,
+  "unit": "M",
+  "context": "Zero appetite to rip anything out after $5M/5yr SAP migration; drop FDE agents on top of existing systems inst"
+ },
+ {
+  "conf": "B",
+  "idx": 175,
+  "value": 5.0,
+  "unit": "",
+  "context": "Zero appetite to rip anything out after $5M/5yr SAP migration; drop FDE agents on top of existing systems inst"
+ },
+ {
+  "conf": "B",
+  "idx": 176,
+  "value": 82.0,
+  "unit": "%",
+  "context": "Market optimizes for token usage; Cognition's deployed engineering measures outcomes instead: ~82% reduction o"
+ },
+ {
+  "conf": "B",
+  "idx": 177,
+  "value": 4.0,
+  "unit": "",
+  "context": "Friday-night enterprise request for SAP S4 HANA integration; first principle: always be scoping - reflexive ye"
+ },
+ {
+  "conf": "B",
+  "idx": 181,
+  "value": 500.0,
+  "unit": "k",
+  "context": "Very few public software companies crack $500k ACV; that gap is where FDE lives - buyer non-technical, product"
+ },
+ {
+  "conf": "B",
+  "idx": 182,
+  "value": 2.0,
+  "unit": "M",
+  "context": "At 2M models search is the hard part: Lucene full-text + MongoDB metadata; 'type llama and it still feels inst"
+ },
+ {
+  "conf": "B",
+  "idx": 184,
+  "value": 113.0,
+  "unit": "tasks",
+  "context": "113 tasks written from scratch (not scraped PRs) with authored verifiers checking behavior - contamination-res"
+ },
+ {
+  "conf": "B",
+  "idx": 185,
+  "value": 5.5,
+  "unit": "",
+  "context": "GPT-5.5 and Opus 4.8 within 3 points on same finance benchmark but failed in opposite directions (arithmetic v"
+ },
+ {
+  "conf": "B",
+  "idx": 185,
+  "value": 4.8,
+  "unit": "",
+  "context": "GPT-5.5 and Opus 4.8 within 3 points on same finance benchmark but failed in opposite directions (arithmetic v"
+ },
+ {
+  "conf": "B",
+  "idx": 185,
+  "value": 3.0,
+  "unit": "",
+  "context": "GPT-5.5 and Opus 4.8 within 3 points on same finance benchmark but failed in opposite directions (arithmetic v"
+ },
+ {
+  "conf": "B",
+  "idx": 188,
+  "value": 40.0,
+  "unit": "k",
+  "context": "Fix for 40k-line unreviewable PRs is not a better prompt but a better loop: sense error, emit control signal, "
+ },
+ {
+  "conf": "B",
+  "idx": 189,
+  "value": 6.0,
+  "unit": "GB",
+  "context": "Edge AI constraint is RAM not compute and it's worsening: phones ship less RAM, 6GB Pi costs 2.5x launch price"
+ },
+ {
+  "conf": "B",
+  "idx": 189,
+  "value": 2.5,
+  "unit": "x",
+  "context": "Edge AI constraint is RAM not compute and it's worsening: phones ship less RAM, 6GB Pi costs 2.5x launch price"
+ },
+ {
+  "conf": "B",
+  "idx": 198,
+  "value": 6000.0,
+  "unit": "",
+  "context": "Gemini ran a real café, lost $6,000, got replaced by GPT; the café once hired its own staff via LinkedIn"
+ },
+ {
+  "conf": "B",
+  "idx": 201,
+  "value": 3.0,
+  "unit": "x",
+  "context": "Model upgraded at same per-token price quietly burns 3x output tokens; or +40% price with 4-month deprecation "
+ },
+ {
+  "conf": "B",
+  "idx": 201,
+  "value": 40.0,
+  "unit": "%",
+  "context": "Model upgraded at same per-token price quietly burns 3x output tokens; or +40% price with 4-month deprecation "
+ },
+ {
+  "conf": "B",
+  "idx": 201,
+  "value": 4.0,
+  "unit": "",
+  "context": "Model upgraded at same per-token price quietly burns 3x output tokens; or +40% price with 4-month deprecation "
+ },
+ {
+  "conf": "B",
+  "idx": 204,
+  "value": 2.0,
+  "unit": "",
+  "context": "Vector search and Text2SQL each hand the agent a slice; neither says what's relevant or how pieces connect - g"
+ },
+ {
+  "conf": "B",
+  "idx": 206,
+  "value": 3.0,
+  "unit": "",
+  "context": "Doctor receives confident 'penicillin allergy' synthesized from 3 sources with provenance gone; can't just sta"
+ },
+ {
+  "conf": "B",
+  "idx": 213,
+  "value": 350.0,
+  "unit": "",
+  "context": "Log IS the agent: API key died at question 350, rolled back one step, resumed at 353"
+ },
+ {
+  "conf": "B",
+  "idx": 213,
+  "value": 353.0,
+  "unit": "",
+  "context": "Log IS the agent: API key died at question 350, rolled back one step, resumed at 353"
+ },
+ {
+  "conf": "B",
+  "idx": 215,
+  "value": 100.0,
+  "unit": "",
+  "context": "Every new agent rediscovers from scratch where data lives across 100 databases + Snowflake/Databricks/S3 and w"
+ },
+ {
+  "conf": "B",
+  "idx": 215,
+  "value": 3.0,
+  "unit": "",
+  "context": "Every new agent rediscovers from scratch where data lives across 100 databases + Snowflake/Databricks/S3 and w"
+ },
+ {
+  "conf": "B",
+  "idx": 218,
+  "value": 2025.0,
+  "unit": "",
+  "context": "Not 2025 anymore: 'we live in a Claude Code world'; harness = planning mode + parallel subagents + skills + ba"
+ },
+ {
+  "conf": "B",
+  "idx": 223,
+  "value": 5.0,
+  "unit": "",
+  "context": "Frontier models find the same vulnerability in 5 runs only half the time; at most 75% of issues vs determinist"
+ },
+ {
+  "conf": "B",
+  "idx": 223,
+  "value": 75.0,
+  "unit": "%",
+  "context": "Frontier models find the same vulnerability in 5 runs only half the time; at most 75% of issues vs determinist"
+ },
+ {
+  "conf": "B",
+  "idx": 223,
+  "value": 1.0,
+  "unit": "",
+  "context": "Frontier models find the same vulnerability in 5 runs only half the time; at most 75% of issues vs determinist"
+ },
+ {
+  "conf": "B",
+  "idx": 223,
+  "value": 0.4,
+  "unit": "",
+  "context": "Frontier models find the same vulnerability in 5 runs only half the time; at most 75% of issues vs determinist"
+ },
+ {
+  "conf": "B",
+  "idx": 228,
+  "value": 2023.0,
+  "unit": "",
+  "context": "Thousands of open Ray clusters in 2023, no zero-day - just authentication off by default; the same posture awa"
+ },
+ {
+  "conf": "B",
+  "idx": 230,
+  "value": 241.0,
+  "unit": "",
+  "context": "Fable's security pass came back 'good vibes all around'; Snyk on the same code found 241 vulnerabilities - rea"
+ },
+ {
+  "conf": "B",
+  "idx": 239,
+  "value": 200.0,
+  "unit": "ms",
+  "context": "Voice gets 200ms; wrong = user hangs up, no retry; latency budgets, barge-in, turn-taking, silence detection"
+ },
+ {
+  "conf": "B",
+  "idx": 244,
+  "value": 15.0,
+  "unit": "",
+  "context": "Demo agent on a 15-min schedule strained the production database: 'You didn't ship a bug. You just wrote it fo"
+ },
+ {
+  "conf": "B",
+  "idx": 246,
+  "value": 90.0,
+  "unit": "%",
+  "context": "Passes offline evals at 90%, production immediately finds unseen failures; cause: synthetic eval customer soun"
+ },
+ {
+  "conf": "B",
+  "idx": 251,
+  "value": 200.0,
+  "unit": "users",
+  "context": "200 users burned $1,000 credits and the math wouldn't close; 'everyone sells a gospel shaped like their own in"
+ },
+ {
+  "conf": "B",
+  "idx": 251,
+  "value": 1000.0,
+  "unit": "",
+  "context": "200 users burned $1,000 credits and the math wouldn't close; 'everyone sells a gospel shaped like their own in"
+ },
+ {
+  "conf": "B",
+  "idx": 255,
+  "value": 100.0,
+  "unit": "%",
+  "context": "AI teams ship behavior changes to 100% of users every deploy - no canary, no kill switch; web teams stopped do"
+ },
+ {
+  "conf": "B",
+  "idx": 255,
+  "value": 2012.0,
+  "unit": "",
+  "context": "AI teams ship behavior changes to 100% of users every deploy - no canary, no kill switch; web teams stopped do"
+ },
+ {
+  "conf": "B",
+  "idx": 256,
+  "value": 400.0,
+  "unit": "",
+  "context": "Mozilla shipped 400 security fixes in April 2025 vs ~20/month prior, crediting ~2/3 to a frontier model"
+ },
+ {
+  "conf": "B",
+  "idx": 256,
+  "value": 2025.0,
+  "unit": "",
+  "context": "Mozilla shipped 400 security fixes in April 2025 vs ~20/month prior, crediting ~2/3 to a frontier model"
+ },
+ {
+  "conf": "B",
+  "idx": 256,
+  "value": 20.0,
+  "unit": "",
+  "context": "Mozilla shipped 400 security fixes in April 2025 vs ~20/month prior, crediting ~2/3 to a frontier model"
+ },
+ {
+  "conf": "B",
+  "idx": 256,
+  "value": 2.0,
+  "unit": "",
+  "context": "Mozilla shipped 400 security fixes in April 2025 vs ~20/month prior, crediting ~2/3 to a frontier model"
+ },
+ {
+  "conf": "B",
+  "idx": 256,
+  "value": 3.0,
+  "unit": "",
+  "context": "Mozilla shipped 400 security fixes in April 2025 vs ~20/month prior, crediting ~2/3 to a frontier model"
+ },
+ {
+  "conf": "B",
+  "idx": 261,
+  "value": 400.0,
+  "unit": "x",
+  "context": "~400x output increase shifting from writing individual lines to directing agents; lean teams operating at thou"
+ },
+ {
+  "conf": "B",
+  "idx": 263,
+  "value": 7.0,
+  "unit": "",
+  "context": "Autonomous research agent finished with 7 merged records in OpenAI's competition - more than twice any human c"
+ },
+ {
+  "conf": "B",
+  "idx": 272,
+  "value": 1950.0,
+  "unit": "",
+  "context": "AI evaluation scores like it's 1950 (count right answers, equal weights); psychology built a century of measur"
+ },
+ {
+  "conf": "B",
+  "idx": 277,
+  "value": 500000.0,
+  "unit": "",
+  "context": "You cannot solve a combinatorial engineering problem with a next-token predictor: 500,000 sensors with thermod"
+ },
+ {
+  "conf": "B",
+  "idx": 282,
+  "value": 15.0,
+  "unit": "",
+  "context": "15 guests in a 10-person room; fabricated statistics; wrong tool from 29 options ($47 wasted): architectural l"
+ },
+ {
+  "conf": "B",
+  "idx": 282,
+  "value": 10.0,
+  "unit": "",
+  "context": "15 guests in a 10-person room; fabricated statistics; wrong tool from 29 options ($47 wasted): architectural l"
+ },
+ {
+  "conf": "B",
+  "idx": 282,
+  "value": 29.0,
+  "unit": "",
+  "context": "15 guests in a 10-person room; fabricated statistics; wrong tool from 29 options ($47 wasted): architectural l"
+ },
+ {
+  "conf": "B",
+  "idx": 282,
+  "value": 47.0,
+  "unit": "",
+  "context": "15 guests in a 10-person room; fabricated statistics; wrong tool from 29 options ($47 wasted): architectural l"
+ },
+ {
+  "conf": "B",
+  "idx": 283,
+  "value": 39.0,
+  "unit": "",
+  "context": "39-agent operating system running sales, recruitment, quoting, marketing, production context, org memory - no "
+ },
+ {
+  "conf": "B",
+  "idx": 285,
+  "value": 3.0,
+  "unit": "weeks",
+  "context": "3 weeks at NVIDIA HQ → 10x inference speedup by assembling optimizations experts had already solved"
+ },
+ {
+  "conf": "B",
+  "idx": 285,
+  "value": 10.0,
+  "unit": "x",
+  "context": "3 weeks at NVIDIA HQ → 10x inference speedup by assembling optimizations experts had already solved"
+ },
+ {
+  "conf": "B",
+  "idx": 288,
+  "value": 1.0,
+  "unit": "",
+  "context": "Agent happily takes January-to-March as Q1 and returns a number wrong in exactly the way a right one looks; fi"
+ },
+ {
+  "conf": "B",
+  "idx": 291,
+  "value": 2024.0,
+  "unit": "",
+  "context": "Dev Day 2024 demo needed crossed fingers (o1-preview couldn't test its own code); a year later the model ran i"
+ },
+ {
+  "conf": "B",
+  "idx": 291,
+  "value": 1.0,
+  "unit": "",
+  "context": "Dev Day 2024 demo needed crossed fingers (o1-preview couldn't test its own code); a year later the model ran i"
+ },
+ {
+  "conf": "B",
+  "idx": 300,
+  "value": 100.0,
+  "unit": "k",
+  "context": "Sustainability vertical = 'it depends' judgment calls; tasks span 100k+ data-rich nodes and hundreds of edits "
+ },
+ {
+  "conf": "B",
+  "idx": 302,
+  "value": 30.0,
+  "unit": "days",
+  "context": "Roadmap paused for 30 days; a product designer shipped three products - new designer-engineer collaboration wh"
+ },
+ {
+  "conf": "B",
+  "idx": 321,
+  "value": 45000.0,
+  "unit": "tokens",
+  "context": "Every coding tool assumed send-everything: 45,000 tokens/query when ~5,000 were useful; local code index cut 9"
+ },
+ {
+  "conf": "B",
+  "idx": 321,
+  "value": 5000.0,
+  "unit": "",
+  "context": "Every coding tool assumed send-everything: 45,000 tokens/query when ~5,000 were useful; local code index cut 9"
+ },
+ {
+  "conf": "B",
+  "idx": 321,
+  "value": 94.0,
+  "unit": "%",
+  "context": "Every coding tool assumed send-everything: 45,000 tokens/query when ~5,000 were useful; local code index cut 9"
+ },
+ {
+  "conf": "B",
+  "idx": 328,
+  "value": 4.0,
+  "unit": "",
+  "context": "Same mandate talk as A004 - Angie Jones at World's Fair: converting orgs to agentic engineering (duplicate-spe"
+ },
+ {
+  "conf": "B",
+  "idx": 334,
+  "value": 100.0,
+  "unit": "tools",
+  "context": "'Fat Agent' with 100 tools in the system prompt: latency, cost, reliability problems; semantic routing instead"
+ },
+ {
+  "conf": "B",
+  "idx": 337,
+  "value": 2.0,
+  "unit": "",
+  "context": "Production agent loop, A2A protocol, feedback/evals, long-context handling at government scale"
+ }
+]

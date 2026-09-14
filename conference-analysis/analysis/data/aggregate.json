@@ -1,0 +1,114 @@
+{
+ "A": {
+  "n": 23,
+  "topics": {
+   "FV": 1,
+   "SEC": 1,
+   "FUT": 7,
+   "ORG": 18,
+   "CULT": 10,
+   "CODE": 9,
+   "COST": 1,
+   "FDE": 1,
+   "REG": 1
+  },
+  "primary": {
+   "FV": 1,
+   "FUT": 5,
+   "ORG": 16,
+   "CULT": 6,
+   "CODE": 6,
+   "COST": 1,
+   "REG": 1
+  },
+  "frames": {
+   "MF3": 4,
+   "MF1": 3,
+   "MF7": 4,
+   "MF4": 12,
+   "MF6": 7,
+   "MF2": 2,
+   "MF5": 2
+  },
+  "evidence": {
+   "THEORY": 6,
+   "OPIN": 1,
+   "WAR": 13,
+   "SURV": 1,
+   "CUST": 1,
+   "PITCH": 1
+  },
+  "selling": {
+   "talk": 17,
+   "hybrid": 5,
+   "pitch": 1
+  }
+ },
+ "B": {
+  "n": 343,
+  "topics": {
+   "SKILL": 24,
+   "CTX": 63,
+   "CODE": 99,
+   "REL": 78,
+   "ORG": 64,
+   "LEARN": 24,
+   "SEC": 55,
+   "RUNTIME": 42,
+   "REG": 42,
+   "COST": 41,
+   "MM": 42,
+   "MODEL": 46,
+   "COM": 11,
+   "FUT": 40,
+   "EDGE": 13,
+   "FV": 8,
+   "FDE": 11,
+   "CULT": 12,
+   "GTM": 13,
+   "BENCH": 20
+  },
+  "primary": {
+   "SKILL": 17,
+   "CODE": 45,
+   "CTX": 37,
+   "SEC": 27,
+   "RUNTIME": 22,
+   "REL": 36,
+   "MM": 25,
+   "COM": 8,
+   "FUT": 8,
+   "ORG": 16,
+   "COST": 7,
+   "FV": 2,
+   "FDE": 10,
+   "MODEL": 26,
+   "GTM": 13,
+   "REG": 17,
+   "LEARN": 12,
+   "EDGE": 8,
+   "BENCH": 6,
+   "CULT": 1
+  },
+  "frames": {
+   "MF5": 43,
+   "MF4": 181,
+   "MF6": 13,
+   "MF3": 51,
+   "MF2": 38,
+   "MF7": 17
+  },
+  "evidence": {
+   "PITCH": 61,
+   "WAR": 48,
+   "THEORY": 78,
+   "CUST": 134,
+   "OPIN": 18,
+   "SURV": 4
+  },
+  "selling": {
+   "hybrid": 93,
+   "talk": 250
+  }
+ }
+}

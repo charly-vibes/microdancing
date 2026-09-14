@@ -1,0 +1,385 @@
+ A001|talk|vend|Return of the Theorem - Dr. Erik Meijer|Dr. Erik Meijer argues that the rise of AI coding agents demands a fundamental shift in how software actions are verified — not through trust, but through formal proof. Drawing on real-world incidents
+ A002|talk|inde|From Vibe Code to Fleet Mode: The Agentic Pivot Nobody’s Ready For - Steve Yegge|Steve Yegge argues that the software industry is on the verge of a fundamental shift from agentic coding to running entire businesses with fleets of autonomous agents — and almost no organization is r
+ A003|talk|vend|Architecting AI-Native Organizations: How to Redesign Work at Scale - Joe Beutler|Joe Beutler, Head of Solutions Engineering for Strategics at OpenAI, draws on firsthand experience inside OpenAI and across its largest enterprise customers to explain what structural changes actually
+ A004|talk|foun|Building an AI Native Engineering Org - Angie Jones|Nearly every enterprise company has a mandate to convert its existing engineering org into an AI native one. Buying the frontier models and tools is not enough. Everything about how we deliver softwar
+ A005|talk|ente|The Specialisation Trap - Annie Vella|For decades, organisations have been atomising the software engineering role into ever-narrower specialisations. Product owners took requirements, architects took design, quality engineers took testin
+ A006|talk|inde|Features Versus Futures - Kent Beck|Kent Beck challenges the software industry's instinct to chase feature after feature, arguing that every new feature burns optionality — what he calls "futures" — leaving systems increasingly rigid an
+ A007|talk|unkn|Lessons from Transforming Teams to AI Native Workflows - Tim Cochran|Most AI success stories are based on simple greenfield projects with few dependencies and fast feedback loops. That's not the world most enterprise developers live in. Brownfield applications are comp
+ A008|talk|vend|Big‑T Notation: Engineering for Token Efficiency in the Age of Enterprise AI - Dan Neff, Brian |Why Cost, Scale, and Architecture Matter More Than Model BrillianceAI is revolutionizing enterprise work, yet many orgs struggle with the complex economic factors underpinning it. As workloads intensi
+ A009|talk|vend|Modernizing Our Oldest, Scariest Code with AI - Edith Harbaugh & Zach Davis, LaunchDarkly|Edith Harbaugh, Co-Founder and Executive Chair at LaunchDarkly, and Zach Davis, Principal Engineer at LaunchDarkly, deliver a hot-off-the-presses experience report on using AI to rewrite the company's
+ A010|talk|?|Are We Ready for the AI Transformation? - Amy Willard, John Deere|Amy Willard, Director of Enterprise Core Platforms at John Deere, shares how a 180-year-old company with 73K+ employees, 76 factories, and 18K technologists is driving AI adoption at scale. Unlike pas
+ A011|talk|cons|Directing a Swarm of Agents for Fun and Profit - Adrian Cockcroft|Adrian Cockcroft, technology advisor and veteran of Netflix and AWS, shares hard-won lessons from directing teams of AI agents to build real software at speed. Drawing on a year of hands-on experiment
+ A012|rema|inve|Opening Remarks Day 1 - Gene Kim|Gene Kim argues that vibe coding will reshape technology organizations the way DevOps did — but at 100 times the scale and speed. Drawing on pair programming sessions with Steve Yegge, real-world expe
+ A013|talk|vend|From Analytics to Agentic Apps - Tisson Mathew|Tisson Mathew, Founder & CEO of Skypoint.ai, makes the case that analytics alone delivers no real business value — it just produces more dashboards. Having built a healthcare data platform serving ove
+ A014|talk|vend|What Handcrafted Servers Taught Us About Handcrafted Code - Charity Majors|Charity Majors draws a direct parallel between the era of handcrafted server pets and today's handcrafted code culture, arguing that the lessons of immutable infrastructure apply just as urgently to s
+ A015|talk|cons|Making Vibe Coding a Core Skill - Ben Grinnell, Tom Kilcommons|Newton is a 700-person consulting firm that contracts exclusively on client outcomes — if we don't deliver results, we don't get paid. Most of our people are operations specialists, not software engin
+ A016|talk|gove|GenAI at Sea for Naval Surface Forces - CDR Collin Fox|CDR Collin Fox, Chief Strategy Officer for Task Force Hopper at U.S. Naval Surface Forces, makes the case that the most consequential AI challenges facing the Navy are not technical but organizational
+ A017|pane|ente|Fireside Chat with Dr. Topo Pal|Dr. Tapabrata "Topo" Pal, VP of Architecture with over a decade in highly regulated financial services, speaks candidly about leading technology strategy in an era where he holds fewer certainties tha
+ A018|rema|inve|Closing Remarks (Day 2) - Gene Kim|Gene Kim closes out Day 2 of the Enterprise AI Summit Spring 2026 by reflecting on whether the two days delivered on three core goals: high learning, high network, and high impact. He shares how the e
+ A019|talk|cons|Enabling Everyone to be Builders with AI - Max Reele, Austen Bruhn|Max Reele, VP of Delivery at Rise8, and Austen Bruhn of Coder share how Rise8 designed and executed Ship Summit — a three-day hands-on AI enablement event in Park City, Utah, that brought together ove
+ A020|talk|ente|Edge of the Present: Pursuing AI’s Frontier in the Enterprise - Devlin McConnell|AI is quickly becoming a key pillar across many enterprises’ priorities. Here, we share how scaling inference-time compute can support product teams with the changing AI landscape, the advancements in
+ A021|talk|ente|Production › Prototype: How a Small Team Replaced a Core Platform in 90 Days - Dustin Warner|Dustin Warner, Director of Software Engineering at NRC Health, made a single governing bet: production over prototypes. When a third-party survey platform underpinning 30–40% of company revenue became
+ A022|talk|vend|Our Journey to Agentification - John Rauser|John Rauser, Senior Director of Software Engineering, Cisco Cloud Security, tackles a problem most AI adoption efforts miss: the barrier to widespread agentic tool use is psychological and cultural, n
+ A023|talk|vend|The Surplus Problem: What Happens When Vibe Coding Succeeds? - Ryan Martens, Melissa Reeve|Vibe coding is unlocking something your organization hasn't seen in years: margin. Suddenly, the backlog is clearing, the debt is shrinking, and the CFO is paying attention. That's exactly when it get
+ A024|talk|ente|In Pursuit of Good Vibes: I'm Not Sure Where We're Going, but I'm Happy We’re Going There Toget|Cat Swetel, GM & Senior Director of Engineering at Nubank, argues that effective AI adoption starts not with technology choices but with helping people hold multiple feelings simultaneously — exciteme
+ A025|rema|inve|Opening Remarks Day 2 - Gene Kim|Gene Kim reflects on the stark variance in AI productivity gains across organizations — from 20% improvements to 10X or more — and argues that the difference is not technical but organizational. Drawi
+ A026|rema|inve|Closing Remarks (Day 1) - Gene Kim|Gene Kim reflects on the seismic shift in software development as the cost of code production approaches zero and code can be conjured through conversation alone. He grounds this moment in a personal 
+ A027|talk|ente|Nothing. Matt Jones|Matt Jones, CEO of Sigma Defense, opens with a single-word answer he gave his private equity managing director when asked what his company was doing with AI: "Nothing." That honest starting point anch
+ B001|talk|vend|Agents Without Code: Skills, YAML, and Filesystems Replaced Python — Philipp Schmid, Google Dee|
+ B002|talk|vend|How We Solved Agent Building — Andrew Qu, Vercel|
+ B003|talk|vend|No Memory, No Harness: Why the Database Is the Last Line of Defense — Kay Malcolm, Oracle|
+ B004|talk|vend|We let an AI agent execute Bash and lived to talk about it — Sarah Sanders, PostHog|
+ B005|talk|vend|Every step you take, every call you make: the reliable agent stack — Giselle van Dongen, Restat|
+ B006|talk|ente|Loophole: Adversarial Agents To Stress Test Your Morality — Brendan Rappazzo, Morgan Stanley|
+ B007|talk|vend|Harness Engineering: Building the Production Cage for Powerful Domain Agents — Mike Chambers, A|
+ B008|talk|vend|Tokens Should Have Jobs — Katelyn Lesse & Angela Jiang, Anthropic|
+ B009|talk|vend|Building ambitious software — Jonathan Kelley, Dioxus Labs & Cognition|
+ B010|talk|inve|One Designer + AI. Hundreds of Deliverables. — Vincent Wendy, AI Engineer|
+ B011|talk|vend|Generative UI... in Python? — Jeremiah Lowin, Prefect|
+ B012|talk|vend|Training Taste — Thais Castello Branco, Taste Labs|
+*B013|talk|ente|Design at the Speed of Adjectives — Paul Bakaus, Renaissance Geek, Inc.|
+ B014|talk|vend|Mousepower: agents that can’t be measured, can’t be managed. — Maximillian Piras, Yutori|
+ B015|talk|vend|The Design-Code Roundtrip That Isn't — Jonathan Gordon, ReWeaver AI|
+ B016|talk|vend|The Spatial Harness: Bringing Agents to the Canvas — Max Drake, tldraw|
+ B017|talk|ente|ACP: The Universal Remote Control for AI Agents — Alex Hancock, Block|
+ B018|talk|ente|MCP Apps: Give the Model Data, Give the User a UI — Dustin Mihalik, Indeed|
+ B019|talk|vend|How long can your skills be before your agent forgets what you told it? — Laurie Voss, Arize AI|
+ B020|talk|vend|Your agents lack context: Here's how to fix "You're absolutely right!" — Brandon Waselnuk, Unbl|
+ B021|talk|vend|500 Skills, Zero Fine-Tuning: LinkedIn's Playbook for AI Agents — Ajay Prakash, LinkedIn|
+ B022|talk|cons|It’s Tokens All The Way Down: How RLMs are Different — Kevin Madura, AlixPartners|
+ B023|talk|vend|Build-Time vs. Run-Time: Why Dev Tools Fail in Production — Averi Kitsch & Prerna Kakkar, Googl|
+ B024|talk|vend|Deep dive on LLM Inference at Scale — Harshul Jain, Audible & Tanmay Sah, Independent AI Resear|
+ B025|talk|vend|Why AI Agents Need Million-Token Context — Thomas Wolf & Olive Song, MiniMax|
+ B026|talk|vend|From coding to Knowledge work agents — Karan Vaidya, Composio|
+ B027|talk|vend|Your company brain will leak secrets: how we stopped it for big banks — Tanmai Gopal, PromptQL|
+ B028|talk|vend|Agents' next frontier: agent-to-agent and network effects — Jean-Denis Greze, Town|
+ B029|talk|ente|Tethered: Our Agents Are Us — Shu Fang, Two Sigma|
+ B030|talk|vend|Everyone Gets A Software Company — Benjamin Guo, Zo Computer|
+ B031|talk|unkn|Beyond the Lethal Trifecta: Agentic Commerce on the Open Internet — David Levine, Kiduna Club|
+ B032|talk|ente|The End of the Static Screen: Architecting Intent-Driven UX — Gus Iwanaga, commercetools|
+ B033|talk|unkn|Agent Spending Without Controls — Rodrigo Coelho & Pranav Maheshwari, Edge & Node|
+ B034|talk|vend|x402 isn’t good (yet) — Jan Curn, Apify|
+ B035|talk|ente|Your Agent Just Authorized What?! — Jay Mok & Ben Coumes, Paypal|
+ B036|talk|vend|When AI Agents Pay and Sellers Monetize: Building x402 Apps on AWS — Anil Nadiminti, AWS|
+ B037|talk|vend|Why Your AI Agent Needs a Wallet: USDC and Nanopayments — Harshal Bhangale, Circle|
+ B038|talk|vend|Multimodal Collaborative Agents for Next-Gen Commerce — Nidhi Kaushik Vyas, Google DeepMind|
+ B039|talk|vend|Teaching agents to pay — Anna Spysz, Stripe|
+ B040|talk|vend|Tell the Robot What You Want — Sandhya Subramani, AWS|
+ B041|talk|vend|The Signal Layer: What to Build When Anything Can Be Built — Lena Hall, Akamai|
+ B042|talk|ente|Tribal Dungeons of Global Shipping: AI Agents at Global Scale — Dmitry Buykin, Maersk|
+*B043|talk|vend|Agentic Sites: Building Hyper Personalized Websites — Carlos Sanchez, Adobe|
+ B044|talk|vend|Agents Are Where Microservices Were in 2015 — Roberto Milev & Uday Kanagala, Navan|
+ B045|talk|vend|AI Agents Are Just Distributed Systems Now — Salman Munaf, TikTok|
+ B046|talk|vend|From Tokenmaxxing to Trusted Throughput — Mingsheng Hong, Ironclad|
+ B047|talk|vend|The Half Life of Agent Infrastructure — Ben Kus, Box|
+*B048|talk|ente|Which AI startups actually land enterprise contracts? — Brian Lewis, Millennium|
+ B049|talk|cons|AI-Native Organisations Run on Skills: How to Structure and Scale Them — Imad Touil, QuantumBla|
+ B050|talk|vend|Your Code Has Bugs. Lean4 Has Proofs: Formal Verification for Engineers — Varun Pant, AWS|
+ B051|talk|vend|How do you diffuse AI into the real world? — Varun Shenoy, Long Lake|
+ B052|talk|vend|How to Get Your Org to Adopt Coding Agents (Without Shipping Garbage) — Eyal Blum, Figma|
+ B053|talk|vend|From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS|
+ B054|talk|vend|How to avoid disaster when vibe-coding a billing engine — Andrew Garvin, Stripe|
+ B055|talk|vend|Productionizing LLM Gateways: Architecture, Tradeoffs and Hard Lessons — Kanish Manuja, Twilio|
+ B056|talk|ente|AI Evals for Cross-Functional Teams — Nachiket Paranjape & Swaroop Chitlur Haridas, DoorDash|
+ B057|talk|vend|Building uReview, Uber’s Multi-Agent Code Review Engine — Will Bond & Ameya Ketkar, Uber|
+ B058|talk|vend|Building the Engine While Flying the Plane: Launching the Figma MCP Server — Jesse Lumarie, Fig|
+ B059|talk|vend|How to Generate Mergeable Code with a Context Engine — Peter Werry, Unblocked|
+ B060|talk|vend|Can LLMs Write Fast Multi-GPU Kernels? — Simran Arora, Together AI|
+ B061|talk|vend|How Anthropic Builds: Lessons from Labs — Mike Krieger, Anthropic|
+ B062|talk|ente|The Agentic Commerce Stack — Ahnaf Prio, Best Buy|
+*B063|talk|vend|KV Cache-Aware Routing and P/D Disaggregation on Kubernetes — Yuchen Fama & Ashish Kamra, Red H|
+ B064|talk|vend|The Death of Developer Advocates — Stephanie Jarmak, Sourcegraph|
+ B065|talk|vend|How AI Agents Let GTM Teams Scale — Justin Joyce, Cloudflare|
+ B066|talk|vend|Knowledge Systems: The New GTM Stack — Jeffrey Wang, Exa|
+ B067|talk|vend|How We Got LLMs to Recommend Our Open Source Library — Christopher Burns, Inth|
+ B068|talk|vend|Building GTM AI Agents: Lessons from Deploying to 6,000 Users — Sait Izmit, Snowflake|
+ B069|talk|vend|The Building Blocks of GTM Orchestration — Arman Vaziri, Ramp|
+ B070|talk|vend|AI in GTM at Notion — Flora Liu|
+ B071|talk|vend|GTM Engineering: The Technical Bits — Everett Berry, Clay|
+ B072|talk|inve|Reverse-Engineering the AI Buyer — Aliisa Rosenthal, Acrew Capital|
+ B073|talk|vend|The Missing Layer in Agentic AI — Giedrius Šteimantas, Oxylabs|
+ B074|talk|vend|Einstein Arena: Harnessing Collective Agent Intelligence for Open Science — James Zou, Together|
+ B075|talk|vend|Building Agents Is Trivial Now, Context Is the Next Frontier — Jeff Ng, Unblocked|
+ B076|talk|vend|The Missing Layer: Design Taste in AI Agents — Hassan El Mghari, Together AI|
+ B077|talk|vend|Building Blocks for Uber’s Software Factory— Uday Kiran Medisetty & Adam Huda, Uber|
+ B078|talk|vend|Unlock Agent Autonomy: The Runtime for AI-Native Systems — Tushar Jain, Docker|
+ B079|talk|ente|Your Fine-Tuned Model Is Tech Debt: A 50x ROI House of Cards — Dan Bjornn, Lease End|
+ B080|talk|vend|How I automate my own job at Hugging Face using agents — Niels Rogge, Hugging Face|
+ B081|talk|inve|The Era of Compound Engineering — Kieran Klaassen, Every/Cora|
+ B082|talk|vend|IT Admin for the AI Workforce — Sarthak Aggarwal, Decawork|
+ B083|talk|vend|Prototyping as Leadership: How a CTO Ships with AI Agents — Hursh Agrawal, The Browser Company|
+ B084|talk|vend|The Last Human Code Review: Building Trust in AI-Generated Code — Itamar Friedman, Qodo|
+ B085|talk|vend|Your Agent Evolved. Your Evals Didn't. — Ameya Bhatawdekar, Braintrust|
+ B086|talk|?|Why Your Enterprise Tech Stack Isn’t Ready for AI Agents — Christopher Lovejoy & Saul Howard|
+ B087|talk|vend|Don’t be data poor — Anuj Iravane, Anterior|
+ B088|talk|ente|How to build an AI-Native Health Company — Dan Feng, Maven Clinic|
+ B089|talk|vend|Trading Desks to Clinical Trials: Parallels in Applied Vertical AI — Ayush Bhardwaj, Allos AI|
+ B090|talk|vend|Healthcare’s Agent Bytecode: X12 as the Harness for AI Agents — Vasant Kearney, Onlay|
+ B091|talk|vend|200 Million Patient Interactions Later — Vivek Muppalla, Hippocratic AI|
+ B092|talk|vend|AI is the World’s largest Relationship Therapist — Clay Cockrell & Tony Fabrikant, CoupleWork A|
+ B093|talk|vend|Shipping AI to a Million Patients Without an A/B Test — Jared Joselowitz, Ufonia|
+*B094|talk|ente|Guardrails First: Engineering Member-Facing Health AI — Rashi Agrawal, Hinge Health|
+ B095|talk|vend|From Ambient Documentation to Clinical Intelligence — Chaitanya Asawa, Abridge|
+ B096|talk|unkn|The Next Medium: Why Real-Time Interactive Video Changes Everything — Ahmed Ahres, Reactor|
+ B097|talk|vend|Infra behind Krea 2: How to train and serve at scale — Gabriel Jorge Menezes, Krea.ai|
+ B098|talk|vend|Generative Video at the Speed of Light — Keegan McCallum, uRun|
+ B099|talk|vend|Voice agents with Realtime Video — Sidney Primas, LemonSlice|
+ B100|talk|inve|While my guitar gently speaks — Todd Fisher, Philo Ventures|
+ B101|talk|vend|The Next Game Engine Won't Have a Manual — Arturo Nunez, Nereu|
+ B102|talk|vend|Building an Agentic Video Editor for Mass Consumer — Ekaterina Deyneka, Reelful|
+ B103|talk|vend|Training Krea 2: What matters in generative model training — Sangwu Lee, Krea.ai|
+ B104|talk|vend|How to Kill the Code Review — Ankit Jain, Aviator|
+ B105|talk|vend|Security Firewall for Agents — Ryan Dahl, Deno|
+ B106|talk|inve|Context Engineering in 2026 — Louis-François Bouchard, Omar Solano & Samridhi Vaid, Towards AI|
+ B107|talk|vend|How Web Data Infrastructure Powers the Next Generation of AI — Patricija Žemaitytė, Oxylabs|
+ B108|talk|vend|The Rise of CaaS: Context-as-a-Service for Agentic AI — Omer Primor, Bright Data|
+ B109|talk|vend|From RL to IRL — Gaurav Mishra, Amazon AGI Lab|
+ B110|talk|vend|The Dark Arts of Web Automation: Teaching Agents to Use Websites Like Humans — Corey Gallon, Re|
+ B111|talk|vend|Bringing agents onto the world wide web — Paul Klein IV, Browserbase|
+ B112|talk|vend|Computer Use at the Edge of the Statistical Precipice — Pierluca D'Oro, Programma Labs|
+ B113|talk|unkn|Computer-use models will agentify the web, not APIs — Dhruv Batra, Yutori|
+ B114|talk|vend|Improving Agents is a Data Mining Problem — Vivek Trivedy, LangChain|
+ B115|talk|inde|Lessons from Studying Every Memory System — Shlok Khemani, Independent|
+ B116|talk|inve|Designing Agents (The Floor Is the Frontier) — Ben Hylak, Raindrop|
+ B117|talk|vend|Bringing Continual Learning into Enterprises — Samuel Denton, Applied Compute|
+ B118|talk|vend|LLM Knowledge Bases: a practical guide — Ben Holmes, Warp|
+ B119|talk|vend|Adaption Labs: Gradient-Free Continual Learning — Sara Hooker, Adaption|
+ B120|talk|vend|Intelligence + Continual Learning = Expertise — Yu Su, NeoCognition|
+ B121|talk|vend|Scaling Compute on Context — Jack Morris, Engram|
+ B122|talk|vend|Memory Harnesses for Long-Running Research Agents — Stefania Druga, Sakana.ai|
+ B123|talk|vend|Scaling up Continual Learning — Ronak Malde, Trajectory|
+ B124|talk|acad|Beyond Static Intelligence: Evaluating Continual Learning — Parth Asawa, UC Berkeley|
+ B125|talk|vend|Anthropic's Applied AI team on the Evolution of Agentic Surfaces|
+ B126|talk|vend|Agents, codebases, and teams — Aditya Khandelwal, Amazon AGI Lab|
+ B127|talk|vend|Taking Reinforcement Learning Cross Datacenter — Nan Jiang, Modal|
+ B128|talk|vend|Codex, Behind the Harness — Dominik Kundel, OpenAI|
+ B129|talk|vend|Multiplayer agentic engineering — Arjun Singh, Superconductor|
+ B130|talk|vend|Guide, Verify, Solve — Anirban Chatterjee, Sonar|
+ B131|talk|unkn|Velocity Sickness: What Happens When Your Whole Team Gets 10x Faster — Matt Dailey, Ref.|
+ B132|talk|vend|Always-on agents run production without the on-call tax — Justin Smith, Resolve AI|
+ B133|talk|vend|Realtime multiplayer, automation, and you! — Idan Gazit, GitHub|
+ B134|talk|vend|Benchmarking Coding Agents on New vs Legacy Codebases — Denys Linkov, Wisedocs|
+*B135|talk|acad|Anthropic's CCA Exam as a Field-Guide for Agentic Engineering — Frank Coyle, UC Berkeley|
+ B136|talk|vend|The New Primitives: Building AI Native Software — Kwindla Kramer, Daily|
+ B137|talk|vend|Open Source Is Dead. Long Live Open Source. — Saoud Rizwan, Cline|
+ B138|talk|vend|Local Models: Trust, Control, Optimization — Carter Abdallah, NVIDIA|
+ B139|talk|vend|Compression at the Edge — NVIDIA, Unsloth, HuggingFace, Ollama|
+ B140|talk|vend|The State of Model Routing — NVIDIA, Cognition, OpenRouter|
+ B141|talk|vend|Gadgets: Personal app vibe coding that is actually safe — Kenton Varda, Cloudflare|
+ B142|talk|vend|Building Turbopuffer: Gergely Orosz (@pragmaticengineer ) × Simon Eskildsen (CEO)|
+*B143|talk|?|MCP Apps: Extending the Frontier — Ido Salomon & Liad Yosef|
+ B144|talk|vend|MCP Tasks (async): Why Aren't Any Agents Supporting Them? — Cornelia Davis, Temporal|
+ B145|talk|vend|When Will The Benchmaxxing Plague End? — Nick Heiner, Surge AI|
+ B146|talk|vend|Teaching AI to Find Real Vulnerabilities — Prof. David Brumley, Bugcrowd|
+ B147|talk|vend|Rethinking Environments for Long-Horizon Work — Rayan Garg, Theta Software|
+ B148|talk|vend|What's Next After RLHF? — Diogo Almeida, TypeSafe AI|
+ B149|talk|vend|Data Quality Is the Compute Multiplier — Ari Morcos, DatologyAI|
+ B150|talk|vend|Learning on the Job: The Future of Post-Training — Raymond Feng, Applied Compute|
+ B151|talk|vend|Data and Environment Curation for Post-Training LLMs — Mahesh Sathiamoorthy, Bespoke Labs|
+ B152|talk|vend|Scaling to Long Horizons — Ross Taylor & Chengxi Taylor, General Reasoning|
+ B153|talk|vend|Emulated: The Data for Fully Autonomous Software Engineers and Companies — Joseph Wang|
+ B154|talk|vend|The Base Model Is Dead — Varun Singh, Arcee AI|
+ B155|talk|vend|Verifiable Environments for AI in Biology — Kenny Workman, LatchBio|
+ B156|talk|vend|Ending AI Slop — Thais Castello Branco, Taste Labs|
+ B157|talk|vend|Benchmarks: The Good, the Bad, and the Ugly — Ali Khial, G2i|
+ B158|talk|vend|Reinforcement Learning without Verifiable Rewards — Will Brown, Prime Intellect|
+ B159|talk|vend|Agents at Scale: Inside MiniMax's Model and the Infrastructure Behind It — Dan Fu and Olive Son|
+ B160|talk|vend|fighting slop with slop — Vaibhav Gupta, Boundary|
+ B161|talk|vend|First Steps Toward Automated AI Research — Richard Socher, CEO Recursive AI|
+ B162|talk|vend|Your Finance Agent's Bottleneck Is You — Ramana Siddanth Emani, Auditoria AI|
+ B163|demo|ente|Build for the Memo, Not the Demo — Shawn Chan, China Resources Holdings|
+ B164|talk|cons|Let's integrate AI Agents in Event-Sourced Systems — Divakar Kumar, FlyersSoft|
+ B165|talk|?|Wearing the Agent: From Group Chats to Glasses — Sai Krishna Rallabandi|
+ B166|talk|ente|We Vetted 2000 AI Skills Before They Reached Developers — Lucas Palma, Nubank|
+ B167|talk|ente|How Kepler Built Verifiable AI for Financial Services — Vinoo Ganesh|
+ B168|talk|vend|Persona Engineering: A Field Guide to AI Synthetic Personas — Ishan Anand, InsightSciences.ai|
+ B169|talk|ente|Why Off-the-Shelf AI Doesn't Understand Money — Udi Menkes, Intuit|
+ B170|talk|ente|SimulationMaxxing: How we ship agents 20× faster — Aman Gupta (Nubank) + Shreya Rajpal (Snowglo|
+ B171|talk|vend|Skills are new features: Building Skill-Centric Harness — Yogendra Miraje, FactSet|
+ B172|talk|ente|Morgan Stanley's ALPHALAB: Multi-Agent Research Across Optimization Domains — Brendan Rappazzo|
+ B173|talk|vend|Your Agent Didn't Fail. Your Harness Did. — Vinoth Govindarajan, OpenAI|
+ B174|talk|vend|How Forward Deployed Engineering is done at Factory — Eno Reyes|
+ B175|talk|vend|AI tools for Forward Deployed Engineering — Vasuman Moza, Varick Agents|
+ B176|talk|vend|How Forward Deployed Engineering is done at Cognition — Jia Wu|
+ B177|talk|vend|How Forward Deployed Engineering is done at Ramp — Leo Mehr|
+ B178|talk|vend|The Dirty Secret of Forward Deployed Engineering — Natalie Meurer, Sierra|
+ B179|talk|vend|How Forward Deployed Engineering is done at Decagon — Sunny Rekhi|
+ B180|talk|ente|How Forward Deployed Engineering is done at Kepler — Vinoo Ganesh|
+ B181|talk|vend|Forward Deployed Engineering 101 — Kevin Bai, Anthropic, ex Palantir & Rippling Founding FDE|
+ B182|talk|vend|Serving 2 Million Models Without Melting: Scaling the Hugging Face Hub — Arek Borucki, Hugging |
+ B183|talk|ente|AI Agents for Performance: Ship Faster, Pay Less — Rajat Shah, Netflix|
+ B184|talk|vend|DeepSWE: A Contamination-Resistant Coding Benchmark — James Shi, Datacurve|
+ B185|talk|inde|State of Data — Sean Cai, Independent / State of Data|
+*B186|talk|vend|The Messy Reality of Scale: Synthetic Data and Pre-Training — Marah Abdin & Robert McHardy, poo|
+ B187|talk|ente|Evals-Driven Development for a Mental Health AI Coach — Akele Reed & Dave Revere, SonderMind|
+ B188|talk|vend|Loop Engineering from First Principles — Kyle Mistele, HumanLayer|
+ B189|talk|vend|Why Large? Tiny LMs & Agents on Edge/Robotics — Cormac Brick, Google|
+ B190|talk|vend|From Agent Traces to Agent Simulations — Rustem Feyzkhanov, Snorkel AI|
+ B191|talk|vend|Evaling Video Slop — Maor Bril, Character.ai|
+ B192|talk|vend|Building Closed-Loop Evals for a Multimodal Agent at Scale — Soumya Gupta & Jai Chopra, Uber|
+ B193|talk|vend|How Evals and Prompts Shape Agent Behavior — Preetika Bhateja & Daniel Bump, YouTube Ads|
+ B194|talk|vend|From Signal to PR: Anatomy of a Self-Improving Agent — Jason Lopatecki, Arize|
+ B195|talk|vend|The Future of Evals: From LLM as a Judge to Agent as a Judge — Aparna Dhinakaran, Arize AI|
+ B196|talk|foun|Everything Is a Rollout — Alex Shaw + Ryan Marten, Terminal-Bench, Harbor, Laude Institute|
+ B197|talk|vend|Full Workshop: Setting Yourself Up for Success —Jason Liu, OpenAI Codex|
+*B198|talk|vend|Vending-Bench: Long-Horizon Agent Evals — Lukas Petersson, Andon Labs|
+ B199|talk|vend|Training Frontier Models to Out-Think Hackers — Uri Rolls, Arithmetic & Thom Wolf, Hugging Face|
+ B200|talk|?|The Unreasonable Effectiveness of Separating the Task from the Model — Maxime Rivest & Isaac Mi|
+ B201|talk|vend|Notion's Token Town — Sarah Sachs, Notion|
+*B202|talk|vend|Harness Engineering is not Enough: Why Software Factories Fail — Dex Horthy, HumanLayer|
+ B203|talk|vend|Perception Agents — Antje Barth, Amazon AGI Lab|
+ B204|talk|vend|AI on Your Lakehouse: Context Comes in Shapes, Not Queries — Zach Blumenfeld, Neo4j|
+*B205|talk|cons|Why We Killed Our Multi-Agent Pipeline — Subbiah Sethuraman and Abhilash Asokan, ZS Associates|
+ B206|talk|vend|Citation Needed: Provenance for LLM-Built Knowledge Graphs — Daniel Chalef, Zep AI|
+ B207|talk|ente|Local Agentic Theory For Mobile Games — Shafik Quoraishee & Joanne Song, The New York Times|
+ B208|talk|vend|Video Has No Memory. Here's How We Built One. — James Le, TwelveLabs|
+*B209|talk|acad|Why Agentic Systems Need Ontologies — Frank Coyle, UC Berkeley|
+ B210|talk|ente|Learned Execution Graphs for Anomaly Detection & Drift in APIs — Ritvik Pandya, JP Morgan Chase|
+ B211|talk|vend|From Systems of Record to Systems of Context — Omri Bruchim & Tomer Ast, monday.com|
+ B212|talk|foun|Your Moat Is Your Data Model — Mike Phipps, Gates Foundation|
+ B213|talk|inve|Active Graph Agent Runtime (BabyAGI 4) — Yohei Nakajima, Untapped Capital|
+ B214|talk|vend|CrabRAG: Why Automated Assistants Need Graph Memory, Not More Tokens — Stephen Chin, Neo4j|
+ B215|talk|vend|Thinner Agents on a Smarter Substrate: The Ontology-based Semantic Layer — Emil Eifrem, Neo4j|
+ B216|talk|vend|Claude for Long-Horizon Tasks — Lance Martin, Anthropic|
+ B217|talk|vend|Full Workshop: Better Auth — Paola Estefania, Better Auth|
+ B218|talk|vend|Every Harness Will Become A Claw — Sam Bhagwat, Mastra|
+ B219|talk|vend|HTML Is All Agents Need — James Russo, HeyGen|
+ B220|talk|?|"The biggest challenge in your stack? Evals, Evals, Evals" - 2026 State of AI Engineering resul|
+ B221|talk|vend|Your agent architecture has a half-life of 6 months — Dan Farrelly, CTO, Inngest|
+ B222|talk|vend|The Desktop Frontier — Ahmad Osman, Osmantic|
+ B223|talk|vend|Through the AI Fog: The Architectural Decision Agentic Security Depends On — Manoj Nair, Snyk|
+ B224|talk|vend|AI’s Jurassic Park Period — Aaron Stanley, dbt Labs|
+ B225|talk|vend|It's 10pm. Do You Know Where Your Agents Are? — Kim Maida, Keycard|
+ B226|talk|vend|Privacy-Preserving Intelligence — Steve Korshakov, Bee (acq. Amazon)|
+ B227|talk|ente|We Gave an Agent Production Code Access and Then Tried to Sleep at Night — Moritz Johner, Form3|
+ B228|talk|vend|Your LLM Stack Is a 2008 Database With Better Marketing — Lovina Dmello, NVIDIA|
+ B229|talk|vend|Agentic Development Security — Ezra Tanzer, Snyk|
+ B230|talk|vend|Agentic Security: Permissions, Provenance, and the Agent Supply Chain — Steve Yegge, Gas Town|
+ B231|talk|vend|In the Land of AI Agents, the Verifiers Are King — Tariq Shaukat, Sonar|
+ B232|talk|vend|Why Your Agent Disagrees With Itself (And What To Do About It) - Diane Lin, Datadog|
+ B233|talk|vend|Don't Let the LLM Drive - Ornella Bahidika & Joel Allou, Microsoft|
+ B234|talk|vend|Your Voice Agent Doesn't Need a Frontier Model - Joel Allou & Ornella Bahidika, Microsoft|
+ B235|talk|ente|Enterprise Agents Have a Structure Problem - Ishita Daga, Tesla|
+ B236|talk|vend|When Agents Meet Physical Data: The Other Physics of Agent Harnesses - Dmitry Petrov, DataChain|
+ B237|talk|cons|Build the AI GTM Agent That Knows the Buyer - Dr. Sajjan Kanukolanu, Position2 (Position Square|
+ B238|talk|vend|Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon Len|
+ B239|talk|vend|Designing Voice Agents for Real Conversations - Chintan Agrawal & Daniel Wirjo, AWS|
+ B240|talk|vend|Skills are the New SDKs - Elvin Aghammadzada, DataRobot|
+ B241|talk|ente|Medic for Apache Spark - First Aid for Failing Jobs - Drasko Profirovic, Pinterest|
+ B242|talk|vend|Can Oncology Workflows Run Without Human Touch? - Anant Shankhdhar, Risa Labs|
+ B243|talk|vend|From Tokens to Cells: Foundation Models for Single-Cell Biology - Akram Baharlouei, Altos Labs|
+ B244|talk|vend|You Didn't Ship a Bug. You Just Wrote It for a Human. - Ravi Madabhushi, Scalekit|
+ B245|talk|vend|From Blind Spots to Merged PRs: Continuous Agentic Performance Optimization - May Walter, Hud|
+ B246|talk|ente|Build Evals That Actually Matter - Nick Ung & Akshay Sharma, Lyft|
+ B247|talk|vend|Autonomous Agents for Scientific Tasks - Sina Shahandeh, Radicait|
+ B248|talk|vend|A Practitioner's Guide to Graphs - Tim Ainge, Good Collective|
+ B249|talk|vend|The UX of AI: Making AI-Powered Apps Your Users Don't Hate - Kathryn Grayson Nanz, Progress Sof|
+ B250|talk|vend|Stop Burning Tokens: Why self-improvement needs domain expertise first - Annabell Schäfer, Lang|
+ B251|talk|vend|Stop Renting Your Cognitive Infrastructure - Thiyagarajan Maruthavanan, Kalmantic Labs|
+ B252|talk|vend|Content Is Code - Matt Palmer, Conductor|
+ B253|talk|vend|Agents Need Receipts, Not More Tool Calls - Armanas Povilionis, Alithea Bio|
+ B254|talk|vend|Your Agents Need a Save Button - Hamza Tahir, ZenML|
+ B255|talk|?|Agents Need Feature Flags - Sachin Gupta|
+ B256|talk|vend|Using LLMs to Secure Source Code — Eugene Yan, Anthropic|
+ B257|talk|inde|The Great Loops Debate — Dex Horthy, Geoff Huntley, Ian Livingstone, Greg Pstrucha, @insecure-a|
+ B258|talk|vend|Special Topics in Kernels, RL, Reward Hacking in Agents — Daniel Han, Unsloth|
+ B259|talk|vend|On AI and Knowledge — Pablo Castro, Distinguished Engineer & CVP for AI Knowledge, Microsoft|
+ B260|talk|vend|"Software engineering is not about writing code" — Benoit Schillings, Google DeepMind VP of Res|
+*B261|talk|inve|Every company should have a Brain — Garry Tan, Y Combinator|
+ B262|talk|?|Imagination Engineering: "Live in the future and then build what's missing."|
+ B263|talk|vend|How Autoresearch is changing ML research — Zhengyao Jiang, Weco|
+ B264|talk|vend|Computer-Use 2.0: Agents Just Got Multi-Cursor — Francesco Bonacci, Cua|
+ B265|talk|vend|Recursive Model Improvement — Lee Robinson, Cursor, SpaceXAI|
+ B266|talk|vend|Claude Fable, Claude Tag, and Anthropic's Culture — Cat Wu & Thariq Shihipar ft Simon Willison|
+ B267|talk|?|WTF Is the Context Layer? The Missing Infrastructure for Production Agents — Prukalpa Sankar|
+ B268|talk|vend|Don't Ship Skills Without Evals — Philipp Schmid, Google DeepMind|
+ B269|talk|vend|Forward Deployed Engineering at Cursor — Pauline Brunet|
+ B270|talk|?|"The engineer of the future is the person who is able to choose what is worth doing." — Addy Os|
+*B271|talk|inde|"I've never seen anything scarier than an LLM with tool calls." — Erik Meijer aka @HeadinTheBox|
+ B272|talk|cons|Stop Evaluating Models Like It's the 50s - Alejandro Vidal, Mindmakers|
+ B273|talk|vend|From fork() to Fleet: Designing an Agent Sandbox Cloud — Abhishek Bhardwaj, OpenAI|
+ B274|talk|vend|Modern Post-Training: A Deep Dive  — Will Brown, Prime Intellect|
+ B275|talk|vend|RLM: Recursive Language Models for Large Codebases - Shashi, Superagentic AI|
+ B276|talk|vend|The AI bugpocalypse is here. Now what? - Jack Cable, Corridor|
+ B277|talk|vend|Semantic Blindness: 500,000 Sensors Confused an LLM - Raahul Singh & Vanč Levstik, Phaidra|
+ B278|talk|vend|The Agentic Web and the Bazaar Era of AI - Ramesh Raskar, MIT Media Lab|
+ B279|talk|vend|A Song of Types and Agents - Roberto Stagi, Ratel|
+ B280|talk|ente|ReviewDebt: a practical framework for scoring every pull request — Sachin Gupta, Ebay|
+ B281|talk|vend|What Does Done Even Mean? Agents and Paperclip's Liveness Model - Dotta, Paperclip|
+ B282|talk|vend|Stop AI Agent Hallucinations: 5 Techniques + Production Patterns - Elizabeth Fuentes, AWS|
+ B283|talk|vend|The Factory That Dreams: 39 AI Agents, No Framework - Rushabh Doshi, Machinecraft|
+ B284|talk|ente|Chat and citations won't save your vertical AI - Atul Ramachandran, Filed Inc|
+ B285|talk|inde|State of the Union: Why Local, Why Now — NVIDIA, Osmantic, Roboflow, EXO Labs, @matthew_berman|
+ B286|talk|inve|Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD - Sumaiya Shrabony|
+ B287|talk|ente|Develop at Idea Velocity - Jeffrey Lee-Chan, Snapchat|
+ B288|talk|unkn|Design Patterns for AI Trust: Juries, Libraries, and Agent Tiers — Alex Bauer, Upside.tech|
+ B289|talk|vend|Understanding is the new bottleneck — Geoffrey Litt, Notion|
+ B290|talk|inve|Should AI Engineers Still Read Code in 2026? The Z/L Continuum — Alex Volkov, ThursdAI|
+ B291|talk|vend|The Golden Age of AI Engineering — Alexander Embiricos & Romain Huet & Peter Steinberger, OpenA|
+*B292|talk|inde|Everything we knew about software has changed — Theo Browne, @t3dotgg ​|
+*B293|talk|ente|I Run a Fleet of AI Agents Across Three Machines. Here's What Broke. - Kyle Jaejun Lee, KRAFTON|
+ B294|talk|ente|Your LLM Deception Monitor Is Broken. The Fix Is in the Training Data - Sachin Kumar, LexisNexi|
+*B295|talk|cons|GTM Is You - Victoria Melnikova, Evil Martians|
+ B296|talk|vend|Beyond the Harness: A Journey Towards Adaptative Engineering - Rajiv Chandegra, Annicha Labs|
+ B297|talk|vend|How we taught agents to use good retrieval - Hanna Lichtenberg, Mixedbread AI|
+ B298|talk|ente|What if the harness mattered more than the model? - Aditya Bhargava, Etsy|
+ B299|talk|ente|Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duolingo|
+ B300|talk|ente|Respect The Process - Andrew Dumit, Watershed Technology Inc.|
+ B301|talk|vend|The Pipeline Is Dead - Iris ten Teije, Sky Valley Ambient Computing|
+ B302|talk|ente|500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Automattic|
+ B303|talk|vend|SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale - Rishi Desai, Abundant AI|
+ B304|talk|vend|Field Guide to Fable — Thariq Shihipar, Anthropic|
+ B305|talk|vend|The Missing Layer After Launch - Raphael Kalandadze, Wandero AI|
+ B306|talk|vend|Continual Learning for AI Agents: From Failures to Durable Improvements - Soheil Feizi, RELAI|
+ B307|talk|ente|MCP Apps: Primitives, discovery, and the Future of Software - Pietro Zullo, Manufact, Inc|
+ B308|talk|vend|Your AI Product Will Fail Unless You Can Explain It - Veronica Hylak, Hey AI|
+ B309|talk|vend|The Prompt Is Still a Punch Card - Ted Johnson, JoinIn AI|
+*B310|talk|?|Building Great Agent Skills: The Missing Manual|
+ B311|talk|vend|Frontier results, on device - RL Nabors, Arize|
+ B312|talk|vend|The Future Is Domain-Specific Agents - Justin Schroeder, StandardAgents|
+ B313|talk|vend|You Can't Prompt the Room: The Last Skill AI Won't Replace - Balázs Horváth, VisualLabs|
+ B314|talk|vend|Deterministic Infra for Non-Deterministic AI Agents - Nishant Gupta, Meta Superintelligence Lab|
+ B315|talk|vend|The Agentic AI Engineer - Benedikt Sanftl, Mutagent|
+ B316|talk|vend|The Prompt is the Platform - Dominik Tornow, Resonate HQ|
+ B317|talk|?|Using RL Agent to Detect and Remediate ETL Pipeline Failures - Anna Marie Benzon|
+ B318|talk|vend|Your Agent Failed in Prod. Good Luck Reproducing It. - Tisha Chawla & Susheem Koul, Microsoft|
+ B319|talk|vend|Voice In, Visuals Out: The Agony and the Ecstasy - Allen Pike, Forestwalk Labs|
+ B320|talk|inde|AI-Driven Multi-Document Correlation for Financial Compliance - Varsha Shah, Independent|
+ B321|talk|ente|We Cut 94% of AI Coding Tokens With a Local Code Index - Rajkumar Sakthivel, Tesco|
+ B322|talk|vend|Your Agent Is Wasting Tokens and You Don't Know It - Erik Hanchett, AWS|
+ B323|talk|cons|OpenClaw in Your Hand: Building a Physical AI Terminal - Lech Kalinowski, Callstack|
+ B324|talk|ente|Bypassing the Multimodal Tax: Hybrid RAG, SQL RRF & UI Telemetry - Abed Matini, Ogilvy|
+ B325|talk|vend|AI System Design: From Idea to Production - Apoorva Joshi, MongoDB|
+ B326|talk|vend|When All Context Matters: Extended Cache Augmented Generation - Luis Romero-Sevilla, Orbis|
+ B327|talk|vend|Research to Reality: Bringing Frontier ML Research to Production - Vaidas Razgaitis, Higharc|
+*B328|talk|foun|Building an Autonomous Engineering Org - Angie Jones, Agentic AI Foundation|
+ B329|talk|vend|HTML is All You Need (for Agents to Make Graphics) - Amol Kapoor, Nori|
+ B330|talk|vend|Using Spec-Driven Development for Production Workflows - Erik Hanchett, AWS|
+ B331|talk|vend|User Signal Dies at the Retrieval Boundary - Sonam Pankaj, StarlightSearch|
+ B332|talk|vend|Structuring the Unstructured - Cedric Clyburn, Red Hat|
+ B333|talk|cons|Agents Building Agents - Alfonso Graziano, Nearform|
+ B334|talk|vend|The 100-Tool Agent Is a Trap - Sohail Shaikh & Ankush Rastogi, Prosodica|
+ B335|talk|cons|Stop Writing Tone Instructions. Layer Them. - Isadora Martin-Dye, Isadora & Co|
+ B336|talk|vend|Turn 10,994 Notes Into Memory - Paul Iusztin, Decoding AI & Louis-François Bouchard, Towards AI|
+ B337|talk|ente|Agents in Production: How OpenGov Built and Scaled OG Assist - Gabe De Mesa, OpenGov|
+ B338|talk|vend|A Genius With Amnesia - Victor Savkin, Nx|
+ B339|talk|vend|The Log Is The Agent - Ishaan Sehgal, Omnara|
+ B340|talk|vend|Recursive Coding Agents - Raymond Weitekamp, OpenProse|
+ B341|talk|vend|Production Evals For Agentic AI Systems - Nishant Gupta, Meta Superintelligence Labs|
+*B342|talk|foun|Build Systems, Not Code - Angie Jones, Agentic AI Foundation|
+ B343|talk|inde|The Miranda Hypothesis: How Hamilton Poisoned Persona Evals - Jacob E. Thomas, Results Gen|
+*B344|prom|inve|6 Things to Know about AIE World's Fair 2026|
+ B0??|talk|?||
+ B0??|talk|?||
+ B0??|talk|?||
+ B0??|talk|?||
+ B0??|talk|?||
+ B0??|talk|?||
+ B0??|talk|?||
+ B0??|talk|?||
+ B0??|talk|?||
+ B0??|talk|?||
+ B0??|talk|?||
+ B0??|talk|?||
+ B0??|talk|?||
+ B0??|talk|?||

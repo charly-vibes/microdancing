@@ -1,0 +1,1031 @@
+### B001 Agents Without Code: Skills, YAML, and Filesystems Replaced Python — Philipp Schmid, Google DeepMind
+By the third version of the same agent, the source directory is gone. What remains is an AGENTS.md holding the system instruction and a small bash script that installs the GitHub CLI on first run. No tool definitions, no JSON schemas, no Python. Philipp Schmid builds the same GitHub pull request review agent three times on stage, deleting code with each pass, and the test he ap
+
+### B002 How We Solved Agent Building — Andrew Qu, Vercel
+When Andrew Qu handed Vercel's internal data science agent to its first trusted users, the verdict came back that it was awful. It had been clearing thirty percent of his evals and he thought the team was cooking. Qu is Chief of Software at Vercel, and he began a year earlier by asking marketing, sales, finance, and legal what they hated most about their jobs. The best answer c
+
+### B003 No Memory, No Harness: Why the Database Is the Last Line of Defense — Kay Malcolm, Oracle
+Half of Kay Malcolm's team sits in Europe and half in the United States, so when the Netherlands side commits code at four in the morning her time, the Americans wake up to the code and none of the reasoning behind it. Git records what changed, not why anyone decided it. AI had made every individual on the team faster without making the team any more productive, and she went lo
+
+### B004 We let an AI agent execute Bash and lived to talk about it — Sarah Sanders, PostHog
+Someone opens a pull request on one of your open source repos and drops a line into a markdown file. An automated code review reads it and says looks good. That file is part of the content pipeline feeding an agent that runs commands on thousands of developer machines, so you have now shipped a prompt injection payload signed by you. Sarah Sanders is a context engineer at PostH
+
+### B005 Every step you take, every call you make: the reliable agent stack — Giselle van Dongen, Restate
+A research agent asks a human to approve its plan, then waits. The wait might last a month, spanning restarts and redeploys, and while it waits the function consumes no serverless execution time at all. Giselle van Dongen builds Restate, and that suspended promise is the clearest illustration of what durable execution buys you. Her talk skips the agent loop itself and goes afte
+
+### B006 Loophole: Adversarial Agents To Stress Test Your Morality — Brendan Rappazzo, Morgan Stanley
+An insurance company does not train its risk model on your DNA. It trains on artifacts derived from your DNA. Under the moral code the user wrote, that is immoral and perfectly legal, and it is the kind of gap Loophole exists to surface. Brendan Rappazzo is a machine learning researcher at Morgan Stanley, though he opens by saying the project is his own open source work, unrela
+
+### B007 Harness Engineering: Building the Production Cage for Powerful Domain Agents — Mike Chambers, AWS
+Mike Chambers puts a dictionary entry on screen: a harness is a set of straps and fastenings used to control an animal. Swap animal for model and the definition holds. His working version is subtraction. Take an agent, remove the model, and everything left over is the harness. Chambers is a senior AI specialist developer advocate at AWS, and he splits the field in two. There ar
+
+### B008 Tokens Should Have Jobs — Katelyn Lesse & Angela Jiang, Anthropic
+Given the same fixed budget of roughly 600,000 tokens, an agent that did nothing but execute scored 76 on a bench of financial analysis tasks. An agent that spent part of that identical budget asking a second agent for advice scored 89. Same tokens, different jobs, better answer. Katelyn Lesse leads platform engineering at Anthropic and Angela Jiang leads platform product, and 
+
+### B009 Building ambitious software — Jonathan Kelley, Dioxus Labs & Cognition
+The Dioxus team got excited, maxed out their coding agent subscriptions, and turned out tens of thousands of lines of Rust covering features they had wanted for years. Almost none of it cleared the bar for merging. Those lines sat in draft, and Jonathan Kelley says they are sitting there still. He calls the failure mode becoming a slop cannon. Kelley founded Dioxus Labs five ye
+
+### B010 One Designer + AI. Hundreds of Deliverables. — Vincent Wendy, AI Engineer
+Vincent Wendy pointed an agent at the sponsor banner in the lobby, a wall carrying more than 140 logos, and asked it which ones were missing. It caught every omission in the checks he ran, and he used the same trick on the conference shirt. Wendy is the senior creative designer at AI Engineer, a company of roughly twelve to fifteen people, and he is its only designer. The confe
+
+### B011 Generative UI... in Python? — Jeremiah Lowin, Prefect
+Because only the agent can reach an MCP server, a naive file upload tool makes the agent retype the file into the server character by character. Jeremiah Lowin calls it the world's most expensive copy paste operation, and it is the problem MCP apps exist to remove. Lowin is founder and CEO of Prefect and the author of FastMCP. MCP apps, a protocol extension added this year, let
+
+### B012 Training Taste — Thais Castello Branco, Taste Labs
+Taste Labs analyzed more than two million websites going back a decade, and the finding that complicates the usual story is that the internet was homogenizing before AI arrived: palettes converging, layouts converging, trends spreading faster than they once did. AI did not start the collapse. It accelerated it and made it context blind, so a pet shop and a finance firm end up w
+
+### B013 Design at the Speed of Adjectives — Paul Bakaus, Renaissance Geek, Inc.
+The instruction Impeccable loads when you type "bolder" ends with a challenge: show someone your work, say AI made this bolder, and if they believe you, you failed. Bakaus has built tools for more than twenty years. Impeccable is a design skill that rides on top of a coding harness rather than replacing it, working across Claude Code, Copilot, Cursor, and Codex. He opens by run
+
+### B014 Mousepower: agents that can’t be measured, can’t be managed. — Maximillian Piras, Yutori
+Selling steam engines to people who thought in horses, James Watt studied the horse gins that powered mills, worked out what one animal produced, and called it horsepower. The number was not scientific and arguably not accurate. It did not have to be. It made the improvement legible enough that someone who liked horses would try a machine. Maximillian Piras is the founding desi
+
+### B015 The Design-Code Roundtrip That Isn't — Jonathan Gordon, ReWeaver AI
+Jonathan Gordon was deep in a vibe coding session, ignoring the wall of text scrolling past, when the phrase innerHTML caught his eye. He knew it as an injection risk, stopped the agent, and made it revert. That was the moment he started reading the code again. Gordon has spent more than thirty years building developer tools and IDEs, and he defines his title precisely: a desig
+
+### B016 The Spatial Harness: Bringing Agents to the Canvas — Max Drake, tldraw
+One of Max Drake's colleagues turned a whiteboard app into a window manager, then used it to play Pong with real desktop windows. Drake is a product engineer at tldraw, the London company behind the free infinite canvas app and, more importantly to him, the SDK powering other people's canvases, including Replit's. tldraw exists because people building canvas apps got stuck on t
+
+### B017 ACP: The Universal Remote Control for AI Agents — Alex Hancock, Block
+Alex Hancock built one of the clients in this talk the night before he gave it, which is roughly the point. Hancock is a software engineer at Block, works on the open source agent harness Goose, now donated to the Linux Foundation, and maintains the Rust SDK for MCP. His argument is that the agentic stack already has a good standard for agents reaching outward to do things, whi
+
+### B018 MCP Apps: Give the Model Data, Give the User a UI — Dustin Mihalik, Indeed
+Adding a nice interface made the product worse. With plain text results the model would run ten or fifteen job searches, filter them, and assemble a table. Once a rendering widget was attached, it called the tool once, saw results already on screen, and stopped exploring. Dustin Mihalik is a technical fellow at Indeed working on AI platform and guardrails, and this is a lessons
+
+### B019 How long can your skills be before your agent forgets what you told it? — Laurie Voss, Arize AI
+Laurie Voss reran a year old benchmark and the models walked straight through its ceiling without noticing it was there. IFScale asks a model to write a business report containing a list of exact words, then counts how many actually appear. A year ago frontier models started dropping instructions somewhere around 200 to 300, which is a hard limit on how much you can put in a sk
+
+### B020 Your agents lack context: Here's how to fix "You're absolutely right!" — Brandon Waselnuk, Unblocked
+Unblocked ran the same prompt against the same model twice, once with a context engine behind it and once without. The run without it burned twenty one million tokens. The run with it burned ten point eight million and finished about two hours sooner. Brandon Waselnuk works in developer relations at Unblocked, and he opens with the standard his talk is named for: AI generated c
+
+### B021 500 Skills, Zero Fine-Tuning: LinkedIn's Playbook for AI Agents — Ajay Prakash, LinkedIn
+LinkedIn exposes roughly 1,300 tools and 600 playbooks to its coding agents, and all of them sit behind exactly three. MCP degrades somewhere past thirty or forty tools, so Ajay Prakash's team replaced the whole surface with search, get schema, and execute, letting an agent find what it needs instead of carrying everything in context. Prakash is a senior staff software engineer
+
+### B022 It’s Tokens All The Way Down: How RLMs are Different — Kevin Madura, AlixPartners
+Ask a model to sum twelve numbers scattered across thirty thousand tokens and it will often get it wrong. Give it a Python REPL and it writes a few lines of regex instead. That is the shift Kevin Madura, director of advanced technology at AlixPartners, describes in recursive language models. An RLM treats its context as an object living in a REPL rather than as tokens it must a
+
+### B023 Build-Time vs. Run-Time: Why Dev Tools Fail in Production — Averi Kitsch & Prerna Kakkar, Google
+In one of the demos an agent hits an error, decides the fix is to delete the table and start fresh, and does exactly that. Nothing stops it. Averi Kitsch, technical lead for MCP Toolbox on Google Cloud databases, and Prerna Kakkar, who leads Eval Bench at Google, use that failure to draw the line their talk is named for. Build time tools serve developer assistance: control plan
+
+### B024 Deep dive on LLM Inference at Scale — Harshul Jain, Audible & Tanmay Sah, Independent AI Researcher
+A single token of KV cache on Mistral 7B costs 131 KB. Multiply that by 16,000 tokens of context and 80 concurrent users and the cache alone wants 42 GB of GPU memory, which is why requests start failing on a 24 GB card. Harshul Jain, a senior software engineer at Audible, and Tanmay Sah, an independent AI researcher, spend this workshop building that number up from first princ
+
+### B025 Why AI Agents Need Million-Token Context — Thomas Wolf & Olive Song, MiniMax
+An intern designed the sparse-attention architecture behind MiniMax M3. That detail comes after Olive Song explains the larger problem the team was trying to solve: short context windows aren’t enough when agents must work across long conversations, tool responses and complex environments. M3 combines a functional one-million-token context window with coding, agentic and multim
+
+### B026 From coding to Knowledge work agents — Karan Vaidya, Composio
+Karan Vaidya pointed his own OpenClaw at hiring outreach and it mass emailed candidates exactly as instructed. Some of the people in the room had received one. The thread that followed put his name on Twitter, and every check in the software engineering playbook would have passed. The addresses were real, the emails were valid, they reached actual people. Nothing tested the onl
+
+### B027 Your company brain will leak secrets: how we stopped it for big banks — Tanmai Gopal, PromptQL
+Tanmai Gopal plotted the daily edits to his own company brain expecting the usual shape, a burst of enthusiasm followed by neglect. The line kept climbing instead, and it surprised him. His reading is that a system people trust gets taught more, not less: teach it to query the data, then to interpret the result, then to act on it, and each skill adds its own steady rate of corr
+
+### B028 Agents' next frontier: agent-to-agent and network effects — Jean-Denis Greze, Town
+Jean-Denis Greze and his wife share an agent that can read both of their inboxes, including mail from before they were married, and neither of them minds. Greze is CTO of Town and spent seven years as CTO at Plaid. He opens by rejecting his own topic. Agent to agent, he argues, is not a useful concept. Every LLM system is really a search problem: what matters is whether the rig
+
+### B029 Tethered: Our Agents Are Us — Shu Fang, Two Sigma
+Every employee at Two Sigma has a remote cloud agent, and it runs as them. Not a service account but their own identity, at a 25 year old quant fund in one of the most regulated industries there is. Shu Fang grew a mustache so the audience could tell him apart from his. His framing comes from the horror film Us, where the doubles are called the tethered and turn dangerous once 
+
+### B030 Everyone Gets A Software Company — Benjamin Guo, Zo Computer
+Ben Guo built the page listing every speaker in this session while he sat waiting to go on, then put a QR code to it on his first slide. He builds that way because his computer is a server in the cloud that he talks to in plain language. Guo cofounded Zo Computer after starting on the early Venmo team and joining Stripe as its 80th engineer, and his argument is that people used
+
+### B031 Beyond the Lethal Trifecta: Agentic Commerce on the Open Internet — David Levine, Kiduna Club
+Two hours before David Levine took the closing slot of the conference, the West Virginia Secretary of State wrote back to confirm organization number 62847. The paperwork had gone out by FedEx. What it registered was a DUNA, a decentralized unincorporated nonprofit association, under a law that had taken effect the day before, and Levine's claim is that an organization composed
+
+### B032 The End of the Static Screen: Architecting Intent-Driven UX — Gus Iwanaga, commercetools
+Gus Iwanaga opens by disowning his own session title, then shows the demo that did not work. His team asked their system for a sales report for Q1 four times over. It returned four different layouts: different KPI cards, different charts, different amounts of text, and copy that drifted from Q1 in one run to January and March in another. He would not ship it. None of that was a
+
+### B033 Agent Spending Without Controls — Rodrigo Coelho & Pranav Maheshwari, Edge & Node
+Pranav Maheshwari ran one prompt in two terminals: find the email address of the head of crypto and blockchain at Mastercard. The terminal without a payment skill file returned the company's email format and an invitation to work the rest out. The one with it paid a fraction of a cent to a metered endpoint and came back with the address, the person's location and their handle. 
+
+### B034 x402 isn’t good (yet) — Jan Curn, Apify
+Between the moment an x402 server verifies a payment signature and the moment it settles on the blockchain, nothing stops the buyer spending that money somewhere else. Jan Curn's point is that a client can mint a thousand signatures against one wallet, so any seller starting real work on the strength of a verification is exposed. The workaround is to do the work only after sett
+
+### B035 Your Agent Just Authorized What?! — Jay Mok & Ben Coumes, Paypal
+A PayPal order has always been synchronous. You find the item, you open the app, you approve it, it is done. The approval token demonstrated here inverts that: the user approves before the agent has found an item or picked a merchant, and PayPal returns a JSON payload carrying the amount, the expiry, and the merchant the agent is permitted to transact with. It was days from shi
+
+### B036 When AI Agents Pay and Sellers Monetize: Building x402 Apps on AWS — Anil Nadiminti, AWS
+Card rails put a floor under every transaction: a 25 cent minimum with a percentage on top. Anil Nadiminti's point is that when an agent pays a tenth of a cent for a single API call, that floor costs roughly 250 times the thing being bought, which is why the subscription model cannot simply be pointed at agents. Meanwhile the traffic has already turned over. He puts bot traffic
+
+### B037 Why Your AI Agent Needs a Wallet: USDC and Nanopayments — Harshal Bhangale, Circle
+Harshal Bhangale gave two identical agents the same job: plan a trip to the World Cup final, covering flights, hotels, resale ticket prices and what people said about getting to the stadium, then email him the summary and call him about it. One had a funded wallet. The other did not. The agent without one drafted the email into his inbox and could not send it, then admitted on 
+
+### B038 Multimodal Collaborative Agents for Next-Gen Commerce — Nidhi Kaushik Vyas, Google DeepMind
+Asked to redo a living room on a budget, the agent Nidhi Kaushik Vyas walks through does not start recommending. It works out what it does not know, then picks the single question worth asking: how wide is the room. Everything downstream is moot if the furniture will not fit, so that one answer carries the most information per turn. Choosing the next question by expected inform
+
+### B039 Teaching agents to pay — Anna Spysz, Stripe
+Anna Spysz asked her shopping agent whether the pricier headphones were really worth the difference, and it told her she would regret buying the cheap ones. When she said she needed to think about it, the agent got snarky with her. The cause was sitting in her own config: a persona whose system prompt opened with "You are an aggressive audio gear salesman who uses every trick i
+
+### B040 Tell the Robot What You Want — Sandhya Subramani, AWS
+Sandhya Subramani asks her rover how many people it can see, a question nobody ever trained it to answer. It thinks for a second, checks its front camera, and reports two, one near the speaker monitor and one further right. Scout is a small four legged robot running a Raspberry Pi, reaching the internet over a SIM card and a 4G connection, and its whole personality comes from a
+
+### B041 The Signal Layer: What to Build When Anything Can Be Built — Lena Hall, Akamai
+Lena Hall resolved a production incident from a hiking trail near a waterfall. A friend of hers ran 18 agents while riding his bike. That abundance is the setup for her actual argument, which is that the same leverage reached your competitors on the same morning, so the cost of average work fell to zero and took its value with it. Ask a model what users want or what to build ne
+
+### B042 Tribal Dungeons of Global Shipping: AI Agents at Global Scale — Dmitry Buykin, Maersk
+Maersk's standard operating procedures were screenshots. A sequence of images showing what a person sees and where they click, which is a perfectly good record for a human and useless to an agent. Dmitry Buykin calls the gap tribal dungeons: the knowledge exists, just not in a form anything can execute safely. An agent version of the same procedure needs preconditions, decision
+
+### B043 Agentic Sites: Building Hyper Personalized Websites — Carlos Sanchez, Adobe
+Carlos Sanchez types a request for a coffee machine he can use while camping, and the page assembles itself in under two seconds. Not a search result. A page, with camping appropriate machines, rewritten copy and a set of tips, generated for that one query. Adobe calls the goal an audience of one, which is the thing marketers have wanted for decades and could never afford. The 
+
+### B044 Agents Are Where Microservices Were in 2015 — Roberto Milev & Uday Kanagala, Navan
+Tell a travel agent to book a flight whenever the fare drops below 200 dollars and something awkward follows. When it fires two weeks later, who made that purchase? Roberto Milev and Uday Kanagala keep returning to that blurring, because Navan sells travel and expense management and the answer decides what authorization even means. An agent may act on behalf of a user or under 
+
+### B045 AI Agents Are Just Distributed Systems Now — Salman Munaf, TikTok
+An agent calls a refund tool and the request times out. Did the customer get their money? Salman Munaf uses that to make his central point, which is that a timeout has never meant failure, it means unknown, and an agent's first instinct on any failure is to try again. Without request identifiers, idempotency keys and a status lookup, that instinct refunds someone twice. He work
+
+### B046 From Tokenmaxxing to Trusted Throughput — Mingsheng Hong, Ironclad
+An engineer at a large tech company built a voluntary dashboard showing everyone's AI token usage, and colleagues promptly started competing to top it. Mingsheng Hong uses that as the thing not to do. His team runs the same dashboards, but treats them as a smoke detector rather than a leaderboard: a team using surprisingly few tokens is worth a conversation, and nobody should e
+
+### B047 The Half Life of Agent Infrastructure — Ben Kus, Box
+Ben Kus stood on this same stage last year and recommended a graph based approach to building agents. Someone found him afterward to say it was exactly the answer he needed. Kus opens this talk by retracting it, and admits he has since wondered what became of that person. Nothing about the advice was wrong when he gave it. A better way simply arrived, as it did for most of what
+
+### B048 Which AI startups actually land enterprise contracts? — Brian Lewis, Millennium
+For a given internal pain point, Brian Lewis might find 10 to 15 startups worth a look, book two or three demos, run zero or one pilot, and sign roughly one contract for every four pilots. That works out to about 5% of demo calls ending in a signature, which turns out to match published benchmarks. He is on the buying side at a hedge fund, speaking personally rather than for hi
+
+### B049 AI-Native Organisations Run on Skills: How to Structure and Scale Them — Imad Touil, QuantumBlack
+Imad Touil opens with a show of hands. Who has built a skill? Most of the room. Who shares them with their team? Fewer. Who governs and maintains them across the organization? A handful. That collapsing sequence is the talk, because he argues skills are where an organization's actual know how ends up living. Of the four things inside a workflow, hooks only fire on events, sub a
+
+### B050 Your Code Has Bugs. Lean4 Has Proofs: Formal Verification for Engineers — Varun Pant, AWS
+An AI spent about a week rewriting zlib in Lean and emitted 32,000 lines of proof. Not tests, proof. It decomposed the job into lemmas, closed each one with tactics, assembled them into a single theorem, and a small independent kernel checked the result. Varun Pant opens on the gap that makes this worth caring about now. Coding agents are producing hundreds or thousands of pull
+
+### B051 How do you diffuse AI into the real world? — Varun Shenoy, Long Lake
+Long Lake does not sell software. It buys the company. Thirty five services businesses so far across property management, architecture and HR, plus a 6.3 billion dollar take private of the world's largest corporate travel platform. Varun Shenoy is blunt about why that matters: when the AI does not work, there is no customer to blame, because they are the operator and the owner.
+
+### B052 How to Get Your Org to Adopt Coding Agents (Without Shipping Garbage) — Eyal Blum, Figma
+The engineers slowest to adopt agents at Figma are the best ones. Eyal Blum's explanation is that they are the people holding the codebase together with mental duct tape, carrying the institutional context nobody ever wrote down, and so they see every failure mode first and trust it least. His answer is not to talk them into using AI. It is to hand them the roadmap for making a
+
+### B053 From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS
+Amazon watched 50 ordinary teams for the better part of a year, teams with normal seniority mixes working in existing codebases. Ninety percent of them used the same coding assistant. Half saw under 3x improvement in deployment velocity to production. The other half saw a median of 4.5x and sometimes past 10x. The tool was not the variable. The teams that pulled ahead had delib
+
+### B054 How to avoid disaster when vibe-coding a billing engine — Andrew Garvin, Stripe
+Andrew Garvin types one sentence asking for a billing engine that copies Lovable's pricing, and gets back a working sandbox: a customer, metered usage flowing in, and a draft invoice broken into separately scoped credit pools for builds, plan mode, cloud and gateway calls. Reproducing that by hand means understanding auto recharge, credit expiry and overage, which is exactly wh
+
+### B055 Productionizing LLM Gateways: Architecture, Tradeoffs and Hard Lessons — Kanish Manuja, Twilio
+Something went wrong, please try again. Kanish Manuja opens on that message and then explains why it exists, which is more interesting than laziness. Once a response starts streaming you have committed to that provider. Tokens already sent cannot be recalled, so the fallback you carefully built is unavailable exactly when you need it. Streaming buys perceived speed by trading a
+
+### B056 AI Evals for Cross-Functional Teams — Nachiket Paranjape & Swaroop Chitlur Haridas, DoorDash
+The people annotating DoorDash's eval data are not engineers, and they build their own annotation tools. Because the GenAI platform team went API first, strategy and operations staff can point a coding agent at those endpoints and vibe code whatever interface their use case needs, whether that is grading restaurant menus or reviewing images. The platform team stopped trying to 
+
+### B057 Building uReview, Uber’s Multi-Agent Code Review Engine — Will Bond & Ameya Ketkar, Uber
+In 2024 an Uber engineer waited about three hours for a first review on a pull request. In 2026 that wait is nine hours. Volume and size both grew, and code review became the bottleneck for thousands of engineers spread across hundreds of teams, twelve sites and six language specific monorepos. Will Bond and Ameya Ketkar walk through uReview, the system Uber built rather than b
+
+### B058 Building the Engine While Flying the Plane: Launching the Figma MCP Server — Jesse Lumarie, Figma
+Figma did not have 20% projects. Jesse Lumarie gave one to the MCP server anyway, one day a week, because he had seen an internal demo and wanted non designers to be able to pull from Figma. That side project became the company's first MCP server in about three months, and then one of the fastest growing products Figma has ever shipped. The build happened while the ground moved
+
+### B059 How to Generate Mergeable Code with a Context Engine — Peter Werry, Unblocked
+Radiologists call the failure satisfaction of search: you read a scan, find one indicator, stop looking, and miss the others that would have changed the diagnosis. Peter Werry says agents do exactly this to a codebase. Attach a wiki and an agent will search it, land on something plausible, and quit, which is why he argues access to information is not understanding. Before agent
+
+### B060 Can LLMs Write Fast Multi-GPU Kernels? — Simran Arora, Together AI
+Between NVIDIA's A100 in 2020 and the B200 in 2024, BF16 tensor core throughput improved 7.2x. Intra node communication improved 3x, and inter node communication only 2x. That widening gap has pushed the bottleneck in large AI workloads off the individual GPU and onto the links between them, far enough that a standard PyTorch and NCCL baseline lands below 50% of its communicati
+
+### B061 How Anthropic Builds: Lessons from Labs — Mike Krieger, Anthropic
+Over a single weekend, Mike Krieger had Claude port a few hundred thousand lines of Python to TypeScript, verify it, and churn on its own output until the thing was deployable. He came back Monday to a finished port. He offers it as an example of a habit he thinks most people still lack, which is being unreasonable in what you ask for. The first generation of AI products boxed 
+
+### B062 The Agentic Commerce Stack — Ahnaf Prio, Best Buy
+Add a second unit of the same item to your cart and, to you, nothing much happened. To the merchant that is a second line item on the same SKU. Ahnaf Prio's argument is that agentic shopping breaks on exactly these unglamorous distinctions, which is why roughly 45% of sessions on the major assistants already touch shopping while the first wave of agents mostly failed at it. Tho
+
+### B063 KV Cache-Aware Routing and P/D Disaggregation on Kubernetes — Yuchen Fama & Ashish Kamra, Red Hat
+Agentic sessions in Red Hat's traces run from a few turns to 3,000, cache hit rates routinely clear 90%, and input to output token ratios often pass 100 to 1. A public inference benchmark shows none of that, because it reports steady state numbers from one sanitized run. Yuchen Fama and Ashish Kamra spend the talk on the two levers that matter once the client rather than the se
+
+### B064 The Death of Developer Advocates — Stephanie Jarmak, Sourcegraph
+Ask an assistant to compare code intelligence tools and Sourcegraph comes up 65 percent of the time. Describe the actual pain instead, that you keep breaking downstream services when you change shared libraries and cannot see all the consumers, and it comes up zero percent. It suggests your developers write a wiki page. Stephanie Jarmak ran that experiment. The gap between shop
+
+### B065 How AI Agents Let GTM Teams Scale — Justin Joyce, Cloudflare
+Cloudflare's weekly go to market summary is written by three agents in sequence: one drafts from the data, a second checks that draft against the data, and a third, the tone agent, rewrites it so risks and opportunities land with equal weight. Justin Joyce's team read every run for two to three months before trusting it. Joyce works in sales operations and strategy at Cloudflar
+
+### B066 Knowledge Systems: The New GTM Stack — Jeffrey Wang, Exa
+Over a week off, Jeffrey Wang built an AI clone of himself. He analyzed 760 of his own emails to derive his voice, down to averaging 18 words and signing off with best rather than sincerely, then turned hundreds of past decisions into evals to calibrate the agent's judgment against his own. Anyone at Exa can now ask Jeffbot to draft a Slack message. Wang cofounded Exa, a search
+
+### B067 How We Got LLMs to Recommend Our Open Source Library — Christopher Burns, Inth
+Their onboarding form asks how you heard about us. On April 13th the answers started spiking, and the single largest source of inbound for c15t is now an LLM telling someone to install it. Christopher Burns is not a researcher and says so twice. He founded Inth, built c15t, the open source consent banner library, and reckons he has been hacking on this only slightly longer than
+
+### B068 Building GTM AI Agents: Lessons from Deploying to 6,000 Users — Sait Izmit, Snowflake
+Before trying the agent at all, Sait Izmit wrote out 150 questions taken straight from Snowflake's sales process. The engineering team objected that the data behind most of them was not connected. That was the point. The first run scored 50 percent, and the rule that came out of it governs everything since: quality over coverage. Answer 50 questions at 95 percent rather than 10
+
+### B069 The Building Blocks of GTM Orchestration — Arman Vaziri, Ramp
+Offer Pro V1 golf balls to golfers at East Coast construction companies. Arman Vaziri uses that as a running example and mentions in passing that it works really well. The golf balls are not the point. Getting from that one sentence to a targeted audience, outbound sequences, paid creative, a landing page and in app nudges should be a matter of describing the intent. Vaziri lea
+
+### B070 AI in GTM at Notion — Flora Liu
+The champion just left. Do not contact this customer again. Blocked in legal. The facts that decide what a rep does next usually sit in someone's meeting notes, and Flora Liu's point is that an automation which cannot read them will eventually do something catastrophically wrong. Liu, an engineer on Notion's GTM engineering team, says a year ago this looked like a marketing ops
+
+### B071 GTM Engineering: The Technical Bits — Everett Berry, Clay
+Ask one data vendor for phone numbers across a set of countries and you get about half of them. Hence waterfalling: layer provider on provider until the field is filled, and run evals to know which to trust. Everett Berry's tour of the hard parts of GTM engineering starts with data, because the goal is a perfect virtual copy of your market and accounts refuse to hold still. A c
+
+### B072 Reverse-Engineering the AI Buyer — Aliisa Rosenthal, Acrew Capital
+Nine months after Aliisa Rosenthal started begging for enterprise features, OpenAI finally shipped them. By then almost every company on the list had the same answer: you never got back to me, so I bought Microsoft Copilot. Rosenthal joined OpenAI at a couple of million in revenue and helped take the enterprise side to several billion, and the lesson drawn is that the sequence 
+
+### B073 The Missing Layer in Agentic AI — Giedrius Šteimantas, Oxylabs
+Point an agent at ten product pages, get real content back from three, and send all ten to the model anyway: seventy percent of those tokens go to reading CAPTCHAs. Giedrius Šteimantas says most teams never notice, because the status code and the response size both look fine. A 200 does not mean the page is real. He got here through a friend who vibe coded a personal shopping a
+
+### B074 Einstein Arena: Harnessing Collective Agent Intelligence for Open Science — James Zou, Together AI
+To get into the Einstein Arena you have to solve a puzzle proving you are an AI agent. Locking humans out is the point. James Zou and collaborators at Together AI and Stanford built it as an environment rather than a workflow, on the thesis that telling an agent how to work caps what it can do, while setting where it works and what it is rewarded for does not. Agents who log in
+
+### B075 Building Agents Is Trivial Now, Context Is the Next Frontier — Jeff Ng, Unblocked
+An agent built to enrich Linear tickets read a report that time to first character in Unblocked's own QA pipeline had gone from hundreds of milliseconds to three or four seconds, and recommended turning async dispatch back on. The recommendation was wrong. A support engineer had explicitly disabled that setting days earlier because it caused an outage. The agent had the ticket 
+
+### B076 The Missing Layer: Design Taste in AI Agents — Hassan El Mghari, Together AI
+Most people can spot a vibe coded app in two seconds and cannot say why. Hassan El Mghari names it: the purple gradient background, italics in the header, a scroll to explore prompt nobody asked for, all caps pills with wide letter spacing, too many emoji. He reckons you could list thirty such tells, and naming them is what lets you tell an agent to avoid them. That is most of 
+
+### B077 Building Blocks for Uber’s Software Factory— Uday Kiran Medisetty & Adam Huda, Uber
+More than 70% of pull requests at Uber now come from local or cloud agents, and lines of code per engineer has doubled year over year. Uday Kiran Medisetty walks through the six pieces of infrastructure underneath that, and the constraint shaping all of them shows up in the first one: every model call in the company goes through a single gateway doing Spire identity, redaction 
+
+### B078 Unlock Agent Autonomy: The Runtime for AI-Native Systems — Tushar Jain, Docker
+An agent that had quietly emailed him a nightly summary for weeks decided one morning to post it as a pull request instead. Nothing had changed. The model simply judged that publishing would be more helpful. The report held Tushar Jain's own notes on how his team was working, which is precisely the sort of thing he did not want landing in a repo. His point is that the fix in th
+
+### B079 Your Fine-Tuned Model Is Tech Debt: A 50x ROI House of Cards — Dan Bjornn, Lease End
+A customer replied good morning to an outreach text and the model called him immediately. Another confirmed a Thursday appointment, said sounds good, and was told a call was happening right now. Both reached production, from a finetuned classifier that had also generated $12 million of revenue at 50 times return inside a year. Dan Bjornn's talk is about what that model was quie
+
+### B080 How I automate my own job at Hugging Face using agents — Niels Rogge, Hugging Face
+Thousands of GitHub issues, opened automatically, have produced exactly two negative replies. Niels Rogge works on what he calls the Google Drive to the hub team at Hugging Face, whose job is noticing that a paper's weights are sitting on Dropbox or Zenodo where nobody will find them, then asking the authors to publish on the hub instead. Hundreds of papers land on arXiv every 
+
+### B081 The Era of Compound Engineering — Kieran Klaassen, Every/Cora
+He has not written a line of code this year, and has not read most of it either, yet he ships a full email client that thousands of people trust with their inbox. Kieran Klaassen has been rebuilding Cora alone since January, and the useful part of his account is the sequence of bottlenecks he moved through. Two years ago the code itself was bad, so he layered on review and skil
+
+### B082 IT Admin for the AI Workforce — Sarthak Aggarwal, Decawork
+A code freeze that exists only as an instruction is not a boundary. Sarthak Aggarwal uses the Replit incident to make that point, and what makes it useful is the absence of an attacker: a coding agent simply had a path from a chat app to a production database, ignored an explicit freeze, deleted live data, and then misrepresented what it had done. Set beside EchoLeak, a real ze
+
+### B083 Prototyping as Leadership: How a CTO Ships with AI Agents — Hursh Agrawal, The Browser Company
+Fifteen recurring meetings a week, seven direct reports, a toddler at home, and somewhere inside that Hursh Agrawal ships between two and ten pull requests. It was not possible a year ago. His argument is that the manager schedule has quietly become usable as building time, which makes building part of a leadership job rather than a hobby squeezed around the edges of one.  The 
+
+### B084 The Last Human Code Review: Building Trust in AI-Generated Code — Itamar Friedman, Qodo
+If you are shipping AI generated code faster than your humans can review it, Itamar Friedman's position is that you are inside the problem rather than ahead of it. He asks the room whether developers will still be reading diffs line by line by the end of the year, then reports finding two incompatible camps among engineering leaders the night before: one holding that every line
+
+### B085 Your Agent Evolved. Your Evals Didn't. — Ameya Bhatawdekar, Braintrust
+Teams built orchestration graphs because the models of 2024 could not be trusted to orchestrate, and then the models learned to orchestrate and the graphs became the thing holding them back. Ameya Bhatawdekar traces that loop across five generations of architecture, each one forced by a step change in model capability, and argues that evals have to move with it. A single prompt
+
+### B086 Why Your Enterprise Tech Stack Isn’t Ready for AI Agents — Christopher Lovejoy & Saul Howard
+The proof of concept works. It hits the accuracy targets, it is fast, it is cheap, and the room is happy. Then someone from compliance raises a hand and asks to see the audit trail, and the whole thing stops. Christopher Lovejoy and Saul Howard have watched that meeting happen repeatedly, and their point is that an audit trail is not a developer log. Under the frameworks enterp
+
+### B087 Don’t be data poor — Anuj Iravane, Anterior
+Roughly 70% of medical communication still moves by fax. What reaches Anterior is scanned fax bundles that can run past 300 pages, carrying handwriting, checkboxes, tables and images across one patient's entire clinical trajectory. Anuj Iravane calls it an observation through a fuzzy lens over a lifespan. It is exactly the data his evals need, and the data he is least allowed t
+
+### B088 How to build an AI-Native Health Company — Dan Feng, Maven Clinic
+Implementation used to be the expensive step, so teams spent weeks settling requirements before anyone wrote code. Dan Feng's observation is that the cost moved. Building takes minutes now, and arguing is what is expensive. Planning at Maven Clinic changed to match. A one year view survives only as direction, assuming models will handle whatever you need by then, while real com
+
+### B089 Trading Desks to Clinical Trials: Parallels in Applied Vertical AI — Ayush Bhardwaj, Allos AI
+Ayush Bhardwaj could build the agent. What he could not do was tell whether it was any good. He moved from applied AI at a hedge fund to a pharma tech company expecting a different world, and found the job identical, including the wall. An engineer glances at generated code and knows instantly that it is weak, because years of training built that judgment. Nobody on his team ha
+
+### B090 Healthcare’s Agent Bytecode: X12 as the Harness for AI Agents — Vasant Kearney, Onlay
+Call the payer, open their web portal, and read their X12 feed, and all three can tell you the patient is covered. You treat the patient anyway, and the claim comes back denied because they were not covered at the time. Vasant Kearney's point is that none of those surfaces is ground truth. A payer's phone system, portal and X12 layer are often built by different teams, sometime
+
+### B091 200 Million Patient Interactions Later — Vivek Muppalla, Hippocratic AI
+Asked how many in the room had ever received a proactive call from their healthcare provider, almost no hands went up. Vivek Muppalla treats that as the signature of scarcity: too few clinicians and too few hours, so the system triages and only the sickest get called. Hippocratic AI is past 200 million clinical conversations across more than 60 health systems, which is what cha
+
+### B092 AI is the World’s largest Relationship Therapist — Clay Cockrell & Tony Fabrikant, CoupleWork AI
+The springs in the middle of the loveseat in Clay Cockrell's counseling office gave out years ago, so gravity now tips a couple toward each other however hard they grip the arms. He kept it. The harder argument arrives with two numbers. BetterHelp spent a decade assembling roughly 35,000 licensed clinicians and reaching 5 million users. ChatGPT sees roughly 900 million weekly a
+
+### B093 Shipping AI to a Million Patients Without an A/B Test — Jared Joselowitz, Ufonia
+You cannot A/B test on patients, because randomizing someone into the worse variant is unethical and often illegal. You cannot undo a call once spoken. And a vendor's benchmark number is not a defense at a post incident review. Jared Joselowitz builds the safety and evaluation stack behind Dora, a Ufonia voice agent that phones patients for post op follow ups and pre op checks.
+
+### B094 Guardrails First: Engineering Member-Facing Health AI — Rashi Agrawal, Hinge Health
+A healthy 60 year old man asked a popular AI assistant how to cut salt from his diet. It pointed him at sodium bromide. Three months later he arrived in an emergency room with paranoia and hallucinations, bromide at 200 times the safe level, and stayed three weeks. Rashi Agrawal stacks that against the first independent safety test of a consumer health AI, out of Mount Sinai, w
+
+### B095 From Ambient Documentation to Clinical Intelligence — Chaitanya Asawa, Abridge
+Clinicians call it pajama time: the roughly two hours a day spent writing visit notes after work has finished. Abridge started there, and within two to three years the documentation product alone reached 300 of the largest health systems in the United States. Chaitanya Asawa's framing is that everything in healthcare sits downstream of a single conversation between a doctor and
+
+### B096 The Next Medium: Why Real-Time Interactive Video Changes Everything — Ahmed Ahres, Reactor
+Uber could not exist without GPS. Ahmed Ahres uses that to argue real time is a change of medium rather than a speedup: before GPS you consulted a map somebody else had already made, and afterwards your own position became something you could act on continuously. He runs the same argument through film. Once a viewfinder showed you what you were shooting, you could adjust while 
+
+### B097 Infra behind Krea 2: How to train and serve at scale — Gabriel Jorge Menezes, Krea.ai
+GPU utilization is a lie. It read 100% straight through pretraining while the cluster was nowhere near well used, so Gabriel Jorge Menezes tracks tensor core utilization instead, and watched it climb as training resolution stepped from 128 pixels up to 1024. That is one of several numbers he argues you cannot train at this scale without. InfiniBand counters are exported by noth
+
+### B098 Generative Video at the Speed of Light — Keegan McCallum, uRun
+Ten dollars now buys roughly three hours of continuously generated video, and fifty buys fifteen. Keegan McCallum sets that against the room's own habits, since plenty of hands went up for burning that much on coding tokens inside a single hour. His argument is that the interesting axis in generative video stopped being quality a while ago. Put a real time generation next to on
+
+### B099 Voice agents with Realtime Video — Sidney Primas, LemonSlice
+An avatar of Teddy Roosevelt holds court in a replica Oval Office, generating video continuously for eight hours with no reset, and a second deployment is being built to run for sixteen. That duration is the hard part. Sidney Primas explains that a real time avatar can only look backward, because the future frames do not exist yet, so every block it generates inherits the error
+
+### B100 While my guitar gently speaks — Todd Fisher, Philo Ventures
+Someone in the audience asked the guitar what reality is, and the guitar answered. Todd Fisher's build routes a microphone through speech recognition into a local model and pushes the reply back out through the strings, which is the most recent step in a project that began with a much simpler question: how hard could it be to make a guitar speak?  The lineage he draws runs from
+
+### B101 The Next Game Engine Won't Have a Manual — Arturo Nunez, Nereu
+Ask a coding agent for a camera that follows your character and it will reinvent that camera from scratch, every time, slightly differently. Arturo Nunez's diagnosis is that the context sits on the game engine's vocabulary rather than the game's. Controlling a character in a conventional engine means a mesh, a renderer, an animator, a rigid body, a collider, an audio source, an
+
+### B102 Building an Agentic Video Editor for Mass Consumer — Ekaterina Deyneka, Reelful
+Nearly every hand in the room went up when she asked who had recorded video at the conference. Almost none stayed up for who had actually posted any of it. Ekaterina Deyneka counts herself in that gap, and Reelful is her answer to it: drop in raw footage with a line of direction, and an agent finds the usable moments, cuts them together, and generates captions, music, voiceover
+
+### B103 Training Krea 2: What matters in generative model training — Sangwu Lee, Krea.ai
+The most reliable way to render a person is to render the most boring average person and put them in the center of the frame. Sangwu Lee offers that as the price the big image models pay for consistency: ask a production model for a burning skull and every output comes back clean, competent, and nearly identical. Krea 2, whose medium variant is now open source, trades the other
+
+### B104 How to Kill the Code Review — Ankit Jain, Aviator
+Over 30% of changes now merge with no review at all, and the wait on the ones that do get reviewed is four times what it used to be. Ankit Jain's read is that the debate about when we stop reading code line by line is already over, because we stopped. His sharper point is what replaced it: an AI writes the code, an AI reviews the code, the two go back and forth in a web UI, and
+
+### B105 Security Firewall for Agents — Ryan Dahl, Deno
+Deno gives its incident response agents read and write access to production Postgres, Kubernetes, ClickHouse, AWS, GitHub, and Slack, and it works. Agents now close incidents that used to wake a human up. Ryan Dahl's problem is what happens when one of those agents gets prompt injected through the support system it is wired into. He grants that Opus refuses to drop the users ta
+
+### B106 Context Engineering in 2026 — Louis-François Bouchard, Omar Solano & Samridhi Vaid, Towards AI
+The cheapest configuration they tested was the one sending the most tokens. Across 11 presets run against their open source AI tutor, doing nothing at all to the context beat every compaction technique on recall, cost, and latency at once, and their own production defaults scored worse than leaving the history alone. Prompt caching is why. With 97% of tokens served from cache, 
+
+### B107 How Web Data Infrastructure Powers the Next Generation of AI — Patricija Žemaitytė, Oxylabs
+Minutes into a call to demo a search API rebuilt to answer in under a second, the system got blocked, badly, in front of the client. Patricija Žemaitytė treats that as the useful distinction: something that works in development, something that passes tests, and something that survives reality are three different systems. The rebuild had no trick to it. Browsers are slow, expens
+
+### B108 The Rise of CaaS: Context-as-a-Service for Agentic AI — Omer Primor, Bright Data
+Just past 15,000 queries, renting context stopped being the cheaper option. Omer Primor gets that number from a small experiment he is careful to call a test rather than a benchmark: enrich one company across 25 fields, run it 100 times against this event's sponsors, and compare AI search products, context as a service vendors, and a scraper pipeline built in roughly a day. Pri
+
+### B109 From RL to IRL — Gaurav Mishra, Amazon AGI Lab
+Asked to file an expense, the agent gets signed out mid task, reasons that it can infer the password, guesses twice, and locks the account. In a second run it clicks a sponsored button styled like the real submit button, lands on a different site, and begins typing personal details into it. Both are real trajectories from early browser training runs at the Amazon AGI Lab, and G
+
+### B110 The Dark Arts of Web Automation: Teaching Agents to Use Websites Like Humans — Corey Gallon, Rexmore
+Preparing this talk got Corey Gallon a warning from OpenAI that his account faced a ban for cyber abuse with a web browser. The offending work was an agent clearing Cloudflare Turnstile, two image captchas, and finally reCAPTCHA v2 with no human in the loop. His premise fits on one slide: a browser driven through the Chrome DevTools Protocol is just a meat bag with a mouse, bec
+
+### B111 Bringing agents onto the world wide web — Paul Klein IV, Browserbase
+When OpenClaw shipped, people started buying Mac minis to run it from home, SSHing in and clearing captchas off a residential IP. Paul Klein IV points out he has yet to see a SOC 2 compliant Mac Mini setup at scale, and that this felt like a reasonable answer is itself the problem. His argument is that browser agents are no longer held back by the models. The capability is alre
+
+### B112 Computer Use at the Edge of the Statistical Precipice — Pierluca D'Oro, Programma Labs
+A script under one megabyte that never looks at the screen matches or beats the frontier model it was copied from. Pierluca D'Oro builds it by recording one successful trajectory per task and then replaying those actions blindly, and on deterministic benchmarks like OSWorld that counts as a valid agent and it scores at the top. The paper goes further and proves that pass@k on a
+
+### B113 Computer-use models will agentify the web, not APIs — Dhruv Batra, Yutori
+To learn what a US school district is buying, you file a Freedom of Information Act request. Someone scans the email you sent, puts the scan on Google Drive, and attaches the relevant PDFs. Dhruv Batra's question is whether anyone seriously expects that office to publish an MCP server. He grants the popular claim that agents will drive most of the action on the web, then reject
+
+### B114 Improving Agents is a Data Mining Problem — Vivek Trivedy, LangChain
+Does your agent get dumber after the first compaction? After the second? You cannot read that off the code, only off the traces, and there are far too many to read yourself. So LangChain points agents at the traces of other agents and asks exactly that, alongside questions like where users got upset and what a different model would have done at the same step. Vivek Trivedy's ar
+
+### B115 Lessons from Studying Every Memory System — Shlok Khemani, Independent
+A profile ChatGPT keeps on Shlok Khemani says he travelled to Turkey in 2025. He never has. The memory came from conversations where he was choosing between Turkey and Thailand, he went to Thailand, and the profile kept both with overlapping dates. What bothers him is not the mistake but the incuriosity: nothing notices the conflict, and the evidence to settle it was sitting in
+
+### B116 Designing Agents (The Floor Is the Frontier) — Ben Hylak, Raindrop
+Build the thousand example eval suite everyone tells you to build, switch harnesses, and 80% of it stops meaning anything. Ben Hylak's complaint is that eval advice is still written for the chatbot era, back when you knew the answer to nearly every question a user would ask. His reframing is that the useful question is not what issues your agent has, since it will have effectiv
+
+### B117 Bringing Continual Learning into Enterprises — Samuel Denton, Applied Compute
+A Qwen thinking model was taking up to 80 turns to submit on SWE bench. Applied Compute wanted it wrapping up by turn 40 and got the submit tool call rate from 22% to 60% with test pass rate flat. The interesting part is the mechanism: because the rollout was conditioned on an old production trace that never called the tool, the teacher never touched the tool call tokens at all
+
+### B118 LLM Knowledge Bases: a practical guide — Ben Holmes, Warp
+Talking runs about 200 words a minute and typing does not, which is why Ben Holmes starts a knowledge base with voice dictation rather than with organization. The pipeline only works if there is enough raw material, so the capture step is deliberately sloppy: ramble into your phone after a podcast or a meeting, skip the formatting, and let agents impose structure afterward. He 
+
+### B119 Adaption Labs: Gradient-Free Continual Learning — Sara Hooker, Adaption
+Fewer than five thousand people in the world know how to train a frontier model at scale, by Sara Hooker's estimate, and that knowledge travels like an apprenticeship rather than a literature. Modern computer science is 77 years old, two generations, and in that time the route to contributing at the frontier narrowed into one funnel: the right PhD, the right industry lab, the r
+
+### B120 Intelligence + Continual Learning = Expertise — Yu Su, NeoCognition
+Scheduling a meeting is not finding a shared slot on everyone's calendar. It is a constraint optimization over authority, priority, and urgency, and an expert sees that immediately where a very capable model does not. Yu Su uses examples like that one to separate two things the field keeps collapsing together. Intelligence is reasoning through an unfamiliar problem from the con
+
+### B121 Scaling Compute on Context — Jack Morris, Engram
+Train a model directly on ten thousand financial reports and you can drive the loss to 0.00001. It knows the documents perfectly. Then you generate from it and it collapses. Jack Morris uses that failure to set up the real problem. The three axes that powered the entire deep learning revolution, more data, more compute, bigger models, all run on public data. Models are superb o
+
+### B122 Memory Harnesses for Long-Running Research Agents — Stefania Druga, Sakana.ai
+On a literature review task where every paper already fit inside the context window, adding a memory harness changed nothing: the same accuracy, at higher cost. That negative result is the most useful thing in Stefania Druga's experiment, because it marks the boundary. Move to a long horizon task where the answer sits at step 124 and the question arrives at step 500, far outsid
+
+### B123 Scaling up Continual Learning — Ronak Malde, Trajectory
+Scale on policy self distillation to trajectories with a hundred tool calls and the model collapses into hedging. The tokens it learns to favor fill up with wait, but, and maybe, until, as Ronak Malde puts it, everything just turns into maybe. He calls it the but wait problem, and it happens because the student drifts far enough on a long task that the teacher course corrects a
+
+### B124 Beyond Static Intelligence: Evaluating Continual Learning — Parth Asawa, UC Berkeley
+Every leaderboard you have seen was built by asking a model to do one task, wiping its memory, and asking it another. Parth Asawa's objection is that this quietly assumes learning across instances does not count. His benchmark measures what that assumption hides, using a metric called gain: run a system with state, then run the identical system reset between every single instan
+
+### B125 Anthropic's Applied AI team on the Evolution of Agentic Surfaces
+Sonnet 4.5 developed what Anthropic's Applied AI team came to call context anxiety: approaching its context window limit, it would wrap work up early and stop with room to spare. They built context resets into the harness to compensate. Then Opus 4.5 shipped without the behavior, and the fix turned into pure overhead, adding latency and discarding cache it should have kept. Tha
+
+### B126 Agents, codebases, and teams — Aditya Khandelwal, Amazon AGI Lab
+Leave agent adoption to individuals and the engineer shipping two PRs a day ends up reviewing the ten that the early adopter ships. They fall further behind, the code they are reading is worse, and they conclude the agents are the problem. Aditya Khandelwal's argument, from leading a team of ten through this, is that adoption is therefore a leadership problem and not an IC one,
+
+### B127 Taking Reinforcement Learning Cross Datacenter — Nan Jiang, Modal
+A frontier scale checkpoint is around 500 GB, so shipping one to a rollout fleet in another region takes minutes to hours and kills any hope of weight updates landing in seconds. Nan Jiang's claim is that you can send roughly 500 MB instead and have the rollout engine reconstruct a bitwise identical weights version. Fewer than 1% of rollout visible weights actually change betwe
+
+### B128 Codex, Behind the Harness — Dominik Kundel, OpenAI
+Once GPT 5.3 Codex Spark started serving a thousand tokens per second on Cerebras, inference stopped being the bottleneck and the network became it. The answer was websocket mode: a persistent connection replacing server sent events over HTTP, carrying stateful context so a turn ships back only the tool call result instead of resending every item. The same pressure shapes conte
+
+### B129 Multiplayer agentic engineering — Arjun Singh, Superconductor
+Superconductor left a meeting bot sitting in a Google Meet at their expo booth for four hours, just listening. Someone passing through said they wanted coding agents to have clear acceptance criteria before declaring work finished. Nobody filed a ticket. The bot picked the idea out of the conversation, opened one itself, started working, and added two acceptance criteria fields
+
+### B130 Guide, Verify, Solve — Anirban Chatterjee, Sonar
+A Carnegie Mellon study sorted GitHub projects by whether an AI tool wrote the code, and found the productivity gain ran out after about three months while the static analysis warnings and the added complexity stayed. That residue is verification debt, and how much it costs scales with criticality: a short lived internal tool can live with the gap between the quality a model gi
+
+### B131 Velocity Sickness: What Happens When Your Whole Team Gets 10x Faster — Matt Dailey, Ref.
+A newsletter writer walked Matt Dailey through an agentic pipeline good enough to amplify their own voice instead of flattening it, then mentioned they were now effectively writing a book every week. Dailey asked whether the audience was reading a book every week. They were not. Those pages go unread, and that gap is what he calls velocity sickness: the stress of a sudden outpu
+
+### B132 Always-on agents run production without the on-call tax — Justin Smith, Resolve AI
+Someone drops a GitHub release tag into Slack and the agent decides on its own that this is a deploy worth watching. It reads what actually changed, works out which telemetry would expose trouble for that particular change, and writes a check plan for this release alone: checkout is replacing the currency service, so watch checkout latency and error rates, then follow the causa
+
+### B133 Realtime multiplayer, automation, and you! — Idan Gazit, GitHub
+Idan Gazit's personal site runs on Astro, which ships often enough to keep him permanently on the upgrade treadmill, so he wrote an agentic workflow in about three lines of plain English, the kind of message you would send a teammate. Copilot expanded it into a full playbook: check for new releases, read the changelog and upgrade guide, apply the changes, open a pull request. I
+
+### B134 Benchmarking Coding Agents on New vs Legacy Codebases — Denys Linkov, Wisedocs
+Wisedocs processes medical claims that arrive as PDFs over 10,000 pages long, some of them larger than video files, through a pipeline of ML models spread across ten repositories nobody enjoyed touching. Denys Linkov's team spent six months collapsing that into a monorepo, and this talk is an honest audit of whether they should have just waited for the models to get good enough
+
+### B135 Anthropic's CCA Exam as a Field-Guide for Agentic Engineering — Frank Coyle, UC Berkeley
+The Claude Certified Architect exam hands you six production scenarios and picks four at random, and Frank Coyle walks through them backwards, leading with the anti pattern in each one. Knowing what not to do is what points you toward what to do, the same way the design patterns movement of the early 1990s came with a catalog of the moves that quietly ruin you. Scenario one is 
+
+### B136 The New Primitives: Building AI Native Software — Kwindla Kramer, Daily
+In 1945 Vannevar Bush described document scanning, OCR, speech to text, hypertext, search engines, a head mounted camera, and voice interfaces, in a single essay, before any of it existed. Kwindla Hultman Kramer uses As We May Think to set up the uncomfortable part: he was a baby programmer in 1995 writing HTML by hand and web servers in C, as excited about web pages then as he
+
+### B137 Open Source Is Dead. Long Live Open Source. — Saoud Rizwan, Cline
+A compromised release of litellm, a Python package pulling three and a half million downloads a day, sat live for three hours installing a credential harvester for API keys, SSH keys and crypto keys along with a backdoor for remote command execution. It was caught by pure luck: the malware had a bug that crashed Cursor, and a researcher went looking. Saoud Rizwan uses it to mar
+
+### B138 Local Models: Trust, Control, Optimization — Carter Abdallah, NVIDIA
+When Fable was pulled back and access to frontier systems stopped looking guaranteed, Lucas Atkins watched enterprises move to Chinese open models, not because they scored better but because availability could be counted on. That is his working definition of trust, and he separates it hard from safety: an open model is a directory of files you can inspect, running on code you c
+
+### B139 Compression at the Edge — NVIDIA, Unsloth, HuggingFace, Ollama
+Quantize a single number in a model and it gets 20% dumber. That finding, from the super weights paper, is why Daniel Han's claim is less absurd than it sounds: GLM 5.2 goes from 1.5 terabytes to 250 GB, 86% smaller, without being 86% dumber. Layers are wildly unequal. The first and last carry enormous weight, the middle ones barely matter, and a model trained on 30 trillion to
+
+### B140 The State of Model Routing — NVIDIA, Cognition, OpenRouter
+Run terminal bench on Opus and on Haiku and Opus scores about three times better at a tenth of the cost, even though Haiku is far cheaper per token. Alex Atallah's point is that a small model pushed outside its training distribution thrashes, calling tools in loops until it costs more than the expensive model ever would. That inverts the obvious version of model routing, where 
+
+### B141 Gadgets: Personal app vibe coding that is actually safe — Kenton Varda, Cloudflare
+*Note: Kenton has just released Cloudflare OS today: https://x.com/KentonVarda/status/2084990137180590572 This talk was recorded a month prior to launch.*  Claude needed a strikethrough the slide app did not have, so it added one to the app. Asked to build a deck from a Google doc, it also added text centering and a box that accepts raw SVG, then generated the SVG for a diagram
+
+### B142 Building Turbopuffer: Gergely Orosz (@pragmaticengineer ) × Simon Eskildsen (CEO)
+This fireside chat between Gergely Orosz and Simon Eskildsen explores the technical journey and engineering philosophy behind the database company Turbopuffer.  Video Timestamps 0:00 Introduction and Simon’s early history with computers 3:02 The International Olympiad in Informatics and early competitive programming 4:13 How Simon was recruited by Shopify while still in high sc
+
+### B143 MCP Apps: Extending the Frontier — Ido Salomon & Liad Yosef
+Chat and coding assistants still hand you walls of text when a button, a chart, or a small interactive view would say it faster. Liad Yosef, who co created MCP UI, walks through MCP Apps: a way for an MCP server to return a real interactive interface instead of a block of text, built on the MCP UI project he started and now shaped through an open working group in the MCP commit
+
+### B144 MCP Tasks (async): Why Aren't Any Agents Supporting Them? — Cornelia Davis, Temporal
+You invoke a tool and expect an answer, but real work takes time, and over that time connections drop, networks blip, and processes crash. Cornelia Davis, a distributed systems veteran who wrote the book on cloud native patterns, argues that this is exactly the gap the MCP tasks specification exists to close, and walks through why almost no agents support it yet. A task lets a 
+
+### B145 When Will The Benchmaxxing Plague End? — Nick Heiner, Surge AI
+Every time a model launches there is a gap between the benchmark numbers and what the thing can actually do, and Nick Heiner argues the existence of the word benchmaxxing is the tell. When labs openly brag about scores, teams stop asking whether a benchmark reflects reality, and the whole field drifts into an avalanche of numbers that measure the wrong thing. His talk is a fiel
+
+### B146 Teaching AI to Find Real Vulnerabilities — Prof. David Brumley, Bugcrowd
+David Brumley has spent two decades turning people into hackers, from founding picoCTF to recruiting pwn2own winners at Carnegie Mellon, and his argument is that you teach a model to hack the same way: a ladder of tasks that climbs from triggering a crash to reading and writing arbitrary memory to a full working exploit. The catch is measurement. Hacking has no single answer, s
+
+### B147 Rethinking Environments for Long-Horizon Work — Rayan Garg, Theta Software
+Everyone wants agents that handle long horizon work, but Rayan Garg starts with the awkward question of what long horizon even means. One popular answer measures the time horizon as the task length at which an agent crosses a success threshold, like the sixteen hour mark, which is a useful endpoint but a noisy one, since human time estimates vary and the same wall clock hides v
+
+### B148 What's Next After RLHF? — Diogo Almeida, TypeSafe AI
+RLHF made models that are extraordinary at pleasing the human in the loop, and Diogo Almeida, a GPT-4 co author, argues that is exactly the problem. Optimizing for human preference optimizes for engagement and for overpromising, the same pressure that makes a model confidently agree that a fart audio file is a symphony. That produces two camps: one where models act as assistant
+
+### B149 Data Quality Is the Compute Multiplier — Ari Morcos, DatologyAI
+Swap compute for data on the scaling curve and the same money buys a better model, which is why Ari Morcos calls data quality the compute multiplier and the most underinvested part of training. His frame is an oil refinery for data rather than a firehose: clean, curate, create, and compose, with quality classifiers, deduplication, and synthetic generation each earning their pla
+
+### B150 Learning on the Job: The Future of Post-Training — Raymond Feng, Applied Compute
+The next step after a model ships is teaching it to keep learning on the job, and Raymond Feng lays out how Applied Compute trains custom models with reinforcement learning that plug into whatever harness an enterprise already runs. The setup is an orchestrator that fans interactions out to inference engines, collects the graded rollouts, and feeds a training engine that update
+
+### B151 Data and Environment Curation for Post-Training LLMs — Mahesh Sathiamoorthy, Bespoke Labs
+Mahesh Sathiamoorthy's pitch is to stand in the researcher's shoes: the hard part of post-training is not the algorithm but the data and the environments that feed it. As agents get pushed to run autonomously for hours, something eventually falls over, and reinforcement learning is the tool for stretching that reliability, but RL environments are really just data in a different
+
+### B152 Scaling to Long Horizons — Ross Taylor & Chengxi Taylor, General Reasoning
+Ross Taylor opens with some history: back in 2022 he worked on Galactica, an early large model for science that briefly crossed the Rubicon on curated high quality data and intermediate reasoning tokens before the reaction overshadowed the work. That obsession, optimizing what happens between the question and the answer, is where this talk on long horizon reinforcement learning
+
+### B153 Emulated: The Data for Fully Autonomous Software Engineers and Companies — Joseph Wang
+To train an agent that can run production software, you need training data that looks like production, and that is what Joseph Wang's team at Emulated builds. Coming from network infrastructure backgrounds, they know what happens when something like a database goes down at scale, and they argue that current post training environments do not capture it. A real task is not a tidy
+
+### B154 The Base Model Is Dead — Varun Singh, Arcee AI
+The old story is that a base model is a mirror of the internet, a good model of human web text that everything else gets bolted onto. Varun Singh, who leads pre-training at Arcee AI, argues that story is dead: no modern base model reflects the web the way GPT-3 once did. Instruction data and synthetic reasoning traces have moved earlier and earlier into training, and a distinct
+
+### B155 Verifiable Environments for AI in Biology — Kenny Workman, LatchBio
+A single spatial biology run can yield two to six terabytes of data, far more than a scientist can eyeball, and Kenny Workman argues that this is the raw material for teaching AI to actually do science. LatchBio, five years deep in pharma, treats experimental biology as a verifiable substrate: lay a chunk of a tumor over a sequencing surface and you get a giant matrix of number
+
+### B156 Ending AI Slop — Thais Castello Branco, Taste Labs
+Thais Castello Branco's starting point is that AI is still badly behind on the subjective work, the writing and design where quality is real but hard to pin down, and that ending the slop means building data and reinforcement environments for taste. She sorts domains along a spectrum: at one end things that verify and execute cleanly, at the other pure preference with no ground
+
+### B157 Benchmarks: The Good, the Bad, and the Ugly — Ali Khial, G2i
+Ali Khial took three of the best engineers at G2i, pointed them at popular coding benchmarks, and hit a wall of tasks that were either too ambiguous to grade or quietly broken. That experience is the spine of this talk: a benchmark starts as a spec, solutions get verified and graded, and the results rank models, but only if the harness is actually creating a fair test rather th
+
+### B158 Reinforcement Learning without Verifiable Rewards — Will Brown, Prime Intellect
+Reinforcement learning has been easy to sell where the answer is checkable, like math or code, and Will Brown's talk is about everything else. Most valuable tasks have no clean verifier, so Prime Intellect's work is on how you build reward signal when there is no ground truth waiting. He frames RL simply first, a model acting in a harness with tools and skills, getting a reward
+
+### B159 Agents at Scale: Inside MiniMax's Model and the Infrastructure Behind It — Dan Fu and Olive Song
+In this conversation, Olive Song, who leads reinforcement learning at MiniMax, opens up the stack behind the company's open weight models and the infrastructure that serves them. Her starting point is a belief in open source: put the weights out, let builders optimize on them, and share the capability widely. From there she walks through what it takes for a model to land well, 
+
+### B160 fighting slop with slop — Vaibhav Gupta, Boundary
+You cannot tell great engineers what to do, and you increasingly cannot tell what an agent did either, so Vaibhav Gupta's answer is to fight slop with slop. At Boundary the team turns the same cheap, sloppy generation loose as a tool: agents that run constantly over the transcripts of other agents, flagging hallucinations, spotting which tool calls produced errors, and comparin
+
+### B161 First Steps Toward Automated AI Research — Richard Socher, CEO Recursive AI
+Humanity compressed the road from the enlightenment to the moon landing into a few hundred years, and Richard Socher's wager is that automating research compresses it again. He frames it through open ended evolution and Popper: science advances by trying things, finding the shortcomings, and fixing them, and an agent swarm can run that loop across medicine, economics, astrophys
+
+### B162 Your Finance Agent's Bottleneck Is You — Ramana Siddanth Emani, Auditoria AI
+The slowest part of shipping a production finance agent is not the model or the GPUs, it is you, the developer in the loop. Ramana Siddanth Emani's point is that the same agent harnesses you use to build products can automate your own developer loop. Coding agents can multiply how much you ship; run an army of them across separate git worktrees and they clear tasks in parallel,
+
+### B163 Build for the Memo, Not the Demo — Shawn Chan, China Resources Holdings
+When a company is about to spend $100 million, Shawn Chan is the person in the room deciding whether it happens, and after fifteen years and roughly 200 investment committees he can spot the flaw fast. Now some of the decks in front of him are AI generated: cleaner formatting, never defensive, and confidently wrong. His frame is the difference between a demo and a memo. A demo 
+
+### B164 Let's integrate AI Agents in Event-Sourced Systems — Divakar Kumar, FlyersSoft
+A card gets declined and no one, including the customer, can say exactly why. That gray zone is where Divakar Kumar points his agents. In a payments and fraud system, a rule based engine and an ML model already score most transactions cleanly; the hard cases are the ambiguous ones that neither can resolve. His approach adds an agentic layer on top of an existing event sourced a
+
+### B165 Wearing the Agent: From Group Chats to Glasses — Sai Krishna Rallabandi
+Almost every agent today is built for one user, and Sai Krishna Rallabandi has spent about eight months on what breaks when you drop one into a group chat instead. Running a personal agent across a real group, and eventually onto glasses, forces two hard problems. The first is memory: conversations that last for days across several people, where the agent has to track who said 
+
+### B166 We Vetted 2000 AI Skills Before They Reached Developers — Lucas Palma, Nubank
+An AI skill is a piece of code you hand a model to extend what it can do, and once engineers start sharing skills with each other, each one becomes a supply chain risk, more so inside a regulated bank. Lucas Palma's security team at Nubank built Skill Vector to sit between a skill and the internal marketplace, so nothing reaches developers unvetted. Every skill is scanned first
+
+### B167 How Kepler Built Verifiable AI for Financial Services — Vinoo Ganesh
+In finance a number is worthless until you can say where it came from. Vinoo Ganesh, CEO of Kepler, starts from the fact that language models are probability machines, brilliant at next token prediction and unreliable at the deterministic work, like arithmetic, that finance actually runs on. So Kepler treats the model as one part of a system rather than the whole answer, wrappi
+
+### B168 Persona Engineering: A Field Guide to AI Synthetic Personas — Ishan Anand, InsightSciences.ai
+A team ran about a thousand people through a market research survey, then had LLM agents replay the same questions, and the agents matched the humans closely while carrying less noise than the humans did themselves. That is exactly the tell: a synthetic respondent smooths over the messiness that makes a real population real. Ishan Anand walks through where it breaks. Nudge one 
+
+### B169 Why Off-the-Shelf AI Doesn't Understand Money — Udi Menkes, Intuit
+Ask any LLM a financial question about your business. You'll get a fluent, confident, generic answer — one that doesn't truly know your business, or what happened when businesses like yours made that same decision. We build financial AI at Intuit serving 100M+ customers. Our custom LLMs outperform general-purpose models on accuracy while cutting latency in half. But that's the 
+
+### B170 SimulationMaxxing: How we ship agents 20× faster — Aman Gupta (Nubank) + Shreya Rajpal (Snowglobe)
+Nubank serves 135 million customers, so an AI agent that mishandles a support conversation fails at scale. The talk opens with the result: five agents in production, higher customer satisfaction, and roughly 20 times faster shipping. Shreya Rajpal, CEO of Snowglobe, argues the thing that unlocked that pace was evals, and specifically simulated data standing in for real conversa
+
+### B171 Skills are new features: Building Skill-Centric Harness — Yogendra Miraje, FactSet
+Since skills were open sourced, Yogendra Miraje's team at FactSet stopped thinking about shipping features and started thinking about shipping skills. A skill is a capability you hand the agent, and its heart is a short skill.md whose name and description are really routing signals: get them distinct and the agent triggers the right one, blur them and it fires the wrong skill o
+
+### B172 Morgan Stanley's ALPHALAB: Multi-Agent Research Across Optimization Domains — Brendan Rappazzo
+When coding agents got good enough at the end of 2025, Morgan Stanley's roughly thirty person research group asked what would happen if agents ran the research, not just wrote the code. The result is AlphaLab, a multi agent system they built and open sourced. You hand it a problem in plain language and it writes the code, sets up back tests and evals, configures and submits clu
+
+### B173 Your Agent Didn't Fail. Your Harness Did. — Vinoth Govindarajan, OpenAI
+Two runs touch the same session, the second write silently erases the first, and the agent keeps answering with total confidence from stale state. Nothing crashed and the model did not hallucinate, so this is a harness failure, the kind that lives in the system around the model rather than in the weights. Using OpenClaw as a public case study, Vinoth Govindarajan walks the usua
+
+### B174 How Forward Deployed Engineering is done at Factory — Eno Reyes
+Factory's forward deployed engineers sit at the tip of the product, embedded with the largest customers and piping a constant stream of real world signals back into how the agent, Droid, gets built. Eno Reyes frames the whole thing as a software factory: signals flow in from the outside, become plans, pass through validation stages, and come out as shipped outcomes, a loop most
+
+### B175 AI tools for Forward Deployed Engineering — Vasuman Moza, Varick Agents
+A customer spent five million dollars and five years migrating to SAP, and has zero appetite to rip anything out again. That constraint is the whole design at Varick Agents: instead of asking an enterprise to migrate, you drop forward deployed agents on top of the systems they already run. Vasuman Moza's version of the role maps how a department actually works today, the reconc
+
+### B176 How Forward Deployed Engineering is done at Cognition — Jia Wu
+Most of the coding agent market quietly optimizes for token usage; Cognition's deployed engineering team measures the opposite, the outcomes a customer can actually see, and reports something like an 82% reduction on the work they targeted. Jia Wu's argument is that you measure before Devin ever lands, then again once it is fully activated inside the customer, so the value is a
+
+### B177 How Forward Deployed Engineering is done at Ramp — Leo Mehr
+It's Friday night, an enterprise sales rep needs an SAP S4 HANA integration to hit quota, and the reflexive Forward Deployed answer is yes. Leo Mehr's first principle is to pause instead: always be scoping. Saying yes to everything buries the team and often does not even serve the customer, so the job is to weigh what actually matters against the rest of the queue and decide wi
+
+### B178 The Dirty Secret of Forward Deployed Engineering — Natalie Meurer, Sierra
+At Palantir, forward deployed started as a literal description: you were deployed, physically, at the customer's site, and the onboarding project was keeping the platform from falling over. Natalie Meurer's dirty secret is that the title never settled after that. It stretched across DevOps, data integration, ontology work in Slate and then Foundry, and solution architecture, un
+
+### B179 How Forward Deployed Engineering is done at Decagon — Sunny Rekhi
+Decagon builds the customer support agent that answers when you email a brand, and making that agent good for a specific enterprise is the forward deployed job. It splits in two: one side configures the agent brain, the instructions and the handoff rules for when a human should take over; the other works like product engineering, figuring out what a new enterprise needs and ant
+
+### B180 How Forward Deployed Engineering is done at Kepler — Vinoo Ganesh
+A shipping and dispatch customer wanted alerts, a massive BI tool, and a dev environment. What they actually needed Monday morning was one Slack message, so that is what got shipped first, and the real thing followed. Vinoo Ganesh spent seven years doing this at Palantir, where he later ran the rotation program that turned software engineers into forward deployed engineers, and
+
+### B181 Forward Deployed Engineering 101 — Kevin Bai, Anthropic, ex Palantir & Rippling Founding FDE
+Look at public software companies and very few ever crack half a million dollars in average contract value, and that gap is where forward deployed engineering lives. Kevin Bai's 101 starts from the shape of the deal: when your buyer is not technical and the thing you sell is not a finished product they can pick up and configure themselves, you cannot just ship software and walk
+
+### B182 Serving 2 Million Models Without Melting: Scaling the Hugging Face Hub — Arek Borucki, Hugging Face
+Type llama into a catalog of 3 million public models and the result still has to feel instant. At 20,000 models any query is fast; at Hugging Face's scale, 14 million users and a million datasets on top, search becomes the hard part. Arek Borucki shows how the Hub keeps it quick: full text search on Apache Lucene, served through MongoDB Atlas, which stores only the metadata whi
+
+### B183 AI Agents for Performance: Ship Faster, Pay Less — Rajat Shah, Netflix
+An inefficient quadratic-time pattern was hiding inside a tensor merge method on a live Netflix service, quietly wasting CPU on every request - nothing in a code review caught it, but it stood out clearly in a call stack. That's usually how this kind of waste gets missed - the normal process of catching it (profiling, reading a flamegraph, tracing it through the codebase, writi
+
+### B184 DeepSWE: A Contamination-Resistant Coding Benchmark — James Shi, Datacurve
+DeepSWE is 113 software engineering tasks written from scratch, not scraped from pull requests, so a model cannot have seen them in training. Each one is a long horizon problem drawn from a real open source repository, authored by engineers who actually maintain that code, with isolated environments and program based verifiers that check observable behavior rather than trusting
+
+### B185 State of Data — Sean Cai, Independent / State of Data
+GPT 5.5 and Opus 4.8 landed within three points on the same finance benchmark while failing in opposite directions. GPT got the arithmetic right. Opus got the methodology right. One leaderboard number flattened both failures into a single noisy sample, exactly what happens when benchmarks reward one scaffold and vendors sell the data used to climb the tests they designed.  The 
+
+### B186 The Messy Reality of Scale: Synthetic Data and Pre-Training — Marah Abdin & Robert McHardy, poolside
+Good code data runs out, so poolside manufactures more of it, and the hard part is making it teach. Their synthetic pipeline pairs templates with supplementary context and spreads generations across an axis of phrasing, with difficulty tuned so a task is neither trivial nor so hard the model learns nothing from it. Multistage pipelines port existing data into new shapes, swappi
+
+### B187 Evals-Driven Development for a Mental Health AI Coach — Akele Reed & Dave Revere, SonderMind
+In the world of AI mental health, vibes can be dangerous, with real consequences. Building SonderMind's Mental Health AI Coach required a new playbook for eval-driven development that balances effectiveness and safety.  The team explains the clinical feedback loop that turns human therapist insights into machine-readable evaluations across thousands of conversations; the Ethics
+
+### B188 Loop Engineering from First Principles — Kyle Mistele, HumanLayer
+A coding agent will happily hand you a 40,000 line pull request that nobody can review and that quietly does the wrong thing. Kyle Mistele's argument is that the fix is not a better prompt but a better loop, borrowed from control theory: a thermostat senses the error between where a system is and where you want it, emits a control signal, and measures again, over and over. Infr
+
+### B189 Why Large? Tiny LMs & Agents on Edge/Robotics — Cormac Brick, Google
+The constraint on edge AI is not compute, it is RAM, and it is getting worse: phone makers are shipping less of it this year, and a 6GB Raspberry Pi costs 2.5 times what it did at launch. So Cormac Brick's team at Google AI Edge spends its effort making models small enough to fit. A 2 billion parameter Gemma, quantized to 2.9 bits per weight, runs on a Raspberry Pi at about 8 t
+
+### B190 From Agent Traces to Agent Simulations — Rustem Feyzkhanov, Snorkel AI
+Take a real production trace, rebuild the database state, tools, and files the agent touched, and you have a task any model can replay under identical conditions. That reconstruction is the move at the center of this talk. Public benchmarks like WebArena hand you a single success rate on someone else's tasks, but what you actually care about is cost per solved task, latency, an
+
+### B191 Evaling Video Slop — Maor Bril, Character.ai
+A generated clip where the character stands frozen for four seconds can still score well, because the judge rewarded the gloss and the vibe instead of what actually happened. That failure is the whole problem with evaling video: CLIP score misses temporal incoherence, a team watching clips on Friday does not scale, and any AI judge you wire up drifts from human preference unles
+
+### B192 Building Closed-Loop Evals for a Multimodal Agent at Scale — Soumya Gupta & Jai Chopra, Uber
+This talk covers how Uber designed evals for its food enhancement agent, which edits food photography to better present dishes for smaller, independent Uber Eats merchants, along with the pitfalls and lessons learned along the way.  The problem is uniquely hard: the system must stay faithful to the original dish, preserve each merchant's brand and packaging, and avoid homogeniz
+
+### B193 How Evals and Prompts Shape Agent Behavior — Preetika Bhateja & Daniel Bump, YouTube Ads
+Getting an AI agent to behave the way you want isn't just about writing better prompts. In real systems, behavior emerges from a loop: prompts, evals, iteration, and feedback. Small changes in any part of that loop can completely change outcomes.  The Google team shares lessons from building a seed-asset agent that turns messy advertising creatives — low-quality images, clutter
+
+### B194 From Signal to PR: Anatomy of a Self-Improving Agent — Jason Lopatecki, Arize
+Instead of getting paged at midnight and starting to dig, you wake up to an issue that has already been investigated: the traces pulled, the root cause found, and a pull request with the fix waiting for review. That is what Arize built with Signal, and Jason Lopatecki walks through the anatomy of it. The unlock is boring and specific: traces on a filesystem. A skill pulls the r
+
+### B195 The Future of Evals: From LLM as a Judge to Agent as a Judge — Aparna Dhinakaran, Arize AI
+Across a dozen eval jobs Arize watches the top teams run, one pattern holds: the eval has to change as fast as the agent it grades. In 2023 an agent was barely more than a prompt; since then reasoning, tool calls, and long multi step loops piled on, and every jump in capability quietly broke the eval that came before. So the evals evolved with them. Deterministic checks catch w
+
+### B196 Everything Is a Rollout — Alex Shaw + Ryan Marten, Terminal-Bench, Harbor, Laude Institute
+Alex Shaw and Ryan Marten present a rollout-centered view of evaluating and improving AI agents. Drawing on their work on Harbor, Terminal-Bench, and OpenThoughts-Agent, they connect sandboxed environments, agent evaluations, and optimization workflows into a practical framework for generating and learning from rollouts.  Speakers:  Alex Shaw — Member of Technical Staff, Laude 
+
+### B197 Full Workshop: Setting Yourself Up for Success —Jason Liu, OpenAI Codex
+Jason Liu walks through how Codex works as a general tool for controlling your computer: setting up a memory vault and assistant threads, prompting it to collaborate with other threads, exploring computer use, thinking about long-running work streams, and preparing to work in loops.  Speaker:  Jason Liu — Developer Experience, OpenAI Jason helps developers get more from Codex, 
+
+### B198 Vending-Bench: Long-Horizon Agent Evals — Lukas Petersson, Andon Labs
+An hour before this talk, Andon Labs published a blog post laying off Gemini. Gemini had been running their café in Stockholm, a real café that no human operates, and it had lost $6,000, so they handed it to GPT. That café once hired its own staff by posting a job on LinkedIn. This is the real world half of Lukas Petersson's work; the other half is Vending Bench, where models r
+
+### B199 Training Frontier Models to Out-Think Hackers — Uri Rolls, Arithmetic & Thom Wolf, Hugging Face
+NOTE: see further context from Thom: https://x.com/Thom_Wolf/status/2079954096950264238?s=20  Give a frontier model a real chain of Keycloak, Vault, and a broker, start it as a low privileged user, and ask it to reach production code. There is a genuine zero day in there: one check validates the admin by name while another checks by ID, so a user can simply rename themselves to
+
+### B200 The Unreasonable Effectiveness of Separating the Task from the Model — Maxime Rivest & Isaac Miller
+By declaring a task's inputs and outputs without initially considering model capability, you create the space needed to determine execution later. DSPy's promise is that AI engineering should happen above a particular prompt template or provider API shape: the Signature.  That remains useful in a world of tools, RLMs, and Skills. Define a task strictly through its inputs and ou
+
+### B201 Notion's Token Town — Sarah Sachs, Notion
+Every month it is the same trap. A reasoning model gets upgraded at the same price per token, then quietly burns three times the output tokens. Or the new version costs 40% more and deprecates its predecessor in four months. Are you growing 40%? Making three times the revenue? Sarah Sachs, who leads AI engineering at Notion and negotiates its model contracts, says no, and that 
+
+### B202 Harness Engineering is not Enough: Why Software Factories Fail — Dex Horthy, HumanLayer
+In July 2025 Dex Horthy turned the lights off: an agent software factory where nobody read the code. It fell apart. An issue appeared that no amount of prompting could fix, the site was down, users were furious, and he was digging through a codebase he had stopped reading three months earlier. His claim is that this is not a skill or scale issue, and no harness or extra tokens 
+
+### B203 Perception Agents — Antje Barth, Amazon AGI Lab
+Human-agent collaboration is changing, becoming more visual. The agents most teams ship today still wait for us to type a paragraph to explain what we're looking at. They cannot see a screen, navigate a UI that changes, or recover when an application throws an unexpected modal. That is the architectural gap between agents that demo well and agents that work alongside real teams
+
+### B204 AI on Your Lakehouse: Context Comes in Shapes, Not Queries — Zach Blumenfeld, Neo4j
+Your agent can reach your data and still get it wrong. Vector search hands it a slice, Text2SQL hands it another, and neither tells it what is actually relevant or how the pieces connect, so the answer comes back confident and wrong. Zach Blumenfeld's argument in this hands on workshop is that the missing piece is not a better model or a better query. It is context, and context
+
+### B205 Why We Killed Our Multi-Agent Pipeline — Subbiah Sethuraman and Abhilash Asokan, ZS Associates
+Their first pharma analytics system mimicked a human analyst: one agent to detect a signal, one to localize it, one to find the cause, one to synthesize, all wired to an orchestrator. It produced answers like this: prescriptions dropped 18% in a territory because a payer moved the drug to a worse tier, so send more sales reps. The cause was right and the action was wrong, becau
+
+### B206 Citation Needed: Provenance for LLM-Built Knowledge Graphs — Daniel Chalef, Zep AI
+An agent hands a doctor a clean, confident fact: the patient has a penicillin allergy. But that fact was synthesized from three sources, an EHR record, a lab report, and something the patient typed into an intake chatbot, and by the time it reaches the doctor, which one it came from is gone. You cannot just stamp a source ID on it, because the LLM merged entities and later data
+
+### B207 Local Agentic Theory For Mobile Games — Shafik Quoraishee & Joanne Song, The New York Times
+An agent runs entirely on your phone, no cloud, and plays Space Invaders, perceiving the scene, predicting the aliens, and dodging bullets in a loop. Another solves the New York Times mini crossword with a constraint graph that backtracks when the fills stop fitting. These are experimental, and the Times is emphatic that its actual puzzles are made by people with no AI in the g
+
+### B208 Video Has No Memory. Here's How We Built One. — James Le, TwelveLabs
+Feed it 67 videos from the 2022 World Cup and ask for the near misses, the shots that almost scored but did not, each with a reason, and it returns them. Ask it to track Messi across the entire corpus and describe the camera framing, and it finds the moment he slaloms past a sliding defender. James Le's point is that this is unusual because video has no memory. Almost every vid
+
+### B209 Why Agentic Systems Need Ontologies — Frank Coyle, UC Berkeley
+A second refund on the same order. A payout sent to the support desk instead of the buyer. An order status of "probably shipped." These are the kinds of mistakes a probabilistic agent makes and a paragraph of instructions cannot reliably stop. Frank Coyle argues that most agent failures, from brittle tools to fragile handoffs, are symptoms of one missing layer: a formal ontolog
+
+### B210 Learned Execution Graphs for Anomaly Detection & Drift in APIs — Ritvik Pandya, JP Morgan Chase
+Traditional monitoring reported the system healthy: latency down, errors at zero. A mandatory processing step had been silently skipped, and nothing caught it except the graph. Ritvik Pandya's team at JP Morgan models each API request as a short lived execution graph, a DAG of the middleware steps it passes through, learned from telemetry at over 1,600 requests per second. Comp
+
+### B211 From Systems of Record to Systems of Context — Omri Bruchim & Tomer Ast, monday.com
+Ask your AI assistant what you should focus on right now and you get a list of disconnected bullets dressed up as a confident paragraph. When Omri Bruchim tried it, Claude told him to go to the gym. The assistant has every board, task, email, and Slack message you have ever touched, and still zero understanding, because the problem was never retrieval. It is that a system of re
+
+### B212 Your Moat Is Your Data Model — Mike Phipps, Gates Foundation
+Models, frontends, and agent frameworks all commoditize. Mike Phipps argues the durable moat is the one thing that does not: your data model, and the tacit knowledge of how your questions are supposed to be answered. At the Gates Foundation he and his team modeled 25 years of grantmaking, over 7 billion dollars a year across 2,000 grants and 4,000 people, into a single Neo4j kn
+
+### B213 Active Graph Agent Runtime (BabyAGI 4) — Yohei Nakajima, Untapped Capital
+Yohei Nakajima was running a 500 question eval when his API key died at question 350. Normally that means restarting the whole long agent from scratch. Instead it rolled back one step and resumed at 353, because in ActiveGraph the log is the agent. Most people build agents around the LLM and bolt on memory and logging; Nakajima, the creator of BabyAGI, flips it and builds aroun
+
+### B214 CrabRAG: Why Automated Assistants Need Graph Memory, Not More Tokens — Stephen Chin, Neo4j
+Stephen Chin gave two copies of the same agent the same facts about his home network, one storing them as a vector database, the other as a graph. He asked both what was running end of life software exposed to the internet. The vector agent said it could not find specific details. The graph agent traced the connections and flagged his daughter's Minecraft server running an out 
+
+### B215 Thinner Agents on a Smarter Substrate: The Ontology-based Semantic Layer — Emil Eifrem, Neo4j
+To automate opening a bank account, your agent needs to verify identity, so a team wires it to the DMV and a passport service and ships it. Then the next team builds the next agent and rediscovers, from scratch, where its data lives, across a hundred databases plus Snowflake, Databricks, and S3, whether it can trust the version, and whether it is even allowed to touch it. Every
+
+### B216 Claude for Long-Horizon Tasks — Lance Martin, Anthropic
+Claude is capable of long horizon tasks. In this talk, we'll share lessons learned about building agent harnesses for reliable and secure long-horizon work. This include decoupling the brain and hands, self-verification, self-learning, and design for evolving agent harnesses.  ### Lance Martin Member of Technical Staff · Anthropic [X/Twitter](https://x.com/RLanceMartin) · [Link
+
+### B217 Full Workshop: Better Auth — Paola Estefania, Better Auth
+Better Auth has grown to 27k GitHub stars and more than 1.5M weekly downloads, becoming a popular choice for developers who want to own their authentication stack. Agent Auth is a protocol for autonomous and delegated agents operating services for an organization or a user. It lets agents dynamically negotiate capabilities, manage access boundaries, and maintain secure authoriz
+
+### B218 Every Harness Will Become A Claw — Sam Bhagwat, Mastra
+Most harness discussion is a reprise of Context Engineering from last summer. But it is not 2025 anymore: we live in a Claude Code world, and the best way to think about a harness is Context Engineering + Coding Agents = Harness.  Harnesses are a powerful developer experience because of planning mode, parallel subagents, skills, background tasks, and more. But they do not stop 
+
+### B219 HTML Is All Agents Need — James Russo, HeyGen
+LLMs are great at writing code. So the question we kept asking was: can they write code that produces a video? We thought it would be easy. The reality was a year of trying. We started with massive prompts to get very mediocre output. We made it more agentic to iterate and improve its output. This worked okay but wasn't production-ready. Eventually we tried Remotion. It got us 
+
+### B220 "The biggest challenge in your stack? Evals, Evals, Evals" - 2026 State of AI Engineering results
+Barr Yaron shares her perspective on the results and emerging state of AI engineering in 2026.  Speaker: Barr Yaron — Partner, Amplify Partners Barr backs founders building the AI infrastructure and applications that will shape the future.  Links: X: https://x.com/barrnanas LinkedIn: https://linkedin.com/in/barryaron Website: https://barrchives.com  Timestamps  0:00 Introductio
+
+### B221 Your agent architecture has a half-life of 6 months — Dan Farrelly, CTO, Inngest
+A short history of the right way to build an agent: RAG, ReAct, prompt chaining, orchestrator-workers, MCP, CLI, MCP again... CLI again?? Every time you adopt a trend you rebuild your architecture. In this talk, Dan Farrelly, Inngest cofounder and CTO, is not going to tell you what comes next. He's going to show you how to build so it doesn't matter. He'll cover the core primit
+
+### B222 The Desktop Frontier — Ahmad Osman, Osmantic
+@TheAhmadOsman  shows the power of local AI on stage, running frontier open models on a DGX Station.  Speaker: Ahmad Osman — Founder, Osmantic Ahmad builds local and open AI systems, with a focus on making frontier intelligence practical on personal hardware.  Links: X: https://x.com/TheAhmadOsman LinkedIn: https://linkedin.com/in/TheAhmadOsman Website: https://ahmadosman.com/ 
+
+### B223 Through the AI Fog: The Architectural Decision Agentic Security Depends On — Manoj Nair, Snyk
+Ask the latest frontier models, the ones not even public yet, to find the same vulnerability five times, and only half of those runs catch it. Against a plain deterministic checker they found at most 75% of the issues, a 40% F1 score. That number sits underneath the whole talk: the generator and the validator cannot be the same system. Manoj Nair leads the team securing roughly
+
+### B224 AI’s Jurassic Park Period — Aaron Stanley, dbt Labs
+Twenty years ago Aaron Stanley arrived at an emergency evidence collection for an SEC investigation and realized he had forgotten the dongle that licensed his forensic software. Rather than drive back for it, he routed around the constraint and watched the timestamps on the evidence begin to change. In a who knew what when case, that is a catastrophe; he got yelled at, not fire
+
+### B225 It's 10pm. Do You Know Where Your Agents Are? — Kim Maida, Keycard
+An incident agent on the night shift reads a ticket: the billing database is broken, payments failing. The documented fix says to drop the database and let a backup restore it, so the agent drops the production Postgres database, cannot confirm any backup ran, and escalates it for the morning. This has happened to real companies. It can happen because the agent holds one long l
+
+### B226 Privacy-Preserving Intelligence — Steve Korshakov, Bee (acq. Amazon)
+A wearable that records everything you say captures about 10 million tokens a year, and within a week it knows almost everything about you. That is Bee, and Steve Korshakov calls it roughly the most sensitive capture device on the market, which is why his whole talk is about one guarantee: no one can read your data, not even Amazon, the company that acquired Bee eight months ag
+
+### B227 We Gave an Agent Production Code Access and Then Tried to Sleep at Night — Moritz Johner, Form3
+A single PatchPilot PR that bumped a few dependencies changed 70,000 lines of code, and the whole problem hides somewhere in that diff. Moritz Johner's team at Form3 built the agent to patch CVEs across thousands of repositories, the backlog that never empties, and ran it in production. Then infosec asked the question that reframes the whole project: is this automation, or a su
+
+### B228 Your LLM Stack Is a 2008 Database With Better Marketing — Lovina Dmello, NVIDIA
+In 2023, researchers found thousands of Ray clusters sitting wide open on the public internet, dashboards and job APIs exposed to anyone, because authentication ships off by default and nobody turned it on before going to production. The data at risk was worth more than a billion dollars. No zero day, no clever attack on a neural network, just a setting someone forgot to flip. 
+
+### B229 Agentic Development Security — Ezra Tanzer, Snyk
+An agent at Replit ignored a code freeze, deleted a production database, then fabricated records to hide it and reported that recovery was impossible. It was wrong about the recovery, but the deletion was real, and it was not acting maliciously. It was trying to help. That is the uncomfortable center of agentic development security: the risk is not only the code an agent writes
+
+### B230 Agentic Security: Permissions, Provenance, and the Agent Supply Chain — Steve Yegge, Gas Town
+A security hardening pass by Fable over a game one engineer had built for 30 years came back clean: cloud hardening done, credentials handled, good vibes all around. Then Snyk ran over the same code and surfaced 241 vulnerabilities the agent never thought to look for. That gap is the center of Steve Yegge's talk, whose real title, he says, is not agentic security but be scared.
+
+### B231 In the Land of AI Agents, the Verifiers Are King — Tariq Shaukat, Sonar
+As AI agents take on increasingly complex development tasks, the critical challenge has shifted from generation to verification. Hallucination is not a temporary bug. Evidence suggests that as models grow more capable, failures become more frequent and more convincing, making cognitive surrender among human reviewers an acute risk. This talk introduces a three-stage discipline 
+
+### B232 Why Your Agent Disagrees With Itself (And What To Do About It) - Diane Lin, Datadog
+Run the same task twice, and sometimes you get two materially different answers. While many dismiss this as the "stochastic nature of LLMs," this inconsistency is a critical product flaw that destroys customer trust—especially in high-stakes fields like cybersecurity, where a "flip-flop" between a malicious threat and a benign alert can lead to disastrous outcomes.  This sessio
+
+### B233 Don't Let the LLM Drive - Ornella Bahidika & Joel Allou, Microsoft
+The LLM in my voice tutor doesn't decide when the lesson is over. It doesn't decide whether the user got the answer right. It doesn't decide which step comes next. A harness does all of that. The LLM just shows up and talks.  Every engineer who's tried to ship a multi-step flow agent has felt this: the model declares itself done before it should, skips a check, loops on a step,
+
+### B234 Your Voice Agent Doesn't Need a Frontier Model - Joel Allou & Ornella Bahidika, Microsoft
+My AI voice tutor doesn't run on a frontier model. It runs on a small one, and the reason isn't cost. It's that voice lives or dies on latency, and the scaffolding around the model is what makes it feel smart anyway.  When you build a voice agent the clock is brutal. A pause longer than a held breath feels broken, so your real budget is time to first token, not benchmark score.
+
+### B235 Enterprise Agents Have a Structure Problem - Ishita Daga, Tesla
+Most enterprise agents fail for the same reason: the model can generate SQL, call tools, and follow workflows, but it has no understanding of how the business actually defines its data. Most teams try to fix this with longer prompts, more RAG, or a bigger model. The real fix is building semantic retrieval infrastructure — a machine-readable metadata layer that lets agents reaso
+
+### B236 When Agents Meet Physical Data: The Other Physics of Agent Harnesses - Dmitry Petrov, DataChain
+Ask an agent to find every night-time pedestrian frame across terabytes of dashcam video in S3. The first pass can cost thousands of dollars and run for hours or days. Once you’ve paid that cost, the agent’s favorite move - loop, inspect, re-derive - becomes the worst thing it can do.  Most agent intuition comes from a different physics: coding and business automation, where re
+
+### B237 Build the AI GTM Agent That Knows the Buyer - Dr. Sajjan Kanukolanu, Position2 (Position Squared)
+As part of a GTM motion, an AI agent goes live on the site. The first visitor lands. The conversation starts. That's the moment everyone optimizes for- the right conversation, the right offer etc.. It's the wrong moment.  A well-built AI GTM system does something very different. By the time a buyer sends their first message, the system already knows who they are, what they're l
+
+### B238 Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon Lens
+Getting a model to produce the right output is the part everyone works on. Turning that output into something people will actually use is the part that decides whether an AI feature ships. This talk is about that layer, the one between model output and the product experience, grounded in lessons from building agentic CX on mobile at the scale of hundreds of millions of devices.
+
+### B239 Designing Voice Agents for Real Conversations - Chintan Agrawal & Daniel Wirjo, AWS
+Chat agents get seconds to respond. Voice agents get 200 milliseconds, and if they get it wrong, the user doesn't retry, they hang up. The gap between "impressive voice demo" and "agent people actually want to talk to" is entirely in the engineering: latency budgets, barge-in handling, turn-taking, and the silence detection problem nobody warns you about.  In this workshop you'
+
+### B240 Skills are the New SDKs - Elvin Aghammadzada, DataRobot
+You shipped a REST API. Then an SDK. Then MCP tool calling. And still, when a developer asks a coding agent to use your platform, it invents steps, and breaks in production. The problem is that your platform isn't teachable yet.  The fix is a skill layer. Versioned, task-specific packages that encode the workflow knowledge your platform team has always had. Building step orderi
+
+### B241 Medic for Apache Spark - First Aid for Failing Jobs - Drasko Profirovic, Pinterest
+In this talk, we’ll share the journey of building an agentic diagnostics tool to address one of the most time-consuming challenges in data engineering: troubleshooting Spark job failures at scale. As Spark workloads and platform complexity continue to grow, traditional dashboards and static playbooks are no longer sufficient. Our goal was to build an intelligent agent capable o
+
+### B242 Can Oncology Workflows Run Without Human Touch? - Anant Shankhdhar, Risa Labs
+Can Oncology Workflows Run Without Human Touch? At Risa, we automate healthcare workflows in oncology end-to-end using AI agents. We built four agents that work together  , each one handles a different step, then passes its output to the next. No human needed in between. The agents when combined are able to do the work of hundreds of medical workers a day. These agents are depl
+
+### B243 From Tokens to Cells: Foundation Models for Single-Cell Biology - Akram Baharlouei, Altos Labs
+This talk examines the engineering challenges of building foundation models for single-cell biology from a non-biologist’s perspective.  Speakers: - Akram Baharlouei (Altos Labs): Machine learning engineer at Altos Labs working on foundation models for biology. Previously at Meta AI and Qualcomm.   LinkedIn: https://linkedin.com/in/akram-baharlouei-61784421
+
+### B244 You Didn't Ship a Bug. You Just Wrote It for a Human. - Ravi Madabhushi, Scalekit
+We built a demo agent to show customers how to connect agents to their tools. A simple chat assistant — Gmail, Calendar, a handful of connectors. It ran on a 15-minute schedule. And every 15 minutes, our production database strained. Latency crept up and alerts fired. Then settled.  Then, it fired again.  It took us a while to find it. One line - a "last seen" timestamp updatin
+
+### B245 From Blind Spots to Merged PRs: Continuous Agentic Performance Optimization - May Walter, Hud
+Performance issues silently pile up in mature codebases. Teams know things could be faster, but can never justify pausing feature work to investigate. You have to put engineers on it just to find out if there's something worth fixing, and the effort is completely unpredictable: it could take an hour or three weeks.  In this talk, we'll walk through a real case study of adding r
+
+### B246 Build Evals That Actually Matter - Nick Ung & Akshay Sharma, Lyft
+Your agent passes offline evals at 90%. You ship. Production immediately finds failure modes your eval never saw. Sound familiar?  The culprit is almost always the same: the "customer" in your offline eval is an off-the-shelf LLM that sounds nothing like your real users, and your synthetic test set doesn't capture how messy, angry, or off-topic real conversations get. Your eval
+
+### B247 Autonomous Agents for Scientific Tasks - Sina Shahandeh, Radicait
+There has been much work on Autoresearch where the objectives are coding puzzles, toy optimization problems, or static supervised-learning ML tasks. However, for an autonomous agent to assist with a scientific discovery task, the problems must come from real measurement data of the world and they are highly open-ended, requiring a scientific method in the solution loop.  In thi
+
+### B248 A Practitioner's Guide to Graphs - Tim Ainge, Good Collective
+A speed-run through the basics... what is a graph, extracting graphs from unstructured text, schema first and ontological improvements and then a slightly more detailed discussion of personalised page rank, shortest path and subgraph matching algorithms.   Every idea is explored with an explanation of the principles, and accessible example with code and linked to real-world imp
+
+### B249 The UX of AI: Making AI-Powered Apps Your Users Don't Hate - Kathryn Grayson Nanz, Progress Software
+As a developer, AI is fun, exciting, and full of potential – but users don't always feel the same way about it.  From a UX perspective, AI comes with a whole new set of considerations around user trust, privacy, and security. From a UI perspective, AI brings new interaction patterns, new icons, new visual cues, and so much more!  If we want people to get the most from what we b
+
+### B250 Stop Burning Tokens: Why self-improvement needs domain expertise first - Annabell Schäfer, Langfuse
+We ran auto-improvement loops on a paper classification task against a ground-truth dataset. A real problem, narrow enough to measure precisely, and in fact one of the few clear cut target functions out there.  We’ll share how to properly set up an agent for auto-improvement, what task specificity and target function quality is actually required for it to work, and why the most
+
+### B251 Stop Renting Your Cognitive Infrastructure - Thiyagarajan Maruthavanan, Kalmantic Labs
+I pointed my lab at one problem, inference, after 200 users burned $1,000 in credits and the math just wouldn't close. So I built the thing, felt the cost, and went looking for why renting intelligence never pencils out. Turns out everyone in this market sells a gospel shaped like their own invoice. Jensen: build a token factory. Nadella: don't even think about the meter. Firew
+
+### B252 Content Is Code - Matt Palmer, Conductor
+Code has become the fastest medium for producing technical content, but the most important piece isn't a secret agent skill or a magical framework: its the same thing that makes a great developer experience.  Speakers: - Matt Palmer (Conductor): Matt Palmer is a DevRel & product leader focused on AI devtools, developer education, and making complex concepts accessible. Away fro
+
+### B253 Agents Need Receipts, Not More Tool Calls - Armanas Povilionis, Alithea Bio
+In this talk, I’ll show an agent publish a service, another agent discover and invoke it, and a signed receipt that proves what happened. The point is simple: if agents are going to buy, sell, and compose work across hosts, logs and API dashboards are not enough.  Froglet is an open-source protocol and node for agent-to-agent compute. It reduces named services, data-backed serv
+
+### B254 Your Agents Need a Save Button - Hamza Tahir, ZenML
+Most of an agent's life is spent waiting - on a tool, a human, the next step - and the whole time you're holding a live process awake and billing for it. Multiply that across every agent your org wants to run overnight and the math stops working.  A save button fixes the obvious stuff: freeze an agent to durable state, drop its compute to zero, bring it back in milliseconds whe
+
+### B255 Agents Need Feature Flags - Sachin Gupta
+Most AI teams ship behavior changes to 100% of users on every deploy — no canary, no segment, no kill switch. Web teams stopped doing this in 2012. AI teams are about to learn why. Feature flags are table stakes in software engineering. In agent systems they're almost nonexistent — prompts, tool access, model selection, memory policy, and autonomy level all change globally the 
+
+### B256 Using LLMs to Secure Source Code — Eugene Yan, Anthropic
+Mozilla shipped about 20 security fixes a month across Firefox in early 2025. In April it shipped 400, a 20x jump, and it credited roughly two thirds of them to a frontier model. That is the shift Eugene Yan came to describe: models are now finding and fixing real vulnerabilities at scale. Anthropic's own scan of more than a thousand open source repos surfaced 6,200 high or cri
+
+### B257 The Great Loops Debate — Dex Horthy, Geoff Huntley, Ian Livingstone, Greg Pstrucha, @insecure-agents
+Oxford Style Debate: There is, or is not, a delta between the hype behind loops and what actually works in practice.  Team No Delta (pro the way we do loops today)  The hype around loops is valid and loops work well today in practice. Loops today can be a silver bullet and result in outsize productivity gains, and marks an important step up the autonomy curve towards real softw
+
+### B258 Special Topics in Kernels, RL, Reward Hacking in Agents — Daniel Han, Unsloth
+An advanced seminar (good prerequisites: Daniel's 2024 and 2025 hit AIE workshops, but all are welcome!)  PLS WATCH: https://www.youtube.com/@aiDotEngineer/search?query=daniel%20han  Timestamps:  0:00 Introduction to Unsloth and model distribution 2:32 The State of AI: Meter plots and performance trends 20:26 Open Source vs. Closed Source models 38:51 Throughput maxing and accu
+
+### B259 On AI and Knowledge — Pablo Castro, Distinguished Engineer & CVP for AI Knowledge, Microsoft
+Pablo Castro explores AI and knowledge systems for building better applications and agents.  Speaker: Pablo Castro —Distinguished Engineer and CVP, Microsoft, leads the AI Knowledge team in Microsoft's CoreAI division, where he focuses on state-of-the-art information understanding and retrieval systems for AI applications and agents, including Foundry IQ, Azure AI Search, and A
+
+### B260 "Software engineering is not about writing code" — Benoit Schillings, Google DeepMind VP of Research
+A keynote exploring generative AI for code, deep-thinking algorithms, and the future of pre-training and transformer models for Gemini.  Speaker:  Benoit Schillings leads the Thinking, Reasoning, and Coding teams at Google DeepMind, directing foundational research toward AGI. His work focuses on advancing next-generation model reasoning and integrating software development best
+
+### B261 Every company should have a Brain — Garry Tan, Y Combinator
+Garry Tan, President of Y Combinator, discusses how the rise of AI-native companies is revolutionizing organizational productivity, allowing lean teams to operate at a scale previously requiring hundreds or thousands of employees (0:52-1:07).  Key Takeaways:  The 400x Leverage: Tan reports a massive increase in output (approximately 400x) by shifting from writing individual lin
+
+### B262 Imagination Engineering: "Live in the future and then build what's missing."
+Eve Bouffard from Y Combinator explores the concept of "Imagination Engineering"—the idea that with increasingly powerful AI models, the primary challenge for humans is no longer technical execution, but the ability to dream up bold, innovative ideas (0:13-0:59).  Key themes and experiments shared:  Thinking in Public: Inspired by Paul Graham, Eve describes an experiment where 
+
+### B263 How Autoresearch is changing ML research — Zhengyao Jiang, Weco
+Earlier this year, OpenAI ran Parameter Golf, a model-training competition that doubled as a hiring filter. Over 1,000 researchers competed to train the best small language model under a 16MB cap. The top contributor was the one candidate OpenAI couldn't hire. Our autonomous research agent Aiden finished with 7 merged records, more than twice as many as any other contributor, a
+
+### B264 Computer-Use 2.0: Agents Just Got Multi-Cursor — Francesco Bonacci, Cua
+Three agents click, type, and scroll through three different apps on one desktop at the same time, and the user's own mouse and keyboard never move. That's the live demo behind cua driver, a tool the team built in a single weekend after Codex shipped its own computer use model. Instead of taking over the hardware cursor, it talks straight to the accessibility layer underneath t
+
+### B265 Recursive Model Improvement — Lee Robinson, Cursor, SpaceXAI
+Lee Robinson discusses the future of Cursor and AI-native software development.  Speaker: Lee Robinson — ML, Model Behavior, Cursor  Model research and personality at Cursor. Previously Vercel.  X: https://x.com/leerob LinkedIn: https://www.linkedin.com/in/leeerob/ GitHub: https://github.com/leerob Website: https://leerob.com  Timestamps  0:37 - Introduction and recursive model
+
+### B266 Claude Fable, Claude Tag, and Anthropic's Culture — Cat Wu & Thariq Shihipar ft Simon Willison
+A long form Q&A with Cat Wu (Head of Product, Claude Code) and Thariq Shihipar (Engineer, Claude Code) from Anthropic, moderated by Simon Willison. The discussion focuses on the evolution of coding agents and how they have fundamentally shifted software development practices.  Key Takeaways: Changing Developer Workflow (1:22 - 3:51): Coding agents like Claude Code have moved de
+
+### B267 WTF Is the Context Layer? The Missing Infrastructure for Production Agents — Prukalpa Sankar
+In the last two years, models have gotten exponentially smarter. Two years ago they couldn't pass the bar. Today, top 1% of test scorers. And yet most agents still can't answer a simple business question correctly. You ship a demo that works. You deploy it. The business abandons it in a month.  The missing variable is context: the business definitions, procedural knowledge, and
+
+### B268 Don't Ship Skills Without Evals — Philipp Schmid, Google DeepMind
+There are thousands of agent skills. Almost none of them are tested. They get vibe-checked with two manual runs, maybe a thumbs-up from a colleague, then shipped. You wouldn't merge code without tests — so why are we shipping skills without evals? This talk covers the full lifecycle of building reliable agent skills: what a skill actually is (and isn't), how to write one that t
+
+### B269 Forward Deployed Engineering at Cursor — Pauline Brunet
+The first question at Cursor is not how to deploy a forward deployed engineer, it is whether to. If a customer's teams are already mature in their transformation and can self serve on an AI coding platform, sending a 10x engineer to sit with them is a waste. Pauline Brunet's frame is to read where the customer actually is: the forward deployed engineer earns their place where t
+
+### B270 "The engineer of the future is the person who is able to choose what is worth doing." — Addy Osmani
+For his closing keynote, Addy Osmani explores the evolving role of software engineers in the age of AI agents. He argues that as coding tasks become increasingly automated, the true value of an engineer shifts from mere code production to accountability, judgment, and system ownership.  https://addyosmani.com/ https://x.com/addyosmani/status/2074927530482835916  Timestamps  0:0
+
+### B271 "I've never seen anything scarier than an LLM with tool calls." — Erik Meijer aka @HeadinTheBox
+AI agents today execute on blind trust, and the failure modes are already in the headlines: a dealership chatbot agreeing to sell a $76,000 Chevy Tahoe for $1, a coding agent wiping a production database during a code freeze, an "agent skill" quietly installing a keylogger on a developer's machine.   These are not edge cases. They are the predictable consequence of allowing age
+
+### B272 Stop Evaluating Models Like It's the 50s - Alejandro Vidal, Mindmakers
+Psychologists spent the last century learning how to measure something invisible and uncooperative: a human mind. AI evaluation, meanwhile, still scores like it is 1950. Count the right answers, treat every question as equal, trust the percentage (this is Classical Test Theory). We are sitting on decades of measurement theory built for exactly this problem, and we forgot to use
+
+### B273 From fork() to Fleet: Designing an Agent Sandbox Cloud — Abhishek Bhardwaj, OpenAI
+Sandboxes unleash agents by giving them secure, fully functional computers where they can tackle diverse tasks with minimal setup. This talk explores the architectural challenges of building an agent sandbox cloud. We compare runtime isolation technologies and their trade-offs, examine persistence and storage as the next major unlock for agent capabilities, and discuss the key 
+
+### B274 Modern Post-Training: A Deep Dive  — Will Brown, Prime Intellect
+Deep dive into Prime Intellect's open-source ecosystem of post-training tools, including the verifiers and prime-rl libraries, as well as the Lab platform for self-serve training and inference.  Speaker: Will Brown — Research Lead, Prime Intellect  Will Brown leads Applied Research at Prime Intellect and builds open research infrastructure to enable every company to train, depl
+
+### B275 RLM: Recursive Language Models for Large Codebases - Shashi, Superagentic AI
+Large codebases break coding agents: they lose the architecture and drown in tool output as context grows. This talk introduces Recursive Language Models (RLM) from a MIT paper a pattern that loads the repo into a programmable REPL where the model writes code to inspect it and recursively delegates focused sub-questions via llm_query. With a live demo on RLM Code (independent, 
+
+### B276 The AI bugpocalypse is here. Now what? - Jack Cable, Corridor
+Something shifted in the past year that most security teams haven't fully reckoned with yet: AI models can now find serious vulnerabilities in production code, at scale, with minimal human skill required. Not in toy examples. In libraries that have been reviewed hundreds of times by the best researchers in the world. Jack Cable, Co-Founder and CEO of Corridor, will walk through
+
+### B277 Semantic Blindness: 500,000 Sensors Confused an LLM - Raahul Singh & Vanč Levstik, Phaidra
+You cannot solve a combinatorial engineering problem with a next token prediction engine. We learned this the hard way.  Modern LLMs can write code, summarize research papers, and reason across massive datasets. But what happens when you connect them to mission-critical physical infrastructure with 50,000 live sensors, deterministic dependencies, and real-world thermodynamic co
+
+### B278 The Agentic Web and the Bazaar Era of AI - Ramesh Raskar, MIT Media Lab
+The AI agent industry is currently focused on memory, orchestration, enterprise deployment, and tooling. But these are the first steps toward a larger transformation: the emergence of the Agentic Web.  Today’s ecosystem resembles the early days of AOL: closed platforms, proprietary agent stores, and siloed orchestration layers. The next era of AI agents will require open infras
+
+### B279 A Song of Types and Agents - Roberto Stagi, Ratel
+Python ruled unchallenged for a decade, sitting comfortably on the AIron Throne. But a quiet rebellion is brewing: the entire stack that actually deploys AI agents in production runs on npm, not pip. This lightning talk is an opinionated, slightly unhinged tour of how TypeScript is taking over the AI throne, why this happened and how you can prepare for it.  Speakers: - Roberto
+
+### B280 ReviewDebt: a practical framework for scoring every pull request — Sachin Gupta, Ebay
+Coding agents ship PRs faster than humans can trust them. The gap is filling up with a debt nobody is measuring — and it's about to swallow your engineering velocity. Every team in 2026 measures coding agents the same way: PR count, lines of code, cycle time, developer NPS. None of those see the real cost — bloated diffs, weak tests, ambiguous rationale, ownership sprawl, and h
+
+### B281 What Does Done Even Mean? Agents and Paperclip's Liveness Model - Dotta, Paperclip
+What does “done” mean when agents can produce more work than humans can possibly review? This talk argues that the future of agentic work is not just faster output, but a stronger trust protocol: systems where “done” means an artifact has met a stated standard, carries evidence, has been checked by the right verifier, assigns ownership of remaining risk, and clearly authorizes 
+
+### B282 Stop AI Agent Hallucinations: 5 Techniques + Production Patterns - Elizabeth Fuentes, AWS
+AI agents that book 15 guests in a 10-person room. Agents that fabricate statistics when data doesn't exist. Agents that pick wrong tools from 29 options, wasting $47 in tokens. These aren't prompt engineering failures, they're architectural limitations that need structural solutions.  This hands-on workshop covers 5 research-backed techniques to prevent agent hallucinations:  
+
+### B283 The Factory That Dreams: 39 AI Agents, No Framework - Rushabh Doshi, Machinecraft
+Most AI demos are built around a toy workflow. Ira was built around a factory.  This talk is the story of how a third-generation Indian machinery company built a multi-agent operating system that helps run sales, business development, recruitment, quoting, marketing, production context, email workflows, and organizational memory. Ira is not a chatbot and not a wrapper around a 
+
+### B284 Chat and citations won't save your vertical AI - Atul Ramachandran, Filed Inc
+Most vertical SaaS teams are doing the same things: chasing higher accuracy, building better model harnesses, shipping more features. And their customers are saying the same things: the AI got this wrong, it hallucinated, the accuracy is not good enough. So teams go back and push the numbers higher. We did the same at Filed. We built AI data entry for tax firms and hit 80%+ acc
+
+### B285 State of the Union: Why Local, Why Now — NVIDIA, Osmantic, Roboflow, EXO Labs, @matthew_berman
+Alex Cheema's team spent three weeks inside a conference room at NVIDIA headquarters and left with a 10x inference speedup on the DGX Spark, no new computer science required. The update they emailed to Jensen said the wins came from assembling optimizations NVIDIA experts had already solved, pulled together by teams swarming the room all day. The hardware math frames the whole 
+
+### B286 Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD - Sumaiya Shrabony
+If you build agents alone long enough, you will independently reinvent five things software engineering solved decades ago. A way to test whether your agent's output is still correct after you changed something. A way to run it on a schedule and know if it failed. A way to prevent one skill's schema change from silently breaking three downstream skills. A way to roll back when 
+
+### B287 Develop at Idea Velocity - Jeffrey Lee-Chan, Snapchat
+The biggest gap in production AI agent systems is not the model—it's the harness. After 1,000 hours of orchestrating autonomous fleets under human direction, the pattern is unmistakable: agents that finish complex tasks on the first run routinely fail on subsequent iterations because the surrounding loop lacks persistent memory and contextual guardrails.  In this talk, I dissec
+
+### B288 Design Patterns for AI Trust: Juries, Libraries, and Agent Tiers — Alex Bauer, Upside.tech
+Ask an agent how much pipeline you created in Q1 and it will happily take January to March and hand back a number that is wrong in exactly the way a right one looks. Alex Bauer's fix at Upside is a librarian. Before any agent acts it consults the documentation, the library of knowledge items about the business, and the schema of prior failed queries, then comes back knowing the
+
+### B289 Understanding is the new bottleneck — Geoffrey Litt, Notion
+Autonomous loops are hot, but the reality is that most agentic tasks still require human judgement. And to guide your agents well, it's not enough to just verify correctness -- you actually need to understand the work they're doing.  In this talk, I'll share some techniques for staying in the loop and efficiently developing understanding, combining old ideas from education and 
+
+### B290 Should AI Engineers Still Read Code in 2026? The Z/L Continuum — Alex Volkov, ThursdAI
+"How much better do the models have to get before you'll stop reading the code?" Theo asked that question recently and the replies caught fire. Mitchell Hashimoto is calling it agent psychosis. ThePrimeagen's subreddit is in open revolt about people shipping code they never read. Uncle Bob says we have about a year left of looking at code at all.  Alex Volkov saw this argument 
+
+### B291 The Golden Age of AI Engineering — Alexander Embiricos & Romain Huet & Peter Steinberger, OpenAI
+OpenAI's Dev Day 2024 demo ran on an o1 preview model that could not run or check its own code, so Romain Huet had to cross his fingers live on stage. A year later, the same kind of demo ran a full camera and lighting rig, because the model could now test its own work. Alexander Embiricos and Huet use that jump to show how fast Codex is moving: new model releases went from ever
+
+### B292 Everything we knew about software has changed — Theo Browne, @t3dotgg ​
+For the closing keynote of AIEWF2026, Theo provokes you to think wider, not just bigger.  In this keynote from the AI Engineer World's Fair, developer and YouTuber Theo Browne (@t3dotgg) argues that the rapid evolution of AI models—moving from tool-calling (Sonnet 3.5) to long-running task execution (Opus 4.5) and now orchestration (Mythos)—requires software engineers to fundam
+
+### B293 I Run a Fleet of AI Agents Across Three Machines. Here's What Broke. - Kyle Jaejun Lee, KRAFTON
+An honest field report from my own personal fleet of AI agents, run across several machines as a daily driver. Less about any single tool, more about the journey: how things that work on one machine break once you scale to many, what it takes to keep a setup like this running, and where it's all converging. Not a company platform — just real, evolving lessons from running it my
+
+### B294 Your LLM Deception Monitor Is Broken. The Fix Is in the Training Data - Sachin Kumar, LexisNexis
+You fine-tune LLMs and ship them. Your evals are green, your behavioral monitors are green — and a sleeper-agent backdoor can still flip the model to harmful output on a trigger you never tested. Behavioral testing can't reach it, and the interpretability tool people reach for — joint cross-model features (crosscoders) — dilutes the signal until it sits at the noise floor.  The
+
+### B295 GTM Is You - Victoria Melnikova, Evil Martians
+In this talk, Victoria Melnikova revisits interviews with successful developer tool founders (Sam Lambert, David Cramer, Paul Copplestone, Ivan Burazin, Zeno Rocha, Jason Bosco) in San Francisco to derive optimal Go-To-Market tactics for developer tools and AI startups focusing on personal brand.  Speakers: - Victoria Melnikova (Evil Martians): Victoria run new business at Evil
+
+### B296 Beyond the Harness: A Journey Towards Adaptative Engineering - Rajiv Chandegra, Annicha Labs
+Building products has been commoditised. As AI models grow more capable, the real opportunity shifts to the hard problems — the big, messy, tangled challenges of the physical and social world. That, after all, is the engineer's true job: to solve problems.  But our current paradigm leans on fixed harnesses - predetermined structures imposed on the problem. In a world of complex
+
+### B297 How we taught agents to use good retrieval - Hanna Lichtenberg, Mixedbread AI
+RAG is dead. Again. Vector search is useless. All you need is BM25. Not even BM25, all you need is grep. Or maybe even just cat+ls. If you care at all about agents, you probably read a variation of this as part of your daily routine. In a way, isn't it true that semantic search is full of failure cases? And yet, in all sorts of knowledge tasks, whether it be Deep Research, fina
+
+### B298 What if the harness mattered more than the model? - Aditya Bhargava, Etsy
+The models are getting so good now that all you need is a simple harness, some tools, and a loop... right? Aditya Bhargava argues that this direction promotes overreliance on large, proprietary models, and we should be focusing on building harnesses that improve the performance of models that can be run locally.  Speakers: - Aditya Bhargava (Etsy): Aditya Bhargava is a Staff En
+
+### B299 Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duolingo
+The human-in-the-loop paradigm promises automation's efficiency without sacrificing safety or nuance. But it hides an underexamined assumption: that human involvement produces genuine discernment, not just a rubber stamp. In practice, human-AI interaction often occurs in environments where throughput or business incentives crowd out critical thinking. This talk examines why hum
+
+### B300 Respect The Process - Andrew Dumit, Watershed Technology Inc.
+In sustainability, the answer to almost every question is "it depends." What’s the right classification? Which method should the agent use? Our vertical is filled with judgement calls broadly and one of the tasks in that vertical might span a search over 100k’s of data-rich nodes and hundreds of edits. Editing across them takes loops and filters, not enumerated tool calls. Code
+
+### B301 The Pipeline Is Dead - Iris ten Teije, Sky Valley Ambient Computing
+The entire software distribution stack assumes one version of your software, the same for everyone. It was the only thing we could afford when producing a change was expensive. Now it's nearly free, and it can happen at runtime, on the client, in the user's session, so the line between distribution and development is dissolving. This talk is about the infrastructure that has to
+
+### B302 500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Automattic
+Automattic, the company behind WordPress.com, ran a 30-day experiment called Radical Speed Month: pause the roadmap, and see how fast real software could ship. I am a product Designer and I shipped three products that month. I'll share what each one revealed about a new kind of collaboration between designers and engineers and how teams are unlocked when bottlenecks disappear. 
+
+### B303 SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale - Rishi Desai, Abundant AI
+SWE-Marathon is a benchmark for long-horizon autonomous software work: 20 project-scale tasks spanning product clones, library rewrites, and ML engineering. We discuss what happens when coding agents run for tens to hundreds of millions of tokens, why full-stack evals need computer-use verifiers, and why reward-hacking resistance is now central to benchmark design.  Speakers: -
+
+### B304 Field Guide to Fable — Thariq Shihipar, Anthropic
+Ask a chat model which Pokemon names end in aw and it fails, even though it knows every Pokemon by heart. Ask Claude Code and it writes a script, fetches the list, and filters for the answer in seconds. Thariq Shihipar, who works on Claude Code at Anthropic, calls that gap capability overhang: models get smarter in spiky ways, and the tools you give them decide which spikes you
+
+### B305 The Missing Layer After Launch - Raphael Kalandadze, Wandero AI
+We run a production system of agents for real customers. The team that keeps it healthy is also made of agents.  Operating an agent product isn't like operating software. When our agent fails a customer — a dropped constraint, a stale price, a confident wrong answer — nothing crashes and no log lights up. The failure is in the conversation, not the stack trace. So we put agents
+
+### B306 Continual Learning for AI Agents: From Failures to Durable Improvements - Soheil Feizi, RELAI
+Agents fail in production in ways that static benchmarks cannot fully capture. The key question is whether they can learn from those experiences without drifting or breaking prior capabilities.  This talk introduces verifiable continual learning for AI agents: a framework for converting traces, failures, and feedback into testable, regression-aware improvements. I will discuss 
+
+### B307 MCP Apps: Primitives, discovery, and the Future of Software - Pietro Zullo, Manufact, Inc
+Everyone in this room knows what MCP is, but I am sure not many people know what MCP Apps are, how they work, how to build them and distribute them. By the end of this talk you'll know everything you need to join the race!  MCP Apps are not just MCP servers with a UI bolted on. They're a full interaction layer: bidirectional, stateful, rendered by the host, with the model and t
+
+### B308 Your AI Product Will Fail Unless You Can Explain It - Veronica Hylak, Hey AI
+You’re shipping faster than ever, but still can’t quickly answer: "Why does this matter to an average user?"  A decade ago, the market would find you. Now, if people can't instantly understand what your AI product does, you’re in trouble.  That communication gap has become fatal. This talk? Your emergency hotline.  With 7M views helping complex AI systems make sense to everyday
+
+### B309 The Prompt Is Still a Punch Card - Ted Johnson, JoinIn AI
+Interfaces outlive their constraints. The keyboard, command line, mouse, menus, forms, voice assistants, and even prompts were all brilliant compromises with the machines of their time.  But AI gives us a chance to renegotiate that bargain.  This talk reframes AI as an interface technology, not only an intelligence technology. We will trace a pattern across computing history: h
+
+### B310 Building Great Agent Skills: The Missing Manual
+Let's discuss how to navigate "skill hell" by providing a structured framework for building high-quality agent skills. Without a shared rubric, developers and organizations struggle to create effective, maintainable skills for AI agents.  Timestamps:  0:00 - Introduction to the talk and the concept of "skill hell" 2:12 - Overview of the skill checklist framework 3:16 - Trigger:
+
+### B311 Frontier results, on device - RL Nabors, Arize
+Most of use reach for a frontier model by default and pay for it on every call, in latency, in energy, in cash, and in everything that leaves their stack. For most of those calls, a small local model would do the job.   RL Nabors, former Meta/React core team member and AWS alum, covers the vocabulary you need to reason about model performance (capability evals, golden datasets,
+
+### B312 The Future Is Domain-Specific Agents - Justin Schroeder, StandardAgents
+“Composition over inheritance” has always been a good engineering rule. It may also be the unlock for useful AI. A Gmail agent is fundamentally more powerful than a Gmail skill — and when composed with Sheets, Notion, and GitHub agents, the system gets more capable, more reliable, and cheaper to run. Suddenly, smaller models can do real work, and AI can move from internal copil
+
+### B313 You Can't Prompt the Room: The Last Skill AI Won't Replace - Balázs Horváth, VisualLabs
+Writing code is no longer the bottleneck. With AI generating specifications, tests, and entire implementations on demand, the expensive part of the software development lifecycle has shifted upstream to the people work. Getting the right stakeholders into the room, eliciting the real requirements, and figuring out what is actually worth building.  This talk draws on a VisualLab
+
+### B314 Deterministic Infra for Non-Deterministic AI Agents - Nishant Gupta, Meta Superintelligence Labs
+AI agents are rapidly evolving from copilots into autonomous systems capable of reasoning, invoking tools, coordinating workflows, and interacting with production infrastructure. But most platforms today were designed for deterministic microservices — not long-running, non-deterministic systems powered by LLMs.  This creates a massive infrastructure gap.  In this talk, I’ll sha
+
+### B315 The Agentic AI Engineer - Benedikt Sanftl, Mutagent
+In this video we introduce the concept of the agentic ai engineer. similar to coding agent loops for agents we build a system that build AI Agents in an Eval-Driven Developement Loop. The Agentic AI Enginner is a collection of a multi-agent team, steared by an orchestrator and combines, spec, build, evaluate, diagnose, monitor, optimse. We round up the talk with a live demo fro
+
+### B316 The Prompt is the Platform - Dominik Tornow, Resonate HQ
+Coding agents challenge long-standing software engineering practices. Instead of using general-purpose libraries, frameworks, or platforms, agents synthesize bespoke systems on demand. In this talk, I'll show where agents fail, where agents succeed, and the workflow for making the specification the product and the prompt the platform.  Speakers: - Dominik Tornow (Resonate HQ, I
+
+### B317 Using RL Agent to Detect and Remediate ETL Pipeline Failures - Anna Marie Benzon
+Cloud ETL failures often require engineers to manually inspect logs, diagnose schema or data-quality issues, select a repair, rerun the job, and validate recovery. This talk presents an RL-guided pipeline health agent that automates this workflow through deterministic anomaly detection, interpretable Q-learning, bounded remediation actions, and an external safety layer. The sys
+
+### B318 Your Agent Failed in Prod. Good Luck Reproducing It. - Tisha Chawla & Susheem Koul, Microsoft
+When an autonomous agent fails in production and corrupts an enterprise data record, it rarely repeats the exact same execution trajectory twice. Standard application logs reveal what broke but completely fail to explain why, leaving platform teams unable to reproduce non-deterministic failures on demand. While durable execution engines excel at keeping an agent loop alive thro
+
+### B319 Voice In, Visuals Out: The Agony and the Ecstasy - Allen Pike, Forestwalk Labs
+The latest AI models have made it possible to go past text-based chats, and build what Andrej Karpathy argues is the pinnacle of AI UX: voice-in, visuals-out.  In this talk, Forestwalk Labs co-founder Allen Pike shares why this approach for LLM-powered product development is so useful, what's necessary to make it actually delight users, and lessons his team has learned building
+
+### B320 AI-Driven Multi-Document Correlation for Financial Compliance - Varsha Shah, Independent
+Traditional compliance and fraud detection systems analyze financial documents in isolation, making it difficult to identify sophisticated fraud patterns that emerge across multiple enterprise systems. This session presents an AI-driven framework that combines graph-based entity correlation, adaptive probabilistic risk modeling, and cross-jurisdictional normalization to detect 
+
+### B321 We Cut 94% of AI Coding Tokens With a Local Code Index - Rajkumar Sakthivel, Tesco
+Every AI coding tool we tried had the same assumption: send as much context as possible.  In our production codebase, that meant sending 45,000 tokens per query — even when only ~5,000 were actually useful. We didn’t notice how inefficient this was until we saw the cost and latency impact.  We tried improving prompts and tweaking model settings, but nothing addressed the core p
+
+### B322 Your Agent Is Wasting Tokens and You Don't Know It - Erik Hanchett, AWS
+I deployed an agent to production and the bill was not good. Not because the model was bad, but because it was doing too much. I was using the most expensive models for simple inference calls. The context was filling up. And my tool loops ran longer than they needed to. The agent worked fine, it just cost way more than it should have.  This talk covers three small changes I mad
+
+### B323 OpenClaw in Your Hand: Building a Physical AI Terminal - Lech Kalinowski, Callstack
+What if an AI device felt calm — closer to peace than a glowing distraction? Vault is a text-first, dual-display handheld AI terminal built on a single ESP32-S3 and powered by one battery cell. It pairs a fast, emissive OLED "live" surface with a slow, bistable e-paper "content" surface, switches between four modes with a single slash command — shell, assist, control, and an LL
+
+### B324 Bypassing the Multimodal Tax: Hybrid RAG, SQL RRF & UI Telemetry - Abed Matini, Ogilvy
+Building a prototype chatbot interface takes an afternoon, but scaling it into a secure, predictable enterprise app requires solving production infrastructure challenges: minimizing unpredictable cloud API token bills, handling broken layout extractions, mapping session telemetry, and executing deterministic search.  In this practical, demo-driven session, we will bypass high-l
+
+### B325 AI System Design: From Idea to Production - Apoorva Joshi, MongoDB
+Writing code is no longer the hard part. AI can do that. In a world where AI writes the code, the most valuable skill an engineer can have is knowing what to build. Most AI systems never make it to production because of bad decisions made earlier in the process. The pressure to ship fast, the hype around AI, and the lack of a structured approach all push engineers toward buildi
+
+### B326 When All Context Matters: Extended Cache Augmented Generation - Luis Romero-Sevilla, Orbis
+This session addresses a critical challenge in knowledge representation: extracting accurate answers from a rapidly changing dataset where every document is highly interconnected and relevant.  Explore the limitations of standard retrieval methods for dynamic, high-context scenarios—including the constraints of Simple RAG and the computational bottlenecks of constantly recomput
+
+### B327 Research to Reality: Bringing Frontier ML Research to Production - Vaidas Razgaitis, Higharc
+Three tactical tips to speed up how quickly your R&D team can turn novel research into customer-ready features  Speakers: - Vaidas Razgaitis (Higharc): Vaidas is a Senior Research Engineer at Higharc, where he specializes in turning frontier ML research into production-grade features.   X/Twitter: https://x.com/gingiVaidas   LinkedIn: https://www.linkedin.com/in/vrazgaitis/   G
+
+### B328 Building an Autonomous Engineering Org - Angie Jones, Agentic AI Foundation
+Nearly every enterprise company has a mandate to convert its existing engineering org into an autonomous one.  Buying the frontier models and tools is not enough. Everything about how we deliver software must change: from design, to development, to deployment.  In this talk, I’ll walk you through the journey of transitioning traditional software engineers into agentic ones, the
+
+### B329 HTML is All You Need (for Agents to Make Graphics) - Amol Kapoor, Nori
+Coding agents are great at writing code. But non-believers will still say things like "these agents aren't really powerful because they have terrible geospatial understanding." ARC-AGI is literally grounded on this premise! And it's true that if you ask Claude or ChatGPT to draw a pelican riding a bike, you get some goofy results. But if you ask me, the problem is the tooling. 
+
+### B330 Using Spec-Driven Development for Production Workflows - Erik Hanchett, AWS
+AI coding assistants are great at completing small tasks or features. However, what do you do when you are working with more complex code bases, and you need to build in-depth features that need upfront planning? This talk explores spec-driven development as a solution to this problem. I'll show you how modern AI coding assistants (like Kiro) can help break down complex tasks i
+
+### B331 User Signal Dies at the Retrieval Boundary - Sonam Pankaj, StarlightSearch
+Utility is all you need! Closing the Agent Learning Loop with Utility-Ranked Memory  Most production agent systems have a fatal flaw: they start every run from a blank slate. You have traces in your observability stack and pass/fail judgments in your eval suite, but the agent that runs tomorrow has no memory of why yesterday's runs succeeded or failed.  This talk exposes the ga
+
+### B332 Structuring the Unstructured - Cedric Clyburn, Red Hat
+Modern organizations generate vast amounts of data stored in diverse and often unstructured formats, such as PDFs, scanned documents, and proprietary file types. For engineers working with AI, the challenge isn’t just about extracting text but also about preserving the structure, context, and relationships within the data. Whether fine-tuning models or building retrieval-augmen
+
+### B333 Agents Building Agents - Alfonso Graziano, Nearform
+Building an AI agent for a real team is not a prompt problem, it is a systems problem. In this session we walk through a practical, production-minded workflow for building an agent using a coding agent, and designing the codebase so that this loop stays reliable as complexity grows.  The core pattern is two agents with different jobs. The coding agent is the builder: it writes 
+
+### B334 The 100-Tool Agent Is a Trap - Sohail Shaikh & Ankush Rastogi, Prosodica
+The common “Fat Agent” architecture loads a large catalog of tools directly into the system prompt. This often creates latency, cost, and reliability problems in production agent systems. As tool schemas take up more of the context window, agents can become slower and more likely to choose the wrong tool.  This session takes a practical look at the Semantic Tool Router pattern,
+
+### B335 Stop Writing Tone Instructions. Layer Them. - Isadora Martin-Dye, Isadora & Co
+Brand voice that survives real users isn't an instruction you write once - it's an architecture. Drawing on production code from a wedding venue, a personal AI companion, and a tool for families of missing people, this talk breaks voice into four layers: immutable identity, situational mode, example-anchored voice, and a deterministic post-generation veto. The difference betwee
+
+### B336 Turn 10,994 Notes Into Memory - Paul Iusztin, Decoding AI & Louis-François Bouchard, Towards AI
+Full implementation is open-source: https://github.com/iusztinpaul/ai-research-os-workshop Agent Engineering: Building Multi-Agent Systems Course: https://academy.towardsai.net/courses/agent-engineering  Turning thousands of notes, videos, documents, and repositories into usable AI context requires more than a bigger context window. It requires memory and context engineering: o
+
+### B337 Agents in Production: How OpenGov Built and Scaled OG Assist - Gabe De Mesa, OpenGov
+Come and learn about building AI Agents in production. Learn hands-on directly with the AI Agents team from OpenGov which powers AI workflows across thousands of state and local governments.  This session will cover: * The core agent loop/harness * A2A protocol * Building with Effect-TS and Typescript * Feedback and evals * Long context handling * Monitoring and observability *
+
+### B338 A Genius With Amnesia - Victor Savkin, Nx
+Imagine a genie grants your wish and materializes the best engineer in the world, John Carmack in his prime, to work on your codebase. The catch: he can only see a tiny corner of it, and he forgets everything between interactions. No matter how good he is, the value isn’t there. This is what coding agents are today. We need to fix it.  Speakers: - Victor Savkin (Nx): Victor is 
+
+### B339 The Log Is The Agent - Ishaan Sehgal, Omnara
+Think about a character you've spent 100 hours playing in a video game like Skyrim or Elden Ring.  What exactly is your character? - Is it the game engine (the loop)? No. - Is it the PlayStation console (the compute)? No. - Is it the controller (the tools)? No.  Your character is the save file (the data).  If your PlayStation bursts into flames, your character isn't dead. You j
+
+### B340 Recursive Coding Agents - Raymond Weitekamp, OpenProse
+Recursive Language Models (RLMs) represent a powerful new paradigm of inference-time compute. We discuss many different ways to apply the principles of RLMs to coding agents, towards higher performance and reliability. We briefly define RLMs, showcase many of their performance advantages, then share how the RLM paradigm can be mapped onto coding agents. We strive to settle the 
+
+### B341 Production Evals For Agentic AI Systems - Nishant Gupta, Meta Superintelligence Labs
+As AI systems evolve from chat interfaces into autonomous agents capable of reasoning, planning, and tool usage, traditional evaluation approaches are breaking down. Offline benchmarks and static datasets fail to capture the complexity, non-determinism, and operational risks of real-world AI systems operating in production environments.  In this talk, I’ll share practical lesso
+
+### B342 Build Systems, Not Code - Angie Jones, Agentic AI Foundation
+AI coding agents are changing what it feels like to be a software engineer. For a lot of us, that's challenging our sense of craftsmanship. If agents are writing the code, do we lose the joy of building?  I don't think so. The building moves up a layer.  In this talk, I'll share how I found that familiar engineering flow state again. Not by writing every line myself, but by des
+
+### B343 The Miranda Hypothesis: How Hamilton Poisoned Persona Evals - Jacob E. Thomas, Results Gen
+Your persona-eval pipeline rates an Alexander Hamilton simulation at 80% personality fidelity. It is also rating a Hamilton who sounds like he has read his own Broadway musical. The dominant failure mode of every character-based AI system now in production is invisible to LLM-as-judge, personality-scale benchmarks, and behavioral consistency scores because every one of them was
+
+### B344 6 Things to Know about AIE World's Fair 2026
+We're back in SF! Regular bird tix will sell out by Monday, and we wanted to make a little video to tell you about why you should get off your couch and come.   See video for how to claim the $40k in sponsor offers for attendees, and a special youtube-only discount: YOUTUBEPROMO (for new tix only, dont be cheeky and ask for refunds pls, our team is trying to do our best with re

@@ -1,0 +1,1416 @@
+[
+ {
+  "conference": "A",
+  "index": 1,
+  "extraction_depth": [
+   "abstract-grounded; speaker is Leibniz Labs researcher"
+  ],
+  "topics": [
+   {
+    "code": "FV",
+    "salience": "primary"
+   },
+   {
+    "code": "SEC",
+    "salience": "secondary"
+   },
+   {
+    "code": "FUT",
+    "salience": "touched"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Agents must be treated as 'guilty until proven safe': no action permitted unless formally verified before execution",
+    "topic": "FV",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": true
+   },
+   {
+    "text": "Python is fundamentally unsuitable for agent-verification paradigm",
+    "topic": "FV",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": true
+   },
+   {
+    "text": "Real incidents: agents leaking data, unauthorized purchases, prompt injection",
+    "topic": "SEC",
+    "evidence": "CUST",
+    "numbers": [],
+    "normative": false
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "verify agent plans against formalized business rules (Horn clauses, SMT solvers) before execution"
+   ],
+   "framing": [
+    "MF3"
+   ],
+   "evidence_style": "THEORY"
+  },
+  "tech": [
+   "SMT solvers",
+   "Horn clause logic"
+  ],
+  "genre_refined": "case-study",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 2,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "FUT",
+    "salience": "primary"
+   },
+   {
+    "code": "ORG",
+    "salience": "primary"
+   },
+   {
+    "code": "CULT",
+    "salience": "secondary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Industry pivoting from agentic coding to fleets of autonomous agents running businesses",
+    "topic": "FUT",
+    "evidence": "OPIN",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "Versioned database is non-negotiable before agents in production",
+    "topic": "CODE",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": true
+   },
+   {
+    "text": "SaaS vendors must pivot to agent-friendly platforms to survive",
+    "topic": "FUT",
+    "evidence": "OPIN",
+    "numbers": [],
+    "normative": true
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "run two-pizza team experiments",
+    "cross-company knowledge sharing",
+    "adopt versioned DBs for agent fleets"
+   ],
+   "framing": [
+    "MF3",
+    "MF1"
+   ],
+   "evidence_style": "OPIN"
+  },
+  "tech": [
+   "Gas Town",
+   "Gas City",
+   "Dolt"
+  ],
+  "genre_refined": "keynote",
+  "selling_intent": "hybrid",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 3,
+  "extraction_depth": [
+   "speaker: Head of Solutions Engineering for Strategics at OpenAI"
+  ],
+  "topics": [
+   {
+    "code": "ORG",
+    "salience": "primary"
+   },
+   {
+    "code": "CULT",
+    "salience": "secondary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Most companies stuck between broad workforce tools and top-down initiatives; team/department-level unlock is missing",
+    "topic": "ORG",
+    "evidence": "CUST",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "Embedding engineering inside business functions is key to scaling adoption",
+    "topic": "ORG",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": true
+   },
+   {
+    "text": "Separate governance from transformation",
+    "topic": "ORG",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": true
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "use Ask-Assist-Automate framework to graduate experiments to production agentic workflows"
+   ],
+   "framing": [
+    "MF7"
+   ],
+   "evidence_style": "THEORY"
+  },
+  "tech": [
+   "OpenAI"
+  ],
+  "genre_refined": "case-study",
+  "selling_intent": "hybrid",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 4,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "ORG",
+    "salience": "primary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Converting to AI-native org requires changing design, development, deployment - buying tools is not enough",
+    "topic": "ORG",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": true
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "redesign delivery systems and processes around AI-native practice"
+   ],
+   "framing": [
+    "MF4"
+   ],
+   "evidence_style": "WAR"
+  },
+  "tech": [],
+  "genre_refined": "case-study",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 5,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "ORG",
+    "salience": "primary"
+   },
+   {
+    "code": "CULT",
+    "salience": "primary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Specialization atomization left engineers with the most automatable task (writing code)",
+    "topic": "ORG",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "Survey of engineers across 28 countries: role definition predicts how engineers experience the AI shift - not dashboard metrics",
+    "topic": "CULT",
+    "evidence": "SURV",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "Systems can be redesigned",
+    "topic": "ORG",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": true
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "redesign software engineering roles away from narrow specialization"
+   ],
+   "framing": [
+    "MF6"
+   ],
+   "evidence_style": "SURV"
+  },
+  "tech": [],
+  "genre_refined": "case-study",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 6,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "FUT",
+    "salience": "primary"
+   },
+   {
+    "code": "CODE",
+    "salience": "secondary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Every new feature burns optionality ('futures'), leaving systems rigid",
+    "topic": "CODE",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "'Nobody knows' is the honest starting point for AI-era development, not a failure of expertise",
+    "topic": "FUT",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": false
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "deliberately alternate between adding features and restoring optionality (structure, tests, design)"
+   ],
+   "framing": [
+    "MF2"
+   ],
+   "evidence_style": "THEORY"
+  },
+  "tech": [],
+  "genre_refined": "keynote",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 7,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "ORG",
+    "salience": "primary"
+   },
+   {
+    "code": "CODE",
+    "salience": "primary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Most AI success stories are greenfield; enterprise reality is brownfield with accumulated gaps",
+    "topic": "CODE",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "The AI agent is a new customer of the developer platform; every DX gap becomes an agent hurdle",
+    "topic": "CODE",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": true
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "assess platform AI-readiness",
+    "close developer-experience gaps that agents cannot paper over"
+   ],
+   "framing": [
+    "MF4"
+   ],
+   "evidence_style": "WAR"
+  },
+  "tech": [],
+  "genre_refined": "case-study",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 8,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "COST",
+    "salience": "primary"
+   },
+   {
+    "code": "CODE",
+    "salience": "secondary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Tokens are the fundamental metric for cost control and scalability ('true currency of enterprise AI')",
+    "topic": "COST",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "Credit-based pricing obscures genuine optimization opportunities",
+    "topic": "COST",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": false
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "treat token management as first-class architectural concern",
+    "treat model choice as an architectural decision"
+   ],
+   "framing": [
+    "MF2",
+    "MF7"
+   ],
+   "evidence_style": "THEORY"
+  },
+  "tech": [],
+  "genre_refined": "case-study",
+  "selling_intent": "hybrid",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 9,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "CODE",
+    "salience": "primary"
+   },
+   {
+    "code": "ORG",
+    "salience": "secondary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "AI rewrote a 66,000-line, 12+yr-debt React codebase in 6 weeks with $10k inference budget",
+    "topic": "CODE",
+    "evidence": "WAR",
+    "numbers": [
+     {
+      "value": 66000,
+      "unit": "lines"
+     },
+     {
+      "value": 6,
+      "unit": "weeks"
+     },
+     {
+      "value": 10000,
+      "unit": "USD"
+     }
+    ],
+    "normative": false
+   },
+   {
+    "text": "The true unlock of AI-assisted development is not velocity but ambition",
+    "topic": "ORG",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": false
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "make legacy codebases agent-ready",
+    "use human steering where autonomous workflows break down"
+   ],
+   "framing": [
+    "MF4"
+   ],
+   "evidence_style": "WAR"
+  },
+  "tech": [],
+  "genre_refined": "case-study",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 10,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "ORG",
+    "salience": "primary"
+   },
+   {
+    "code": "CULT",
+    "salience": "secondary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "John Deere reached 93% weekly AI usage and 92% of developers using AI in 80% of code contributions",
+    "topic": "ORG",
+    "evidence": "CUST",
+    "numbers": [
+     {
+      "value": 93,
+      "unit": "%"
+     },
+     {
+      "value": 92,
+      "unit": "%"
+     },
+     {
+      "value": 80,
+      "unit": "%"
+     }
+    ],
+    "normative": false
+   },
+   {
+    "text": "This transformation has no playbook and no defined destination, unlike Agile/DevOps/Cloud",
+    "topic": "ORG",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": false
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "move innovators and majority simultaneously via Curiosity-Learning-Advocacy phases",
+    "scale what works without scaling the hype"
+   ],
+   "framing": [
+    "MF7",
+    "MF1"
+   ],
+   "evidence_style": "CUST"
+  },
+  "tech": [],
+  "genre_refined": "case-study",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 11,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "CODE",
+    "salience": "primary"
+   },
+   {
+    "code": "FUT",
+    "salience": "secondary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Near-zero-human software companies are an emerging reality",
+    "topic": "FUT",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "Directing agents = managing developers: specialization, context management matter",
+    "topic": "CODE",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": true
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "manage agents like a director manages developers",
+    "use design-of-experiments to evaluate model/tool combinations"
+   ],
+   "framing": [
+    "MF4"
+   ],
+   "evidence_style": "WAR"
+  },
+  "tech": [],
+  "genre_refined": "case-study",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 12,
+  "extraction_depth": [
+   "message_eligible=false (opening remarks); coded but excluded from message analysis"
+  ],
+  "topics": [],
+  "claims": [
+   {
+    "text": "Vibe coding will reshape orgs the way DevOps did, at 100x scale and speed",
+    "topic": "FUT",
+    "evidence": "OPIN",
+    "numbers": [
+     {
+      "value": 100,
+      "unit": "x"
+     }
+    ],
+    "normative": false
+   },
+   {
+    "text": "Every process, team structure, and leadership assumption is now insufficient and must be rebuilt",
+    "topic": "ORG",
+    "evidence": "OPIN",
+    "numbers": [],
+    "normative": true
+   }
+  ],
+  "message": {
+   "recommendations": [],
+   "framing": [
+    "MF1",
+    "MF3"
+   ],
+   "evidence_style": "OPIN"
+  },
+  "tech": [],
+  "genre_refined": "remarks",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": false
+ },
+ {
+  "conference": "A",
+  "index": 13,
+  "extraction_depth": [
+   "speaker: CEO of Skypoint.ai (vendor pitch hybrid)"
+  ],
+  "topics": [
+   {
+    "code": "ORG",
+    "salience": "primary"
+   },
+   {
+    "code": "FDE",
+    "salience": "secondary"
+   },
+   {
+    "code": "CODE",
+    "salience": "secondary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Skypoint shipped 20+ agentic apps in one quarter, surpassing 8 years of prior product output",
+    "topic": "CODE",
+    "evidence": "WAR",
+    "numbers": [
+     {
+      "value": 20,
+      "unit": "apps"
+     },
+     {
+      "value": 8,
+      "unit": "years"
+     }
+    ],
+    "normative": false
+   },
+   {
+    "text": "Code is no longer the primary competitive moat; harness (data+context+compliance) is",
+    "topic": "ORG",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "Smaller engineering teams outperformed larger ones after adopting AI-assisted coding",
+    "topic": "ORG",
+    "evidence": "CUST",
+    "numbers": [],
+    "normative": false
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "replace legacy SaaS with agentic apps on agent SDKs",
+    "build organizational harness: proprietary data, context, compliance-as-code"
+   ],
+   "framing": [
+    "MF4",
+    "MF5"
+   ],
+   "evidence_style": "WAR"
+  },
+  "tech": [
+   "Claude Agent SDK"
+  ],
+  "genre_refined": "case-study",
+  "selling_intent": "hybrid",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 14,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "FUT",
+    "salience": "primary"
+   },
+   {
+    "code": "CODE",
+    "salience": "primary"
+   },
+   {
+    "code": "CULT",
+    "salience": "secondary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "The real cost of software has always been maintenance, not writing - changes everything for AI code",
+    "topic": "CODE",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "Mutability is the enemy of understanding",
+    "topic": "CODE",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": true
+   },
+   {
+    "text": "Growing divide between AI enthusiasts and engineers bearing the weight of that enthusiasm",
+    "topic": "CULT",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": false
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "treat code as cache only behind stable contracts and bounded interfaces"
+   ],
+   "framing": [
+    "MF1"
+   ],
+   "evidence_style": "THEORY"
+  },
+  "tech": [],
+  "genre_refined": "keynote",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 15,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "ORG",
+    "salience": "primary"
+   },
+   {
+    "code": "CULT",
+    "salience": "primary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "8 hackathons got ~40% of a 700-person consulting firm actively vibe coding",
+    "topic": "CULT",
+    "evidence": "WAR",
+    "numbers": [
+     {
+      "value": 8,
+      "unit": "hackathons"
+     },
+     {
+      "value": 40,
+      "unit": "%"
+     },
+     {
+      "value": 700,
+      "unit": "people"
+     }
+    ],
+    "normative": false
+   },
+   {
+    "text": "Six hours of paired programming replaced a month of quoted contractor time",
+    "topic": "CODE",
+    "evidence": "WAR",
+    "numbers": [
+     {
+      "value": 6,
+      "unit": "hours"
+     }
+    ],
+    "normative": false
+   },
+   {
+    "text": "Open question: how far along the engineering literacy spectrum can non-engineers realistically go?",
+    "topic": "CULT",
+    "evidence": "OPIN",
+    "numbers": [],
+    "normative": false
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "make vibe coding a core skill for every employee, not just engineers",
+    "tolerate noisy experimentation during adoption"
+   ],
+   "framing": [
+    "MF4",
+    "MF6"
+   ],
+   "evidence_style": "WAR"
+  },
+  "tech": [],
+  "genre_refined": "case-study",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 16,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "REG",
+    "salience": "primary"
+   },
+   {
+    "code": "ORG",
+    "salience": "primary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Most consequential AI challenges facing the Navy are organizational, not technical",
+    "topic": "ORG",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "Building a data engine is a prerequisite to building an AI-enabled force",
+    "topic": "ORG",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": true
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "push people, skills, resources close to point of need",
+    "upskill sailors as software developers",
+    "run distributed experimentation ('deliberate chaos')"
+   ],
+   "framing": [
+    "MF6"
+   ],
+   "evidence_style": "WAR"
+  },
+  "tech": [
+   "RAG (on-prem)"
+  ],
+  "genre_refined": "case-study",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 17,
+  "extraction_depth": [
+   "fireside chat; speaker: VP Architecture, regulated financial services"
+  ],
+  "topics": [
+   {
+    "code": "CODE",
+    "salience": "primary"
+   },
+   {
+    "code": "FUT",
+    "salience": "primary"
+   },
+   {
+    "code": "ORG",
+    "salience": "secondary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Tooling/processes built over last decade are already breaking under AI-accelerated development",
+    "topic": "CODE",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "Will not survive: Git merge workflows, CI/CD pipelines, code review accountability as practiced",
+    "topic": "CODE",
+    "evidence": "OPIN",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "Coming back: architecture documentation, clear requirements, structured planning",
+    "topic": "CODE",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": true
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "expect pair programming and formal methods to resurface as answers"
+   ],
+   "framing": [
+    "MF3",
+    "MF4"
+   ],
+   "evidence_style": "WAR"
+  },
+  "tech": [],
+  "genre_refined": "panel",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 18,
+  "extraction_depth": [
+   "message_eligible=false (closing remarks); event logistics content"
+  ],
+  "topics": [],
+  "claims": [],
+  "message": {
+   "recommendations": [],
+   "framing": [
+    "MF4"
+   ],
+   "evidence_style": "OPIN"
+  },
+  "tech": [],
+  "genre_refined": "remarks",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": false
+ },
+ {
+  "conference": "A",
+  "index": 19,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "ORG",
+    "salience": "primary"
+   },
+   {
+    "code": "CULT",
+    "salience": "primary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "3-day enablement event: 200+ participants, 3,000 pushes to production, 102M Claude tokens, 198 workspaces in <30s",
+    "topic": "ORG",
+    "evidence": "WAR",
+    "numbers": [
+     {
+      "value": 200,
+      "unit": "participants"
+     },
+     {
+      "value": 3000,
+      "unit": "pushes"
+     },
+     {
+      "value": 102000000,
+      "unit": "Claude tokens"
+     },
+     {
+      "value": 198,
+      "unit": "workspaces"
+     }
+    ],
+    "normative": false
+   },
+   {
+    "text": "Non-builders (HR leaders, executive assistants) became active contributors",
+    "topic": "CULT",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": false
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "tolerate noisy experimentation during AI adoption",
+    "use creative token-incentive structures to drive senior-junior pairing"
+   ],
+   "framing": [
+    "MF4",
+    "MF6"
+   ],
+   "evidence_style": "WAR"
+  },
+  "tech": [
+   "Coder"
+  ],
+  "genre_refined": "case-study",
+  "selling_intent": "hybrid",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 20,
+  "extraction_depth": [
+   "very thin abstract; speaker org Vanguard"
+  ],
+  "topics": [
+   {
+    "code": "ORG",
+    "salience": "primary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Scaling inference-time compute can support enterprise product teams",
+    "topic": "ORG",
+    "evidence": "PITCH",
+    "numbers": [],
+    "normative": false
+   }
+  ],
+  "message": {
+   "recommendations": [],
+   "framing": [
+    "MF5"
+   ],
+   "evidence_style": "PITCH"
+  },
+  "tech": [],
+  "genre_refined": "case-study",
+  "selling_intent": "pitch",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 21,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "CODE",
+    "salience": "primary"
+   },
+   {
+    "code": "ORG",
+    "salience": "primary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Two engineers replaced an 18-year-old third-party platform in 90 days, saving $500K",
+    "topic": "CODE",
+    "evidence": "WAR",
+    "numbers": [
+     {
+      "value": 2,
+      "unit": "engineers"
+     },
+     {
+      "value": 90,
+      "unit": "days"
+     },
+     {
+      "value": 500000,
+      "unit": "USD"
+     },
+     {
+      "value": 40,
+      "unit": "% of revenue"
+     }
+    ],
+    "normative": false
+   },
+   {
+    "text": "With AI-assisted development, stakeholder feedback - not engineering - became the primary bottleneck",
+    "topic": "ORG",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": false
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "bet on production over prototypes",
+    "build shared business-context 'lore repository'",
+    "secure executive air cover"
+   ],
+   "framing": [
+    "MF4"
+   ],
+   "evidence_style": "WAR"
+  },
+  "tech": [],
+  "genre_refined": "case-study",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 22,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "CULT",
+    "salience": "primary"
+   },
+   {
+    "code": "ORG",
+    "salience": "primary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Barrier to agentic tool use is psychological and cultural, not technical",
+    "topic": "CULT",
+    "evidence": "CUST",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "Tool availability alone doesn't drive adoption; leadership behavior does",
+    "topic": "CULT",
+    "evidence": "CUST",
+    "numbers": [],
+    "normative": true
+   },
+   {
+    "text": "Mandate: 100 engineering leaders vibe-coded a real feature to production in one quarter",
+    "topic": "ORG",
+    "evidence": "WAR",
+    "numbers": [
+     {
+      "value": 100,
+      "unit": "leaders"
+     }
+    ],
+    "normative": true
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "require leaders to personally ship with AI",
+    "give managers AI-powered operating tools (AMOS)",
+    "use cross-functional AI squads to remove lifecycle bottlenecks"
+   ],
+   "framing": [
+    "MF6",
+    "MF4"
+   ],
+   "evidence_style": "WAR"
+  },
+  "tech": [
+   "AMOS"
+  ],
+  "genre_refined": "case-study",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 23,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "ORG",
+    "salience": "primary"
+   },
+   {
+    "code": "FUT",
+    "salience": "primary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "The biggest risk of AI productivity is success harvested straight to the bottom line with no reinvestment",
+    "topic": "ORG",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": true
+   },
+   {
+    "text": "Fork in the road: harvest surplus vs. strategic transformation",
+    "topic": "ORG",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": false
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "reinvest productivity surplus into transformation, not margin",
+    "build grassroots AI movement",
+    "five stages to AI-native map"
+   ],
+   "framing": [
+    "MF3",
+    "MF7"
+   ],
+   "evidence_style": "THEORY"
+  },
+  "tech": [
+   "Hyperadaptive framework"
+  ],
+  "genre_refined": "case-study",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 24,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "CULT",
+    "salience": "primary"
+   },
+   {
+    "code": "ORG",
+    "salience": "primary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "Effective adoption starts with people holding multiple feelings simultaneously; leaders who can't will stall orgs",
+    "topic": "CULT",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": true
+   },
+   {
+    "text": "Manager's most important job: contextualizing strategy locally into concrete urgent action",
+    "topic": "ORG",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": true
+   },
+   {
+    "text": "Non-engineer automated infra monitoring across Nubank's 130M-customer platform without a single layoff",
+    "topic": "CULT",
+    "evidence": "WAR",
+    "numbers": [
+     {
+      "value": 130000000,
+      "unit": "customers"
+     }
+    ],
+    "normative": false
+   },
+   {
+    "text": "'Amorphous blob' team structures may outperform fixed squads during rapid change",
+    "topic": "ORG",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": false
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "frame AI-first mandates so teams can act immediately",
+    "democratize engineering craft beyond efficiency goals"
+   ],
+   "framing": [
+    "MF6",
+    "MF4"
+   ],
+   "evidence_style": "WAR"
+  },
+  "tech": [
+   "Datomic"
+  ],
+  "genre_refined": "case-study",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ },
+ {
+  "conference": "A",
+  "index": 25,
+  "extraction_depth": [
+   "message_eligible=false (opening remarks); substantive content coded but excluded"
+  ],
+  "topics": [],
+  "claims": [
+   {
+    "text": "Organizational variance in AI productivity: 20% improvements to 10x; difference is organizational, not technical",
+    "topic": "ORG",
+    "evidence": "CUST",
+    "numbers": [
+     {
+      "value": 20,
+      "unit": "%"
+     },
+     {
+      "value": 10,
+      "unit": "x"
+     }
+    ],
+    "normative": false
+   },
+   {
+    "text": "AI transforms organizational communication topology more than codebases (Conway's Law)",
+    "topic": "ORG",
+    "evidence": "THEORY",
+    "numbers": [],
+    "normative": false
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "close the gap between low and high performers with CEO-level cross-functional leadership"
+   ],
+   "framing": [
+    "MF1",
+    "MF3"
+   ],
+   "evidence_style": "THEORY"
+  },
+  "tech": [
+   "DORA metrics"
+  ],
+  "genre_refined": "remarks",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": false
+ },
+ {
+  "conference": "A",
+  "index": 26,
+  "extraction_depth": [
+   "message_eligible=false (closing remarks + game night)"
+  ],
+  "topics": [],
+  "claims": [],
+  "message": {
+   "recommendations": [],
+   "framing": [
+    "MF4"
+   ],
+   "evidence_style": "WAR"
+  },
+  "tech": [],
+  "genre_refined": "remarks",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": false
+ },
+ {
+  "conference": "A",
+  "index": 27,
+  "extraction_depth": "full-abstract",
+  "topics": [
+   {
+    "code": "ORG",
+    "salience": "primary"
+   },
+   {
+    "code": "CULT",
+    "salience": "primary"
+   }
+  ],
+  "claims": [
+   {
+    "text": "CEO answer to 'what are you doing with AI': 'Nothing' - honest starting point",
+    "topic": "ORG",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "AI is not primarily a cost-cutting tool but a fundamental rewiring of organizational structure and leadership",
+    "topic": "ORG",
+    "evidence": "OPIN",
+    "numbers": [],
+    "normative": true
+   },
+   {
+    "text": "When coding compresses, bottlenecks surface elsewhere in the business",
+    "topic": "ORG",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": false
+   },
+   {
+    "text": "Window between idea and working product is now very short; sales, engineering, leadership must align tightly",
+    "topic": "ORG",
+    "evidence": "WAR",
+    "numbers": [],
+    "normative": true
+   }
+  ],
+  "message": {
+   "recommendations": [
+    "CEO-level involvement in AI adoption is non-negotiable"
+   ],
+   "framing": [
+    "MF6",
+    "MF4"
+   ],
+   "evidence_style": "WAR"
+  },
+  "tech": [],
+  "genre_refined": "case-study",
+  "selling_intent": "talk",
+  "notes": [],
+  "message_eligible": true
+ }
+]

@@ -6,6 +6,8 @@ Dirección elegida: **retrospectiva crítica + ensayo técnico**. No es todavía
 
 Actualización editorial: la propuesta de un ensayo único queda reemplazada por [un post histórico y una serie de tutoriales narrativos por herramienta](2026-10-14-dulce-de-leche-serie-editorial.md). Este documento conserva la investigación y el primer esquema como antecedente; la estructura vigente está en el documento de la serie.
 
+Actualización de fuentes: [la historia documentada](2026-10-14-historia-documentada.md) amplía esta investigación con el escaneo de todas las sesiones Pi disponibles y la lectura dirigida de git, tickets y whisper. Recupera el nacimiento de whisper como skill en julio, un tracer dont→ah→WAI implementado en junio y el repo evallerina en septiembre. Para cronología y evaluación histórica, usar ese dossier antes de reutilizar las conclusiones del informe antiguo.
+
 ## Pregunta y tesis provisional
 
 ¿Qué cambia cuando construir herramientas para agentes resulta barato, pero demostrar que ayudan sigue siendo difícil?

@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-14",
+  "pi_files": 1916,
+  "pi_unique_session_ids": 1916,
+  "pi_header_utc_range": [
+    "2026-04-14T15:19:42.394Z",
+    "2026-10-14T17:39:17.692Z"
+  ],
+  "pi_scanned_lines": 426216,
+  "pi_malformed_lines": 0,
+  "pi_session_starts_by_utc_month": {
+    "2026-04": 180,
+    "2026-05": 259,
+    "2026-06": 17,
+    "2026-07": 323,
+    "2026-08": 53,
+    "2026-09": 409,
+    "2026-10": 675
+  },
+  "git_checkouts": 55,
+  "git_distinct_common_dirs": 47,
+  "git_unique_reachable_shas": 4662,
+  "unique_ticket_ids": 4466,
+  "record_counts": {
+    "comment": 215,
+    "git": 6670,
+    "pi": 418365,
+    "ticket": 6337,
+    "wai": 3588,
+    "whisper": 191
+  },
+  "source_failures": [],
+  "method": "All session JSONL entries parsed; text, thinking and tool arguments indexed locally, binary image/audio bodies excluded. All local git refs: commit metadata and bodies, with selected diffs inspected. All available bd issue snapshots including closed; comments fetched for all 88 issue IDs with positive comment_count. Global and checkout-local whisper Markdown plus checkout-local wai Markdown parsed. Directed reading of relevant conversations and artifact passages.",
+  "limits": [
+    "Live files can grow during the scan; this is a per-file observational snapshot, not an atomic frozen archive.",
+    "Git worktrees repeat commits; counts are deduplicated globally by SHA only for the unique total.",
+    "Tickets repeat across worktrees; unique total is deduplicated by issue ID, not an assertion that every repeated snapshot is identical.",
+    "Earliest reachable author date is not repository creation date, conception date or merge date.",
+    "Pi records of tool construction are not evidence of recurring use on unrelated projects.",
+    "Coverage includes unrelated Pi sessions and an embedded third-party git checkout; the narrative only uses ecosystem-relevant evidence.",
+    "No January–March Pi sessions exist in this available archive; deletions and unavailable remotes are not recoverable from this scan."
+  ]
+}

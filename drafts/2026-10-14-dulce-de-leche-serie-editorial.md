@@ -6,6 +6,8 @@ El proyecto tiene dos formas complementarias: **un post que recorre toda la hist
 
 La base factual está en [la investigación del ecosistema](2026-10-14-dulce-de-leche-investigacion-estructura.md). Las decisiones anteriores de voz, cronología y escena → dato → pregunta están en [las resoluciones de septiembre](post-principal-resoluciones.md).
 
+La reconstrucción desde Pi/terapia, git, tickets y whisper está en [la historia documentada](2026-10-14-historia-documentada.md). Sus localizadores y distinciones de fechas reemplazan las conjeturas cronológicas del primer esquema.
+
 ## 1. El post que cuenta la historia
 
 Título de trabajo: **Remando en dulce de leche**.
@@ -54,7 +56,7 @@ Esta parte hace visible el costo de tener una familia de herramientas: releases,
 
 Turu convierte operaciones mecánicas de memoria en comportamiento determinista. Specodelic vuelve explícitas ciertas partes de una spec y sus claims de verificación. Wild explora compatibilidad de contratos; bajan, conocimiento con procedencia; gently, representación de grafos; funkalization, significado y autoridad de decisiones de diseño.
 
-Las fechas y el orden de nacimiento de estos proyectos aún deben reconstruirse. Esta parte es un agrupamiento editorial provisional, no una cronología comprobada.
+La historia documentada distingue whisper-skill (27 de julio), whisper-CLI (5 de septiembre), specodelic/bajan (28 de septiembre), wild (5 de octubre), gently (8 de octubre) y funkalization (13 de octubre), según las solicitudes y primeros artefactos disponibles. Evallerina, coffee y TV agregan evaluación e investigación; wanna, tambor y sunset muestran consumidores de los formatos. Las fechas de concepción o creación GitHub siguen siendo distintas de estas fechas de registro.
 
 Mostrar dos o tres conexiones reales: ah/testaruda, OpenSpec/specodelic/ah e incitaciones/turu. Genesis compartido y distribución común tienen su lugar, pero son relaciones distintas de consumir resultados de otro tool.
 
@@ -142,4 +144,4 @@ Funkalization, livin y crua requieren un tratamiento explícito de laboratorio m
 
 Un lector debería poder responder, después de cada artículo: qué ocurrió, por qué intentamos esto, qué ejecuté, qué observé, qué aprendí y qué puedo llevar a mi proyecto. Si solo recuerda una lista de comandos, falta la historia. Si solo recuerda una reflexión, falta el tutorial.
 
-El post principal necesita todavía escenas confirmadas y la cronología tardía. Los posts prácticos necesitan ejemplos ejecutados con evidencia positiva y negativa. El próximo desarrollo editorial debe elegir un episodio y un fixture, antes de producir una introducción genérica o una serie de comandos sin resultado.
+El post principal ya tiene escenas de intercambios documentados y una cronología tardía con fuentes. Los detalles autobiográficos y motivos iniciales que no aparecen en los registros necesitan testimonio del autor. Los posts prácticos necesitan ejemplos ejecutados con evidencia positiva y negativa. El próximo desarrollo editorial debe elegir un episodio y un fixture, antes de producir una introducción genérica o una serie de comandos sin resultado.

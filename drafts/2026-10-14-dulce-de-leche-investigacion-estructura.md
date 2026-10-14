@@ -4,6 +4,8 @@ Fecha de investigación: 2026-10-14. Documento de trabajo, fuera del contenido p
 
 Dirección elegida: **retrospectiva crítica + ensayo técnico**. No es todavía el post.
 
+Actualización editorial: la propuesta de un ensayo único queda reemplazada por [un post histórico y una serie de tutoriales narrativos por herramienta](2026-10-14-dulce-de-leche-serie-editorial.md). Este documento conserva la investigación y el primer esquema como antecedente; la estructura vigente está en el documento de la serie.
+
 ## Pregunta y tesis provisional
 
 ¿Qué cambia cuando construir herramientas para agentes resulta barato, pero demostrar que ayudan sigue siendo difícil?

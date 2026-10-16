@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "microdancing",
+  "project_id": "d22c2a20-1978-4f20-a021-207e88672bcc"
+}
